@@ -1,0 +1,197 @@
+{
+ "slug": "beser-tarihine-giris",
+ "anchors": [
+  {
+   "printed_page": null,
+   "inferred_page": 1,
+   "page_id": "tarih-1-1931-u022r",
+   "offset": 0,
+   "sinir": null,
+   "citation": "Tarih I (1931), numarasız sayfa (tarama 23r)"
+  },
+  {
+   "printed_page": 2,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0002",
+   "offset": 1170,
+   "sinir": "bitisik",
+   "citation": "Tarih I (1931), s. 2"
+  },
+  {
+   "printed_page": 3,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0003",
+   "offset": 3146,
+   "sinir": "paragraf",
+   "citation": "Tarih I (1931), s. 3"
+  },
+  {
+   "printed_page": 4,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0004",
+   "offset": 4845,
+   "sinir": "paragraf",
+   "citation": "Tarih I (1931), s. 4"
+  },
+  {
+   "printed_page": 5,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0005",
+   "offset": 6817,
+   "sinir": "paragraf",
+   "citation": "Tarih I (1931), s. 5"
+  },
+  {
+   "printed_page": 6,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0006",
+   "offset": 8814,
+   "sinir": "paragraf",
+   "citation": "Tarih I (1931), s. 6"
+  },
+  {
+   "printed_page": 7,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0007",
+   "offset": 10584,
+   "sinir": "paragraf",
+   "citation": "Tarih I (1931), s. 7"
+  },
+  {
+   "printed_page": 8,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0008",
+   "offset": 12792,
+   "sinir": "bitisik",
+   "citation": "Tarih I (1931), s. 8"
+  },
+  {
+   "printed_page": 9,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0009",
+   "offset": 14573,
+   "sinir": "bosluk",
+   "citation": "Tarih I (1931), s. 9"
+  },
+  {
+   "printed_page": 10,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0010",
+   "offset": 16627,
+   "sinir": "paragraf",
+   "citation": "Tarih I (1931), s. 10"
+  },
+  {
+   "printed_page": 11,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0011",
+   "offset": 18494,
+   "sinir": "paragraf",
+   "citation": "Tarih I (1931), s. 11"
+  },
+  {
+   "printed_page": 12,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0012",
+   "offset": 20610,
+   "sinir": "paragraf",
+   "citation": "Tarih I (1931), s. 12"
+  },
+  {
+   "printed_page": 13,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0013",
+   "offset": 22739,
+   "sinir": "bitisik",
+   "citation": "Tarih I (1931), s. 13"
+  },
+  {
+   "printed_page": 14,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0014",
+   "offset": 24829,
+   "sinir": "bosluk",
+   "citation": "Tarih I (1931), s. 14"
+  },
+  {
+   "printed_page": 15,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0015",
+   "offset": 26746,
+   "sinir": "paragraf",
+   "citation": "Tarih I (1931), s. 15"
+  },
+  {
+   "printed_page": 16,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0016",
+   "offset": 28809,
+   "sinir": "bitisik",
+   "citation": "Tarih I (1931), s. 16"
+  },
+  {
+   "printed_page": 17,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0017",
+   "offset": 30875,
+   "sinir": "bitisik",
+   "citation": "Tarih I (1931), s. 17"
+  },
+  {
+   "printed_page": 18,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0018",
+   "offset": 32866,
+   "sinir": "paragraf",
+   "citation": "Tarih I (1931), s. 18"
+  },
+  {
+   "printed_page": 19,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0019",
+   "offset": 34996,
+   "sinir": "bosluk",
+   "citation": "Tarih I (1931), s. 19"
+  },
+  {
+   "printed_page": 20,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0020",
+   "offset": 37035,
+   "sinir": "bosluk",
+   "citation": "Tarih I (1931), s. 20"
+  },
+  {
+   "printed_page": 21,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0021",
+   "offset": 38936,
+   "sinir": "paragraf",
+   "citation": "Tarih I (1931), s. 21"
+  },
+  {
+   "printed_page": 22,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0022",
+   "offset": 40990,
+   "sinir": "paragraf",
+   "citation": "Tarih I (1931), s. 22"
+  },
+  {
+   "printed_page": 23,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0023",
+   "offset": 43095,
+   "sinir": "bitisik",
+   "citation": "Tarih I (1931), s. 23"
+  },
+  {
+   "printed_page": 24,
+   "inferred_page": null,
+   "page_id": "tarih-1-1931-p0024",
+   "offset": 45214,
+   "sinir": "bitisik",
+   "citation": "Tarih I (1931), s. 24"
+  }
+ ]
+}

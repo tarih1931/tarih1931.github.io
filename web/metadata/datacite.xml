@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource xmlns="http://datacite.org/schema/kernel-4"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4.5/metadata.xsd">
+  <identifier identifierType="DOI">10.5281/zenodo.21956339</identifier>
+  <creators>
+    <creator><creatorName nameType="Organizational">Türk Tarihi Tetkik Cemiyeti</creatorName></creator>
+  </creators>
+  <titles>
+    <title xml:lang="tr">Tarih I ve Tarih II (1931) — makine-okunabilir tam metin</title>
+    <title xml:lang="en" titleType="TranslatedTitle">Tarih I and Tarih II (1931) — Turkish Secondary-School History Textbooks — machine-readable full text</title>
+  </titles>
+  <publisher>Zenodo</publisher>
+  <publicationYear>2026</publicationYear>
+  <resourceType resourceTypeGeneral="Text">Digitised historical textbook corpus</resourceType>
+  <subjects>
+    <subject>Tarih — Ders kitapları — Türkiye</subject>
+    <subject>Türk Tarih Tezi</subject>
+    <subject>Eğitim — Türkiye — 1931-1941</subject>
+    <subject>Erken Cumhuriyet dönemi ideolojisi</subject>
+    <subject>Din tarihi — Ders kitaplarında sunumu</subject>
+    <subject>History--Textbooks</subject>
+    <subject>Turkey--History--Study and teaching</subject>
+    <subject>Education--Turkey--History--20th century</subject>
+  </subjects>
+  <contributors>
+    <contributor contributorType="Other"><contributorName>Mahmut Tevfik Bıyıklıoğlu</contributorName></contributor>
+    <contributor contributorType="Other"><contributorName>Samih Rifat</contributorName></contributor>
+    <contributor contributorType="Other"><contributorName>Yusuf Akçura</contributorName></contributor>
+    <contributor contributorType="Other"><contributorName>Reşit Galip</contributorName></contributor>
+    <contributor contributorType="Other"><contributorName>Hasan Cemil Çambel</contributorName></contributor>
+    <contributor contributorType="Other"><contributorName>Afet İnan</contributorName></contributor>
+    <contributor contributorType="Other"><contributorName>Baki Vandemir</contributorName></contributor>
+    <contributor contributorType="Other"><contributorName>İsmail Hakkı Uzunçarşılı</contributorName></contributor>
+    <contributor contributorType="Other"><contributorName>Reşit Saffet Atabinen</contributorName></contributor>
+    <contributor contributorType="Other"><contributorName>Sadri Maksudi Arsal</contributorName></contributor>
+    <contributor contributorType="Other"><contributorName>Mehmet Şemsettin Günaltay</contributorName></contributor>
+    <contributor contributorType="Other"><contributorName>Şemsi Bey</contributorName></contributor>
+    <contributor contributorType="Other"><contributorName>Yusuf Ziya Özer</contributorName></contributor>
+  </contributors>
+  <dates>
+    <date dateType="Created">1931</date>
+    <date dateType="Issued">2026-08-21</date>
+  </dates>
+  <language>tr</language>
+  <rightsList>
+    <rights rightsURI="https://creativecommons.org/publicdomain/zero/1.0/" rightsIdentifier="cc0-1.0">Creative Commons Zero v1.0 Universal</rights>
+    <rights rightsURI="https://rightsstatements.org/vocab/NoC-OKLR/1.0/">Kaynak eser: kamu malı (bkz. HAKLAR.md)</rights>
+  </rightsList>
+  <sizes>
+    <size>1568004 karakter</size>
+    <size>2 cilt</size>
+  </sizes>
+  <formats>
+    <format>text/plain</format>
+    <format>application/x-ndjson</format>
+    <format>application/tei+xml</format>
+    <format>application/pdf</format>
+  </formats>
+  <descriptions>
+    <description descriptionType="Abstract" xml:lang="tr">Türk Tarihi Tetkik Cemiyeti tarafından hazırlanıp Maarif Vekâleti emriyle basılan ve 1931-1941 arasında Türkiye'de liselerde resmî tarih ders kitabı olarak okutulan Tarih I (Tarihtenevelki Zamanlar ve Eski Zamanlar) ile Tarih II (Ortazamanlar) ciltlerinin tam metni. Bu veri kümesi, TTK Kütüphanesi taramalarından üretilmiş, basılı sayfa numaralarıyla eşlenmiş, alıntılanabilir makine-okunabilir tam metni içerir: sayfa düzeyinde JSONL, TEI-XML, düz metin ve RAG parçaları.</description>
+  </descriptions>
+  <relatedIdentifiers>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsDerivedFrom">https://kutuphane.ttk.gov.tr/resource?itemId=267298&amp;dkymId=6415</relatedIdentifier>
+    <relatedIdentifier relatedIdentifierType="URL" relationType="IsDerivedFrom">https://kutuphane.ttk.gov.tr/resource?itemId=267295&amp;dkymId=6416</relatedIdentifier>
+  </relatedIdentifiers>
+</resource>

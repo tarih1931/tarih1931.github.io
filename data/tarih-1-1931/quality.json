@@ -1,0 +1,118 @@
+{
+  "book": "tarih-1-1931",
+  "title": "Tarih I: Tarihtenevelki Zamanlar ve Eski Zamanlar",
+  "physical_pages": 583,
+  "empty_pages": 96,
+  "numbered_pages": 378,
+  "unnumbered_pages": 205,
+  "roman_pages": 21,
+  "page_range": [
+    2,
+    384
+  ],
+  "missing_page_numbers": [
+    57,
+    58,
+    64,
+    73,
+    265
+  ],
+  "n_missing": 5,
+  "duplicate_page_numbers": [],
+  "parity_violations": [],
+  "confidence": {
+    "yok": 205,
+    "ocr": 362,
+    "inferred": 16
+  },
+  "characters": 770660,
+  "ocr_health_overall": {
+    "words": 100180,
+    "junk_ratio": 0.0021,
+    "short_word_ratio": 0.1471,
+    "avg_word_len": 6.03
+  },
+  "pages_analysed": 487,
+  "worst_ocr_pages": [
+    {
+      "page_id": "tarih-1-1931-u031r",
+      "printed_page": null,
+      "words": 29,
+      "junk_ratio": 0.1625,
+      "short_word_ratio": 0.7241,
+      "avg_word_len": 2.76
+    },
+    {
+      "page_id": "tarih-1-1931-p0042",
+      "printed_page": 42,
+      "words": 54,
+      "junk_ratio": 0.0522,
+      "short_word_ratio": 0.6852,
+      "avg_word_len": 2.43
+    },
+    {
+      "page_id": "tarih-1-1931-p0043",
+      "printed_page": 43,
+      "words": 35,
+      "junk_ratio": 0.0472,
+      "short_word_ratio": 0.4286,
+      "avg_word_len": 3.71
+    },
+    {
+      "page_id": "tarih-1-1931-u265v",
+      "printed_page": null,
+      "words": 45,
+      "junk_ratio": 0.0448,
+      "short_word_ratio": 0.6667,
+      "avg_word_len": 2.4
+    },
+    {
+      "page_id": "tarih-1-1931-p0044",
+      "printed_page": 44,
+      "words": 46,
+      "junk_ratio": 0.0438,
+      "short_word_ratio": 0.413,
+      "avg_word_len": 4.04
+    },
+    {
+      "page_id": "tarih-1-1931-p0192",
+      "printed_page": 192,
+      "words": 216,
+      "junk_ratio": 0.0389,
+      "short_word_ratio": 0.7546,
+      "avg_word_len": 2.22
+    },
+    {
+      "page_id": "tarih-1-1931-p0239",
+      "printed_page": 239,
+      "words": 179,
+      "junk_ratio": 0.0324,
+      "short_word_ratio": 0.3911,
+      "avg_word_len": 4.32
+    },
+    {
+      "page_id": "tarih-1-1931-p0237",
+      "printed_page": 237,
+      "words": 159,
+      "junk_ratio": 0.032,
+      "short_word_ratio": 0.5597,
+      "avg_word_len": 3.21
+    },
+    {
+      "page_id": "tarih-1-1931-u184r",
+      "printed_page": null,
+      "words": 281,
+      "junk_ratio": 0.0282,
+      "short_word_ratio": 0.5623,
+      "avg_word_len": 3.66
+    },
+    {
+      "page_id": "tarih-1-1931-p0045",
+      "printed_page": 45,
+      "words": 62,
+      "junk_ratio": 0.0266,
+      "short_word_ratio": 0.4677,
+      "avg_word_len": 3.69
+    }
+  ]
+}

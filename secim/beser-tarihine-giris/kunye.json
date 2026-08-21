@@ -1,0 +1,51 @@
+{
+  "slug": "beser-tarihine-giris",
+  "book": "tarih-1-1931",
+  "book_title": "Tarih I: Tarihtenevelki Zamanlar ve Eski Zamanlar",
+  "heading": "BEŞER TARİHİNE GİRİŞ",
+  "note": "Tarih I'in giriş bölümü: tarih kavramı, insanlığın kökeni ve tarihten evelki zamanların sınıflandırması.",
+  "printed_range": [
+    1,
+    24
+  ],
+  "pdf_page_viewer_range": [
+    23,
+    37
+  ],
+  "pages_body": 24,
+  "pages_physical": 28,
+  "characters": 46713,
+  "words": 6122,
+  "plates_excluded": [
+    {
+      "label": "u030r",
+      "pdf_page_viewer": 31,
+      "side": "recto",
+      "n_chars": 0,
+      "words": 0
+    },
+    {
+      "label": "u031v",
+      "pdf_page_viewer": 32,
+      "side": "verso",
+      "n_chars": 5,
+      "words": 2
+    },
+    {
+      "label": "u031r",
+      "pdf_page_viewer": 32,
+      "side": "recto",
+      "n_chars": 283,
+      "words": 29
+    },
+    {
+      "label": "u032v",
+      "pdf_page_viewer": 33,
+      "side": "verso",
+      "n_chars": 0,
+      "words": 0
+    }
+  ],
+  "scope_note": "Yalnız gövde metni. Resim, harita ve levhalar dahil değildir; gövde metni taşımayan levha yüzleri tam.txt ve metin/ dışında bırakılmış, sayfalar.jsonl içinde is_plate ile işaretlenmiştir.",
+  "license": "CC0-1.0"
+}

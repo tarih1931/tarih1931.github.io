@@ -1,0 +1,38 @@
+# Siteyi web/ klasöründen yayımlar.
+#
+# Neden Actions: GitHub Pages'in "Deploy from a branch" seçeneği klasör olarak
+# yalnız / (kök) ve /docs sunar; bu depoda site web/, belgeler ise docs/
+# altındadır. Bu iş akışı web/ klasörünü olduğu gibi yayımlar.
+#
+# Depo ayarı: Settings -> Pages -> Source: "GitHub Actions".
+name: Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Yayında olan bir dağıtım yarıda kesilmesin.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: web
+      - id: deployment
+        uses: actions/deploy-pages@v4

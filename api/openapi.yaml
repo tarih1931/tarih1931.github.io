@@ -1,0 +1,167 @@
+openapi: 3.1.0
+info:
+  title: Tarih Ders Kitapları (1931) API
+  version: 1.0.0
+  summary: Resmî lise tarih ders kitaplarının sayfa sayfa alıntılanabilir tam metni
+  description: |
+    Türk Tarihi Tetkik Cemiyeti tarafından hazırlanıp Maarif Vekâleti onayıyla
+    1931-1941 arasında Türkiye'de lise ve orta mekteplerde resmî ders kitabı
+    olarak okutulan `Tarih I` ve `Tarih II` ciltlerinin makine-okunabilir tam metni.
+
+    Her yanıt, basılı sayfa numarasına dayalı bir künye (`citation`) ve kaynak
+    tarama referansı (`scan_ref`) taşır; böylece her iddia basılı sayfaya kadar
+    izlenebilir.
+
+    **Uyarı:** Metinler, elle düzeltilmiş iki bölüm (Tarih I s. 1-24, Tarih II
+    s. 79-184; toplam 129 sayfa) dışında düzeltilmemiş OCR çıktısıdır.
+    Düzeltilmiş kayıtlar `text_source: corrected` taşır.
+  license:
+    name: CC0 1.0 Universal (türetilmiş veri)
+    url: https://creativecommons.org/publicdomain/zero/1.0/
+servers:
+  - url: http://localhost:8000
+    description: Yerel sunucu (python api/server.py)
+tags:
+  - name: kitaplar
+  - name: arama
+  - name: konkordans
+paths:
+  /books:
+    get:
+      tags: [kitaplar]
+      summary: Ciltlerin listesi
+      responses:
+        "200":
+          description: Cilt listesi ve künyeler
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  collection: { type: string }
+                  books:
+                    type: array
+                    items: { $ref: "#/components/schemas/BookSummary" }
+  /books/{slug}:
+    get:
+      tags: [kitaplar]
+      summary: Cilt künyesi ve bölüm haritası
+      parameters:
+        - $ref: "#/components/parameters/Slug"
+      responses:
+        "200":
+          description: Künye ve bölümler
+        "404":
+          description: Bulunamadı
+  /books/{slug}/pages/{n}:
+    get:
+      tags: [kitaplar]
+      summary: Basılı sayfa numarasına göre tam sayfa metni
+      parameters:
+        - $ref: "#/components/parameters/Slug"
+        - name: n
+          in: path
+          required: true
+          description: Kitapta basılı sayfa numarası
+          schema: { type: integer, minimum: 1 }
+      responses:
+        "200":
+          description: Sayfa kaydı
+          content:
+            application/json:
+              schema: { $ref: "#/components/schemas/Page" }
+        "404":
+          description: Sayfa bulunamadı
+  /search:
+    get:
+      tags: [arama]
+      summary: Tam metin arama (Türkçe aksan ve büyük/küçük harf duyarsız)
+      parameters:
+        - name: q
+          in: query
+          required: true
+          schema: { type: string }
+          example: hurafe
+        - name: book
+          in: query
+          schema: { type: string, enum: [tarih-1-1931, tarih-2-1931] }
+        - name: limit
+          in: query
+          schema: { type: integer, default: 25, maximum: 200 }
+      responses:
+        "200":
+          description: Eşleşen sayfalar ve alıntı parçaları
+  /concordance:
+    get:
+      tags: [konkordans]
+      summary: Din ve inanç konulu pasajların kavram dizini
+      description: |
+        Mekanik anahtar kelime eşleşmesiyle üretilmiştir; yorum içermez ve
+        yanlış pozitif barındırabilir.
+      parameters:
+        - name: theme
+          in: query
+          schema:
+            type: string
+            enum:
+              [din-genel, dinin-mensei, islam, hiristiyanlik, musevilik,
+               diger-dinler, taassup-ve-akil, laiklik-ve-devlet]
+        - name: book
+          in: query
+          schema: { type: string, enum: [tarih-1-1931, tarih-2-1931] }
+        - name: limit
+          in: query
+          schema: { type: integer, default: 50, maximum: 500 }
+      responses:
+        "200":
+          description: Pasaj listesi
+components:
+  parameters:
+    Slug:
+      name: slug
+      in: path
+      required: true
+      schema: { type: string, enum: [tarih-1-1931, tarih-2-1931] }
+  schemas:
+    BookSummary:
+      type: object
+      properties:
+        slug: { type: string }
+        title: { type: string }
+        year: { type: integer }
+        publisher: { type: string }
+        place: { type: string }
+        approval: { type: string, description: Maarif Vekâleti onay kaydı }
+        source_scan: { type: string, format: uri }
+        physical_pages: { type: integer }
+        printed_page_range:
+          type: array
+          items: { type: integer }
+    Page:
+      type: object
+      properties:
+        book: { type: string }
+        printed_page:
+          type: [integer, "null"]
+          description: Kitapta basılı sayfa numarası
+        printed_roman:
+          type: [string, "null"]
+          description: Ön bölüm sayfaları için roma rakamı
+        page_id: { type: string, description: Kalıcı sayfa kimliği }
+        running_head:
+          type: [string, "null"]
+          description: Sayfa üst başlığı (bölüm adı)
+        page_confidence:
+          type: [string, "null"]
+          enum: [ocr, inferred, uncertain, null]
+          description: |
+            `ocr` taramadan doğrudan okundu, `inferred` sayfa dizisinden çıkarıldı,
+            `uncertain` tek/çift beklentisine uymuyor — teyit gerekir.
+        text: { type: string }
+        citation: { type: string, description: Hazır alıntı dizesi }
+        scan_ref:
+          type: object
+          description: Kaynak taramadaki konum
+          properties:
+            pdf_page_1based: { type: integer }
+            side: { type: string, enum: [verso, recto, single] }

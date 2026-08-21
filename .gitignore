@@ -1,0 +1,34 @@
+# --------------------------------------------------------------------------
+# TELİFLİ ESERLER — yayımlanmamalı.
+# PDF/ klasöründeki modern kitaplar kişisel araştırma içindir; veri kümesine
+# veya açık depoya konulamaz. Ayrıntı: docs/HAKLAR.md §4
+# --------------------------------------------------------------------------
+# Ayrıca: kamu malı olan Tarih I/II taramaları da depoya konulmaz — her biri
+# ~106 MB, GitHub'ın 100 MB dosya sınırının üstünde. Taramaların yeri Internet
+# Archive ve Zenodo'dur; depo oraya bağlantı verir (docs/YAPILACAKLAR.md §1.3).
+PDF/
+
+# İşleme artıkları
+build/*.log
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Büyük ara çıktılar (hattan yeniden üretilebilir)
+data/*/raw_pages.jsonl
+
+# İncelemenin yayın paketi — build/16_inceleme_yayin.py üretir. Kaynağı
+# docs/ altındaki iki .md dosyasıdır; PDF'ler türetilmiş çıktıdır.
+inceleme/yayin/
+
+# HuggingFace yükleme klasörü artık depo ağacının DIŞINA üretiliyor
+# (<depo>/../<depo adı>-hf), telifli PDF/ ile aynı ağaçta bulunmasın diye.
+# Bu satır, betiğin eski sürümüyle üretilmiş bir klasör kalmışsa diye durur.
+huggingface/
+
+# Yerel araç ayarları
+.claude/settings.local.json
+
+# Zenodo jetonu — asla depoya girmemeli (ev dizininde durur, burada değil)
+.zenodo-token

@@ -1,0 +1,58 @@
+GÖNDERİLDİ — 16.08.2026, Vikikaynak:Köy çeşmesi (16 ve 18.08.2026'da
+düzeltme ekleri yapıldı). Bu dosya gönderilen metnin kaydıdır; içeriği
+değiştirilmemelidir. Basılı 94-184 için yeni bir bildirim gerekirse ayrı
+bir not yazılmalıdır — bu metin o aralığı kapsamıyor.
+
+Tek istisna: iletide geçen eski site adresi 21.08.2026'da çıkarıldı, yerine
+köşeli parantez içinde bir not kondu. Vikikaynak'taki gönderilmiş ileti
+değişmedi.
+
+────────────────────────────────────────────────────────────────
+KONU (başlık alanı):
+────────────────────────────────────────────────────────────────
+Tarih I ve Tarih II (1931): iki bölümün istinsahı hakkında iki soru
+
+────────────────────────────────────────────────────────────────
+MESAJ (gövde alanı):
+────────────────────────────────────────────────────────────────
+Merhaba. [[Dizin:Tarih I Tarihtenevelki Zamanlar ve Eski Zamanlar.pdf]] ve
+[[Dizin:Tarih II Ortazamanlar.pdf]] dizinlerinde iki bölümü istinsah etmek
+istiyorum:
+
+* '''Tarih I''', "Beşer Tarihine Giriş" — basılı s. 1-24 (dizin sayfa 34-57)
+* '''Tarih II''', "İslâm Tarihi" — basılı s. 79-93 (dizin sayfa 101-115)
+
+Metni taramayla sayfa sayfa karşılaştırarak düzelttim. 1931 imlasını
+koruyorum (''sora'', ''evel'', ''tarihtenevel'' vb.). Basımın kendi dizgi
+hatalarını düzeltmeyip {{sic}} ile işaretledim — örneğin s. 80'deki
+"Milâttaan" ve s. 89'daki "isiâmiyeti" taramada gerçekten böyle basılmış.
+
+Başlamadan önce iki hususu sormak istiyorum:
+
+'''1.''' Tarih I'in basılı 1-11 sayfaları (dizin 34-44)
+[[Kullanıcı:2004onuralp|2004onuralp]] tarafından zaten istinsah edilmiş; dizin
+35-44 "İstinsah edildi" (seviye 3), dizin 34 ise "Sorunlu" (seviye 2). Kendi
+metnimle karşılaştırdım, %99 örtüşüyor ve farklarda mevcut okuma daha isabetli.
+'''Bu sayfalara dokunmayı düşünmüyorum'''; yalnız 12-24 arasını (dizin 45-57)
+ekleyeceğim. Doğru yaklaşım bu mudur, yoksa örtüşen sayfalarda yapılması
+beklenen başka bir şey var mı? Seviye 2'de duran dizin 34 için bir katkı
+beklenip beklenmediğini de öğrenmek isterim.
+
+'''2.''' Tarih II'nin basılı 84-93 sayfalarında (dizin 106-115) kalite seviyesi
+1 (düzeltilmemiş ham OCR) olan metin var; büyük kısmı anonim IP katkısı, dizin
+115 ise [[Kullanıcı:Tarih|Tarih]] tarafından girilmiş. Örnek olarak dizin
+106'nın hâli: "İ slamiyetten evel Arabista ncia intişar eden … muşrı"klı"k,,
+ta b ı" r e d er." Düzeltilmiş metni bunların üzerine yazmam uygun mudur, yoksa
+izlenmesi gereken başka bir usul var mı? Düzenleme özetinde ne yaptığımı açıkça
+belirtmeyi planlıyorum.
+
+Ayrıca [[Dizin:Tarih II Ortazamanlar.pdf]] künyesinde ''Year=1930'' yazıyor;
+kitabın künye sayfasındaki basım emri 28/11/1931 tarihli olduğu için bunu 1931
+olarak düzeltmeyi düşünüyorum. İtirazı olan var mıdır?
+
+Metin, kaynağıyla birlikte CC0 ile yayımladığım bir çalışmadan geliyor:
+https://doi.org/10.5281/zenodo.21956339
+[eski site adresi — bu kayıttan çıkarıldı; güncel karşılığı
+https://tarih1931.github.io/duzeltilmis.html]
+
+Şimdiden teşekkür ederim. ~~~~

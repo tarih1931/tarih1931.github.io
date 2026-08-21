@@ -1,0 +1,151 @@
+{
+  "$comment": "Kanonik künye kaydı. Tüm metadata üreticileri (Dublin Core, MARC21, schema.org, DataCite, Croissant, TEI) bu dosyayı okur. Değerler kitapların kendi iç kapak/künye sayfalarından (birincil kaynak) ve TTK Kütüphanesi katalog kaydından doğrulanmıştır.",
+  "collection": {
+    "name": "Tarih I ve Tarih II (1931)",
+    "name_en": "Tarih I and Tarih II (1931) — Turkish Secondary-School History Textbooks",
+    "description": "Türk Tarihi Tetkik Cemiyeti tarafından hazırlanıp Maarif Vekâleti emriyle basılan ve 1931-1941 arasında Türkiye'de liselerde resmî tarih ders kitabı olarak okutulan Tarih I (Tarihtenevelki Zamanlar ve Eski Zamanlar) ile Tarih II (Ortazamanlar) ciltlerinin tam metni.",
+    "doi": "10.5281/zenodo.21956339",
+    "$comment_doi": "Zenodo concept DOI — bütün sürümleri temsil eder, daima en sonuncusuna çözümlenir. v1.0.0 sürüm DOI'si 10.5281/zenodo.21956340'tır ve künyelere yazılmaz. Alan boş bırakılırsa DOI hiçbir künyeye yazılmaz.",
+    "version": "1.3.1",
+    "$comment_version": "Korpus sürümü. GitHub'daki etiketle (vX.Y.Z) aynı olmalıdır; Zenodo arşiv nüshasını o etiketten alır. Künye üreticileri buradan okur, kodda ikinci bir yerde yazmaz.",
+    "series_note": "Kitapların iç kapağında yer alan cilt numaraları (I, II) künye doğruluğu için korunmuştur. Bu veri kümesinin kapsamı bu iki cilttir.",
+    "corporate_author": {
+      "name_1931": "Türk Tarihi Tetkik Cemiyeti",
+      "abbreviation_1931": "T. T. T. C.",
+      "name_modern": "Türk Tarih Kurumu",
+      "note": "Cemiyet 1930'da kurulmuş, 1935'te Türk Tarih Kurumu adını almıştır. İç kapakta kurumsal yazar olarak bu cemiyet görünür; eseri hazırlayan on üç kişi ise 9. sayfada 'Kitabın hazırlanmasında çalışanlar' başlığı altında ad, soyad, mebusu oldukları şehir ve cemiyetteki görevleriyle birlikte tek tek sayılmıştır."
+    },
+    "contributors": [
+      {"name_1931": "M. Tevfik Bey", "name_modern": "Mahmut Tevfik Bıyıklıoğlu", "role_1931": "Riyaseticümhur Umumî Kâtibi ve Türk Tarihi Tetkik Cemiyeti Reisi", "role": "editor"},
+      {"name_1931": "Samih Rifat Bey", "name_modern": "Samih Rifat", "role_1931": "Çanakkale Meb'usu ve T. T. T. C. Reis Vekili", "role": "editor"},
+      {"name_1931": "Akçuraoğlu Yusuf Bey", "name_modern": "Yusuf Akçura", "role_1931": "İstanbul Meb'usu, Ankara Hukuk Mektebi Siyasî Tarih Profesörü ve T. T. T. C. Reis Vekili", "role": "author"},
+      {"name_1931": "Reşit Galip Bey", "name_modern": "Reşit Galip", "role_1931": "Aydın Meb'usu ve T. T. T. C. Umumî Kâtibi", "role": "author"},
+      {"name_1931": "Hasan Cemil Bey", "name_modern": "Hasan Cemil Çambel", "role_1931": "Bolu Meb'usu ve T. T. T. C. Azası", "role": "author"},
+      {"name_1931": "Afet Hanımefendi", "name_modern": "Afet İnan", "role_1931": "Musiki Muallim Mektebi Tarih ve Medenî Bilgiler Muallimi ve T. T. T. C. Azası", "role": "author"},
+      {"name_1931": "Baki Bey", "name_modern": "Baki Vandemir", "role_1931": "Erkânı Harbiye Miralayı, Büyük Erkânı Harbiye Harp Tarihi İkinci Şube Müdürü", "role": "author"},
+      {"name_1931": "İsmail Hakkı Bey", "name_modern": "İsmail Hakkı Uzunçarşılı", "role_1931": "Balıkesir Meb'usu ve T. T. T. C. Azası", "role": "author"},
+      {"name_1931": "Reşit Saffet Bey", "name_modern": "Reşit Saffet Atabinen", "role_1931": "Kocaeli Meb'usu ve T. T. T. C. Azası", "role": "author"},
+      {"name_1931": "Sadri Maksudi Bey", "name_modern": "Sadri Maksudi Arsal", "role_1931": "Şarkî Karahisar Meb'usu ve T. T. T. C. Azası", "role": "author"},
+      {"name_1931": "Şemseddin Bey", "name_modern": "Mehmet Şemsettin Günaltay", "role_1931": "Sivas Meb'usu ve İstanbul Darülfünunu Türk Tarihi Sabık Profesörü ve T. T. T. C. Azası", "role": "author"},
+      {"name_1931": "Şemsi Bey", "name_modern": "Şemsi Bey", "role_1931": "Miralay, Harita Umum Müdürlüğü Harita Şubesi Müdürü", "role": "cartographer"},
+      {"name_1931": "Yusuf Ziya Bey", "name_modern": "Yusuf Ziya Özer", "role_1931": "Eskişehir Meb'usu, İstanbul Darülfünunu Hukuk Tarihi Sabık Profesörü ve T. T. T. C. Azası", "role": "author"}
+    ],
+    "contributor_note": "1931 basımında Soyadı Kanunu (1934) henüz yürürlükte olmadığı için kişiler yalnız ad ve unvanla anılmıştır. 'name_1931' alanı kitapta basılı biçimdir ve alıntılamada esas alınmalıdır; 'name_modern' TTK Kütüphanesi katalog kaydıyla (kayıt no. 508611) eşleştirilmiş modern kimliktir.",
+    "subjects": [
+      "Tarih — Ders kitapları — Türkiye",
+      "Türk Tarih Tezi",
+      "Eğitim — Türkiye — 1931-1941",
+      "Erken Cumhuriyet dönemi ideolojisi",
+      "Din tarihi — Ders kitaplarında sunumu"
+    ],
+    "subjects_lcsh": [
+      "History--Textbooks",
+      "Turkey--History--Study and teaching",
+      "Education--Turkey--History--20th century"
+    ],
+    "language": "tr",
+    "language_note": "1931 Türkçesi (Latin harfli, Harf İnkılabı sonrası; Osmanlı Türkçesi kelime dağarcığı yoğun)."
+  },
+  "review": {
+    "title": "1931–1941 Yılları Arasında Liselerde Okutulan Resmî Tarih Ders Kitaplarının İslam İnancına Yaklaşımı",
+    "title_en": "The Approach of Official History Textbooks Taught in High Schools Between 1931 and 1941 to Islamic Belief",
+    "$comment_title": "İncelemenin başlığı BURADA tanımlanır; site, yayın paketi ve künye üreticileri buradan okur. Daha önce üç dosyada ayrı ayrı yazılıydı ve ikisi ayrışmıştı (site 'öğretisi', künye 'ders kitapları' diyordu).",
+    "author": "Anonim",
+    "$comment_author": "İncelemenin yazarı. Künye, site atıf kutusu, Google Scholar etiketleri ve yayın paketi buradan okur; kodda ikinci bir yerde yazmaz.",
+    "doi": "10.5281/zenodo.21963507",
+    "wikidata": "Q141130317",
+    "internet_archive": "https://archive.org/details/tarih-1931-islam-incelemesi",
+    "$comment": "Korpus üzerine yapılan karşılaştırmalı incelemenin KENDİ Zenodo kaydının concept DOI'si. Korpusun DOI'sinden (collection.doi) ayrıdır: inceleme ayrı bir çalışmadır ve kendi başlığı, özeti ve yazarıyla yayımlanmıştır. Her yeni sürümün ayrı bir sürüm DOI'si olur; künyelere DAİMA buradaki concept DOI yazılır, çünkü o her zaman en son sürüme çözülür.",
+    "record_url": "https://zenodo.org/records/21963507",
+    "$comment_record_url": "Concept kaydının adresidir, tek bir sürümünki değil: en son sürüme kendiliğinden yönlenir, bu yüzden her yayımda güncellenmesi gerekmez."
+  },
+  "rights": {
+    "underlying_work": "public-domain",
+    "statement_uri": "https://rightsstatements.org/vocab/NoC-OKLR/1.0/",
+    "reasoning": "Eser, Maarif Vekâleti Millî Talim ve Terbiye Dairesinin emriyle, kurumsal bir tüzel kişi (Türk Tarihi Tetkik Cemiyeti) adına 1931'de resmî ders kitabı olarak on binlerce nüsha bastırılmıştır. FSEK m.27 uyarınca tüzel kişi adına yayımlanan eserlerde koruma süresi yayımdan itibaren 70 yıldır; bu süre 2001'de dolmuştur. Eserin hak sahibi konumundaki ardıl kurum Türk Tarih Kurumu, taranmış nüshaları kendi resmî sitesinde (kutuphane.ttk.gov.tr) kamuya açık olarak sunmaktadır.",
+    "derived_dataset_license": "CC0-1.0",
+    "derived_dataset_license_uri": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "derived_dataset_note": "OCR düzeltmesi, sayfalama, yapılandırma, metadata ve tüm türetilmiş dosyalar CC0 ile kamuya bırakılmıştır."
+  },
+  "source_repository": {
+    "name": "Türkiye Cumhuriyeti Türk Tarih Kurumu Kütüphanesi",
+    "name_en": "Turkish Historical Society Library",
+    "url": "https://kutuphane.ttk.gov.tr/",
+    "catalogue_record": "https://kutuphane.ttk.gov.tr/details?id=508611&materialType=KT",
+    "call_number": "A/4789",
+    "record_id": "508611"
+  },
+  "channels": {
+    "$comment": "Yayın kanallarının tek kaynağı. Künye üreticisi (05), site (06), veri kümesi kartı (13) ve README buradan okur; adresler kodda ikinci bir yerde yazmaz.",
+    "site": "https://tarih1931.github.io",
+    "repository": "https://github.com/tarih1931/tarih1931.github.io",
+    "huggingface": "https://huggingface.co/datasets/asayimusa19/tarih-ders-kitaplari-1931",
+    "wikisource": "https://tr.wikisource.org"
+  },
+  "books": [
+    {
+      "slug": "tarih-1-1931",
+      "wikidata": "Q141099467",
+      "title": "Tarih",
+      "volume": "I",
+      "volume_number": 1,
+      "subtitle": "Tarihtenevelki Zamanlar ve Eski Zamanlar",
+      "title_full": "Tarih I: Tarihtenevelki Zamanlar ve Eski Zamanlar",
+      "year": 1931,
+      "edition": "1. basım",
+      "publisher": "Maarif Vekâleti",
+      "printer": "Devlet Matbaası",
+      "place": "İstanbul",
+      "approval": "Maarif Vekâleti Millî Talim ve Terbiye Dairesinin 2/8/1931 tarih ve 1869 numaralı emrile 30 000 nüsha tab'edilmiştir.",
+      "approval_date": "1931-08-02",
+      "approval_number": "1869",
+      "print_run": 30000,
+      "illustrations_statement": "7 renkli tablo — 22 harita — 136 resim",
+      "colour_plates": 7,
+      "maps": 22,
+      "illustrations": 136,
+      "source_pdf": "PDF/Tarih I.pdf",
+      "ttk_url": "https://kutuphane.ttk.gov.tr/resource?itemId=267298&dkymId=6415",
+      "ttk_item_id": "267298",
+      "scan_dpi": 150,
+      "scan_note": "Her PDF sayfası bir açık kitap (çift sayfa) taramasıdır; işleme hattı bunları tek tek kitap sayfalarına ayırır.",
+      "internet_archive": "https://archive.org/details/tarih-1-1931-ttk",
+      "wikisource_work": "https://tr.wikisource.org/wiki/Tarih_I:_Tarihtenevelki_Zamanlar_ve_Eski_Zamanlar",
+      "wikisource_index": "https://tr.wikisource.org/wiki/Dizin:Tarih_I_Tarihtenevelki_Zamanlar_ve_Eski_Zamanlar.pdf"
+    },
+    {
+      "slug": "tarih-2-1931",
+      "wikidata": "Q141099470",
+      "title": "Tarih",
+      "volume": "II",
+      "volume_number": 2,
+      "subtitle": "Ortazamanlar",
+      "title_full": "Tarih II: Ortazamanlar",
+      "year": 1931,
+      "edition": "1. basım",
+      "publisher": "Maarif Vekâleti",
+      "printer": "Devlet Matbaası",
+      "place": "İstanbul",
+      "approval": "Maarif Vekâleti Millî Talim ve Terbiye Dairesinin 28/11/1931 tarih ve 2847 numaralı emrile 25 000 nüsha tab'edilmiştir.",
+      "approval_date": "1931-11-28",
+      "approval_number": "2847",
+      "print_run": 25000,
+      "illustrations_statement": "8 renkli tablo — 46 harita — 113 resim",
+      "colour_plates": 8,
+      "maps": 46,
+      "illustrations": 113,
+      "source_pdf": "PDF/Tarih II.pdf",
+      "ttk_url": "https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416",
+      "ttk_item_id": "267295",
+      "scan_dpi": 150,
+      "scan_note": "Her PDF sayfası bir açık kitap (çift sayfa) taramasıdır; işleme hattı bunları tek tek kitap sayfalarına ayırır.",
+      "internet_archive": "https://archive.org/details/tarih-2-1931-ttk",
+      "wikisource_work": "https://tr.wikisource.org/wiki/Tarih_II:_Ortazamanlar",
+      "wikisource_index": "https://tr.wikisource.org/wiki/Dizin:Tarih_II_Ortazamanlar.pdf"
+    }
+  ],
+  "scope": {
+    "in_scope": ["tarih-1-1931", "tarih-2-1931"],
+    "note": "Veri kümesi Tarih I ve Tarih II (1931) ciltleriyle sınırlıdır."
+  }
+}

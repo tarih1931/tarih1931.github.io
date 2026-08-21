@@ -1,0 +1,77 @@
+{
+  "title": "Tarih I ve Tarih II (1931) — makine-okunabilir tam metin (Tarih I ve II, 1931)",
+  "upload_type": "dataset",
+  "description": "<p>Türk Tarihi Tetkik Cemiyeti tarafından hazırlanıp Maarif Vekâleti emriyle basılan ve 1931-1941 arasında Türkiye'de liselerde resmî tarih ders kitabı olarak okutulan Tarih I (Tarihtenevelki Zamanlar ve Eski Zamanlar) ile Tarih II (Ortazamanlar) ciltlerinin tam metni.</p><p>Bu yükleme, Türk Tarih Kurumu Kütüphanesi taramalarından üretilmiş, basılı sayfa numaralarıyla eşlenmiş makine-okunabilir tam metni içerir. Çift sayfa taramaları tek tek kitap sayfalarına ayrılmış; gömülü OCR katmanında bulunmayan sayfa numaraları ve bölüm başlıkları tarama görüntüsünden yeniden OCR edilmiştir.</p><p><strong>Elle doğrulanmış bölümler.</strong> Korpusun tamamı düzeltilmemiş OCR çıktısıdır. İki bölüm — Tarih I “BEŞER TARİHİNE GİRİŞ” (basılı s. 1-24) ve Tarih II “İSLAM TARİHİ” (basılı s. 79-184), toplam 129 sayfa — taranmış aslıyla sayfa sayfa karşılaştırılarak elle düzeltilmiştir. Ham OCR metni her kayıtta <code>text_ocr</code> alanında saklandığı için her düzeltme denetlenebilir; düzeltilmiş kayıtlar <code>text_source=corrected</code> ile işaretlidir.</p><p><strong>İnceleme.</strong> Yükleme, bu bölümler üzerine yapılmış bir karşılaştırmalı incelemeyi içerir (<code>docs/inceleme.md</code>): 1931 resmî tarih öğretisi ile İslam itikadının eksen eksen karşılaştırması. Her iddia sayfa künyeli birebir alıntıyla belgelenmiş, güç derecesiyle işaretlenmiş; metnin desteklemediği çıkarımlar ayrı bir bölümde açıkça listelenmiştir. İncelemenin iddiaları ayrıca makine-okunabilir olarak verilmiştir (<code>inceleme/bulgular.jsonl</code>): <em>alıntı</em> kayıtları birebir pasajı, basılı sayfayı ve kaynak sayfanın adresini taşır — her alıntının künyesindeki sayfada birebir bulunduğu üretim sırasında makine ile denetlenir; <em>bulgu</em> kayıtları ise o alıntıların Kur'an nassı karşısında değerlendirilmesinden çıkan kanaati, dayandığı alıntı ve ayetlerle birlikte verir. Ayrıca din ve inanç pasajlarının yorumsuz kavram dizini (<code>thematic/</code>) bulunmaktadır.</p><p>Biçimler: sayfa düzeyinde JSONL, TEI-XML, sayfa işaretli düz metin, Markdown, RAG parçaları, Dublin Core / MARC21 / schema.org / Croissant metadata.</p><p>Çevrimiçi sürüm: <a href=\"https://tarih1931.github.io\">https://tarih1931.github.io</a></p>",
+  "creators": [
+    {
+      "name": "Türk Tarihi Tetkik Cemiyeti",
+      "affiliation": "Türkiye Cumhuriyeti"
+    }
+  ],
+  "keywords": [
+    "Tarih — Ders kitapları — Türkiye",
+    "Türk Tarih Tezi",
+    "Eğitim — Türkiye — 1931-1941",
+    "Erken Cumhuriyet dönemi ideolojisi",
+    "Din tarihi — Ders kitaplarında sunumu",
+    "History--Textbooks",
+    "Turkey--History--Study and teaching",
+    "Education--Turkey--History--20th century",
+    "İslam itikadı",
+    "Din ve devlet — Türkiye",
+    "Elle doğrulanmış OCR",
+    "Islam--Doctrines",
+    "Digitised text corpus"
+  ],
+  "language": "tur",
+  "access_right": "open",
+  "license": "cc-zero",
+  "related_identifiers": [
+    {
+      "identifier": "https://kutuphane.ttk.gov.tr/resource?itemId=267298&dkymId=6415",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://archive.org/details/tarih-1-1931-ttk",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://archive.org/details/tarih-2-1931-ttk",
+      "relation": "isDerivedFrom",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.21963507",
+      "relation": "isSupplementedBy",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/asayimusa19/tarih-ders-kitaplari-1931",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://tarih1931.github.io",
+      "relation": "isVariantFormOf",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://tr.wikisource.org/wiki/Tarih_I:_Tarihtenevelki_Zamanlar_ve_Eski_Zamanlar",
+      "relation": "isSourceOf",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://tr.wikisource.org/wiki/Tarih_II:_Ortazamanlar",
+      "relation": "isSourceOf",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Eser, Maarif Vekâleti Millî Talim ve Terbiye Dairesinin emriyle, kurumsal bir tüzel kişi (Türk Tarihi Tetkik Cemiyeti) adına 1931'de resmî ders kitabı olarak on binlerce nüsha bastırılmıştır. FSEK m.27 uyarınca tüzel kişi adına yayımlanan eserlerde koruma süresi yayımdan itibaren 70 yıldır; bu süre 2001'de dolmuştur. Eserin hak sahibi konumundaki ardıl kurum Türk Tarih Kurumu, taranmış nüshaları kendi resmî sitesinde (kutuphane.ttk.gov.tr) kamuya açık olarak sunmaktadır."
+}

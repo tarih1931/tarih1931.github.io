@@ -1,0 +1,142 @@
+{
+  "slug": "islam-tarihi",
+  "book": "tarih-2-1931",
+  "book_title": "Tarih II: Ortazamanlar",
+  "heading": "İSLAM TARİHİ",
+  "note": "Tarih II'nin İslam tarihi bölümü: Arap yarımadası, İslamın doğuşu ve ilk yayılışı.",
+  "printed_range": [
+    79,
+    184
+  ],
+  "pdf_page_viewer_range": [
+    70,
+    131
+  ],
+  "pages_body": 105,
+  "pages_physical": 122,
+  "characters": 221692,
+  "words": 28240,
+  "plates_excluded": [
+    {
+      "label": "u070r",
+      "pdf_page_viewer": 71,
+      "side": "recto",
+      "n_chars": 0,
+      "words": 0
+    },
+    {
+      "label": "u071v",
+      "pdf_page_viewer": 72,
+      "side": "verso",
+      "n_chars": 0,
+      "words": 0
+    },
+    {
+      "label": "s083",
+      "pdf_page_viewer": 73,
+      "side": "recto",
+      "n_chars": 0,
+      "words": 0
+    },
+    {
+      "label": "u079r",
+      "pdf_page_viewer": 80,
+      "side": "recto",
+      "n_chars": 0,
+      "words": 0
+    },
+    {
+      "label": "u080v",
+      "pdf_page_viewer": 81,
+      "side": "verso",
+      "n_chars": 0,
+      "words": 0
+    },
+    {
+      "label": "u088r",
+      "pdf_page_viewer": 89,
+      "side": "recto",
+      "n_chars": 0,
+      "words": 0
+    },
+    {
+      "label": "u089v",
+      "pdf_page_viewer": 90,
+      "side": "verso",
+      "n_chars": 404,
+      "words": 85
+    },
+    {
+      "label": "u089r",
+      "pdf_page_viewer": 90,
+      "side": "recto",
+      "n_chars": 557,
+      "words": 89
+    },
+    {
+      "label": "u090v",
+      "pdf_page_viewer": 91,
+      "side": "verso",
+      "n_chars": 0,
+      "words": 0
+    },
+    {
+      "label": "u098r",
+      "pdf_page_viewer": 99,
+      "side": "recto",
+      "n_chars": 46,
+      "words": 15
+    },
+    {
+      "label": "u099v",
+      "pdf_page_viewer": 100,
+      "side": "verso",
+      "n_chars": 0,
+      "words": 0
+    },
+    {
+      "label": "u099r",
+      "pdf_page_viewer": 100,
+      "side": "recto",
+      "n_chars": 0,
+      "words": 0
+    },
+    {
+      "label": "u100v",
+      "pdf_page_viewer": 101,
+      "side": "verso",
+      "n_chars": 0,
+      "words": 0
+    },
+    {
+      "label": "u104r",
+      "pdf_page_viewer": 105,
+      "side": "recto",
+      "n_chars": 139,
+      "words": 27
+    },
+    {
+      "label": "u105v",
+      "pdf_page_viewer": 106,
+      "side": "verso",
+      "n_chars": 39,
+      "words": 19
+    },
+    {
+      "label": "u121r",
+      "pdf_page_viewer": 122,
+      "side": "recto",
+      "n_chars": 302,
+      "words": 61
+    },
+    {
+      "label": "u122v",
+      "pdf_page_viewer": 123,
+      "side": "verso",
+      "n_chars": 0,
+      "words": 0
+    }
+  ],
+  "scope_note": "Yalnız gövde metni. Resim, harita ve levhalar dahil değildir; gövde metni taşımayan levha yüzleri tam.txt ve metin/ dışında bırakılmış, sayfalar.jsonl içinde is_plate ile işaretlenmiştir.",
+  "license": "CC0-1.0"
+}

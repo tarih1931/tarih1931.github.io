@@ -1,0 +1,75 @@
+{
+  "$comment": "Düzeltmelerin hangi OCR metni üzerine yapıldığını saklar. build/03b_corrections.py bayatlamayı buradan denetler.",
+  "pages": {
+    "p0079": {
+      "ocr_sha1": "1e5dd15a7acbf2116e0ddbdc6ca1d10d4d6bdb5d",
+      "corrected_sha1": "7f4b80ba51af3a6fec0c3b4d84c5186f569f0f47",
+      "updated": "2026-08-18"
+    },
+    "p0080": {
+      "ocr_sha1": "faf2efb2dff806b344d29aabe1c0b1d59ef4a2f1",
+      "corrected_sha1": "080f8177f1db54105058111c469fe5d360194102",
+      "updated": "2026-08-18"
+    },
+    "p0081": {
+      "ocr_sha1": "10027c77655f495472069f4dce5a8b6ed5770dd3",
+      "corrected_sha1": "8bc9dc56f3e2093bf10aef7dddd5f2a404f873e4",
+      "updated": "2026-08-18"
+    },
+    "p0082": {
+      "ocr_sha1": "d2afc0371c912a0d46a77ea33b2b4b6fc5c7ac89",
+      "corrected_sha1": "27abf73371273561f6eb2be5a812e365a436d6a3",
+      "updated": "2026-08-18"
+    },
+    "p0084": {
+      "ocr_sha1": "af85f0f839ec19b1499c394cf3b82b4cfc0d78fc",
+      "corrected_sha1": "95042883ae1add586b5cb3d932e232c236a7d51d",
+      "updated": "2026-08-18"
+    },
+    "p0085": {
+      "ocr_sha1": "dfc8c74010d6ade21124e54dc43125bf71fbe9c5",
+      "corrected_sha1": "66efdc15836d50e8024073f17888192ce5a0e822",
+      "updated": "2026-08-18"
+    },
+    "p0086": {
+      "ocr_sha1": "e8ad22cdc0fd58dac4c897bbd74833544892a2d4",
+      "corrected_sha1": "706c1d8e4c9815108d9589b13d01c0a272344eba",
+      "updated": "2026-08-18"
+    },
+    "p0087": {
+      "ocr_sha1": "44b3e0d3cd3b00d3acf236bd0f2002549613d95c",
+      "corrected_sha1": "227aa56007c4d61c1b32705b646c834a3520f797",
+      "updated": "2026-08-18"
+    },
+    "p0088": {
+      "ocr_sha1": "af67fe925f305555121d06a0c05d315742ab1114",
+      "corrected_sha1": "89c368931f51be9855ea8a5f0544f203aff88069",
+      "updated": "2026-08-18"
+    },
+    "p0089": {
+      "ocr_sha1": "a25380e5cd86d781e602f3dea4672cc451f48ff1",
+      "corrected_sha1": "c940bf87345d98856ae84b6a923b274daf89f1b3",
+      "updated": "2026-08-18"
+    },
+    "p0090": {
+      "ocr_sha1": "7351a4e6be7b18577411b0744175405830b92ab3",
+      "corrected_sha1": "5839c977725a99f9c2fc097a05b746e854cf1b77",
+      "updated": "2026-08-18"
+    },
+    "p0091": {
+      "ocr_sha1": "4a8a0935b5a10ff3a7bbf7f9b742ab8a426cfa6b",
+      "corrected_sha1": "61db9f063a856642503cc079f68f23c5c0aa9d89",
+      "updated": "2026-08-18"
+    },
+    "p0092": {
+      "ocr_sha1": "869a9fd9e2020332270ab135ff50793cef3a3bc4",
+      "corrected_sha1": "b54c710ab86cc525486c3bf9f25fb7f5b935cfda",
+      "updated": "2026-08-18"
+    },
+    "p0093": {
+      "ocr_sha1": "3bed06aebfbc9f8104ea1943dc803b28bfac69dc",
+      "corrected_sha1": "48ae855361141e6703d8f776996277c5e76615ce",
+      "updated": "2026-08-18"
+    }
+  }
+}

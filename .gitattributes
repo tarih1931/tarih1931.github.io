@@ -1,0 +1,8 @@
+# Veri dosyaları her platformda birebir aynı olmalı: satır sonu LF sabitlenir.
+# Aksi hâlde Windows'ta checkout edilen JSONL/TXT dosyalarının sağlaması (checksum)
+# Zenodo ve Hugging Face kopyalarından farklı çıkar.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.pdf binary

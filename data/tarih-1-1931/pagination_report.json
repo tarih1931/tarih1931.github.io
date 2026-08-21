@@ -1,0 +1,153 @@
+{
+  "stats": {
+    "halves": 583,
+    "raw_anchors": 440,
+    "anchors_after_consensus": 430,
+    "anchors_after_monotonic": 362,
+    "segments": 22,
+    "strong_segments": 22,
+    "numbered": 378,
+    "by_ocr": 362,
+    "inferred": 16,
+    "uncertain": 0,
+    "unnumbered": 205,
+    "empty_pages": 96,
+    "page_range": "2-384",
+    "duplicate_numbers": 0,
+    "total_chars": 770792
+  },
+  "segments": [
+    {
+      "offset": -43,
+      "start": 45,
+      "end": 59,
+      "n_anchors": 15
+    },
+    {
+      "offset": -47,
+      "start": 64,
+      "end": 79,
+      "n_anchors": 15
+    },
+    {
+      "offset": -51,
+      "start": 84,
+      "end": 107,
+      "n_anchors": 23
+    },
+    {
+      "offset": -53,
+      "start": 112,
+      "end": 116,
+      "n_anchors": 5
+    },
+    {
+      "offset": -57,
+      "start": 122,
+      "end": 129,
+      "n_anchors": 7
+    },
+    {
+      "offset": -59,
+      "start": 133,
+      "end": 139,
+      "n_anchors": 7
+    },
+    {
+      "offset": -63,
+      "start": 144,
+      "end": 159,
+      "n_anchors": 15
+    },
+    {
+      "offset": -67,
+      "start": 164,
+      "end": 179,
+      "n_anchors": 15
+    },
+    {
+      "offset": -71,
+      "start": 184,
+      "end": 191,
+      "n_anchors": 8
+    },
+    {
+      "offset": -73,
+      "start": 194,
+      "end": 201,
+      "n_anchors": 7
+    },
+    {
+      "offset": -75,
+      "start": 204,
+      "end": 211,
+      "n_anchors": 8
+    },
+    {
+      "offset": -77,
+      "start": 214,
+      "end": 221,
+      "n_anchors": 8
+    },
+    {
+      "offset": -81,
+      "start": 226,
+      "end": 241,
+      "n_anchors": 14
+    },
+    {
+      "offset": -83,
+      "start": 244,
+      "end": 259,
+      "n_anchors": 15
+    },
+    {
+      "offset": -87,
+      "start": 264,
+      "end": 279,
+      "n_anchors": 15
+    },
+    {
+      "offset": -91,
+      "start": 284,
+      "end": 299,
+      "n_anchors": 16
+    },
+    {
+      "offset": -95,
+      "start": 304,
+      "end": 335,
+      "n_anchors": 30
+    },
+    {
+      "offset": -97,
+      "start": 338,
+      "end": 353,
+      "n_anchors": 16
+    },
+    {
+      "offset": -101,
+      "start": 358,
+      "end": 365,
+      "n_anchors": 7
+    },
+    {
+      "offset": -103,
+      "start": 369,
+      "end": 391,
+      "n_anchors": 23
+    },
+    {
+      "offset": -107,
+      "start": 396,
+      "end": 443,
+      "n_anchors": 48
+    },
+    {
+      "offset": -111,
+      "start": 448,
+      "end": 495,
+      "n_anchors": 45
+    }
+  ]
+}

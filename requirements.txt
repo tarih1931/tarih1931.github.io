@@ -1,0 +1,15 @@
+# İşleme hattı için gerekli paketler.
+#   pip install -r requirements.txt
+
+pymupdf>=1.24            # PDF metin/koordinat çıkarımı ve sayfa görüntüleme
+rapidocr-onnxruntime>=1.3 # Sayfa üst bilgisi OCR'ı (ONNX, sistem bağımlılığı yok)
+numpy>=1.26
+
+# İsteğe bağlı — MCP sunucusu için (api/mcp_server.py)
+# mcp[cli]>=1.2
+
+# İsteğe bağlı — yayın kanalları. Hattın kendisi bunlara ihtiyaç duymaz;
+# yalnız ilgili adım çalıştırılacaksa kurulur. İkisi de kendi oturumunu
+# kullanır, betiklerde kimlik bilgisi tutulmaz.
+# huggingface_hub>=0.20    # build/13_huggingface.py --upload
+# internetarchive>=5.0     # build/15_archive.py --upload  (bir kez: ia configure)

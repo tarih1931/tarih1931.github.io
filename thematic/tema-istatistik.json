@@ -1,0 +1,444 @@
+{
+  "aciklama": "Mekanik anahtar kelime eşleşmesiyle üretilmiş kavram dizinidir; yorum içermez. Kısa ve çok anlamlı kökler yalnız açıkça sayılan biçimlerle eşleşir, uzun ve ayırt edici kökler ek almaya toleranslıdır. Buna rağmen yanlış pozitif kalabilir. Künye ve içindekiler sayfaları dışarıda bırakılmıştır. Her kaydı kendi sayfa bağlamında okuyunuz.",
+  "uretim": "build/07_thematic.py",
+  "toplam_kayit": 2547,
+  "atlanan_on_bolum_sayfasi": 211,
+  "temalar": {
+    "din-genel": {
+      "toplam_esleme": 1012,
+      "kitaplara_gore": {
+        "tarih-1-1931": 702,
+        "tarih-2-1931": 310
+      },
+      "farkli_sayfa": 273,
+      "en_sik_terimler": [
+        [
+          "din",
+          321
+        ],
+        [
+          "allah",
+          187
+        ],
+        [
+          "mabet",
+          74
+        ],
+        [
+          "mabut",
+          63
+        ],
+        [
+          "mukaddes",
+          55
+        ],
+        [
+          "ilah",
+          53
+        ],
+        [
+          "mabed",
+          48
+        ],
+        [
+          "tanri",
+          47
+        ],
+        [
+          "ayin",
+          41
+        ],
+        [
+          "ibadet",
+          25
+        ],
+        [
+          "mezhep",
+          22
+        ],
+        [
+          "itikat",
+          20
+        ],
+        [
+          "ruhani",
+          15
+        ],
+        [
+          "akide",
+          14
+        ],
+        [
+          "mezheb",
+          13
+        ]
+      ]
+    },
+    "dinin-mensei": {
+      "toplam_esleme": 108,
+      "kitaplara_gore": {
+        "tarih-1-1931": 80,
+        "tarih-2-1931": 28
+      },
+      "farkli_sayfa": 62,
+      "en_sik_terimler": [
+        [
+          "efsane",
+          34
+        ],
+        [
+          "put",
+          23
+        ],
+        [
+          "totem",
+          15
+        ],
+        [
+          "putperest",
+          9
+        ],
+        [
+          "animizm",
+          5
+        ],
+        [
+          "esatir",
+          5
+        ],
+        [
+          "sihir",
+          4
+        ],
+        [
+          "sihirbaz",
+          3
+        ],
+        [
+          "hurafe",
+          3
+        ],
+        [
+          "ilk insanlarin",
+          2
+        ],
+        [
+          "iptidai felsefe",
+          2
+        ],
+        [
+          "batil itikat",
+          2
+        ],
+        [
+          "din mense",
+          1
+        ]
+      ]
+    },
+    "islam": {
+      "toplam_esleme": 1105,
+      "kitaplara_gore": {
+        "tarih-1-1931": 84,
+        "tarih-2-1931": 1021
+      },
+      "farkli_sayfa": 292,
+      "en_sik_terimler": [
+        [
+          "islam",
+          266
+        ],
+        [
+          "musluman",
+          234
+        ],
+        [
+          "halife",
+          191
+        ],
+        [
+          "muhammed",
+          134
+        ],
+        [
+          "hadis",
+          56
+        ],
+        [
+          "kuran",
+          50
+        ],
+        [
+          "peygamber",
+          35
+        ],
+        [
+          "hicret",
+          33
+        ],
+        [
+          "hilafet",
+          27
+        ],
+        [
+          "kabe",
+          26
+        ],
+        [
+          "medrese",
+          23
+        ],
+        [
+          "sunni",
+          11
+        ],
+        [
+          "tarikat",
+          7
+        ],
+        [
+          "tasavvuf",
+          6
+        ],
+        [
+          "seriat",
+          3
+        ]
+      ]
+    },
+    "hiristiyanlik": {
+      "toplam_esleme": 547,
+      "kitaplara_gore": {
+        "tarih-1-1931": 139,
+        "tarih-2-1931": 408
+      },
+      "farkli_sayfa": 184,
+      "en_sik_terimler": [
+        [
+          "hiristiyan",
+          191
+        ],
+        [
+          "hacli",
+          75
+        ],
+        [
+          "kilise",
+          72
+        ],
+        [
+          "papa",
+          64
+        ],
+        [
+          "papaz",
+          37
+        ],
+        [
+          "isa",
+          32
+        ],
+        [
+          "rahip",
+          30
+        ],
+        [
+          "manastir",
+          11
+        ],
+        [
+          "ortodoks",
+          10
+        ],
+        [
+          "katolik",
+          9
+        ],
+        [
+          "incil",
+          7
+        ],
+        [
+          "misyoner",
+          7
+        ],
+        [
+          "vaftiz",
+          2
+        ]
+      ]
+    },
+    "musevilik": {
+      "toplam_esleme": 245,
+      "kitaplara_gore": {
+        "tarih-1-1931": 132,
+        "tarih-2-1931": 113
+      },
+      "farkli_sayfa": 82,
+      "en_sik_terimler": [
+        [
+          "musa",
+          73
+        ],
+        [
+          "yahudi",
+          71
+        ],
+        [
+          "ibrani",
+          42
+        ],
+        [
+          "tevrat",
+          19
+        ],
+        [
+          "beniisrail",
+          16
+        ],
+        [
+          "israil",
+          14
+        ],
+        [
+          "musevi",
+          9
+        ],
+        [
+          "musa peygamber",
+          1
+        ]
+      ]
+    },
+    "diger-dinler": {
+      "toplam_esleme": 183,
+      "kitaplara_gore": {
+        "tarih-1-1931": 86,
+        "tarih-2-1931": 97
+      },
+      "farkli_sayfa": 71,
+      "en_sik_terimler": [
+        [
+          "saman",
+          61
+        ],
+        [
+          "buda",
+          29
+        ],
+        [
+          "brahman",
+          29
+        ],
+        [
+          "budist",
+          19
+        ],
+        [
+          "konfucyus",
+          14
+        ],
+        [
+          "budizm",
+          9
+        ],
+        [
+          "zerdust",
+          8
+        ],
+        [
+          "maniheizm",
+          7
+        ],
+        [
+          "mani dini",
+          4
+        ],
+        [
+          "mecusi",
+          2
+        ],
+        [
+          "mazdek",
+          1
+        ]
+      ]
+    },
+    "taassup-ve-akil": {
+      "toplam_esleme": 31,
+      "kitaplara_gore": {
+        "tarih-1-1931": 12,
+        "tarih-2-1931": 19
+      },
+      "farkli_sayfa": 28,
+      "en_sik_terimler": [
+        [
+          "mutaassip",
+          9
+        ],
+        [
+          "akil",
+          7
+        ],
+        [
+          "taassup",
+          4
+        ],
+        [
+          "irtica",
+          3
+        ],
+        [
+          "tenvir",
+          2
+        ],
+        [
+          "mantik",
+          2
+        ],
+        [
+          "taassub",
+          2
+        ],
+        [
+          "cehalet",
+          1
+        ],
+        [
+          "safsata",
+          1
+        ]
+      ]
+    },
+    "laiklik-ve-devlet": {
+      "toplam_esleme": 19,
+      "kitaplara_gore": {
+        "tarih-1-1931": 11,
+        "tarih-2-1931": 8
+      },
+      "farkli_sayfa": 17,
+      "en_sik_terimler": [
+        [
+          "vakif",
+          12
+        ],
+        [
+          "laik",
+          3
+        ],
+        [
+          "dini idare",
+          2
+        ],
+        [
+          "din adam",
+          1
+        ],
+        [
+          "din ve devlet",
+          1
+        ]
+      ]
+    }
+  }
+}

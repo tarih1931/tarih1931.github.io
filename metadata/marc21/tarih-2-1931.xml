@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000nam a2200000 i 4500</leader>
+    <controlfield tag="008">260821s1931    tu a     b    000 0 tur d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">TR-AnTTK</subfield>
+      <subfield code="b">tur</subfield>
+    </datafield>
+    <datafield tag="110" ind1="2" ind2=" ">
+      <subfield code="a">Türk Tarihi Tetkik Cemiyeti.</subfield>
+    </datafield>
+    <datafield tag="245" ind1="1" ind2="0">
+      <subfield code="a">Tarih II :</subfield>
+      <subfield code="b">Ortazamanlar.</subfield>
+    </datafield>
+    <datafield tag="260" ind1=" " ind2=" ">
+      <subfield code="a">İstanbul :</subfield>
+      <subfield code="b">Maarif Vekâleti,</subfield>
+      <subfield code="c">1931.</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">389 s. :</subfield>
+      <subfield code="b">8 renkli tablo — 46 harita — 113 resim ;</subfield>
+      <subfield code="c">24 cm.</subfield>
+    </datafield>
+    <datafield tag="500" ind1=" " ind2=" ">
+      <subfield code="a">Maarif Vekâleti Millî Talim ve Terbiye Dairesinin 28/11/1931 tarih ve 2847 numaralı emrile 25 000 nüsha tab'edilmiştir.</subfield>
+    </datafield>
+    <datafield tag="546" ind1=" " ind2=" ">
+      <subfield code="a">1931 Türkçesi (Latin harfli, Harf İnkılabı sonrası; Osmanlı Türkçesi kelime dağarcığı yoğun).</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Mahmut Tevfik Bıyıklıoğlu,</subfield>
+      <subfield code="e">editor</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Samih Rifat,</subfield>
+      <subfield code="e">editor</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Yusuf Akçura,</subfield>
+      <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Reşit Galip,</subfield>
+      <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Hasan Cemil Çambel,</subfield>
+      <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Afet İnan,</subfield>
+      <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Baki Vandemir,</subfield>
+      <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">İsmail Hakkı Uzunçarşılı,</subfield>
+      <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Reşit Saffet Atabinen,</subfield>
+      <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Sadri Maksudi Arsal,</subfield>
+      <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Mehmet Şemsettin Günaltay,</subfield>
+      <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Şemsi Bey,</subfield>
+      <subfield code="e">cartographer</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2=" ">
+      <subfield code="a">Yusuf Ziya Özer,</subfield>
+      <subfield code="e">author</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">History--Textbooks</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Turkey--History--Study and teaching</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="0">
+      <subfield code="a">Education--Turkey--History--20th century</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">https://kutuphane.ttk.gov.tr/resource?itemId=267295&amp;dkymId=6416</subfield>
+      <subfield code="z">Kaynak tarama (TTK Kütüphanesi)</subfield>
+    </datafield>
+    <datafield tag="856" ind1="4" ind2="0">
+      <subfield code="u">https://tarih1931.github.io/tarih-2-1931/</subfield>
+      <subfield code="z">Makine-okunabilir tam metin</subfield>
+    </datafield>
+  </record>
+</collection>

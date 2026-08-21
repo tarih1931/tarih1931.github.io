@@ -1,0 +1,20 @@
+Q141099467	P31	Q83790
+Q141099467	P50	Q374071	S854	"https://kutuphane.ttk.gov.tr/resource?itemId=267298&dkymId=6415"
+Q141099467	P123	Q1359675	S854	"https://kutuphane.ttk.gov.tr/resource?itemId=267298&dkymId=6415"
+Q141099467	P291	Q406	S854	"https://kutuphane.ttk.gov.tr/resource?itemId=267298&dkymId=6415"
+Q141099467	P577	+1931-00-00T00:00:00Z/9	S854	"https://kutuphane.ttk.gov.tr/resource?itemId=267298&dkymId=6415"
+Q141099467	P407	Q256
+Q141099467	P6216	Q19652
+Q141099467	P1476	tr:"Tarih I: Tarihtenevelki Zamanlar ve Eski Zamanlar"	S854	"https://kutuphane.ttk.gov.tr/resource?itemId=267298&dkymId=6415"
+Q141099467	P953	"https://tarih1931.github.io/tarih-1-1931/"
+Q141099470	P31	Q83790
+Q141099470	P50	Q374071	S854	"https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416"
+Q141099470	P123	Q1359675	S854	"https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416"
+Q141099470	P291	Q406	S854	"https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416"
+Q141099470	P577	+1931-00-00T00:00:00Z/9	S854	"https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416"
+Q141099470	P407	Q256
+Q141099470	P6216	Q19652
+Q141099470	P1476	tr:"Tarih II: Ortazamanlar"	S854	"https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416"
+Q141099470	P953	"https://tarih1931.github.io/tarih-2-1931/"
+Q141099470	P155	Q141099467
+Q141099467	P156	Q141099470

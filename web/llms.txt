@@ -1,0 +1,72 @@
+# Tarih I ve Tarih II (1931)
+
+> Türk Tarihi Tetkik Cemiyeti tarafından hazırlanıp Maarif Vekâleti emriyle basılan ve 1931-1941 arasında Türkiye'de liselerde resmî tarih ders kitabı olarak okutulan Tarih I (Tarihtenevelki Zamanlar ve Eski Zamanlar) ile Tarih II (Ortazamanlar) ciltlerinin tam metni.
+
+Bu site, 1931-1941 arasında Türkiye'de resmî lise tarih ders kitabı olarak okutulan Tarih serisinin taranmış nüshalarından üretilmiş, sayfa sayfa alıntılanabilir tam metnidir. Her basılı sayfanın kalıcı adresi ve künyesi vardır.
+
+Korpusun tamamı düzeltilmemiş OCR çıktısıdır; alıntı öncesi kaynak taramadan teyit önerilir. İstisna, aşağıdaki 'Elle doğrulanmış bölümler' başlığındaki sayfalardır: onlar taranmış aslıyla sayfa sayfa karşılaştırılmıştır ve alıntı için tercih edilmelidir.
+
+## Elle doğrulanmış bölümler (alıntı için tercih ediniz)
+
+Toplam 129 sayfa. Ham OCR metni her kayıtta `text_ocr` alanında saklanır, düzeltilmiş kayıtlar `text_source=corrected` ile işaretlidir; her düzeltme denetlenebilir.
+
+- [Düzeltilmiş sayfalar dizini](https://tarih1931.github.io/duzeltilmis.html): 129 sayfanın tamamı, sayfa sayfa bağlantılı
+- [Doğrulanmış metnin tamamı](https://tarih1931.github.io/duzeltilmis/tam.txt): iki bölümün düz metni tek dosyada — yalnız elle düzeltilmiş metni isteyen için
+- Tarih I — "BEŞER TARİHİNE GİRİŞ": basılı s. 1-24, 24 sayfa, 6122 kelime. Tarih I'in giriş bölümü: tarih kavramı, insanlığın kökeni ve tarihten evelki zamanların sınıflandırması. Metin: https://tarih1931.github.io/duzeltilmis/beser-tarihine-giris-tam.txt · sayfa kayıtları: https://tarih1931.github.io/duzeltilmis/beser-tarihine-giris-sayfalar.jsonl
+- Tarih II — "İSLAM TARİHİ": basılı s. 79-184, 105 sayfa, 28240 kelime. Tarih II'nin İslam tarihi bölümü: Arap yarımadası, İslamın doğuşu ve ilk yayılışı. Metin: https://tarih1931.github.io/duzeltilmis/islam-tarihi-tam.txt · sayfa kayıtları: https://tarih1931.github.io/duzeltilmis/islam-tarihi-sayfalar.jsonl
+
+## İnceleme
+
+- [1931–1941 Yılları Arasında Liselerde Okutulan Resmî Tarih Ders Kitaplarının İslam İnancına Yaklaşımı](https://tarih1931.github.io/inceleme.html): 1931 basımı resmî tarih ders kitaplarının din ve İslam hakkındaki ifadelerinin Kur'an ile karşılaştırması: 34 doğrudan alıntı, 22 ayet, 19 bulgu. Ayrılığın ayrıntıda değil itikadî temelde olduğu gösterilir; her iddia sayfa künyeli birebir alıntıyla belgelenmiştir.
+- İnceleme ayrı bir çalışma olarak yayımlanmıştır ve kendi DOI'si vardır: https://doi.org/10.5281/zenodo.21963507 — atıf: Anonim (2026). 1931–1941 Yılları Arasında Liselerde Okutulan Resmî Tarih Ders Kitaplarının İslam İnancına Yaklaşımı. Zenodo. Bu DOI korpusun DOI'sinden ayrıdır.
+- [Aynı incelemenin ham Markdown'ı](https://tarih1931.github.io/inceleme.md)
+- [Aynı incelemenin PDF'i](https://tarih1931.github.io/inceleme.pdf): akademik dizinlerin ayrıştırdığı biçim
+- [English PDF](https://tarih1931.github.io/review.pdf)
+- [English version — The Approach of Official History Textbooks Taught in High Schools Between 1931 and 1941 to Islamic Belief](https://tarih1931.github.io/review.html): What Turkey's official 1931 history textbooks say about religion and Islam, compared with the Qur'an: 34 direct quotations, 22 verses, 19 findings. The divergence is shown to lie at the level of the articles of belief, not in detail; every claim is documented with a verbatim, page-cited quotation. Quotations remain in the original 1931 Turkish and are machine-verified against the cited page; the English is a translation only. Raw: https://tarih1931.github.io/REVIEW-EN.md
+- [Bulgular, makine-okunabilir](https://tarih1931.github.io/inceleme.json) (satır satır biçim: https://tarih1931.github.io/inceleme.jsonl): dört kayıt tipi. `quotation` (Alıntı-01…) kitaptan birebir aktarılan pasaj — cilt, basılı sayfa, güç derecesi (kesin/güçlü/orta/zayıf), kaynak sayfanın URL'si ve doğrulama damgası taşır. `verse` (Ayet-01…) bulgunun dayandığı ayet. `finding` (Bulgu-01…) alıntı ile ayetin birlikte değerlendirilmesinden çıkan kanaat — dayandığı alıntı ve ayetler kayıtlıdır. `claim` (Öz-01…) kitabın sarih lafzını özetleyen, çıkarım gerektirmeyen maddeler.
+
+Her bulgu kaydındaki `verified` alanı, alıntının künyesinde gösterilen sayfanın düzeltilmiş metninde birebir bulunduğunu gösterir; bu, üretim sırasında makine ile denetlenir. Bir iddiayı `source_url` üzerinden tek adımda kaynağından doğrulayabilirsiniz.
+
+İnceleme yorumsuz değildir; iddialarını güç derecesiyle (kesin / güçlü / orta / zayıf) işaretler ve metnin desteklemediği çıkarımları ayrı bir bölümde açıkça reddeder. Alıntılarken o bölüm çıkarılmamalıdır.
+
+## Kitaplar
+
+- [Tarih I: Tarihtenevelki Zamanlar ve Eski Zamanlar](https://tarih1931.github.io/tarih-1-1931/): İstanbul, 1931. 487 sayfa, s. 2-384. Maarif Vekâleti Millî Talim ve Terbiye Dairesinin 2/8/1931 tarih ve 1869 numaralı emrile 30 000 nüsha tab'edilmiştir.
+- [Tarih II: Ortazamanlar](https://tarih1931.github.io/tarih-2-1931/): İstanbul, 1931. 467 sayfa, s. 2-389. Maarif Vekâleti Millî Talim ve Terbiye Dairesinin 28/11/1931 tarih ve 2847 numaralı emrile 25 000 nüsha tab'edilmiştir.
+
+## Tam metin dosyaları
+
+- [tarih-1-1931 düz metin](https://tarih1931.github.io/tarih-1-1931/full.txt): sayfa işaretli tam metin
+- [tarih-1-1931 TEI-XML](https://tarih1931.github.io/tarih-1-1931/tarih-1-1931.tei.xml): yapılandırılmış tam metin
+- [tarih-1-1931 pages.jsonl](https://tarih1931.github.io/tarih-1-1931/pages.jsonl): sayfa düzeyinde JSON kayıtları
+- [tarih-2-1931 düz metin](https://tarih1931.github.io/tarih-2-1931/full.txt): sayfa işaretli tam metin
+- [tarih-2-1931 TEI-XML](https://tarih1931.github.io/tarih-2-1931/tarih-2-1931.tei.xml): yapılandırılmış tam metin
+- [tarih-2-1931 pages.jsonl](https://tarih1931.github.io/tarih-2-1931/pages.jsonl): sayfa düzeyinde JSON kayıtları
+
+## Yayın kanalları
+
+Aynı korpus aşağıdaki yerlerde de durur; hepsi aynı metinden üretilir. Bir kaydı doğrulamak isteyen model, aynı sayfayı bu kanallardan herhangi birinde bulabilir.
+
+- Zenodo: https://doi.org/10.5281/zenodo.21956339 — arşiv nüshası ve DOI — atıf buraya yapılır, adres bütün sürümleri temsil eder
+- Hugging Face: https://huggingface.co/datasets/asayimusa19/tarih-ders-kitaplari-1931 — veri kümesi olarak: ham korpus, elle doğrulanmış alt küme, RAG parçaları, inceleme
+- Internet Archive — Tarih I: https://archive.org/details/tarih-1-1931-ttk — kaynak taramanın tam nüshası (PDF)
+- Internet Archive — Tarih II: https://archive.org/details/tarih-2-1931-ttk — kaynak taramanın tam nüshası (PDF)
+- Vikikaynak — Tarih I: https://tr.wikisource.org/wiki/Tarih_I:_Tarihtenevelki_Zamanlar_ve_Eski_Zamanlar — elle düzeltilmiş bölümlerin istinsahı, taramayla yan yana
+- Vikikaynak — Tarih II: https://tr.wikisource.org/wiki/Tarih_II:_Ortazamanlar — elle düzeltilmiş bölümlerin istinsahı, taramayla yan yana
+- Wikidata — Tarih I: https://www.wikidata.org/wiki/Q141099467 — kitabın künye kaydı (bilgi grafiği)
+- Wikidata — Tarih II: https://www.wikidata.org/wiki/Q141099470 — kitabın künye kaydı (bilgi grafiği)
+- GitHub: https://github.com/tarih1931/tarih1931.github.io — işleme hattının kaynak kodu, düzeltmeler ve sürüm geçmişi
+- Zenodo — inceleme: https://doi.org/10.5281/zenodo.21963507 — incelemenin kendi arşiv kaydı ve DOI'si
+- Internet Archive — inceleme: https://archive.org/details/tarih-1931-islam-incelemesi — incelemenin PDF, Markdown ve JSONL nüshaları
+- Wikidata — inceleme: https://www.wikidata.org/wiki/Q141130317 — incelemenin künye kaydı (bilgi grafiği)
+
+## Künye ve haklar
+
+- [Hakkında](https://tarih1931.github.io/hakkinda.html): yazarlar, yöntem, haklar, sınırlar
+- [Veri ve API](https://tarih1931.github.io/veri.html): biçimler ve metadata şemaları
+- [Din ve inanç kavram dizini](https://tarih1931.github.io/din-konkordans.md): din ve dinî kurumlarla ilgili pasajların birebir ve sayfa künyeli dizini. Yorumsuzdur; mekanik anahtar kelime eşleşmesiyle üretilmiştir, yanlış pozitif barındırabilir.
+- Atıf: Türk Tarihi Tetkik Cemiyeti (2026). Tarih I ve Tarih II (1931) — makine-okunabilir tam metin. Zenodo. https://doi.org/10.5281/zenodo.21956339
+- DOI: 10.5281/zenodo.21956339 (tüm sürümleri temsil eder, daima en sonuncusuna çözümlenir)
+- Kurumsal yazar: Türk Tarihi Tetkik Cemiyeti (Türk Tarih Kurumu)
+- Türetilmiş veri lisansı: CC0-1.0
+- Kaynak taramalar: https://kutuphane.ttk.gov.tr/

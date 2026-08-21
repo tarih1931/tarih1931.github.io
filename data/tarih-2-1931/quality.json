@@ -1,0 +1,135 @@
+{
+  "book": "tarih-2-1931",
+  "title": "Tarih II: Ortazamanlar",
+  "physical_pages": 593,
+  "empty_pages": 126,
+  "numbered_pages": 366,
+  "unnumbered_pages": 227,
+  "roman_pages": 16,
+  "page_range": [
+    2,
+    389
+  ],
+  "missing_page_numbers": [
+    9,
+    17,
+    25,
+    33,
+    40,
+    57,
+    73,
+    185,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    217,
+    225,
+    230,
+    231,
+    232,
+    248
+  ],
+  "n_missing": 22,
+  "duplicate_page_numbers": [],
+  "parity_violations": [],
+  "confidence": {
+    "yok": 227,
+    "ocr": 340,
+    "inferred": 26
+  },
+  "characters": 797344,
+  "ocr_health_overall": {
+    "words": 100544,
+    "junk_ratio": 0.0009,
+    "short_word_ratio": 0.1336,
+    "avg_word_len": 6.28
+  },
+  "pages_analysed": 467,
+  "worst_ocr_pages": [
+    {
+      "page_id": "tarih-2-1931-u296s",
+      "printed_page": null,
+      "words": 27,
+      "junk_ratio": 0.1352,
+      "short_word_ratio": 0.8148,
+      "avg_word_len": 1.81
+    },
+    {
+      "page_id": "tarih-2-1931-u155r",
+      "printed_page": null,
+      "words": 71,
+      "junk_ratio": 0.0529,
+      "short_word_ratio": 0.3944,
+      "avg_word_len": 4.1
+    },
+    {
+      "page_id": "tarih-2-1931-u164v",
+      "printed_page": null,
+      "words": 187,
+      "junk_ratio": 0.0526,
+      "short_word_ratio": 0.984,
+      "avg_word_len": 1.21
+    },
+    {
+      "page_id": "tarih-2-1931-u089r",
+      "printed_page": null,
+      "words": 89,
+      "junk_ratio": 0.0359,
+      "short_word_ratio": 0.4719,
+      "avg_word_len": 3.53
+    },
+    {
+      "page_id": "tarih-2-1931-u038v",
+      "printed_page": null,
+      "words": 122,
+      "junk_ratio": 0.0326,
+      "short_word_ratio": 0.5492,
+      "avg_word_len": 3.64
+    },
+    {
+      "page_id": "tarih-2-1931-u089v",
+      "printed_page": null,
+      "words": 85,
+      "junk_ratio": 0.0322,
+      "short_word_ratio": 0.6588,
+      "avg_word_len": 2.74
+    },
+    {
+      "page_id": "tarih-2-1931-u268v",
+      "printed_page": null,
+      "words": 154,
+      "junk_ratio": 0.024,
+      "short_word_ratio": 0.3182,
+      "avg_word_len": 5.02
+    },
+    {
+      "page_id": "tarih-2-1931-u226v",
+      "printed_page": null,
+      "words": 54,
+      "junk_ratio": 0.0226,
+      "short_word_ratio": 0.6667,
+      "avg_word_len": 3.04
+    },
+    {
+      "page_id": "tarih-2-1931-u196r",
+      "printed_page": null,
+      "words": 43,
+      "junk_ratio": 0.019,
+      "short_word_ratio": 0.3721,
+      "avg_word_len": 4.16
+    },
+    {
+      "page_id": "tarih-2-1931-u165r",
+      "printed_page": null,
+      "words": 49,
+      "junk_ratio": 0.0168,
+      "short_word_ratio": 0.5306,
+      "avg_word_len": 3.37
+    }
+  ]
+}

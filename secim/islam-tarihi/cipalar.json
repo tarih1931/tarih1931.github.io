@@ -1,0 +1,845 @@
+{
+ "slug": "islam-tarihi",
+ "anchors": [
+  {
+   "printed_page": 79,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0079",
+   "offset": 0,
+   "sinir": null,
+   "citation": "Tarih II (1931), s. 79"
+  },
+  {
+   "printed_page": 80,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0080",
+   "offset": 1529,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 80"
+  },
+  {
+   "printed_page": 81,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0081",
+   "offset": 3613,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 81"
+  },
+  {
+   "printed_page": 82,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0082",
+   "offset": 5793,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 82"
+  },
+  {
+   "printed_page": 84,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0084",
+   "offset": 8074,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 84"
+  },
+  {
+   "printed_page": 85,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0085",
+   "offset": 10162,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 85"
+  },
+  {
+   "printed_page": 86,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0086",
+   "offset": 12432,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 86"
+  },
+  {
+   "printed_page": 87,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0087",
+   "offset": 14352,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 87"
+  },
+  {
+   "printed_page": 88,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0088",
+   "offset": 16555,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 88"
+  },
+  {
+   "printed_page": 89,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0089",
+   "offset": 18735,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 89"
+  },
+  {
+   "printed_page": 90,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0090",
+   "offset": 20791,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 90"
+  },
+  {
+   "printed_page": 91,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0091",
+   "offset": 22897,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 91"
+  },
+  {
+   "printed_page": 92,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0092",
+   "offset": 24986,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 92"
+  },
+  {
+   "printed_page": 93,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0093",
+   "offset": 26981,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 93"
+  },
+  {
+   "printed_page": 94,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0094",
+   "offset": 28927,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 94"
+  },
+  {
+   "printed_page": 95,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0095",
+   "offset": 30980,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 95"
+  },
+  {
+   "printed_page": 96,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0096",
+   "offset": 33041,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 96"
+  },
+  {
+   "printed_page": 97,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0097",
+   "offset": 35126,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 97"
+  },
+  {
+   "printed_page": 98,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0098",
+   "offset": 37347,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 98"
+  },
+  {
+   "printed_page": 99,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0099",
+   "offset": 39490,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 99"
+  },
+  {
+   "printed_page": 100,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0100",
+   "offset": 41550,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 100"
+  },
+  {
+   "printed_page": 101,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0101",
+   "offset": 43647,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 101"
+  },
+  {
+   "printed_page": 102,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0102",
+   "offset": 45888,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 102"
+  },
+  {
+   "printed_page": 103,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0103",
+   "offset": 47893,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 103"
+  },
+  {
+   "printed_page": 104,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0104",
+   "offset": 49898,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 104"
+  },
+  {
+   "printed_page": 105,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0105",
+   "offset": 51950,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 105"
+  },
+  {
+   "printed_page": 106,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0106",
+   "offset": 54013,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 106"
+  },
+  {
+   "printed_page": 107,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0107",
+   "offset": 56043,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 107"
+  },
+  {
+   "printed_page": 108,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0108",
+   "offset": 58312,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 108"
+  },
+  {
+   "printed_page": 109,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0109",
+   "offset": 60437,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 109"
+  },
+  {
+   "printed_page": 110,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0110",
+   "offset": 62592,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 110"
+  },
+  {
+   "printed_page": 111,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0111",
+   "offset": 64815,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 111"
+  },
+  {
+   "printed_page": 112,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0112",
+   "offset": 66816,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 112"
+  },
+  {
+   "printed_page": 113,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0113",
+   "offset": 68794,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 113"
+  },
+  {
+   "printed_page": 114,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0114",
+   "offset": 70795,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 114"
+  },
+  {
+   "printed_page": 115,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0115",
+   "offset": 73055,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 115"
+  },
+  {
+   "printed_page": 116,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0116",
+   "offset": 75213,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 116"
+  },
+  {
+   "printed_page": 117,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0117",
+   "offset": 77333,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 117"
+  },
+  {
+   "printed_page": 118,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0118",
+   "offset": 79463,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 118"
+  },
+  {
+   "printed_page": 119,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0119",
+   "offset": 81495,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 119"
+  },
+  {
+   "printed_page": 120,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0120",
+   "offset": 83402,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 120"
+  },
+  {
+   "printed_page": 121,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0121",
+   "offset": 85451,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 121"
+  },
+  {
+   "printed_page": 122,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0122",
+   "offset": 87527,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 122"
+  },
+  {
+   "printed_page": 123,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0123",
+   "offset": 89658,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 123"
+  },
+  {
+   "printed_page": 124,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0124",
+   "offset": 91673,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 124"
+  },
+  {
+   "printed_page": 125,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0125",
+   "offset": 93859,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 125"
+  },
+  {
+   "printed_page": 126,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0126",
+   "offset": 95711,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 126"
+  },
+  {
+   "printed_page": 127,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0127",
+   "offset": 97743,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 127"
+  },
+  {
+   "printed_page": 128,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0128",
+   "offset": 99899,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 128"
+  },
+  {
+   "printed_page": 129,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0129",
+   "offset": 101944,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 129"
+  },
+  {
+   "printed_page": 130,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0130",
+   "offset": 104057,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 130"
+  },
+  {
+   "printed_page": 131,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0131",
+   "offset": 106187,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 131"
+  },
+  {
+   "printed_page": 132,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0132",
+   "offset": 108290,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 132"
+  },
+  {
+   "printed_page": 133,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0133",
+   "offset": 110288,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 133"
+  },
+  {
+   "printed_page": 134,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0134",
+   "offset": 112411,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 134"
+  },
+  {
+   "printed_page": 135,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0135",
+   "offset": 114429,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 135"
+  },
+  {
+   "printed_page": 136,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0136",
+   "offset": 116541,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 136"
+  },
+  {
+   "printed_page": 137,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0137",
+   "offset": 118688,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 137"
+  },
+  {
+   "printed_page": 138,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0138",
+   "offset": 120839,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 138"
+  },
+  {
+   "printed_page": 139,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0139",
+   "offset": 122892,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 139"
+  },
+  {
+   "printed_page": 140,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0140",
+   "offset": 125137,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 140"
+  },
+  {
+   "printed_page": 141,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0141",
+   "offset": 127442,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 141"
+  },
+  {
+   "printed_page": 142,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0142",
+   "offset": 129643,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 142"
+  },
+  {
+   "printed_page": 143,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0143",
+   "offset": 131823,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 143"
+  },
+  {
+   "printed_page": 144,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0144",
+   "offset": 133881,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 144"
+  },
+  {
+   "printed_page": 145,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0145",
+   "offset": 136053,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 145"
+  },
+  {
+   "printed_page": 146,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0146",
+   "offset": 138281,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 146"
+  },
+  {
+   "printed_page": 147,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0147",
+   "offset": 140362,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 147"
+  },
+  {
+   "printed_page": 148,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0148",
+   "offset": 142529,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 148"
+  },
+  {
+   "printed_page": 149,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0149",
+   "offset": 144669,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 149"
+  },
+  {
+   "printed_page": 150,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0150",
+   "offset": 146430,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 150"
+  },
+  {
+   "printed_page": 151,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0151",
+   "offset": 148481,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 151"
+  },
+  {
+   "printed_page": 152,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0152",
+   "offset": 150770,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 152"
+  },
+  {
+   "printed_page": 153,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0153",
+   "offset": 152838,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 153"
+  },
+  {
+   "printed_page": 154,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0154",
+   "offset": 155084,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 154"
+  },
+  {
+   "printed_page": 155,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0155",
+   "offset": 157213,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 155"
+  },
+  {
+   "printed_page": 156,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0156",
+   "offset": 159428,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 156"
+  },
+  {
+   "printed_page": 157,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0157",
+   "offset": 161692,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 157"
+  },
+  {
+   "printed_page": 158,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0158",
+   "offset": 163953,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 158"
+  },
+  {
+   "printed_page": 159,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0159",
+   "offset": 166183,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 159"
+  },
+  {
+   "printed_page": 160,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0160",
+   "offset": 168478,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 160"
+  },
+  {
+   "printed_page": 161,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0161",
+   "offset": 170758,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 161"
+  },
+  {
+   "printed_page": 162,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0162",
+   "offset": 173002,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 162"
+  },
+  {
+   "printed_page": 163,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0163",
+   "offset": 175271,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 163"
+  },
+  {
+   "printed_page": 164,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0164",
+   "offset": 177410,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 164"
+  },
+  {
+   "printed_page": 165,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0165",
+   "offset": 179633,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 165"
+  },
+  {
+   "printed_page": 166,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0166",
+   "offset": 181860,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 166"
+  },
+  {
+   "printed_page": 167,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0167",
+   "offset": 183987,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 167"
+  },
+  {
+   "printed_page": 168,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0168",
+   "offset": 186158,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 168"
+  },
+  {
+   "printed_page": 169,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0169",
+   "offset": 188484,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 169"
+  },
+  {
+   "printed_page": 170,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0170",
+   "offset": 190668,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 170"
+  },
+  {
+   "printed_page": 171,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0171",
+   "offset": 192699,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 171"
+  },
+  {
+   "printed_page": 172,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0172",
+   "offset": 194915,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 172"
+  },
+  {
+   "printed_page": 173,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0173",
+   "offset": 197199,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 173"
+  },
+  {
+   "printed_page": 174,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0174",
+   "offset": 199424,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 174"
+  },
+  {
+   "printed_page": 175,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0175",
+   "offset": 201537,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 175"
+  },
+  {
+   "printed_page": 176,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0176",
+   "offset": 203799,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 176"
+  },
+  {
+   "printed_page": 177,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0177",
+   "offset": 206014,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 177"
+  },
+  {
+   "printed_page": 178,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0178",
+   "offset": 208276,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 178"
+  },
+  {
+   "printed_page": 179,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0179",
+   "offset": 210401,
+   "sinir": "bitisik",
+   "citation": "Tarih II (1931), s. 179"
+  },
+  {
+   "printed_page": 180,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0180",
+   "offset": 212559,
+   "sinir": "paragraf",
+   "citation": "Tarih II (1931), s. 180"
+  },
+  {
+   "printed_page": 181,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0181",
+   "offset": 214807,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 181"
+  },
+  {
+   "printed_page": 182,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0182",
+   "offset": 217005,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 182"
+  },
+  {
+   "printed_page": 183,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0183",
+   "offset": 219274,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 183"
+  },
+  {
+   "printed_page": 184,
+   "inferred_page": null,
+   "page_id": "tarih-2-1931-p0184",
+   "offset": 221269,
+   "sinir": "bosluk",
+   "citation": "Tarih II (1931), s. 184"
+  }
+ ]
+}

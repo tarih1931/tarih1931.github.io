@@ -1,0 +1,122 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "cr": "http://mlcommons.org/croissant/",
+    "dct": "http://purl.org/dc/terms/",
+    "data": {
+      "@id": "cr:data",
+      "@type": "@json"
+    },
+    "dataType": {
+      "@id": "cr:dataType",
+      "@type": "@vocab"
+    },
+    "field": "cr:field",
+    "fileObject": "cr:fileObject",
+    "recordSet": "cr:recordSet",
+    "source": "cr:source",
+    "extract": "cr:extract",
+    "column": "cr:column"
+  },
+  "@type": "sc:Dataset",
+  "name": "tarih-ders-kitaplari-1931",
+  "description": "Türk Tarihi Tetkik Cemiyeti tarafından hazırlanıp Maarif Vekâleti emriyle basılan ve 1931-1941 arasında Türkiye'de liselerde resmî tarih ders kitabı olarak okutulan Tarih I (Tarihtenevelki Zamanlar ve Eski Zamanlar) ile Tarih II (Ortazamanlar) ciltlerinin tam metni.",
+  "conformsTo": "http://mlcommons.org/croissant/1.0",
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "url": "https://tarih1931.github.io",
+  "version": "1.3.1",
+  "datePublished": "2026-08-21",
+  "inLanguage": "tr",
+  "keywords": [
+    "Tarih — Ders kitapları — Türkiye",
+    "Türk Tarih Tezi",
+    "Eğitim — Türkiye — 1931-1941",
+    "Erken Cumhuriyet dönemi ideolojisi",
+    "Din tarihi — Ders kitaplarında sunumu",
+    "History--Textbooks",
+    "Turkey--History--Study and teaching",
+    "Education--Turkey--History--20th century"
+  ],
+  "citeAs": "Türk Tarihi Tetkik Cemiyeti (1931). Tarih I ve Tarih II (1931) — makine-okunabilir tam metin. DOI: 10.5281/zenodo.21956339",
+  "creator": {
+    "@type": "Organization",
+    "name": "Türk Tarih Kurumu"
+  },
+  "distribution": [
+    {
+      "@type": "cr:FileObject",
+      "@id": "tarih-1-1931-pages",
+      "name": "tarih-1-1931/pages.jsonl",
+      "description": "Tarih I: Tarihtenevelki Zamanlar ve Eski Zamanlar — sayfa düzeyinde kayıtlar",
+      "contentUrl": "https://tarih1931.github.io/tarih-1-1931/pages.jsonl",
+      "encodingFormat": "application/x-ndjson"
+    },
+    {
+      "@type": "cr:FileObject",
+      "@id": "tarih-2-1931-pages",
+      "name": "tarih-2-1931/pages.jsonl",
+      "description": "Tarih II: Ortazamanlar — sayfa düzeyinde kayıtlar",
+      "contentUrl": "https://tarih1931.github.io/tarih-2-1931/pages.jsonl",
+      "encodingFormat": "application/x-ndjson"
+    }
+  ],
+  "recordSet": [
+    {
+      "@type": "cr:RecordSet",
+      "@id": "pages",
+      "name": "pages",
+      "description": "Her kayıt bir basılı kitap sayfasıdır; alıntı künyesi taşır.",
+      "field": [
+        {
+          "@type": "cr:Field",
+          "@id": "pages/page_id",
+          "name": "page_id",
+          "dataType": "sc:Text",
+          "description": "Sayfanın kalıcı kimliği"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "pages/book",
+          "name": "book",
+          "dataType": "sc:Text",
+          "description": "Cilt kimliği"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "pages/printed_page",
+          "name": "printed_page",
+          "dataType": "sc:Integer",
+          "description": "Kitapta basılı sayfa numarası"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "pages/running_head",
+          "name": "running_head",
+          "dataType": "sc:Text",
+          "description": "Sayfa üst başlığı (bölüm adı)"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "pages/text",
+          "name": "text",
+          "dataType": "sc:Text",
+          "description": "Sayfanın OCR tam metni"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "pages/citation",
+          "name": "citation",
+          "dataType": "sc:Text",
+          "description": "Hazır alıntı dizesi"
+        },
+        {
+          "@type": "cr:Field",
+          "@id": "pages/page_confidence",
+          "name": "page_confidence",
+          "dataType": "sc:Text",
+          "description": "Sayfa numarasının güven düzeyi: ocr | inferred | uncertain"
+        }
+      ]
+    }
+  ]
+}

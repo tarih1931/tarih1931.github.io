@@ -1,0 +1,157 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "https://tarih1931.github.io/tarih-2-1931/",
+  "name": "Tarih II: Ortazamanlar",
+  "alternateName": "Tarih II",
+  "bookEdition": "1. basım",
+  "datePublished": "1931",
+  "inLanguage": "tr",
+  "numberOfPages": 389,
+  "isPartOf": {
+    "@type": "BookSeries",
+    "name": "Tarih I ve Tarih II (1931)",
+    "numberOfVolumes": 2
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Türk Tarihi Tetkik Cemiyeti",
+    "alternateName": "Türk Tarih Kurumu"
+  },
+  "contributor": [
+    {
+      "@type": "Person",
+      "name": "Mahmut Tevfik Bıyıklıoğlu",
+      "alternateName": "M. Tevfik Bey",
+      "jobTitle": "Riyaseticümhur Umumî Kâtibi ve Türk Tarihi Tetkik Cemiyeti Reisi"
+    },
+    {
+      "@type": "Person",
+      "name": "Samih Rifat",
+      "alternateName": "Samih Rifat Bey",
+      "jobTitle": "Çanakkale Meb'usu ve T. T. T. C. Reis Vekili"
+    },
+    {
+      "@type": "Person",
+      "name": "Yusuf Akçura",
+      "alternateName": "Akçuraoğlu Yusuf Bey",
+      "jobTitle": "İstanbul Meb'usu, Ankara Hukuk Mektebi Siyasî Tarih Profesörü ve T. T. T. C. Reis Vekili"
+    },
+    {
+      "@type": "Person",
+      "name": "Reşit Galip",
+      "alternateName": "Reşit Galip Bey",
+      "jobTitle": "Aydın Meb'usu ve T. T. T. C. Umumî Kâtibi"
+    },
+    {
+      "@type": "Person",
+      "name": "Hasan Cemil Çambel",
+      "alternateName": "Hasan Cemil Bey",
+      "jobTitle": "Bolu Meb'usu ve T. T. T. C. Azası"
+    },
+    {
+      "@type": "Person",
+      "name": "Afet İnan",
+      "alternateName": "Afet Hanımefendi",
+      "jobTitle": "Musiki Muallim Mektebi Tarih ve Medenî Bilgiler Muallimi ve T. T. T. C. Azası"
+    },
+    {
+      "@type": "Person",
+      "name": "Baki Vandemir",
+      "alternateName": "Baki Bey",
+      "jobTitle": "Erkânı Harbiye Miralayı, Büyük Erkânı Harbiye Harp Tarihi İkinci Şube Müdürü"
+    },
+    {
+      "@type": "Person",
+      "name": "İsmail Hakkı Uzunçarşılı",
+      "alternateName": "İsmail Hakkı Bey",
+      "jobTitle": "Balıkesir Meb'usu ve T. T. T. C. Azası"
+    },
+    {
+      "@type": "Person",
+      "name": "Reşit Saffet Atabinen",
+      "alternateName": "Reşit Saffet Bey",
+      "jobTitle": "Kocaeli Meb'usu ve T. T. T. C. Azası"
+    },
+    {
+      "@type": "Person",
+      "name": "Sadri Maksudi Arsal",
+      "alternateName": "Sadri Maksudi Bey",
+      "jobTitle": "Şarkî Karahisar Meb'usu ve T. T. T. C. Azası"
+    },
+    {
+      "@type": "Person",
+      "name": "Mehmet Şemsettin Günaltay",
+      "alternateName": "Şemseddin Bey",
+      "jobTitle": "Sivas Meb'usu ve İstanbul Darülfünunu Türk Tarihi Sabık Profesörü ve T. T. T. C. Azası"
+    },
+    {
+      "@type": "Person",
+      "name": "Şemsi Bey",
+      "alternateName": "Şemsi Bey",
+      "jobTitle": "Miralay, Harita Umum Müdürlüğü Harita Şubesi Müdürü"
+    },
+    {
+      "@type": "Person",
+      "name": "Yusuf Ziya Özer",
+      "alternateName": "Yusuf Ziya Bey",
+      "jobTitle": "Eskişehir Meb'usu, İstanbul Darülfünunu Hukuk Tarihi Sabık Profesörü ve T. T. T. C. Azası"
+    }
+  ],
+  "publisher": {
+    "@type": "Organization",
+    "name": "Maarif Vekâleti"
+  },
+  "locationCreated": {
+    "@type": "Place",
+    "name": "İstanbul"
+  },
+  "about": [
+    "Tarih — Ders kitapları — Türkiye",
+    "Türk Tarih Tezi",
+    "Eğitim — Türkiye — 1931-1941",
+    "Erken Cumhuriyet dönemi ideolojisi",
+    "Din tarihi — Ders kitaplarında sunumu"
+  ],
+  "keywords": "Tarih — Ders kitapları — Türkiye, Türk Tarih Tezi, Eğitim — Türkiye — 1931-1941, Erken Cumhuriyet dönemi ideolojisi, Din tarihi — Ders kitaplarında sunumu, History--Textbooks, Turkey--History--Study and teaching, Education--Turkey--History--20th century",
+  "genre": [
+    "Ders kitabı",
+    "Tarih"
+  ],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "usageInfo": "https://rightsstatements.org/vocab/NoC-OKLR/1.0/",
+  "isAccessibleForFree": true,
+  "identifier": [
+    {
+      "@type": "PropertyValue",
+      "propertyID": "DOI",
+      "value": "10.5281/zenodo.21956339"
+    },
+    {
+      "@type": "PropertyValue",
+      "propertyID": "TTK-item",
+      "value": "267295"
+    }
+  ],
+  "sameAs": [
+    "https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416"
+  ],
+  "description": "Tarih II: Ortazamanlar, Türk Tarihi Tetkik Cemiyeti tarafından hazırlanmış ve Maarif Vekâleti Millî Talim ve Terbiye Dairesinin 28/11/1931 tarih ve 2847 numaralı emrile 25 000 nüsha tab'edilmiştir. Türkiye Cumhuriyeti liselerinde 1931-1941 arasında okutulan resmî tarih ders kitabıdır. Bu sayfa, taranmış nüshadan üretilmiş, sayfa numaralarıyla eşlenmiş makine-okunabilir tam metni sunar.",
+  "encoding": [
+    {
+      "@type": "MediaObject",
+      "encodingFormat": "text/plain",
+      "contentUrl": "https://tarih1931.github.io/tarih-2-1931/full.txt"
+    },
+    {
+      "@type": "MediaObject",
+      "encodingFormat": "application/tei+xml",
+      "contentUrl": "https://tarih1931.github.io/tarih-2-1931/tarih-2-1931.tei.xml"
+    },
+    {
+      "@type": "MediaObject",
+      "encodingFormat": "application/x-ndjson",
+      "contentUrl": "https://tarih1931.github.io/tarih-2-1931/pages.jsonl"
+    }
+  ]
+}
