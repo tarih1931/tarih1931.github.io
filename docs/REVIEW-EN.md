@@ -81,7 +81,7 @@ Each finding is given together with the quotation and the verse it rests on.
 > fear, the ancestor cult, the tribal god, shared customs, a priestly class and
 > finally the concept of unity. In the Qur'an, by contrast, religion is not the
 > outcome of an evolution but the single principle God enjoined on every prophet
-> from Noah to Jesus. *(Quote-01, Quote-02, Quote-03 · Verse-01, Verse-02)*
+> from Noah to Jesus.
 
 #### Religion is an institution brought into being by human beings
 
@@ -95,7 +95,7 @@ Each finding is given together with the quotation and the verse it rests on.
 
 > **[Finding-02]** Religion is counted an institution founded by human beings, like
 > the other social institutions. In the Qur'an the giver of religion is God. The
-> two accounts of origin cannot be reconciled. *(Quote-04 · Verse-03)*
+> two accounts of origin cannot be reconciled.
 
 #### Divinity is a concept found by human intelligence
 
@@ -125,7 +125,7 @@ Each finding is given together with the quotation and the verse it rests on.
 > the real being who encompasses perception. An explanation that makes divinity a
 > human construct is, in doctrinal terms, **a denial of divinity**. The books put
 > society in the place thus vacated: the source of peace and security is now
-> society. *(Quote-05, Quote-06, Quote-07 · Verse-04)*
+> society.
 
 #### The whole of the unseen is declared "fabrication"
 
@@ -141,7 +141,6 @@ Each finding is given together with the quotation and the verse it rests on.
 > mind, a "fabrication". This principle covers not one article of belief but the
 > whole of the unseen; faith in the unseen cannot be built upon it. Yet belief in
 > the unseen is the first quality the Qur'an names when it describes the believers.
-> *(Quote-08 · Verse-05)*
 
 #### Primitive man has no religion; unity comes later
 
@@ -161,7 +160,7 @@ Each finding is given together with the quotation and the verse it rests on.
 > **[Finding-05]** According to the books, primitive man had no idea whatever of God
 > or religion; the concept of unity, which resembles tawhid, is not the beginning
 > but a late stage of evolution. The Qur'an states that man is created upon a
-> natural disposition. The books reverse the order. *(Quote-09, Quote-10 · Verse-06)*
+> natural disposition. The books reverse the order.
 
 ### 3.2 Creation and the origin of man
 
@@ -185,7 +184,7 @@ Each finding is given together with the quotation and the verse it rests on.
 > knowledge; yet they do not apply that caution to the negative verdict — a matter
 > admitted to be unknown is settled by excluding any agent outside nature from the
 > outset. The Qur'an, by contrast, ties creation not to chance but to intent and
-> measure. *(Quote-11, Quote-12 · Verse-07)*
+> measure.
 
 #### Man is counted a creature of nature
 
@@ -202,7 +201,7 @@ Each finding is given together with the quotation and the verse it rests on.
 
 > **[Finding-07]** In the books nature is presented as the creator of man: what is
 > taught is that man is the created and nature the creator. In the Qur'an the creator of man is God. The agent
-> of the act has been changed. *(Quote-13, Quote-14 · Verse-08)*
+> of the act has been changed.
 
 #### Man is placed at the end of the animal chain
 
@@ -237,7 +236,6 @@ Each finding is given together with the quotation and the verse it rests on.
 > from apes?". The real division lies in whether divine knowledge, power and will —
 > or transformative processes operating within nature — is accepted as the
 > fundamental explanation of the creation of man and of living things.
-> *(Quote-15, Quote-16, Quote-17, Quote-18 · Verse-09)*
 
 ### 3.3 Revelation, prophethood and the source of the Qur'an
 
@@ -259,7 +257,6 @@ This is the densest axis of the report.
 > tradition … it is accepted". The divine source belongs to tradition, the human
 > explanation to the books themselves. The Qur'an, by contrast, states revelation
 > not as a report of tradition but in its own voice, as a definitive judgement.
-> *(Quote-19 · Verse-10)*
 
 #### Revelation is counted the product of a long reflection
 
@@ -289,7 +286,7 @@ This is the densest axis of the report.
 > gravest consequence, and it records that the characterisation was itself the
 > outcome of deliberation — "he reflected and deliberated". The verdict of the
 > books is that very expression which the Qur'an rejects; that it was long
-> deliberated does not justify it. *(Quote-20, Quote-21, Quote-22 · Verse-11)*
+> deliberated does not justify it.
 
 #### The Prophet is counted a founder and the definition of messengership is declared an error
 
@@ -319,8 +316,7 @@ This is the densest axis of the report.
 > has ever claimed, and the direct target of the rejection is that caricature of
 > passivity. (b) Even so, the part "who takes everything from an angel and
 > conveys it exactly" does correspond to the definition of messengership, and
-> Quote-22 closes off any mitigating reading. *(Quote-23, Quote-24 · Verse-12,
-> Verse-13)*
+> Quote-22 closes off any mitigating reading.
 
 #### The same pattern is applied to Moses
 
@@ -336,7 +332,7 @@ This is the densest axis of the report.
 > the conceptions of Midian, he laid down the principles of his religion himself.
 > The verdict is thus extended not to a single prophet but to the institution of
 > prophethood as a whole. In the Qur'an Moses does not found his religion; he is
-> chosen, and revelation is given to him. *(Quote-25 · Verse-14)*
+> chosen, and revelation is given to him.
 
 ### 3.4 The origin of belief in jinn and angels
 
@@ -360,8 +356,7 @@ This is the densest axis of the report.
 > reconciled. *Three words take the passage out of the descriptive:* **"güya"**
 > ("supposedly" — the books do not treat the act as real), **"dahi"** ("too" — a
 > belief one would not expect him to share), and **"kuvvetlendirmiştir"**
-> ("strengthened it" — the belief was acquired later). *(Quote-26 · Verse-15,
-> Verse-16)*
+> ("strengthened it" — the belief was acquired later).
 
 #### The source of the conception of angels is tied to earlier religions
 
@@ -387,7 +382,7 @@ This is the densest axis of the report.
 > voice; they refer it to the religions with the qualification "in the view of
 > the religions". This is the same construction as "in Islamic tradition … it is
 > accepted" in Quote-19: the verdict is referred elsewhere, and the books do not
-> affirm it. *(Quote-27, Quote-28 · Verse-17)*
+> affirm it.
 
 ### 3.5 Scripture, law and sacred place
 
@@ -405,7 +400,7 @@ This is the densest axis of the report.
 > **[Finding-15]** That the Kaaba was built by Abraham and Ishmael is declared a
 > set of "tales fabricated later". Yet this is an explicit statement of the Qur'an.
 > To count as a tale a report established by definitive scripture is a direct
-> conflict with scripture. *(Quote-29 · Verse-18)*
+> conflict with scripture.
 
 #### The origin of sanctity is tied to a human and political ground
 
@@ -426,7 +421,6 @@ This is the densest axis of the report.
 > black stone, and religious forms to the aim of preventing wars: sanctity is
 > derived not from revelation but from earlier customs and political need. In the
 > Qur'an it is God who made the House the first house established for mankind.
-> *(Quote-30, Quote-31 · Verse-19)*
 
 #### The permanence of the law is removed by implication
 
@@ -444,7 +438,7 @@ This is the densest axis of the report.
 > the extension to Qur'anic rulings follows from the implication of the word
 > "dahi" ("too") — a strong implication, but not an explicit statement. In the
 > Qur'an the authority to abrogate belongs to God; a ruling changes only by
-> revelation. *(Quote-32 · Verse-20)*
+> revelation.
 
 ---
 
@@ -476,7 +470,7 @@ are not a doctrinal acceptance**; the reason is set out in [section 4.2](#s-4-2-
 > prophethood — the merits are attributed to the person himself, to his own effort
 > and to his works. In the Qur'an what distinguishes the Prophet is not his
 > personal merits but that **revelation is given to him**; being human and being a
-> messenger are stated together in the same verse. *(Quote-33, Quote-34 · Verse-21)*
+> messenger are stated together in the same verse.
 
 ### 4.2 Praise does not soften the doctrinal conflict
 
@@ -530,7 +524,7 @@ and the claim to messengership together.
 > occurred. Whatever is said about the Prophet's morals, the verdict on the source
 > of the Qur'an does not change: the Qur'an has been removed from being the word of
 > God. The quotations it rests on are in [section 3.3](#s-3-3-revelation-prophethood-and-the-source-of-the-qur-an); this section discusses their
-> doctrinal consequence. *(Quote-19, Quote-20, Quote-22, Quote-33, Quote-34 · Verse-22)*
+> doctrinal consequence.
 
 ---
 

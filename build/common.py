@@ -206,7 +206,7 @@ LIST_RE = re.compile(r"^\s*(?:\d+\.|[-*])\s+(.*)$")
 #   [[Alıntı-01](url)]  sayfasına bağlı alıntı işareti
 #   [Alıntı-01](url)    aynısının dış parantezsiz hâli
 #   [Ayet-01]           çıplak işaret
-#   Alıntı-01           dayanak künyesi, aralık, metin içi atıf
+#   Alıntı-01           §2 aralığı, §5 künyesi, metin içi atıf
 #
 # İngilizce sürüm aynı işaretleri kendi diliyle yazar (Quote/Verse/Finding) ve
 # aynı renkleri alır. Öz ve Claim serileri listede yoktur: onların işareti

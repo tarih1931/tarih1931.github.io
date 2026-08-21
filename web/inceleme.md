@@ -67,7 +67,7 @@ Her bulgu, dayandığı alıntı ve ayetle birlikte verilmiştir.
 > **[Bulgu-01]** Kitap dinin doğuşunu tamamen beşerî bir zincire bağlar: korku, ata
 > kültü, kabile allahı, müşterek âdetler, rahip sınıfı ve nihayet vahdet mefhumu.
 > Kur'an'da ise din bir tekâmülün neticesi değil, Allah'ın Nuh'tan İsa'ya kadar
-> bütün peygamberlere emrettiği tek esastır. *(Alıntı-01, Alıntı-02, Alıntı-03 · Ayet-01, Ayet-02)*
+> bütün peygamberlere emrettiği tek esastır.
 
 #### Din, insanların vücuda getirdiği bir müessesedir
 
@@ -79,7 +79,6 @@ Her bulgu, dayandığı alıntı ve ayetle birlikte verilmiştir.
 
 > **[Bulgu-02]** Din, diğer içtimaî müesseseler gibi insanların kurduğu bir müessese
 > sayılır. Kur'an'da dinin vâzıı Allah'tır. İki menşe anlatısı uzlaşmaz.
-> *(Alıntı-04 · Ayet-03)*
 
 #### Ulûhiyet, insan zekâsının bulduğu bir mefhumdur
 
@@ -102,7 +101,7 @@ Her bulgu, dayandığı alıntı ve ayetle birlikte verilmiştir.
 > idrakinin kuşattığı bir mefhum değil, idraki kuşatan hakikî varlıktır. Ulûhiyeti
 > beşerî bir yapıntı sayan bir izah, itikad bakımından **ulûhiyetin reddidir**.
 > Kitap, boşalan yere cemiyeti koyar: nihaî huzur ve emniyet membaı artık
-> cemiyettir. *(Alıntı-05, Alıntı-06, Alıntı-07 · Ayet-04)*
+> cemiyettir.
 
 #### Gaybın tamamı "uydurma" ilan edilir
 
@@ -115,7 +114,7 @@ Her bulgu, dayandığı alıntı ve ayetle birlikte verilmiştir.
 > **[Bulgu-04]** Tabiatın fevkindeki ve haricindeki bütün mefhumlar, insan dimağı
 > için "uydurma" ilan edilir. Bu ilke yalnız bir esası değil, gaybın tamamını
 > kapsar; üzerine gayba iman kurulamaz. Oysa gayba iman, Kur'an'ın müminleri
-> tarif ederken saydığı ilk vasıftır. *(Alıntı-08 · Ayet-05)*
+> tarif ederken saydığı ilk vasıftır.
 
 #### İptidaî insanda din yoktur; vahdet sonradan gelir
 
@@ -132,7 +131,7 @@ Her bulgu, dayandığı alıntı ve ayetle birlikte verilmiştir.
 > **[Bulgu-05]** Kitaba göre iptidaî insanda Allah ve din hakkında hiçbir fikir
 > yoktu; tevhide benzeyen vahdet mefhumu başlangıç değil, tekâmülün geç bir
 > merhalesidir. Kur'an ise insanın fıtrat üzere yaratıldığını bildirir. Kitap,
-> sıralamayı tersine çevirir. *(Alıntı-09, Alıntı-10 · Ayet-06)*
+> sıralamayı tersine çevirir.
 
 ### 3.2 Yaratılış ve insanın menşei
 
@@ -151,7 +150,7 @@ Her bulgu, dayandığı alıntı ve ayetle birlikte verilmiştir.
 > aynı sayfada kendi bilgisinin sınırını da açıkça teslim eder; fakat bu ihtiyadı
 > menfî hükme uygulamaz — bilinmediği kabul edilen bir mesele, tabiat dışı âmil
 > baştan dışarıda bırakılarak karara bağlanır. Kur'an ise yaratılışı tesadüfe
-> değil kasda ve ölçüye bağlar. *(Alıntı-11, Alıntı-12 · Ayet-07)*
+> değil kasda ve ölçüye bağlar.
 
 #### İnsan, tabiatın mahlûku sayılır
 
@@ -163,7 +162,7 @@ Her bulgu, dayandığı alıntı ve ayetle birlikte verilmiştir.
 > **[Ayet-08]** "Allah katında İsa'nın durumu, Âdem'in durumu gibidir. Onu topraktan
 > yarattı; sonra ona 'Ol' dedi, o da oluverdi." — **Âl-i İmrân 59**
 
-> **[Bulgu-07]** Kitapta tabiat insanın hâlıkı olarak gösterilir. İnsan mahlûk, tabiat hâlık öğretisi verilir. Kur'an'da ise insanın hâlıkı Allah olarak takdim edilir. Fiilin fâili değişmiştir. *(Alıntı-13, Alıntı-14 · Ayet-08)*
+> **[Bulgu-07]** Kitapta tabiat insanın hâlıkı olarak gösterilir. İnsan mahlûk, tabiat hâlık öğretisi verilir. Kur'an'da ise insanın hâlıkı Allah olarak takdim edilir. Fiilin fâili değişmiştir.
 
 #### İnsan, hayvan zincirinin son halkasına yerleştirilir
 
@@ -183,7 +182,7 @@ Her bulgu, dayandığı alıntı ve ayetle birlikte verilmiştir.
 > **[Ayet-09]** "Sizi bir tek nefisten yaratan, ondan da eşini var eden ve ikisinden
 > birçok erkek ve kadın türeten Rabbinize karşı gelmekten sakının." — **Nisâ 1**
 
-> **[Bulgu-08]** Kitapta, insanın basit canlılardan uzun bir tekâmül süreciyle meydana geldiği kanaatini ortaya koymaktadır. Yaratılış, tabiat merkezli bir süreç olarak izah edilir. Kur'an ise insanlığın başlangıcını tek bir nefse dayandırır ve insan neslinin bu ilk yaratılıştan türediğini bildirir. Dolayısıyla burada ihtilaf, yalnızca “insan maymundan mı geldi?” sorusuna indirgenmemelidir. Asıl ayrım, insanın ve canlıların yaratılışının ardında ilahî ilim, kudret ve iradenin mi, yoksa tabiat içinde işleyen dönüşüm süreçlerinin mi temel açıklama olarak kabul edildiği noktasında ortaya çıkmaktadır. (Alıntı-15, Alıntı-16, Alıntı-17, Alıntı-18 · Ayet-09)
+> **[Bulgu-08]** Kitapta, insanın basit canlılardan uzun bir tekâmül süreciyle meydana geldiği kanaatini ortaya koymaktadır. Yaratılış, tabiat merkezli bir süreç olarak izah edilir. Kur'an ise insanlığın başlangıcını tek bir nefse dayandırır ve insan neslinin bu ilk yaratılıştan türediğini bildirir. Dolayısıyla burada ihtilaf, yalnızca “insan maymundan mı geldi?” sorusuna indirgenmemelidir. Asıl ayrım, insanın ve canlıların yaratılışının ardında ilahî ilim, kudret ve iradenin mi, yoksa tabiat içinde işleyen dönüşüm süreçlerinin mi temel açıklama olarak kabul edildiği noktasında ortaya çıkmaktadır.
 
 ### 3.3 Vahiy, nübüvvet ve Kur'an'ın kaynağı
 
@@ -203,7 +202,6 @@ Raporun en yoğun ekseni budur.
 > an'anesinde … kabul olunur" kaydıyla üçüncü şahsa havale edilerek verilir. İlâhî
 > kaynak an'aneye, beşerî izah kitabın kendisine aittir. Kur'an ise vahyi bir
 > an'ane nakli olarak değil, kendi sesiyle kat'î bir hüküm olarak bildirir.
-> *(Alıntı-19 · Ayet-10)*
 
 #### Vahiy, uzun bir tefekkürün mahsulü sayılır
 
@@ -232,7 +230,6 @@ Raporun en yoğun ekseni budur.
 > ağır karşılığa bağlar ve o nitelemenin bir tefekkür neticesi olduğunu — "düşündü
 > ve ölçüp biçti" — bizzat kaydeder. Kitabın hükmü, Kur'an'ın reddettiği ifadenin
 > ta kendisidir; uzun uzun düşünülmüş olması onu haklı çıkarmaz.
-> *(Alıntı-20, Alıntı-21, Alıntı-22 · Ayet-11)*
 
 #### Peygamber müessis sayılır, risalet tarifi hata ilan edilir
 
@@ -258,7 +255,7 @@ Raporun en yoğun ekseni budur.
 > etmediği karikatür unsurlarını da listeye ekler; reddin doğrudan hedefi bu
 > edilgenlik karikatürüdür. (b) Buna rağmen "her şeyi bir melekten alan ve aynen
 > tebliğ eden" kısmı gerçekten risalet tarifine karşılık gelir ve Alıntı-22
-> hafifletici okumayı kapatır. *(Alıntı-23, Alıntı-24 · Ayet-12, Ayet-13)*
+> hafifletici okumayı kapatır.
 
 #### Aynı kalıp Hz. Musa'ya da uygulanır
 
@@ -272,7 +269,7 @@ Raporun en yoğun ekseni budur.
 > **[Bulgu-12]** Aynı izah kalıbı Hz. Musa'ya da uygulanır: dininin esaslarını
 > Medyen'deki telâkkilerden mülhem olarak kendisi koymuştur. Hüküm böylece tek bir
 > peygambere değil, nübüvvet kurumunun tamamına teşmil edilir. Kur'an'da ise Musa
-> dinini kuran değil, seçilen ve kendisine vahyedilendir. *(Alıntı-25 · Ayet-14)*
+> dinini kuran değil, seçilen ve kendisine vahyedilendir.
 
 ### 3.4 Cin ve melek itikadının menşei
 
@@ -295,7 +292,7 @@ Raporun en yoğun ekseni budur.
 > kültür değil vahiydir. İki menşe anlatısı uzlaşmaz. *Üç kelime pasajı tasvirî
 > olmaktan çıkarır:* **"güya"** (kitap fiili gerçek saymaz), **"dahi"**
 > (paylaşılması beklenmeyen bir inanç), **"kuvvetlendirmiştir"** (inancın
-> sonradan edinildiği). *(Alıntı-26 · Ayet-15, Ayet-16)*
+> sonradan edinildiği).
 
 #### Melek tasavvurunun kaynağı önceki dinlere bağlanır
 
@@ -317,7 +314,7 @@ Raporun en yoğun ekseni budur.
 > sayılı esaslarından biridir. *Zorunlu kayıt.* Alıntı-28'de kitap, hükmü kendi
 > sesiyle vermez; "dinler nazarında" kaydıyla dinlere havale eder. Bu,
 > Alıntı-19'deki "İslâm an'anesinde … kabul olunur" kalıbının aynısıdır: hüküm
-> havale edilir, kitap tasdik etmez. *(Alıntı-27, Alıntı-28 · Ayet-17)*
+> havale edilir, kitap tasdik etmez.
 
 ### 3.5 Nass, ahkâm ve kutsal mekân
 
@@ -335,7 +332,6 @@ Raporun en yoğun ekseni budur.
 > **[Bulgu-15]** Kâbe'nin İbrahim ve İsmail tarafından bina edilmesi "sonradan
 > uydurulmuş masallar" ilan edilir. Oysa bu, Kur'an'ın sarih bir bildirimidir.
 > Kat'î nassla sabit bir haberi masal saymak, doğrudan nass çatışmasıdır.
-> *(Alıntı-29 · Ayet-18)*
 
 #### Kutsiyetin menşei beşerî ve siyasî bir zemine bağlanır
 
@@ -352,7 +348,7 @@ Raporun en yoğun ekseni budur.
 > **[Bulgu-16]** Kâbe'nin kutsiyeti Friklerin karataş âdetine, dinî şekiller ise
 > muharebeleri men etme maksadına bağlanır: kutsiyet vahiyden değil, önceki
 > âdetlerden ve siyasî ihtiyaçtan türetilir. Kur'an'da Beyt'i insanlar için kurulan
-> ilk ev kılan Allah'tır. *(Alıntı-30, Alıntı-31 · Ayet-19)*
+> ilk ev kılan Allah'tır.
 
 #### Ahkâmın ebedîliği istilzamla kaldırılır
 
@@ -367,7 +363,7 @@ Raporun en yoğun ekseni budur.
 > **[Bulgu-17]** Ahkâmın "ebedî olmayıp zamanla değişmeğe mahkûm" olduğu hükmü
 > verilir. Lafzen "bunlar" yeni konan kanunlardır; Kur'anî ahkâma teşmil "dahi"
 > edatının istilzamıyla çıkar — güçlü bir istilzamdır, sarahat değildir. Kur'an'da
-> neshin yetkisi Allah'a aittir; hüküm ancak vahiyle değişir. *(Alıntı-32 · Ayet-20)*
+> neshin yetkisi Allah'a aittir; hüküm ancak vahiyle değişir.
 
 ---
 
@@ -395,7 +391,7 @@ cümleleri itikadî bir kabul değildir**; sebebi [4.2 alt bölümünde](#s-4-2-
 > vasıfların hiçbiri nübüvvete ait değildir — meziyetler şahsın kendisine, kendi
 > gayretine ve eserlerine bağlanır. Kur'an'da ise Peygamber'i ayıran şey şahsî
 > meziyetleri değil, kendisine **vahyedilmesidir**; beşer olması ile risalet
-> aynı ayette bir arada bildirilir. *(Alıntı-33, Alıntı-34 · Ayet-21)*
+> aynı ayette bir arada bildirilir.
 
 ### 4.2 Övgü, itikadî çatışmayı hafifletmez
 
@@ -448,7 +444,6 @@ kılar.
 > ahlâkı hakkında ne söylenirse söylensin, Kur'an'ın kaynağı hakkındaki hüküm
 > değişmez: Kur'an, Allah'ın kelâmı olmaktan çıkarılmıştır.
 > Dayandığı alıntılar [3.3 alt bölümündedir](#s-3-3-vahiy-nubuvvet-ve-kur-an-in-kaynagi); bu bölüm onların itikadî neticesini tartışır.
-> *(Alıntı-19, Alıntı-20, Alıntı-22, Alıntı-33, Alıntı-34 · Ayet-22)*
 
 ---
 

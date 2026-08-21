@@ -154,7 +154,7 @@ IDX_RE = re.compile(r"^\[\[?(Alıntı-\d+)\](?:\([^)]*\))?\]?\s*")
 # Ayet kaydı: "**[Ayet-01]** "…" — **Âl-i İmrân 19**"
 AYET_RE = re.compile(r"^\[(Ayet-\d+)\]\s*(.+)$")
 
-# Bulgu bloğu: "> **[Bulgu-07]** … *(Alıntı-13, Alıntı-14 · Hac 75; Necm 3-4)*"
+# Bulgu bloğu: "> **[Bulgu-07]** …"
 # Bulgu da alıntı ve ayet gibi alıntı bloğu içinde yazılır — üçü aynı başlığın
 # altında aynı görünsün diye. Aktarma olmadığı için tipi yine finding'dir.
 BULGU_BAS_RE = re.compile(r"^\*\*\[(Bulgu-\d+)\]\*\*\s*")
@@ -168,11 +168,31 @@ def bulgular(sub: str):
         m = BULGU_BAS_RE.match(metin)
         if m:
             yield m.group(1), metin[m.end():]
-# Künyenin italik olması şart değil: elle yazılırken yıldızlar unutulabiliyor.
-DAYANAK_RE = re.compile(
-    r"\*?\((Alıntı-\d+(?:,\s*Alıntı-\d+)*)\s*(?:·\s*(.+?))?\)\*?\s*$", re.S
-)
-KREF_RE = re.compile(r"Ayet-\d+(?:\s*,\s*Ayet-\d+)*")
+# Bulgunun dayanağı metne ikinci kez yazılmaz. Bulgu, dayandığı alıntı ve ayetle
+# aynı başlığın altında basılır — §3'ün girişi bunu böyle ilan eder — dayanak da
+# o bloktan okunur. Künye ayrıca bulgu paragrafının sonunda tekrarlanınca okuyucu
+# aynı referansı iki kere okuyordu; kayıt için gereken bilgi zaten sayfadadır.
+ALINTI_ISARET_RE = re.compile(r"\*\*\[\[?(Alıntı-\d+)\]")
+AYET_ISARET_RE = re.compile(r"\*\*\[(Ayet-\d+)\]\*\*")
+ALT_BASLIK_RE = re.compile(r"^####\s+.+$", re.M)
+
+# Tek istisna: dayanağı kendi başlığının altında durmayan bulgu. §4.2 kendi
+# alıntısını taşımaz — §3.3 ile §4.1'in alıntılarının itikadî neticesini tartışır
+# — bu yüzden dayanağı burada açıkça yazılır. Buraya yazılan her işaretin gerçek
+# bir alıntıya karşılık gelmesi check_index'te ayrıca denetlenir.
+BLOK_DISI_DAYANAK = {
+    "Bulgu-19": ["Alıntı-19", "Alıntı-20", "Alıntı-22", "Alıntı-33", "Alıntı-34"],
+}
+
+
+def alt_bloklar(sub: str) -> list[str]:
+    """Alt bölümü #### başlıklarına böler; #### yoksa bütünü tek blok verir.
+
+    Bir bloktaki alıntı, ayet ve bulgu birbirine aittir: bulgu, o alıntıların o
+    ayetler karşısında değerlendirilmesidir. Bölme bu yüzden gerekli — yoksa
+    §3.1'in beş bulgusu o alt bölümdeki on alıntının hepsine dayanmış görünürdü."""
+    return [p for p in ALT_BASLIK_RE.split(sub) if p.strip()]
+
 
 # Metinde geçen her indeks atfı. Öz ve S serilerinin işareti metinde durmaz —
 # yalnız §2'nin ilan ettiği aralıkta ve makine-okunabilir kayıtta görünür.
@@ -278,36 +298,34 @@ def parse_axis(md: str, corpus: dict[int, dict], bolum: str, ayetler: dict[str, 
                 }
             )
 
-        for bid, govde in bulgular(sub):
-            d = DAYANAK_RE.search(govde.strip())
-            if not d:
-                raise SystemExit(
-                    f"{bid}: dayanak künyesi yok — '*(Alıntı-… · ayet)*' bekleniyor"
-                )
-            statement = clean(DAYANAK_RE.sub("", govde.strip()))
-            ham = clean(d.group(2) or "")
-            if ham and KREF_RE.fullmatch(ham):
-                verses = [v.strip() for v in ham.split(",")]
+        for blok in alt_bloklar(sub):
+            alintilar = ALINTI_ISARET_RE.findall(blok)
+            verses = AYET_ISARET_RE.findall(blok)
+            for bid, govde in bulgular(blok):
+                quotations = BLOK_DISI_DAYANAK.get(bid, alintilar)
+                if not quotations:
+                    raise SystemExit(
+                        f"{bid}: başlığının altında alıntı yok — dayanağı başka "
+                        f"bölümdeyse BLOK_DISI_DAYANAK'a yazılmalı"
+                    )
+                if not verses:
+                    raise SystemExit(f"{bid}: başlığının altında ayet yok")
                 eksik = [v for v in verses if v not in ayetler]
                 if eksik:
                     raise SystemExit(f"{bid} tanımsız ayete atıf yapıyor: {eksik}")
-                quran = [ayetler[v] for v in verses]
-            else:
-                verses = []
-                quran = [a.strip() for a in re.split(r"[;·]", ham) if a.strip()]
-            rows.append(
-                {
-                    "id": bid,
-                    "type": "finding",
-                    "axis": axis,
-                    "section": num,
-                    "section_url": url,
-                    "statement": statement,
-                    "quotations": [q.strip() for q in d.group(1).split(",")],
-                    "verses": verses,
-                    "quran": quran,
-                }
-            )
+                rows.append(
+                    {
+                        "id": bid,
+                        "type": "finding",
+                        "axis": axis,
+                        "section": num,
+                        "section_url": url,
+                        "statement": clean(govde.strip()),
+                        "quotations": list(quotations),
+                        "verses": list(verses),
+                        "quran": [ayetler[v] for v in verses],
+                    }
+                )
     return rows
 
 
