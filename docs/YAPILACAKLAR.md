@@ -236,7 +236,7 @@ Zenodo'da `isSupplementTo` ile bağlıdır.
 |---|---|
 | **Concept DOI** (künyelerde kullanılan) | `10.5281/zenodo.21963507` |
 | Kayıt | https://doi.org/10.5281/zenodo.21963507 |
-| Son yayımlanan sürüm | `22059572` (22.08.2026) — DOI `10.5281/zenodo.22059572` |
+| Son yayımlanan sürüm | `22059727` (22.08.2026) — DOI `10.5281/zenodo.22059727` |
 
 DOI `metadata/books.json` → `review.doi` alanında durur; site, `llms.txt` ve
 Vikikaynak düzenleme özetleri oradan okur.
@@ -253,7 +253,9 @@ buna göre güncellendi ve künyedeki yazar **Prof. Dr. Muhammed Fatih Talu**
 oldu. Ad artık belgenin başlığı altında da durur; PDF kapağı, Zenodo
 `creators`, archive.org `creator`, site atıf kutusu, Scholar etiketleri ve
 Wikidata P2093 tek alandan (`books.json` -> `review.author`) beslenir.
-Concept DOI artık `22059572`'ye çözümlenir.
+
+Aynı gün `22059727` açıldı: §4.2 üç paragraftan bire indi ve İngilizce sürüm
+eşitlendi. Concept DOI artık `22059727`'ye çözümlenir.
 
 Metin değiştiğinde **daima yeni sürüm** açılır — yeni kayıt açmak ayrı bir
 concept DOI üretir ve çalışmanın kimliğini ikiye böler:
