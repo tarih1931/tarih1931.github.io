@@ -1,7 +1,9 @@
 """14 — Wikidata öğeleri için QuickStatements toplu işi üretir.
 
-    python build/14_wikidata.py          # toplu iş metnini üret
-    python build/14_wikidata.py --yaz   # kaynakları doğrudan API ile ekle
+    python build/14_wikidata.py                   # toplu iş metnini üret
+    python build/14_wikidata.py --yaz             # kaynakları doğrudan API ile ekle
+    python build/14_wikidata.py --inceleme        # incelemenin öğesini kur (bir kez)
+    python build/14_wikidata.py --inceleme-kunye  # o öğenin etiketini başlıkla eşitle
 
 Çıktı: wikidata/quickstatements.txt
 
@@ -272,6 +274,44 @@ def _tarih(pid: str, iso: str, kaynak=None) -> dict:
     return d | kaynak if kaynak else d
 
 
+def inceleme_kunyesi(istek, csrf: str) -> None:
+    """İncelemenin öğesindeki etiketleri books.json'daki başlıkla eşitler.
+
+    Öğe bir kez kurulur (inceleme_ogesi) ve sonra ona dokunulmaz — yanlışlıkla
+    başkasının düzenlemesini ezmemek için. Ama başlık books.json'da değişince
+    bilgi grafiğinde eski ad kalıyor; bu kip yalnız etiketi, yalnız eskiyse
+    günceller. Başlık burada yazılmaz: künye tek yerden gelir."""
+    inc = META.get("review") or {}
+    doi = (inc.get("doi") or "").upper()
+    if not doi:
+        print("    books.json içinde review.doi yok — atlandı")
+        return
+
+    d = istek({"action": "query", "list": "search",
+               "srsearch": f"haswbstatement:P356={doi}", "srlimit": "1"})
+    var = d.get("query", {}).get("search", [])
+    if not var:
+        print("    inceleme öğesi yok — önce:  python build/14_wikidata.py --inceleme")
+        return
+    qid = var[0]["title"]
+
+    mevcut = istek({"action": "wbgetentities", "ids": qid, "props": "labels"})
+    etiket = mevcut.get("entities", {}).get(qid, {}).get("labels", {})
+    for dil, deger in (("tr", inc["title"]),
+                       ("en", inc.get("title_en") or inc["title"])):
+        if etiket.get(dil, {}).get("value") == deger:
+            print(f"    {qid} {dil}: aynı, dokunulmadı")
+            continue
+        d = istek({"action": "wbsetlabel"},
+                  {"id": qid, "language": dil, "value": deger, "token": csrf,
+                   "summary": "etiket books.json'daki başlıkla eşitlendi"})
+        if "error" in d:
+            print(f"    {qid} {dil}: etiket yazılamadı: {d['error'].get('info', d['error'])}")
+        else:
+            print(f"    {qid} {dil}: etiket güncellendi")
+    print(f"    https://www.wikidata.org/wiki/{qid}")
+
+
 def inceleme_ogesi(istek, csrf: str) -> None:
     inc = META.get("review") or {}
     doi = (inc.get("doi") or "").upper()
@@ -366,7 +406,10 @@ def main() -> None:
     qids = sorted({s.split("\t")[0] for s in L})
     print(f"    {len(L)} ifade, {len(qids)} öğe ({', '.join(qids)})")
     print(f"    {OUT.relative_to(ROOT).as_posix()} yazıldı")
-    if "--inceleme" in sys.argv:
+    if "--inceleme-kunye" in sys.argv:
+        istek, csrf = _oturum()
+        inceleme_kunyesi(istek, csrf)
+    elif "--inceleme" in sys.argv:
         istek, csrf = _oturum()
         inceleme_ogesi(istek, csrf)
     elif "--yaz" in sys.argv:
