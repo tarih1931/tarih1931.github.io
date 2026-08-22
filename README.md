@@ -102,7 +102,7 @@ DOI bütün sürümleri temsil eder ve daima en sonuncusuna çözümlenir; sür�
 DOI künyeye yazılmaz. İnceleme ayrı bir çalışmadır ve kendi DOI'siyle anılır:
 
 ```
-Anonim (2026). 1931–1941 Yılları Arasında Liselerde Okutulan Resmî Tarih
-Ders Kitaplarının İslam İnancına Yaklaşımı. Zenodo.
+Anonim (2026). 1931–1941 arasında liselerde okutulan resmî tarih
+kitaplarının din ve İslam anlayışına ilişkin kaynak-belge incelemesi. Zenodo.
 https://doi.org/10.5281/zenodo.21963507
 ```
