@@ -132,9 +132,9 @@ def kapak(baslik: str, ozet: str, en: bool) -> str:
 
 
 def pdf_govdesi(md: str, etiket: str) -> str:
-    """Belgenin başlığını ve özetini gövdeden düşürür.
+    """Belgenin başlığını, yazar satırını ve özetini gövdeden düşürür.
 
-    PDF'in kapak bloğu ikisini de zaten basıyor; markdown olduğu gibi
+    PDF'in kapak bloğu üçünü de zaten basıyor; markdown olduğu gibi
     eklenince ilk sayfada başlık ve özet alt alta iki kez çıkıyordu.
     Kaynak .md dosyası kanonik biçim olduğu için orada duruyorlar,
     yalnız bu türev çıktıda ayıklanıyorlar.
@@ -142,6 +142,20 @@ def pdf_govdesi(md: str, etiket: str) -> str:
     yeni = re.sub(r"\A\s*#\s+.+?\n", "", md, count=1)
     if yeni == md:
         raise SystemExit(f"    PDF: beklenen '# ' başlığı bulunamadı")
+    # Yazar satırı: belgede başlığın hemen altında durur, kapak bloğu onu
+    # ayrıca basar. Desen künyeden kurulur, çünkü kapağa basılan ad da
+    # oradan gelir: belgedeki ad books.json'dakinden ayrılırsa PDF'in kapağı
+    # bir ad, sitedeki metin başka bir ad gösterirdi. Satır düşmezse özet
+    # artık başlığın hemen ardında durmadığı için aşağıdaki desen de tutmaz.
+    yeni = yeni.lstrip()
+    if not yeni.startswith(f"**{etiket}:**"):
+        satir, _, kalan = yeni.partition("\n")
+        if satir.strip() != f"**{YAZAR}**":
+            raise SystemExit(
+                f"    PDF: başlığın altındaki satır künyedeki yazar değil — "
+                f"beklenen '**{YAZAR}**', bulunan '{satir.strip()[:60]}'"
+            )
+        yeni = kalan
     md, yeni = yeni, re.sub(rf"\A\s*\*\*{etiket}:\*\*.*?(?=\n\n)", "", yeni, count=1, flags=re.S)
     if yeni == md:
         raise SystemExit(f"    PDF: beklenen '**{etiket}:**' paragrafı bulunamadı")

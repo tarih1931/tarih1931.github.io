@@ -18,7 +18,7 @@ Toplam 129 sayfa. Ham OCR metni her kayıtta `text_ocr` alanında saklanır, dü
 ## İnceleme
 
 - [1931–1941 arasında liselerde okutulan resmî tarih kitaplarının din ve İslam anlayışına ilişkin kaynak-belge incelemesi](https://tarih1931.github.io/inceleme.html): 1931 basımı resmî tarih ders kitaplarının din ve İslam hakkındaki ifadelerinin Kur'an ile karşılaştırması: 34 doğrudan alıntı, 22 ayet, 19 bulgu. Ayrılığın ayrıntıda değil itikadî temelde olduğu gösterilir; her iddia sayfa künyeli birebir alıntıyla belgelenmiştir.
-- İnceleme ayrı bir çalışma olarak yayımlanmıştır ve kendi DOI'si vardır: https://doi.org/10.5281/zenodo.21963507 — atıf: Anonim (2026). 1931–1941 arasında liselerde okutulan resmî tarih kitaplarının din ve İslam anlayışına ilişkin kaynak-belge incelemesi. Zenodo. Bu DOI korpusun DOI'sinden ayrıdır.
+- İnceleme ayrı bir çalışma olarak yayımlanmıştır ve kendi DOI'si vardır: https://doi.org/10.5281/zenodo.21963507 — atıf: Prof. Dr. Muhammed Fatih Talu (2026). 1931–1941 arasında liselerde okutulan resmî tarih kitaplarının din ve İslam anlayışına ilişkin kaynak-belge incelemesi. Zenodo. Bu DOI korpusun DOI'sinden ayrıdır.
 - [Aynı incelemenin ham Markdown'ı](https://tarih1931.github.io/inceleme.md)
 - [Aynı incelemenin PDF'i](https://tarih1931.github.io/inceleme.pdf): akademik dizinlerin ayrıştırdığı biçim
 - [English PDF](https://tarih1931.github.io/review.pdf)

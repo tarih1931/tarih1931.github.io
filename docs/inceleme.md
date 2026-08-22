@@ -1,6 +1,8 @@
 # 1931–1941 arasında liselerde okutulan resmî tarih kitaplarının din ve İslam anlayışına ilişkin kaynak-belge incelemesi
 
-**Özet:** [*Tarih I*](https://kutuphane.ttk.gov.tr/resource?itemId=267298&dkymId=6415) ve [*Tarih II*](https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416), yalnızca geçmişi anlatan ders kitapları değil, dinin ve İslâm’ın kaynağı hakkında da belirli bir dünya görüşü ortaya koyan resmî devlet yayınlarıdır. Bu incelemede, kitaplardaki 34 doğrudan alıntı ile 22 Kur’an ayeti birlikte değerlendirilmiş ve 19 ayrı bulguya ulaşılmıştır. **Bulgular, kitaplarda Allah’tan gelen dinin yerine insanî kökenli din anlayışının, vahyin yerine beşerî tefekkürün, peygamberlik yerine din kuruculuğu anlayışının ve yaratılışın yerine tabiat merkezli açıklamaların öne çıkarıldığını ortaya koymaktadır.** İncelemenin temel iddiası, 11 yıl boyunca liselerde okutulan bu resmî tarih anlatısı ile Kur’an arasındaki ayrılığın ayrıntıda değil, **itikadî temelde** bulunduğudur.
+**Prof. Dr. Muhammed Fatih Talu**
+
+**Özet:** [*Tarih I*](https://kutuphane.ttk.gov.tr/resource?itemId=267298&dkymId=6415) ve [*Tarih II*](https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416), yalnızca geçmişi anlatan ders kitapları değil, dinin ve İslâm’ın kaynağı hakkında da belirli bir dünya görüşü ortaya koyan resmî devlet yayınlarıdır. Bu incelemede, kitaplardaki 34 doğrudan alıntı ile 22 Kur’an ayeti birlikte değerlendirilmiş ve 19 ayrı bulguya ulaşılmıştır. **Bulgular, kitaplarda Allah’tan gelen dinin yerine insan kökenli din anlayışının, vahyin yerine beşerî tefekkürün, peygamberlik yerine din kuruculuğu anlayışının ve yaratılışın yerine tabiat merkezli açıklamaların öne çıkarıldığını ortaya koymaktadır.** İncelemenin temel iddiası, **11** yıl boyunca liselerde okutulan bu resmî tarih anlatısı ile Kur’an arasındaki ayrılığın ayrıntıda değil, **itikadî temelde** bulunduğudur.
 
 **Kapsam:** Araştırma, Tarih I kitabının “Beşer Tarihine Giriş” bölümünün (basılı s. 1–24) ve Tarih II kitabının “İslâm Tarihi” bölümünün (basılı s. 79–93) incelenmesine dayanmaktadır.
 
@@ -39,9 +41,9 @@ sayfaları ve o eksende geçen alıntı ile bulguların indeks aralığını ver
 
 ## 3. Eksen eksen karşılaştırma
 
-### 3.1 Dinin menşei ve mahiyeti
+Her bir eksen altında, öncelikle ilgili alıntı ve ayetlere yer verilmekte, ardından bunların birlikte değerlendirilmesiyle ulaşılan bulgular ortaya konulmaktadır.
 
-Her bulgu, dayandığı alıntı ve ayetle birlikte verilmiştir.
+### 3.1 Dinin menşei ve mahiyeti
 
 #### Dinin doğuşu beşerî bir zincire bağlanır
 
@@ -77,8 +79,7 @@ Her bulgu, dayandığı alıntı ve ayetle birlikte verilmiştir.
 
 > **[Ayet-03]** "Şüphesiz Allah katında din İslâm'dır." — **Âl-i İmrân 19**
 
-> **[Bulgu-02]** Din, diğer içtimaî müesseseler gibi insanların kurduğu bir müessese
-> sayılır. Kur'an'da dinin vâzıı Allah'tır. İki menşe anlatısı uzlaşmaz.
+> **[Bulgu-02]** Kitapta din, diğer içtimaî müesseseler gibi insanların kurduğu bir müessese sayılır. Kur'an'da ise dinin vâzıı Allah'tır. İki menşe anlatısı uzlaşmaz.
 
 #### Ulûhiyet, insan zekâsının bulduğu bir mefhumdur
 
@@ -95,13 +96,7 @@ Her bulgu, dayandığı alıntı ve ayetle birlikte verilmiştir.
 
 > **[Ayet-04]** "Gözler O'nu idrak edemez; O, gözleri idrak eder." — **En'âm 103**
 
-> **[Bulgu-03]** Ulûhiyet, keşfedilecek bir mefhum sayılır ve onu bulan insan
-> zekâsıdır; dinî tasavvurun dayanağı olan korku ve zâf hisleri ise ilmin
-> ilerlemesiyle azalan geçici hâller olarak anlatılır. Kur'an'da Allah, insan
-> idrakinin kuşattığı bir mefhum değil, idraki kuşatan hakikî varlıktır. Ulûhiyeti
-> beşerî bir yapıntı sayan bir izah, itikad bakımından **ulûhiyetin reddidir**.
-> Kitap, boşalan yere cemiyeti koyar: nihaî huzur ve emniyet membaı artık
-> cemiyettir.
+> **[Bulgu-03]** Kitapta, Ulûhiyet, keşfedilecek bir mefhum sayılır ve onu bulan insan zekâsıdır; dinî tasavvurun dayanağı olan korku ve zâf hisleri ise ilmin ilerlemesiyle azalan geçici hâller olarak anlatılır. Kur'an'da Allah, insan idrakinin kuşattığı bir mefhum değil, idraki kuşatan hakikî varlıktır. Ulûhiyeti beşeri bir yapıntı sayan bir izah, İslam itikadı bakımından **ulûhiyetin reddidir**. 
 
 #### Gaybın tamamı "uydurma" ilan edilir
 
@@ -186,8 +181,6 @@ Her bulgu, dayandığı alıntı ve ayetle birlikte verilmiştir.
 
 ### 3.3 Vahiy, nübüvvet ve Kur'an'ın kaynağı
 
-Raporun en yoğun ekseni budur.
-
 #### Vahyin ilâhî kaynağı, kitabın kendi sesiyle tasdik edilmez
 
 > **[[Alıntı-19](https://tarih1931.github.io/tarih-2-1931/s0090.html)]** "Muhammedin koyduğu esasların toplu olduğu kitaba Kuran denir. … **İslâm
@@ -246,16 +239,7 @@ Raporun en yoğun ekseni budur.
 > **[Ayet-13]** "…yanlarındaki Tevrat'ta ve İncil'de yazılı buldukları o ümmî peygamber
 > olan elçiye uyanlar…" — **A'râf 157**
 
-> **[Bulgu-11]** Peygamber, dinin müessisi olarak tarif edilir; dahası risalet
-> tarifinin kendisi — her şeyi bir melekten alıp aynen tebliğ etmek — açıkça
-> "hata" ilan edilir. Kur'an'da Peygamber müessis değil **mübelliğdir**; ümmîlik
-> de noksan değil, vahyin beşerî birikimden bağımsızlığının delilidir. *İki
-> zorunlu kayıt:* (a) Alıntı-24'te reddedilen tavsif bileşiktir — kitap "ümmî,
-> cahil, hissiz hareketsiz bir put" diyerek hiçbir İslamî kaynağın iddia
-> etmediği karikatür unsurlarını da listeye ekler; reddin doğrudan hedefi bu
-> edilgenlik karikatürüdür. (b) Buna rağmen "her şeyi bir melekten alan ve aynen
-> tebliğ eden" kısmı gerçekten risalet tarifine karşılık gelir ve Alıntı-22
-> hafifletici okumayı kapatır.
+> **[Bulgu-11]** Peygamber, dinin müessisi olarak tarif edilir; dahası risalet tarifinin kendisi — her şeyi bir melekten alıp aynen tebliğ etmek — açıkça "hata" ilan edilir. Kur'an'da Peygamber **müessis** değil **mübelliğdir**. Ümmilik de noksan değil, vahyin beşeri birikimden bağımsızlığının delilidir. 
 
 #### Aynı kalıp Hz. Musa'ya da uygulanır
 
@@ -308,13 +292,7 @@ Raporun en yoğun ekseni budur.
 > biri Allah'a, meleklerine, kitaplarına ve peygamberlerine iman ettiler."
 > — **Bakara 285**
 
-> **[Bulgu-14]** Melek itikadının kaynağı önceki dinlerden öğrenilenlere
-> bağlanır; inanç, vahiyle bildirilen bir hakikat değil, kültürel temasla
-> pekiştirilmiş bir kanaat olarak anlatılır. Kur'an'da meleklere iman, imanın
-> sayılı esaslarından biridir. *Zorunlu kayıt.* Alıntı-28'de kitap, hükmü kendi
-> sesiyle vermez; "dinler nazarında" kaydıyla dinlere havale eder. Bu,
-> Alıntı-19'deki "İslâm an'anesinde … kabul olunur" kalıbının aynısıdır: hüküm
-> havale edilir, kitap tasdik etmez.
+> **[Bulgu-14]** Melek itikadının kaynağı önceki dinlerden öğrenilenlere bağlanır; inanç, vahiyle bildirilen bir hakikat değil, kültürel temasla pekiştirilmiş bir kanaat olarak anlatılır. Kur'an'da meleklere iman, imanın sayılı esaslarından biridir. 
 
 ### 3.5 Nass, ahkâm ve kutsal mekân
 
@@ -345,10 +323,7 @@ Raporun en yoğun ekseni budur.
 > **[Ayet-19]** "Şüphesiz insanlar için kurulan ilk ibadet evi, Mekke'de bulunan mübarek
 > ve âlemlere yol gösterici olan Beyt'tir." — **Âl-i İmrân 96**
 
-> **[Bulgu-16]** Kâbe'nin kutsiyeti Friklerin karataş âdetine, dinî şekiller ise
-> muharebeleri men etme maksadına bağlanır: kutsiyet vahiyden değil, önceki
-> âdetlerden ve siyasî ihtiyaçtan türetilir. Kur'an'da Beyt'i insanlar için kurulan
-> ilk ev kılan Allah'tır.
+> **[Bulgu-16]** Kitapta, Kâbe’nin kutsiyeti, Friglerin Karataş âdetine; dinî şekiller ise muharebeleri men etme amacına bağlanmaktadır. Böylece kutsiyetin kaynağı vahiy değil, önceki toplumsal âdetler ve siyasî ihtiyaçlar üzerinden açıklanmaktadır. Oysa Kur’an’da Beyt’i insanlar için kurulan ilk ev kılanın Allah olduğu açıkça belirtilmektedir.
 
 #### Ahkâmın ebedîliği istilzamla kaldırılır
 
@@ -360,17 +335,11 @@ Raporun en yoğun ekseni budur.
 > **[Ayet-20]** "Biz bir ayetin hükmünü yürürlükten kaldırır veya onu unutturursak,
 > yerine daha hayırlısını yahut benzerini getiririz." — **Bakara 106**
 
-> **[Bulgu-17]** Ahkâmın "ebedî olmayıp zamanla değişmeğe mahkûm" olduğu hükmü
-> verilir. Lafzen "bunlar" yeni konan kanunlardır; Kur'anî ahkâma teşmil "dahi"
-> edatının istilzamıyla çıkar — güçlü bir istilzamdır, sarahat değildir. Kur'an'da
-> neshin yetkisi Allah'a aittir; hüküm ancak vahiyle değişir.
+> **[Bulgu-17]** Ahkâmın “ebedî olmayıp zamanla değişmeğe mahkûm” olduğu ileri sürülmektedir. Buradaki “bunlar” ifadesi lafzen yeni konulan kanunlara işaret etmekte; bu hükmün Kur’anî ahkâma da teşmil edilmesi ise “dahi” edatının istilzamıyla çıkarılmaktadır. Dolayısıyla söz konusu sonuç, metnin sarahatiyle değil, güçlü bir istilzam yoluyla elde edilmektedir. Oysa Kur’an’da nesh yetkisinin Allah’a ait olduğu ve bir hükmün ancak vahiy yoluyla değiştirilmesinin söz konusu olduğu görülmektedir.
 
 ---
 
-## 4. Muhammed'in övüldüğü yerler ve bu övgünün itikadî değeri
-
-Bu kısım raporun dürüstlüğü için zorunludur. Fakat **övgü
-cümleleri itikadî bir kabul değildir**; sebebi [4.2 alt bölümünde](#s-4-2-ovgu-itikadi-catismayi-hafifletmez) detaylandırılmıştır.
+## 4. Muhammet'in övüldüğü yerler ve bu övgünün itikadî değeri
 
 ### 4.1 Övgü cümleleri
 
@@ -385,69 +354,25 @@ cümleleri itikadî bir kabul değildir**; sebebi [4.2 alt bölümünde](#s-4-2-
 > **[Ayet-21]** "De ki: Ben de ancak sizin gibi bir beşerim; şu var ki bana,
 > ilâhınızın tek bir ilâh olduğu vahyolunuyor." — **Kehf 110**
 
-> **[Bulgu-18]** Övgü bütünüyle beşerî kategorilerde kalır: Muhammed, ahlâkî ve
-> içtimaî bir ıslahatçı, üstün nitelikli bir insan ve tarihî bir şahsiyet olarak
-> tasvir edilir; üstünlüğünü de **"yaptığı işlerle ispat etmiş"** sayılır. Övülen
-> vasıfların hiçbiri nübüvvete ait değildir — meziyetler şahsın kendisine, kendi
-> gayretine ve eserlerine bağlanır. Kur'an'da ise Peygamber'i ayıran şey şahsî
-> meziyetleri değil, kendisine **vahyedilmesidir**; beşer olması ile risalet
-> aynı ayette bir arada bildirilir.
+> **[Bulgu-18]** Kitapta Muhammet, ahlâkî ve içtimaî bir ıslahatçı, üstün niteliklere sahip bir insan ve tarihî bir şahsiyet olarak tasvir edilmekte; üstünlüğünün de **yaptığı işlerle ispat etmiş** olduğu belirtilmektedir. Böylece öne çıkarılan vasıflar nübüvvet makamına değil, şahsın kendi meziyetlerine, gayretine ve ortaya koyduğu eserlere bağlanmaktadır. Oysa Kur’an’da Peygamber’i diğer insanlardan ayıran temel unsur, şahsî meziyetleri değil, kendisine **vahiy indirilmesidir**; onun beşer oluşu ile risalet görevi aynı ayette birlikte ifade edilmektedir.
 
 ### 4.2 Övgü, itikadî çatışmayı hafifletmez
 
-Kitap, Peygamber'in ahlâkı hakkında olumlu bir hüküm verir ve ona "aldattı"
-demez. Fakat buradan "kitap İslam'ı kabul ediyor" veya "itikadî çatışma
-yumuşuyor" sonucu çıkmaz. Sebebi kesindir.
+Kitap, Hz. Muhammed’in ahlâkı hakkında olumlu hükümler vermekte ve onu **aldattı** şeklinde nitelememektedir. Ancak bu durum, İslâm’ı kabul ettiği veya itikadî çatışmayı yumuşattığı anlamına gelmez. Çünkü mesele Peygamber’in ahlâkı değil, vahyin kaynağıdır.
 
-**Ortada belirsiz bir "ilham hissi" yoktur; muayyen ve haricî bir olay iddiası
-vardır.** İddia şudur: Kur'an ayetleri, **Cebrail adlı bir melek vasıtasıyla
-Allah tarafından** indirilmiştir. Bu, öznel bir duygu değil, dışarıda vuku
-bulduğu bildirilen bir hâdisedir. Kitap bunu bilir, çünkü kendisi kaydeder: iddiayı olduğu gibi nakleder,
-fakat "İslâm an'anesinde … kabul olunur" kaydıyla (**Alıntı-19**).
+Kitap, Kur’an’ın Cebrail vasıtasıyla Allah tarafından indirildiği yönündeki İslâmî iddiayı kaydetmekte; ardından vahiy fikrinin Peygamber’in uzun yıllar süren tefekkürleri sonucunda kendi zihninde doğduğunu ve ayetlerin bu tefekkürlerin mahsulü olduğunu ileri sürmektedir. Böylece vahiy, haricî ve ilahî bir tebliğ olmaktan çıkarılıp insanî bir düşünce sürecinin ürünü olarak açıklanmaktadır.
 
-Hemen ardından kendi hükmünü koyar: vahiy fikri yıllarca tefekkürden sonra
-Peygamber'in kendisinde doğmuştur (**Alıntı-20**); ayetler uzun bir devirdeki
-tefekkürlerin mahsulüdür (**Alıntı-22**). Yani kitap aynı tecrübeyi başka
-türlü **okumaz**; bildirilen olayın **vuku bulmadığını** söyler. Melek yoluyla
-haricî bir tebliğ yerine, zihinde doğan ve zamanla olgunlaşan bir fikir koyar.
-
-**Muayyen bir haricî olay ya olmuştur ya olmamıştır.** Kitap, olmadığını söyler:
-melek yoluyla haricî bir tebliğ değil, zihinde doğan bir fikir. Bu takdirde
-Peygamber'in ahlâkı hakkında ne söylenirse söylensin, "Cebrail Allah'tan
-getirdi" bildirimi **gerçekleşmemiş** sayılır ve Kur'an Allah'ın kelâmı olmaktan
-çıkar. Ahlâk hakkındaki hüküm değişir; **Kur'an'ın kaynağı hakkındaki hüküm
-değişmez**.
-
-**Kur'an kendi meselesini zaten iki şıklı kurar; üçüncüyü tanımaz.** Sual,
-söyleyenin ahlâkı üzerine değil, sözün menşei üzerinedir:
+Bu yaklaşım, Kur’an’ın kaynağı bakımından temel bir itikadî ayrılık doğurur. Zira Kur’an, kendi menşei konusunda “Allah’tan gelme” ile “uydurma” ihtimallerini karşı karşıya koymakta ve bunu tehaddî ayetleriyle açıkça ortaya koymaktadır (Tûr 33-34; Bakara 23; Yûnus 37-38; Hûd 13; İsrâ 88). Dolayısıyla **vahiy sandı, fakat aslında kendi tefekkürünün ürününü vahiy zannetti** açıklaması, vahyin ilahî kaynağını ve buna bağlı olarak nübüvvet iddiasını reddeden bir sonuç doğurmaktadır.
 
 > **[Ayet-22]** "Yahut 'Onu kendisi uydurdu' mu diyorlar? Hayır, onlar iman
 > etmiyorlar. Doğru söyleyenler iseler, onun benzeri bir söz getirsinler."
 > — **Tûr 33-34**
 
-Aynı ikilem ve aynı meydan okuma (*tehaddî*) tekrarlanır: Bakara 23; Yûnus 37-38;
-Hûd 13; İsrâ 88. Kur'an, uydurma ihtimalini muhatabın önüne bir **üçüncü
-ihtimalle** değil, bir **imtihanla** kapatır. Dahası, uydurma varsayımının
-neticesini bizzat bildirir: *"Eğer o, bize isnat ederek bazı sözler
-uydurmuş olsaydı, elbette onu kudretimizle yakalardık, sonra da şah damarını
-koparırdık"* (Hâkka 44-46). Kur'an'ın kendi çerçevesinde ihtimaller ikidir:
-**ya Allah'tandır, ya iftiradır.**
-
-**İtikatta da üçüncü kategori yoktur.** Nübüvvette *sıdk*, failin öznel
-samimiyeti değil, **tebliğ edilenin doğruluğudur**. Peygamberler *ismet*
-sıfatıyla tebliğde yanılmaktan korunmuştur; "vahiy sandı ama kendi
-tefekküründendi" demek, ismet sıfatını ve risalet iddiasını birlikte geçersiz
-kılar. 
-
-> **[Bulgu-19]** Kitap, vahyin Peygamber'in kendi tefekküründen doğduğunu söyler;
-> böylece "Cebrail Allah'tan getirdi" bildirimi vuku bulmamış sayılır. Peygamber'in
-> ahlâkı hakkında ne söylenirse söylensin, Kur'an'ın kaynağı hakkındaki hüküm
-> değişmez: Kur'an, Allah'ın kelâmı olmaktan çıkarılmıştır.
-> Dayandığı alıntılar [3.3 alt bölümündedir](#s-3-3-vahiy-nubuvvet-ve-kur-an-in-kaynagi); bu bölüm onların itikadî neticesini tartışır.
+> **[Bulgu-19]** Kitap, Kur’an’ın Allah tarafından vahyedildiğini değil, vahiy fikrinin Peygamber’in kendi tefekküründen doğduğunu ileri sürmektedir. Bu yaklaşımda Peygamber’in ahlâkı ve şahsiyeti olumlu değerlendirilse de **Kur’an’ın Allah’ın kelâmı olduğu kabul edilmemekte, vahyin ilahî kaynağı reddedilmektedir**.
 
 ---
 
-## 5. Kitaplara dayanarak söylenebilecekler
+## 5. Kitapların Sarih İfadelerine Dayanan Tespitler
 
 Aşağıdakiler kitabın sarih lafzıdır; çıkarım gerektirmez.
 
@@ -526,29 +451,14 @@ Sayfa sayfa görünüm ve her sayfanın taranmış aslına giden bağlantı
 [düzeltilmiş bölümler dizinindedir](https://tarih1931.github.io/duzeltilmis.html); ciltlerin tam
 taramaları kaynakçada **[1]** ve **[2]**'dedir.
 
-İncelenen metin **1931 birinci basımıdır**; 1941 basımının taraması TTK
-kataloğunda kayıtlı fakat çevrimiçi erişime açık değildir. Metin elle
-düzeltilmiştir; ham OCR çıktısı her kayıtta ayrıca saklanır, dolayısıyla her
-düzeltme denetlenebilir.
-
-**Kaynak tabanı.** Raporun itikadî dayanakları **yalnız Kur'an ayetleridir**.
-Hiçbir modern müellifin yorumuna, hiçbir ekole veya cemaate ait esere
-dayanılmamıştır; bu, raporun tabanını mümkün olduğunca geniş tutmak içindir.
-1931 basımından yapılan alıntılar kamu malıdır, raporun kendi metni CC0 ile
-kamuya bırakılmıştır; böylece belgenin tamamı serbestçe çoğaltılabilir.
+**Kaynak tabanı.** İslami itikad dayanağı **yalnız Kur'an ayetleridir**. Hiçbir müellif yorumu, hiçbir ekol veya bir yazara ait esere dayalı değildir. 
+1931 basımından yapılan alıntılar kamu malıdır, raporun kendi metni CC0 ile kamuya bırakılmıştır; böylece belgenin tamamı serbestçe çoğaltılabilir.
 
 **Alıntılardaki imlâ 1931 basımına aittir** ve düzeltilmemiştir: *sora*,
 *evel*, *tabiat*, *iptidaî*, *mabut*, *neş'et*.
 
-Raporun daha önceki bir sürümünde *her seyi*, *sahsiyet* ve *Karataşm*
-biçimleri, basımdan gelen dizgi hatası sanılarak olduğu gibi bırakılmıştı.
-Taramadan denetlendi: üçü de basımda değil, **OCR'dan** gelen hatadır; basılı
-sayfada *her şeyi* (s. 93), *şahsiyet* (s. 93) ve *Karataşın* (s. 85) yazar.
-Alıntılar basıma göre düzeltilmiştir.
-
 Alıntı içindeki tırnaklar tek tırnağa çevrilmiştir (basımda *"kabile allahı"*,
-raporda *'kabile allahı'*); bunun dışında lafız değiştirilmemiştir. Raporun
-34 birebir alıntısının tamamı, künyesinde gösterilen sayfanın düzeltilmiş
+raporda *'kabile allahı'*); bunun dışında lafız değiştirilmemiştir. Rapordaki alıntıların tamamı, künyesinde gösterilen sayfanın düzeltilmiş
 metninde harfi harfine bulunmaktadır ve bu makine ile denetlenmiştir.
 
 ---

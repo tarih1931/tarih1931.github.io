@@ -37,7 +37,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from common import (  # noqa: E402
-    BOOKS, ROOT, WEB_DIR, page_slug, read_jsonl, write_jsonl, write_text,
+    BOOKS, ROOT, WEB_DIR, heading_id, page_slug, read_jsonl, write_jsonl, write_text,
 )
 
 REVIEW_MD = ROOT / "docs" / "inceleme.md"
@@ -334,7 +334,7 @@ def parse_claims(md: str) -> list[dict]:
 
     Bunlar bulgu değildir: itikadî bir hüküm taşımaz, yalnız kitabın sarih
     lafzını özetler. Her maddenin künyesi, o lafzı taşıyan alıntıdır."""
-    body = next((b for h, b in sections(md, 2) if h.startswith("5.")), "")
+    h5, body = next(((h, b) for h, b in sections(md, 2) if h.startswith("5.")), ("5.", ""))
     rows: list[dict] = []
     for i, item in enumerate(re.findall(r"^\d+\.\s+(.*?)(?=^\d+\.\s|\Z)", body, re.M | re.S), 1):
         text = re.sub(r"\s*-{3,}\s*$", "", clean(item))  # son maddede bölüm ayracı
@@ -347,7 +347,7 @@ def parse_claims(md: str) -> list[dict]:
                 "type": "claim",
                 "statement": text[: m.start()].strip(),
                 "quotations": [q.strip() for q in m.group(1).split(",")],
-                "section_url": f"{REVIEW_URL}#s-5-kitaba-dayanarak-soylenebilecekler",
+                "section_url": f"{REVIEW_URL}#{heading_id(h5)}",
             }
         )
     return rows

@@ -1,5 +1,7 @@
 # A source-document review of the understanding of religion and Islam in the official history books taught in high schools between 1931 and 1941
 
+**Prof. Dr. Muhammed Fatih Talu**
+
 **Abstract:** [*Tarih I*](https://kutuphane.ttk.gov.tr/resource?itemId=267298&dkymId=6415) and [*Tarih II*](https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416) are not merely textbooks recounting the past; they are official state publications that also set out a particular worldview concerning the origin of religion and of Islam. This review assesses 34 direct quotations from the books together with 22 verses of the Qur'an, and arrives at 19 separate findings. **The findings show that the books foreground a religion of human origin in place of religion sent down by God, human reflection in place of revelation, the founding of a religion in place of prophethood, and nature-centred explanations in place of creation.** The central claim of this review is that the divergence between this official historical narrative — taught in lycées for eleven years — and the Qur'an lies not in detail but **at the level of the articles of belief**.
 
 **Scope:** The study rests on the section "Beşer Tarihine Giriş" (Introduction to Human History) of *Tarih I*, printed pp. 1–24, and the section "İslâm Tarihi" (History of Islam) of *Tarih II*, printed pp. 79–93.
@@ -49,9 +51,10 @@ each axis rests on and the index range of the quotations and findings in it.
 
 ## 3. The comparison, axis by axis
 
-### 3.1 The origin and nature of religion
+Under each axis the relevant quotations and verses are given first; the findings
+reached by assessing them together are then set out.
 
-Each finding is given together with the quotation and the verse it rests on.
+### 3.1 The origin and nature of religion
 
 #### The birth of religion is tied to a wholly human chain
 
@@ -93,9 +96,9 @@ Each finding is given together with the quotation and the verse it rests on.
 
 > **[Verse-03]** "Truly, the religion in the sight of God is Islam." — **Āl ʿImrān 19**
 
-> **[Finding-02]** Religion is counted an institution founded by human beings, like
-> the other social institutions. In the Qur'an the giver of religion is God. The
-> two accounts of origin cannot be reconciled.
+> **[Finding-02]** In the books religion is counted an institution founded by
+> human beings, like the other social institutions. In the Qur'an, by contrast,
+> the giver of religion is God. The two accounts of origin cannot be reconciled.
 
 #### Divinity is a concept found by human intelligence
 
@@ -118,14 +121,13 @@ Each finding is given together with the quotation and the verse it rests on.
 
 > **[Verse-04]** "Vision does not grasp Him, but He grasps all vision." — **Al-Anʿām 103**
 
-> **[Finding-03]** Divinity is treated as a concept waiting to be discovered, and
-> what found it is human intelligence; the fear and weakness on which religious
-> conception rests are described as passing states that diminish as science
-> advances. In the Qur'an God is not a concept encompassed by human perception but
-> the real being who encompasses perception. An explanation that makes divinity a
-> human construct is, in doctrinal terms, **a denial of divinity**. The books put
-> society in the place thus vacated: the source of peace and security is now
-> society.
+> **[Finding-03]** In the books divinity is treated as a concept waiting to be
+> discovered, and what found it is human intelligence; the fear and weakness on
+> which religious conception rests are described as passing states that diminish
+> as science advances. In the Qur'an God is not a concept encompassed by human
+> perception but the real being who encompasses perception. An explanation that
+> makes divinity a human construct is, in terms of Islamic belief, **a denial of
+> divinity**.
 
 #### The whole of the unseen is declared "fabrication"
 
@@ -239,8 +241,6 @@ Each finding is given together with the quotation and the verse it rests on.
 
 ### 3.3 Revelation, prophethood and the source of the Qur'an
 
-This is the densest axis of the report.
-
 #### The divine source of revelation is not affirmed in the books' own voice
 
 > **[[Quote-19](https://tarih1931.github.io/tarih-2-1931/s0090.html)]** "Muhammedin koyduğu esasların toplu olduğu kitaba Kuran denir. … **İslâm
@@ -308,15 +308,9 @@ This is the densest axis of the report.
 > **[Finding-11]** The Prophet is described as the founder of the religion;
 > moreover the definition of messengership itself — receiving everything from an
 > angel and conveying it exactly — is expressly declared an "error". In the
-> Qur'an the Prophet is not a founder but a **conveyor**; and being unlettered
-> is not a deficiency but evidence that the revelation is independent of any
-> human accumulation. *Two necessary notes:* (a) the characterisation rejected
-> in Quote-24 is composite — the books add to the list caricatural elements ("an
-> illiterate, ignorant, unfeeling and motionless idol") that no Islamic source
-> has ever claimed, and the direct target of the rejection is that caricature of
-> passivity. (b) Even so, the part "who takes everything from an angel and
-> conveys it exactly" does correspond to the definition of messengership, and
-> Quote-22 closes off any mitigating reading.
+> Qur'an the Prophet is not a **founder** but a **conveyor**. Being unlettered,
+> too, is not a deficiency but evidence that the revelation is independent of any
+> human accumulation.
 
 #### The same pattern is applied to Moses
 
@@ -377,12 +371,7 @@ This is the densest axis of the report.
 > **[Finding-14]** The source of belief in angels is tied to what was learned
 > from earlier religions; the belief is presented not as a truth conveyed by
 > revelation but as a conviction reinforced through cultural contact. In the
-> Qur'an belief in the angels is one of the enumerated articles of faith. *A
-> necessary note.* In Quote-28 the books do not deliver the verdict in their own
-> voice; they refer it to the religions with the qualification "in the view of
-> the religions". This is the same construction as "in Islamic tradition … it is
-> accepted" in Quote-19: the verdict is referred elsewhere, and the books do not
-> affirm it.
+> Qur'an belief in the angels is one of the enumerated articles of faith.
 
 ### 3.5 Scripture, law and sacred place
 
@@ -417,10 +406,12 @@ This is the densest axis of the report.
 
 > **[Verse-19]** "The first House established for mankind was the one at Mecca — blessed, and a guidance for all peoples." — **Āl ʿImrān 96**
 
-> **[Finding-16]** The sanctity of the Kaaba is tied to the Phrygian custom of the
-> black stone, and religious forms to the aim of preventing wars: sanctity is
-> derived not from revelation but from earlier customs and political need. In the
-> Qur'an it is God who made the House the first house established for mankind.
+> **[Finding-16]** In the books the sanctity of the Kaaba is tied to the Phrygian
+> custom of the black stone, and religious forms to the aim of preventing wars.
+> The source of sanctity is thereby explained not by revelation but by earlier
+> social customs and political need. In the Qur'an, by contrast, it is stated
+> plainly that it is God who made the House the first house established for
+> mankind.
 
 #### The permanence of the law is removed by implication
 
@@ -433,19 +424,17 @@ This is the densest axis of the report.
 
 > **[Verse-20]** "Any revelation We cause to be abrogated or forgotten, We replace with something better or similar." — **Al-Baqara 106**
 
-> **[Finding-17]** The verdict is given that the rules are "not eternal and are
-> condemned to change with time". Literally, "these" are the newly enacted laws;
-> the extension to Qur'anic rulings follows from the implication of the word
-> "dahi" ("too") — a strong implication, but not an explicit statement. In the
-> Qur'an the authority to abrogate belongs to God; a ruling changes only by
-> revelation.
+> **[Finding-17]** It is asserted that the rules are "not eternal and are
+> condemned to change with time". Literally, "these" points to the newly enacted
+> laws; the extension of that verdict to Qur'anic rulings is drawn from the
+> implication of the word "dahi" ("too"). The conclusion is therefore obtained not
+> from the explicit wording of the text but by way of a strong implication. In the
+> Qur'an, by contrast, the authority to abrogate belongs to God, and a ruling is
+> changed only by way of revelation.
 
 ---
 
 ## 4. Where the books praise Muhammad, and what that praise is worth doctrinally
-
-This part is required by the honesty of the report. But **the sentences of praise
-are not a doctrinal acceptance**; the reason is set out in [section 4.2](#s-4-2-praise-does-not-soften-the-doctrinal-conflict).
 
 ### 4.1 The sentences of praise
 
@@ -463,72 +452,50 @@ are not a doctrinal acceptance**; the reason is set out in [section 4.2](#s-4-2-
 
 > **[Verse-21]** "Say: I am only a human being like you; it is revealed to me that your God is One God." — **Al-Kahf 110**
 
-> **[Finding-18]** The praise remains wholly within human categories: Muhammad is
-> described as a moral and social reformer, a man of superior qualities and a
-> historical personality; and his superiority is counted as something he **"proved
-> by the works he accomplished"**. None of the qualities praised belongs to
-> prophethood — the merits are attributed to the person himself, to his own effort
-> and to his works. In the Qur'an what distinguishes the Prophet is not his
-> personal merits but that **revelation is given to him**; being human and being a
-> messenger are stated together in the same verse.
+> **[Finding-18]** In the books Muhammad is described as a moral and social
+> reformer, a man of superior qualities and a historical personality; his
+> superiority, too, is said to have been **proved by the works he accomplished**.
+> The qualities brought to the fore are thus attributed not to the office of
+> prophethood but to the person's own merits, his own effort and the works he
+> produced. In the Qur'an, by contrast, what distinguishes the Prophet from other
+> people is not his personal merits but that **revelation is sent down to him**;
+> his being human and his mission as a messenger are stated together in the same
+> verse.
 
 ### 4.2 Praise does not soften the doctrinal conflict
 
-The books deliver a positive verdict on the Prophet's morals and do not say that
-he "deceived". But from this it does not follow that "the books accept Islam" or
-that "the doctrinal conflict softens". The reason is definite.
+The books deliver a positive verdict on the Prophet's morals and do not
+characterise him as having **deceived**. But this does not mean that they accept
+Islam or that the doctrinal conflict is softened, because the question at issue
+is not the Prophet's morals but the source of the revelation.
 
-**There is no vague "feeling of inspiration" here; there is the claim of a
-specific external event.** The claim is this: the verses of the Qur'an were sent
-down **by God through an angel named Gabriel**. This is not a subjective feeling
-but an event reported to have occurred outside the mind. The books know it,
-because they record it themselves: they relay the claim as it stands, but with
-the qualification "in Islamic tradition … it is accepted" (**Quote-19**).
+The books record the Islamic claim that the Qur'an was sent down by God through
+Gabriel; they then assert that the idea of revelation arose in the Prophet's own
+mind as the result of reflection over many years, and that the verses are the
+product of those reflections. Revelation is thereby removed from being an
+external and divine conveyance and explained instead as the product of a human
+process of thought.
 
-Immediately afterwards they place their own verdict: the idea of revelation was
-born in the Prophet after years of reflection (**Quote-20**); the verses are the
-product of the reflections of a long period (**Quote-22**). That is, the books do not
-**read** the same experience differently; they say the reported event **did not
-occur**. In place of an external conveyance through an angel they put an idea
-that arises in the mind and ripens over time.
-
-**A specific external event either occurred or it did not.** The books say it did
-not: not an external conveyance through an angel, but an idea arising in the
-mind. On that account, whatever is said about the Prophet's morals, the report
-"Gabriel brought it from God" is held **not to have taken place**, and the Qur'an
-ceases to be the word of God. The verdict on morals changes; **the verdict on the
-source of the Qur'an does not**.
-
-**The Qur'an frames its own question with two alternatives and admits no third.**
-The question is not about the morals of the speaker but about the origin of the
-word:
+This approach gives rise to a fundamental doctrinal divergence as to the source
+of the Qur'an. For the Qur'an sets the two possibilities — being from God, and
+being an invention — against each other, and states this plainly in the verses of
+challenge (Aṭ-Ṭūr 33-34; Al-Baqara 23; Yūnus 37-38; Hūd 13; Al-Isrā' 88). The
+explanation that **he took it for revelation, when in truth he mistook the
+product of his own reflection for revelation** therefore yields a conclusion that
+denies the divine source of the revelation and, with it, the claim to
+prophethood.
 
 > **[Verse-22]** "Or do they say, 'He has invented it'? No — they simply do not believe. Then let them produce a discourse like it, if they are truthful." — **Aṭ-Ṭūr 33-34**
 
-The same dilemma and the same challenge (*taḥaddī*) are repeated: Al-Baqara 23;
-Yūnus 37-38; Hūd 13; Al-Isrā' 88. The Qur'an closes off the possibility of
-invention not with a **third alternative** but with a **test**. Further, it
-states the consequence of the assumption of invention itself: *"If he had
-invented sayings and attributed them to Us, We would have seized him by the right
-hand and cut his lifeline"* (Al-Ḥāqqa 44-46). Within the Qur'an's own frame the
-possibilities are two: **either it is from God, or it is a fabrication.**
-
-**Nor is there a third category in doctrine.** In prophethood *ṣidq* is not the
-subjective sincerity of the agent but **the truth of what is conveyed**. The
-prophets are protected by *ʿiṣma* from error in conveyance; to say "he took it
-for revelation but it came from his own reflection" invalidates that protection
-and the claim to messengership together.
-
-> **[Finding-19]** The books say that revelation arose from the Prophet's own
-> reflection; the report "Gabriel brought it from God" is thereby held not to have
-> occurred. Whatever is said about the Prophet's morals, the verdict on the source
-> of the Qur'an does not change: the Qur'an has been removed from being the word of
-> God. The quotations it rests on are in [section 3.3](#s-3-3-revelation-prophethood-and-the-source-of-the-qur-an); this section discusses their
-> doctrinal consequence.
+> **[Finding-19]** The books assert not that the Qur'an was revealed by God but
+> that the idea of revelation arose from the Prophet's own reflection. On this
+> approach, however positively the Prophet's morals and personality are assessed,
+> **the Qur'an is not accepted as the word of God and the divine source of the
+> revelation is denied**.
 
 ---
 
-## 5. What can be said on the basis of the books
+## 5. Determinations based on the plain wording of the books
 
 The following is the plain wording of the books; it requires no inference.
 
@@ -613,32 +580,20 @@ The page-by-page view, with a link from each page to its scanned original, is in
 the [index of corrected sections](https://tarih1931.github.io/duzeltilmis.html); the full scans of the
 volumes are references **[1]** and **[2]**.
 
-The text examined is the **1931 first printing**; the scan of the 1941 printing is
-recorded in the TTK catalogue but is not available online. The text was corrected
-by hand; the raw OCR output is kept alongside each record, so every correction can
-be audited.
-
-**Basis of the sources.** The doctrinal grounds of this report are **the verses of
-the Qur'an alone**. No modern author's commentary and no work belonging to a
-school or movement has been relied upon; the aim is to keep the report's basis as
-broad as possible. The quotations from the 1931 printing are in the public domain,
-and the report's own text is released under CC0, so the whole document may be
-freely reproduced.
+**Basis of the sources.** The ground of Islamic belief relied on here is **the
+verses of the Qur'an alone**. No author's commentary and no work belonging to a
+school or to a particular writer has been relied upon. The quotations from the
+1931 printing are in the public domain, and the report's own text is released
+under CC0, so the whole document may be freely reproduced.
 
 **The spelling in the quotations is that of the 1931 printing** and has not been
 corrected: *sora*, *evel*, *tabiat*, *iptidaî*, *mabut*, *neş'et*.
 
-In an earlier version of this report the forms *her seyi*, *sahsiyet* and
-*Karataşm* were left as they stood, taken to be typesetting errors of the
-printing. They were checked against the scan: all three come from the **OCR**, not
-from the printing; the printed page reads *her şeyi* (p. 93), *şahsiyet* (p. 93)
-and *Karataşın* (p. 85). The quotations have been corrected to match the printing.
-
 Quotation marks inside a quotation have been rendered as single quotes (the
 printing has *"kabile allahı"*, the report *'kabile allahı'*); apart from this the
-wording has not been altered. All 34 verbatim quotations in the report are present
-letter for letter in the corrected text of the page named in their citation, and
-this is machine-verified.
+wording has not been altered. All the quotations in the report are present letter
+for letter in the corrected text of the page named in their citation, and this is
+machine-verified.
 
 ---
 
