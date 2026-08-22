@@ -578,13 +578,11 @@ school or to a particular writer has been relied upon. The quotations from the
 under CC0, so the whole document may be freely reproduced.
 
 **The spelling in the quotations is that of the 1931 printing** and has not been
-corrected: *sora*, *evel*, *tabiat*, *iptidaî*, *mabut*, *neş'et*.
-
-Quotation marks inside a quotation have been rendered as single quotes (the
-printing has *"kabile allahı"*, the report *'kabile allahı'*); apart from this the
-wording has not been altered. All the quotations in the report are present letter
-for letter in the corrected text of the page named in their citation, and this is
-machine-verified.
+corrected: *sora*, *evel*, *tabiat*, *iptidaî*, *mabut*, *neş'et*. Quotation marks
+inside a quotation have been rendered as single quotes (the printing has
+*"kabile allahı"*, the review *'kabile allahı'*); apart from this the wording has
+not been altered. All the quotations are present letter for letter in the
+corrected text of the page named in their citation, and this is machine-verified.
 
 ---
 

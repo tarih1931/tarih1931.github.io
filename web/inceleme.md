@@ -450,12 +450,7 @@ taramaları kaynakçada **[1]** ve **[2]**'dedir.
 **Kaynak tabanı.** İslami itikad dayanağı **yalnız Kur'an ayetleridir**. Hiçbir müellif yorumu, hiçbir ekol veya bir yazara ait esere dayalı değildir. 
 1931 basımından yapılan alıntılar kamu malıdır, raporun kendi metni CC0 ile kamuya bırakılmıştır; böylece belgenin tamamı serbestçe çoğaltılabilir.
 
-**Alıntılardaki imlâ 1931 basımına aittir** ve düzeltilmemiştir: *sora*,
-*evel*, *tabiat*, *iptidaî*, *mabut*, *neş'et*.
-
-Alıntı içindeki tırnaklar tek tırnağa çevrilmiştir (basımda *"kabile allahı"*,
-raporda *'kabile allahı'*); bunun dışında lafız değiştirilmemiştir. Rapordaki alıntıların tamamı, künyesinde gösterilen sayfanın düzeltilmiş
-metninde harfi harfine bulunmaktadır ve bu makine ile denetlenmiştir.
+**Alıntılardaki imlâ 1931 basımına aittir** ve düzeltilmemiştir: *sora*, *evel*, *tabiat*, *iptidaî*, *mabut*, *neş'et*. Alıntı içindeki tırnaklar tek tırnağa çevrilmiştir (basımda *"kabile allahı"*, incelemede *'kabile allahı'*); bunun dışında lafız değiştirilmemiştir. Alıntıların tamamı, künyesinde gösterilen sayfanın düzeltilmiş metninde harfi harfine bulunmaktadır ve bu makine ile denetlenmiştir.
 
 ---
 
