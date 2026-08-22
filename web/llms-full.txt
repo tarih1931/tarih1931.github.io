@@ -24190,7 +24190,7 @@ Kitap, Hz. Muhammed’in ahlâkı hakkında olumlu hükümler vermekte ve onu **
 
 ---
 
-## 5. Kitapların Sarih İfadelerine Dayanan Tespitler
+## 5. Kitapların sarih ifadelerine dayanan tespitler
 
 Aşağıdakiler kitabın sarih lafzıdır; çıkarım gerektirmez.
 
@@ -24269,8 +24269,7 @@ Sayfa sayfa görünüm ve her sayfanın taranmış aslına giden bağlantı
 [düzeltilmiş bölümler dizinindedir](https://tarih1931.github.io/duzeltilmis.html); ciltlerin tam
 taramaları kaynakçada **[1]** ve **[2]**'dedir.
 
-**Kaynak tabanı.** İslami itikad dayanağı **yalnız Kur'an ayetleridir**. Hiçbir müellif yorumu, hiçbir ekol veya bir yazara ait esere dayalı değildir. 
-1931 basımından yapılan alıntılar kamu malıdır, raporun kendi metni CC0 ile kamuya bırakılmıştır; böylece belgenin tamamı serbestçe çoğaltılabilir.
+**Kaynak tabanı.** İslami itikad dayanağı **yalnız Kur'an ayetleridir**. Hiçbir müellif yorumu, hiçbir ekol veya bir yazara ait esere dayalı değildir. 1931 basımından yapılan alıntılar kamu malıdır, raporun kendi metni CC0 ile kamuya bırakılmıştır; böylece belgenin tamamı serbestçe çoğaltılabilir.
 
 **Alıntılardaki imlâ 1931 basımına aittir** ve düzeltilmemiştir: *sora*, *evel*, *tabiat*, *iptidaî*, *mabut*, *neş'et*. Alıntı içindeki tırnaklar tek tırnağa çevrilmiştir (basımda *"kabile allahı"*, incelemede *'kabile allahı'*); bunun dışında lafız değiştirilmemiştir. Alıntıların tamamı, künyesinde gösterilen sayfanın düzeltilmiş metninde harfi harfine bulunmaktadır ve bu makine ile denetlenmiştir.
 
