@@ -3,7 +3,7 @@
     python build/14_wikidata.py                   # toplu iş metnini üret
     python build/14_wikidata.py --yaz             # kaynakları doğrudan API ile ekle
     python build/14_wikidata.py --inceleme        # incelemenin öğesini kur (bir kez)
-    python build/14_wikidata.py --inceleme-kunye  # etiketi ve yazarı künyeyle eşitle
+    python build/14_wikidata.py --inceleme-kunye  # etiket, başlık ve yazarı eşitle
 
 Çıktı: wikidata/quickstatements.txt
 
@@ -275,7 +275,7 @@ def _tarih(pid: str, iso: str, kaynak=None) -> dict:
 
 
 def inceleme_kunyesi(istek, csrf: str) -> None:
-    """İncelemenin öğesindeki etiketleri ve yazarı books.json ile eşitler.
+    """İncelemenin öğesindeki etiketleri, başlığı ve yazarı books.json ile eşitler.
 
     Öğe bir kez kurulur (inceleme_ogesi) ve sonra ona dokunulmaz — yanlışlıkla
     başkasının düzenlemesini ezmemek için. Ama başlık books.json'da değişince
@@ -327,6 +327,32 @@ def inceleme_kunyesi(istek, csrf: str) -> None:
             print(f"    {qid} P2093 yazılamadı: {r['error'].get('info', r['error'])}")
         else:
             print(f"    {qid} P2093: {yazar}")
+
+    # Başlık ifadesi (P1476) etiketten ayrıdır: etiket öğenin bilgi grafiğindeki
+    # adı, P1476 eserin kendi başlığıdır ve kaynaklı bir ifade olarak durur.
+    # İkisi ayrı ayrı eskiyebiliyor — öğe kurulduktan sonra başlık books.json'da
+    # değişti ve P1476'da kuruluş günündeki ad kaldı. Dili künyede karşılığı
+    # olan ifade, yalnız eskiyse güncellenir; kaynağı yerinde kalır.
+    baslik = {"tr": inc.get("title"), "en": inc.get("title_en") or inc.get("title")}
+    d = istek({"action": "wbgetclaims", "entity": qid, "property": "P1476"})
+    for c in d.get("claims", {}).get("P1476", []):
+        v = c["mainsnak"].get("datavalue", {}).get("value", {})
+        dil, beklenen = v.get("language"), baslik.get(v.get("language"))
+        if not beklenen:
+            print(f"    {qid} P1476 ({dil}): künyede karşılığı yok, dokunulmadı")
+            continue
+        if v.get("text") == beklenen:
+            print(f"    {qid} P1476 ({dil}): aynı, dokunulmadı")
+            continue
+        r = istek({"action": "wbsetclaimvalue"},
+                  {"claim": c["id"], "snaktype": "value",
+                   "value": json.dumps({"text": beklenen, "language": dil}),
+                   "token": csrf,
+                   "summary": "başlık ifadesi books.json'daki künyeyle eşitlendi"})
+        if "error" in r:
+            print(f"    {qid} P1476 yazılamadı: {r['error'].get('info', r['error'])}")
+        else:
+            print(f"    {qid} P1476 ({dil}): güncellendi")
 
     print(f"    https://www.wikidata.org/wiki/{qid}")
 
