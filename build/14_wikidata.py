@@ -3,7 +3,7 @@
     python build/14_wikidata.py                   # toplu iş metnini üret
     python build/14_wikidata.py --yaz             # kaynakları doğrudan API ile ekle
     python build/14_wikidata.py --inceleme        # incelemenin öğesini kur (bir kez)
-    python build/14_wikidata.py --inceleme-kunye  # o öğenin etiketini başlıkla eşitle
+    python build/14_wikidata.py --inceleme-kunye  # etiketi ve yazarı künyeyle eşitle
 
 Çıktı: wikidata/quickstatements.txt
 
@@ -275,7 +275,7 @@ def _tarih(pid: str, iso: str, kaynak=None) -> dict:
 
 
 def inceleme_kunyesi(istek, csrf: str) -> None:
-    """İncelemenin öğesindeki etiketleri books.json'daki başlıkla eşitler.
+    """İncelemenin öğesindeki etiketleri ve yazarı books.json ile eşitler.
 
     Öğe bir kez kurulur (inceleme_ogesi) ve sonra ona dokunulmaz — yanlışlıkla
     başkasının düzenlemesini ezmemek için. Ama başlık books.json'da değişince
@@ -309,6 +309,25 @@ def inceleme_kunyesi(istek, csrf: str) -> None:
             print(f"    {qid} {dil}: etiket yazılamadı: {d['error'].get('info', d['error'])}")
         else:
             print(f"    {qid} {dil}: etiket güncellendi")
+    # Yazar da künyeden gelir. books.json'daki ad değişince bilgi grafiğinde
+    # eskisi kalıyordu: kayıt Zenodo'da ve archive.org'da bir ad, Wikidata'da
+    # başka bir ad gösteriyordu. Etiket gibi, yalnız eskiyse dokunulur — var
+    # olan ifadenin kimliği korunur, ikinci bir P2093 açılmaz.
+    yazar = inc.get("author")
+    d = istek({"action": "wbgetclaims", "entity": qid, "property": "P2093"})
+    for c in d.get("claims", {}).get("P2093", []):
+        if not yazar or c["mainsnak"].get("datavalue", {}).get("value") == yazar:
+            print(f"    {qid} P2093: aynı, dokunulmadı")
+            continue
+        r = istek({"action": "wbsetclaimvalue"},
+                  {"claim": c["id"], "snaktype": "value",
+                   "value": json.dumps(yazar), "token": csrf,
+                   "summary": "yazar books.json'daki künyeyle eşitlendi"})
+        if "error" in r:
+            print(f"    {qid} P2093 yazılamadı: {r['error'].get('info', r['error'])}")
+        else:
+            print(f"    {qid} P2093: {yazar}")
+
     print(f"    https://www.wikidata.org/wiki/{qid}")
 
 
