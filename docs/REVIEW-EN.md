@@ -466,24 +466,15 @@ reached by assessing them together are then set out.
 
 The books deliver a positive verdict on the Prophet's morals and do not
 characterise him as having **deceived**. But this does not mean that they accept
-Islam or that the doctrinal conflict is softened, because the question at issue
-is not the Prophet's morals but the source of the revelation.
-
-The books record the Islamic claim that the Qur'an was sent down by God through
-Gabriel; they then assert that the idea of revelation arose in the Prophet's own
-mind as the result of reflection over many years, and that the verses are the
-product of those reflections. Revelation is thereby removed from being an
-external and divine conveyance and explained instead as the product of a human
-process of thought.
-
-This approach gives rise to a fundamental doctrinal divergence as to the source
-of the Qur'an. For the Qur'an sets the two possibilities — being from God, and
-being an invention — against each other, and states this plainly in the verses of
-challenge (Aṭ-Ṭūr 33-34; Al-Baqara 23; Yūnus 37-38; Hūd 13; Al-Isrā' 88). The
-explanation that **he took it for revelation, when in truth he mistook the
-product of his own reflection for revelation** therefore yields a conclusion that
-denies the divine source of the revelation and, with it, the claim to
-prophethood.
+Islam or that the doctrinal conflict is softened. What is at issue here is not
+the favourable assessment of the Prophet's character but how the source of the
+Qur'an is explained. For the Qur'an sets the two possibilities — being from God,
+and being an invention — against each other, and states this plainly in the
+verses of challenge (Aṭ-Ṭūr 33-34; Al-Baqara 23; Yūnus 37-38; Hūd 13;
+Al-Isrā' 88). The explanation that **he took it for revelation, when in truth he
+mistook the product of his own reflection for revelation** therefore yields a
+conclusion that denies the divine source of the revelation and, with it, the
+claim to prophethood.
 
 > **[Verse-22]** "Or do they say, 'He has invented it'? No — they simply do not believe. Then let them produce a discourse like it, if they are truthful." — **Aṭ-Ṭūr 33-34**
 
