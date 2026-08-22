@@ -236,7 +236,7 @@ Zenodo'da `isSupplementTo` ile bağlıdır.
 |---|---|
 | **Concept DOI** (künyelerde kullanılan) | `10.5281/zenodo.21963507` |
 | Kayıt | https://doi.org/10.5281/zenodo.21963507 |
-| Son yayımlanan sürüm | `22059727` (22.08.2026) — DOI `10.5281/zenodo.22059727` |
+| Son yayımlanan sürüm | `22059860` (22.08.2026) — DOI `10.5281/zenodo.22059860` |
 
 DOI `metadata/books.json` → `review.doi` alanında durur; site, `llms.txt` ve
 Vikikaynak düzenleme özetleri oradan okur.
@@ -254,8 +254,9 @@ oldu. Ad artık belgenin başlığı altında da durur; PDF kapağı, Zenodo
 `creators`, archive.org `creator`, site atıf kutusu, Scholar etiketleri ve
 Wikidata P2093 tek alandan (`books.json` -> `review.author`) beslenir.
 
-Aynı gün `22059727` açıldı: §4.2 üç paragraftan bire indi ve İngilizce sürüm
-eşitlendi. Concept DOI artık `22059727`'ye çözümlenir.
+Aynı gün `22059727` (§4.2 üç paragraftan bire indi) ve `22059860` (§7'deki
+imlâ notu tek paragrafa toplandı) açıldı; ikisinde de İngilizce sürüm
+eşitlendi. Concept DOI artık `22059860`'a çözümlenir.
 
 Metin değiştiğinde **daima yeni sürüm** açılır — yeni kayıt açmak ayrı bir
 concept DOI üretir ve çalışmanın kimliğini ikiye böler:
