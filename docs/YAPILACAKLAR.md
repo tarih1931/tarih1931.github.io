@@ -236,7 +236,7 @@ Zenodo'da `isSupplementTo` ile bağlıdır.
 |---|---|
 | **Concept DOI** (künyelerde kullanılan) | `10.5281/zenodo.21963507` |
 | Kayıt | https://doi.org/10.5281/zenodo.21963507 |
-| Son yayımlanan sürüm | `22059860` (22.08.2026) — DOI `10.5281/zenodo.22059860` |
+| Son yayımlanan sürüm | `22060070` (22.08.2026) — DOI `10.5281/zenodo.22060070` |
 
 DOI `metadata/books.json` → `review.doi` alanında durur; site, `llms.txt` ve
 Vikikaynak düzenleme özetleri oradan okur.
@@ -254,9 +254,20 @@ oldu. Ad artık belgenin başlığı altında da durur; PDF kapağı, Zenodo
 `creators`, archive.org `creator`, site atıf kutusu, Scholar etiketleri ve
 Wikidata P2093 tek alandan (`books.json` -> `review.author`) beslenir.
 
-Aynı gün `22059727` (§4.2 üç paragraftan bire indi) ve `22059860` (§7'deki
-imlâ notu tek paragrafa toplandı) açıldı; ikisinde de İngilizce sürüm
-eşitlendi. Concept DOI artık `22059860`'a çözümlenir.
+Aynı gün `22059727` (§4.2 üç paragraftan bire indi), `22059860` (§7'deki imlâ
+notu tek paragrafa toplandı) ve `22060070` (§5 başlığı cümle düzenine geçti)
+açıldı; hepsinde İngilizce sürüm eşitlendi. Concept DOI artık `22060070`'e
+çözümlenir.
+
+> **Bilinen aksaklık — `inceleme-en.md` önizlemesi.** Zenodo bu dosyanın
+> önizlemesinde HTTP 500 veriyor (`inceleme-tr.md`, iki PDF ve `bulgular.jsonl`
+> sorunsuz açılıyor). Dosyanın kendisi sağlam: indirilebiliyor, geçerli UTF-8,
+> mistune 0.8/2/3, markdown-it ve bleach ile hatasız işleniyor; satır sonu,
+> boyut, satır uzunluğu ve bağlantı profili Türkçesiyle aynı. 21.08 sürümündeki
+> (`22047835`) İngilizce dosya hâlâ 200 dönüyor, yani tetikleyici 22.08'de
+> yazılan metinde ama yerel olarak tekrarlanamıyor. Zenodo tarafı bir hata
+> gibi görünüyor; İngilizce PDF önizlemesi çalıştığı için kayıt okunabilir
+> durumda.
 
 Metin değiştiğinde **daima yeni sürüm** açılır — yeni kayıt açmak ayrı bir
 concept DOI üretir ve çalışmanın kimliğini ikiye böler:
