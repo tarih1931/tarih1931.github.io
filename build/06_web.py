@@ -61,6 +61,9 @@ REVIEW_EN_MD = ROOT / "docs" / "REVIEW-EN.md"
 # İncelemenin ekleri (Ek A/B/C) ayrı bir belgedir: ana metni okunur tutar,
 # dayanakları isteyen okuyucu bağlantıdan ulaşır.
 REVIEW_ANNEX_MD = ROOT / "docs" / "inceleme-ekler.md"
+# Eklerin İngilizce sürümü. Alıntılar, lügat maddeleri ve 1931 ön sözü orada da
+# Türkçe durur; İngilizcesi her birinin altında köşeli parantezle verilir.
+REVIEW_ANNEX_EN_MD = ROOT / "docs" / "REVIEW-APPENDICES-EN.md"
 # İncelemenin KENDİ DOI'si — korpusunkinden ayrı. Ayrı bir çalışma olarak
 # yayımlandığı için kendi başlığı, özeti ve atıf künyesi vardır.
 REVIEW_DOI = (META.get("review") or {}).get("doi") or None
@@ -738,7 +741,7 @@ def build_review_page() -> str:
     if REVIEW_EN_MD.exists():
         alt.append('<a href="review.html">English version</a>')
     if REVIEW_ANNEX_MD.exists():
-        alt.append('<a href="inceleme-ekler.html">Ekler (A, B, C)</a>')
+        alt.append('<a href="inceleme-ekler.html">Ekler (A, B, C, D)</a>')
     if REVIEW_EMAIL:
         alt.append(f'Yazışma: <a href="mailto:{esc(REVIEW_EMAIL)}">{esc(REVIEW_EMAIL)}</a>')
     alt.append('<a href="inceleme.json">bulgular (JSON)</a>')
@@ -784,15 +787,17 @@ def build_review_page() -> str:
 
 
 def build_review_annex_page() -> str:
-    """docs/inceleme-ekler.md — incelemenin ekleri (Ek A/B/C).
+    """docs/inceleme-ekler.md — incelemenin ekleri (Ek A/B/C/D).
 
     Ana metinden ayrı bir sayfadır: inceleme okunur kalsın, dayanakları
     (ayet dosyaları, terim dosyaları, ön söz) isteyen okuyucu buraya geçsin."""
     url = f"{BASE_URL}/inceleme-ekler.html"
     toc: list[tuple[int, str, str]] = []
     body = [md_to_html(REVIEW_ANNEX_MD.read_text(encoding="utf-8"), toc)]
-    alt = ['<a href="inceleme.html">İncelemenin ana metni</a>',
-           '<a href="inceleme-ekler.md">ham Markdown</a>']
+    alt = ['<a href="inceleme.html">İncelemenin ana metni</a>']
+    if REVIEW_ANNEX_EN_MD.exists():
+        alt.append('<a href="review-appendices.html">English version</a>')
+    alt.append('<a href="inceleme-ekler.md">ham Markdown</a>')
     if REVIEW_EMAIL:
         alt.append(f'Yazışma: <a href="mailto:{esc(REVIEW_EMAIL)}">{esc(REVIEW_EMAIL)}</a>')
     if REVIEW_DOI:
@@ -817,7 +822,52 @@ def build_review_annex_page() -> str:
     return shell(
         f"{REVIEW_TITLE} — Ekler",
         "".join(body),
-        "İncelemenin ekleri: ayet dosyaları, terim dosyaları, ön söz ve heyet sayfaları.",
+        "İncelemenin ekleri: ayet dosyaları, terim dosyaları, ön söz ve heyet "
+        "sayfaları, hükümlerin dayanak tipi.",
+        jsonld,
+        url,
+    )
+
+
+def build_review_annex_en_page() -> str:
+    """docs/REVIEW-APPENDICES-EN.md — eklerin İngilizce sürümü.
+
+    Türkçe eklerin karşılığıdır: alıntılar, lügat maddeleri ve 1931 ön sözü
+    alıntılanabilir kalsın diye Türkçe durur, İngilizcesi altlarında verilir."""
+    url = f"{BASE_URL}/review-appendices.html"
+    toc: list[tuple[int, str, str]] = []
+    body = [md_to_html(REVIEW_ANNEX_EN_MD.read_text(encoding="utf-8"), toc)]
+    alt = ['<a href="review.html">Main text of the review</a>',
+           '<a href="inceleme-ekler.html">Türkçe aslı</a>',
+           '<a href="REVIEW-APPENDICES-EN.md">raw Markdown</a>']
+    if REVIEW_EMAIL:
+        alt.append(f'Correspondence: <a href="mailto:{esc(REVIEW_EMAIL)}">{esc(REVIEW_EMAIL)}</a>')
+    if REVIEW_DOI:
+        alt.append(f'DOI: <a href="https://doi.org/{esc(REVIEW_DOI)}">{esc(REVIEW_DOI)}</a>')
+    body.append(
+        f'<footer>{" · ".join(alt)}<br>'
+        f'Released into the public domain under {esc(RIGHTS["derived_dataset_license"])}.</footer>'
+    )
+    jsonld = {
+        "@context": "https://schema.org",
+        "@type": "ScholarlyArticle",
+        "@id": url,
+        "url": url,
+        "name": f"{REVIEW_EN_TITLE} — Appendices",
+        "inLanguage": "en",
+        "license": RIGHTS["derived_dataset_license_uri"],
+        "isAccessibleForFree": True,
+        "isPartOf": {"@type": "ScholarlyArticle", "url": f"{BASE_URL}/review.html",
+                     "name": REVIEW_EN_TITLE},
+        "workTranslation": {"@type": "ScholarlyArticle",
+                            "url": f"{BASE_URL}/inceleme-ekler.html", "inLanguage": "tr"},
+        "encodingFormat": "text/html",
+    }
+    return shell(
+        f"{REVIEW_EN_TITLE} — Appendices",
+        "".join(body),
+        "Appendices to the review: verse files, term files, the 1931 preface and the "
+        "drafting-committee pages, and the grounds of each judgement.",
         jsonld,
         url,
     )
@@ -837,6 +887,8 @@ def build_review_en_page() -> str:
     if REVIEW_EN_PDF.exists():
         alt.append('<a href="review.pdf">PDF</a>')
     alt.append('<a href="inceleme.html">Türkçe aslı</a>')
+    if REVIEW_ANNEX_EN_MD.exists():
+        alt.append('<a href="review-appendices.html">Appendices (A, B, C, D)</a>')
     if REVIEW_EMAIL:
         alt.append(f'Correspondence: <a href="mailto:{esc(REVIEW_EMAIL)}">{esc(REVIEW_EMAIL)}</a>')
     alt.append('<a href="inceleme.json">claims (JSON)</a>')
@@ -1044,9 +1096,15 @@ def build_llms_txt(all_rows: dict[str, list[dict]]) -> str:
             )
         if REVIEW_ANNEX_MD.exists():
             L.append(f"- [İncelemenin ekleri]({BASE_URL}/inceleme-ekler.html): "
-                     "her ayet için kilit lafız, meal farkları, tefsir notu ve ansiklopedi "
-                     "maddesi (Ek A); kilit terimlerin kitap içi kullanımı ve Kur'anî "
-                     "karşılığı (Ek B); ön söz ve telif heyeti sayfaları (Ek C)")
+                     "her ayet için bulgudaki yeri, tefsir notu ve ansiklopedi "
+                     "maddesi (Ek A); kilit terimlerin kitap içi kullanımı, 1931 lügat "
+                     "anlamı ve Kur'anî karşılığı (Ek B); ön söz ve telif heyeti "
+                     "sayfaları (Ek C); her bulgunun dayanak tipi (Ek D)")
+        if REVIEW_ANNEX_EN_MD.exists():
+            L.append(f"- [Appendices, English]({BASE_URL}/review-appendices.html): "
+                     "the same four appendices in English; quotations, dictionary entries "
+                     "and the 1931 preface stay in Turkish, each with an English "
+                     f"translation beneath. Raw: {BASE_URL}/REVIEW-APPENDICES-EN.md")
         L.append(f"- [Aynı incelemenin ham Markdown'ı]({BASE_URL}/inceleme.md)")
         # PDF'ler sayfadan bağlantı almıyor; burada sayılmazsa yalnız sitemap ve
         # citation_pdf_url üzerinden bulunabiliyorlar.
@@ -1312,6 +1370,11 @@ def main() -> None:
         write_text(WEB_DIR / "inceleme-ekler.html", build_review_annex_page())
         shutil.copy2(REVIEW_ANNEX_MD, WEB_DIR / "inceleme-ekler.md")
         urls.append((f"{BASE_URL}/inceleme-ekler.html", "0.8"))
+
+    if REVIEW_ANNEX_EN_MD.exists():
+        write_text(WEB_DIR / "review-appendices.html", build_review_annex_en_page())
+        shutil.copy2(REVIEW_ANNEX_EN_MD, WEB_DIR / "REVIEW-APPENDICES-EN.md")
+        urls.append((f"{BASE_URL}/review-appendices.html", "0.8"))
 
     if REVIEW_EN_MD.exists():
         write_text(WEB_DIR / "review.html", build_review_en_page())

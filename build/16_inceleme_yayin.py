@@ -14,6 +14,7 @@ Pakette ne var:
 
   inceleme-tr.md    asıl belge (kanonik biçim)
   inceleme-en.md    İngilizce sürüm
+  inceleme-ekler-tr.md / -en.md   ekler (Ek A/B/C/D), iki dilde
   bulgular.jsonl    alıntılar (doğrulama damgalı) ve bulgular (dayanakları kayıtlı)
   inceleme-tr.pdf   Google Scholar PDF ayrıştırır; .md'yi ayrıştırmaz
   inceleme-en.pdf
@@ -57,6 +58,7 @@ TR_MD = ROOT / "docs" / "inceleme.md"
 EN_MD = ROOT / "docs" / "REVIEW-EN.md"
 # Ekler ayrı bir belgedir; kayda ayrı dosya olarak girer (aynı DOI, aynı sürüm).
 EK_MD = ROOT / "docs" / "inceleme-ekler.md"
+EK_EN_MD = ROOT / "docs" / "REVIEW-APPENDICES-EN.md"
 
 
 def ozet_ham(yol: Path, etiket: str) -> str:
@@ -234,6 +236,31 @@ def pdf_yaz(md_yolu: Path, hedef: Path, baslik: str, ozet: str, en: bool) -> Non
         pass
 
 
+def zenodo_onizlenebilir(metin: str) -> str:
+    """Zenodo'nun markdown önizleyicisi dosyanın ilk 1024 baytını UTF-8 diye
+    çözer. Çok baytlı bir karakter tam o sınıra denk gelirse çözme hata verir ve
+    kayıt sayfasındaki önizleme 500 döner; dosya indirilebilir kalır, yalnız
+    açılmaz. inceleme-en.md 22.08.2026'da başlık uzayınca tam bu duruma düştü
+    (özetteki bir uzun tire 1023. bayta kaydı), inceleme-tr.md açılmaya devam
+    ediyordu. Sınıra çok baytlı bir karakter geliyorsa başlıktan sonra fazladan
+    boş satır konur: markdown'da hiçbir şeyi değiştirmez, baytları kaydırır."""
+    for _ in range(8):
+        veri = metin.encode("utf-8")
+        if len(veri) <= 1024 or not 0x80 <= veri[1024] < 0xC0:
+            return metin
+        bas, _, kalan = metin.partition("\n")
+        metin = bas + "\n\n" + kalan
+    raise SystemExit("    Zenodo önizleme hizası kurulamadı")
+
+
+def md_kopyala(kaynak: Path, hedef: Path) -> None:
+    """Paket kopyası: satır sonu LF'e sabitlenir ve Zenodo hizası kurulur.
+
+    shutil.copy2 çalışma ağacındaki dosyayı bayt bayt taşıyordu; Windows'ta bir
+    araç CRLF yazdığında git bunu commit'te düzeltiyor ama pakete CRLF giriyordu."""
+    write_text(hedef, zenodo_onizlenebilir(kaynak.read_text(encoding="utf-8")))
+
+
 def zenodo_kunyesi() -> dict:
     return {
         "title": BASLIK_TR,
@@ -250,6 +277,8 @@ def zenodo_kunyesi() -> dict:
             f"<p><strong>Abstract (English):</strong> {ozet_html(HAM_EN)}</p>"
             f'<p>Çevrimiçi sürüm: <a href="{BASE_URL}/inceleme.html">{BASE_URL}/inceleme.html</a> '
             f'(İngilizcesi: <a href="{BASE_URL}/review.html">/review.html</a>)</p>'
+            f'<p>Ekler (Ek A/B/C/D): <a href="{BASE_URL}/inceleme-ekler.html">/inceleme-ekler.html</a> '
+            f'(English: <a href="{BASE_URL}/review-appendices.html">/review-appendices.html</a>)</p>'
         ),
         "language": "tur",
         "access_right": "open",
@@ -286,11 +315,13 @@ def main() -> None:
         shutil.rmtree(OUT, ignore_errors=True)
     OUT.mkdir(parents=True, exist_ok=True)
 
-    shutil.copy2(tr_md, OUT / "inceleme-tr.md")
+    md_kopyala(tr_md, OUT / "inceleme-tr.md")
     if EK_MD.exists():
-        shutil.copy2(EK_MD, OUT / "inceleme-ekler-tr.md")
+        md_kopyala(EK_MD, OUT / "inceleme-ekler-tr.md")
     if en_md.exists():
-        shutil.copy2(en_md, OUT / "inceleme-en.md")
+        md_kopyala(en_md, OUT / "inceleme-en.md")
+    if EK_EN_MD.exists():
+        md_kopyala(EK_EN_MD, OUT / "inceleme-ekler-en.md")
     if bulgular.exists():
         shutil.copy2(bulgular, OUT / "bulgular.jsonl")
 
@@ -300,6 +331,9 @@ def main() -> None:
                 ozet_html(ozet_ham(EK_MD, "Özet")), en=False)
     if en_md.exists():
         pdf_yaz(en_md, OUT / "inceleme-en.pdf", BASLIK_EN, ozet_html(HAM_EN), en=True)
+    if EK_EN_MD.exists():
+        pdf_yaz(EK_EN_MD, OUT / "inceleme-ekler-en.pdf", f"{BASLIK_EN} — Appendices",
+                ozet_html(ozet_ham(EK_EN_MD, "Abstract")), en=True)
 
     write_json(OUT / "zenodo.json", zenodo_kunyesi())
     write_text(

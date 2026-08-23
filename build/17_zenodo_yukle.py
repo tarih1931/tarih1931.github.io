@@ -52,7 +52,14 @@ from common import ROOT  # noqa: E402
 
 API = "https://zenodo.org/api"
 PAKET = ROOT / "inceleme" / "yayin"
-YUKLENECEK = ["inceleme-tr.md", "inceleme-en.md", "bulgular.jsonl", "inceleme-tr.pdf", "inceleme-en.pdf"]
+# Ekler kaydın parçasıdır: ayrı bir belgedir ama aynı DOI ve aynı sürüm altındadır.
+YUKLENECEK = [
+    "inceleme-tr.md", "inceleme-en.md",
+    "inceleme-ekler-tr.md", "inceleme-ekler-en.md",
+    "bulgular.jsonl",
+    "inceleme-tr.pdf", "inceleme-en.pdf",
+    "inceleme-ekler-tr.pdf", "inceleme-ekler-en.pdf",
+]
 
 # Korpus zip'i depo ağacının DIŞINA üretilir; 13_huggingface.py ile aynı
 # gerekçe: üretilen paket çalışma ağacında durursa yanlışlıkla depoya girer.

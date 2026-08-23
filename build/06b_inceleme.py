@@ -45,6 +45,7 @@ REVIEW_MD = ROOT / "docs" / "inceleme.md"
 # Ekler ayrı bir belgededir (Ek A/B/C). Ayrıştırılmaz — alıntı ya da ayet kaydı
 # taşımaz — fakat ana metnin indekslerine atıf yapar; o atıflar denetlenir.
 ANNEX_MD = ROOT / "docs" / "inceleme-ekler.md"
+ANNEX_EN_MD = ROOT / "docs" / "REVIEW-APPENDICES-EN.md"
 OUT_DIR = ROOT / "inceleme"
 _META = json.loads((ROOT / "metadata" / "books.json").read_text(encoding="utf-8"))
 # Adres künyeyle aynı yerden gelir (books.json -> channels.site). Burada ikinci
@@ -549,6 +550,47 @@ def check_annex(rows: list[dict]) -> int:
     return len(atiflar)
 
 
+# İngilizce eklerde indeks işaretleri çevrilir; kayıtların kimliği Türkçedir.
+EN_ISARET = {"Quote": "Alıntı", "Verse": "Ayet", "Finding": "Bulgu"}
+EN_ATIF_RE = re.compile(r"(?<![\w/-])(Quote|Verse|Finding)-(\d+)\b")
+# İngilizce eklerde Türkçe asıl, çevirisinden hemen önce gelen tırnaklı dizedir;
+# ön söz paragrafları ise "> " ile başlar, çevirileri "> [" ile.
+EN_ASIL_RE = re.compile(r'"([^"]{6,})"\s+\[')
+
+
+def check_annex_en(rows: list[dict]) -> tuple[int, int]:
+    """İngilizce eklerin iki şeyi denetlenir.
+
+    Biri, çevrilmiş indeks atıflarının (Quote-01, Bulgu-01'in karşılığı) gerçek
+    bir kayda düşmesi. Öteki, belgede alıntılanabilir olarak duran Türkçe
+    metnin — kitap cümleleri, lügat tanımları, 1931 ön sözü — Türkçe eklerdeki
+    hâliyle birebir aynı olması: çeviri yazılırken elle kopyalanıyorlar ve
+    sessizce bozulabilirler."""
+    if not ANNEX_EN_MD.exists():
+        return 0, 0
+    en = ANNEX_EN_MD.read_text(encoding="utf-8")
+    kayitli = {r["id"] for r in rows}
+    atiflar = {f"{EN_ISARET[t]}-{n}" for t, n in EN_ATIF_RE.findall(en)}
+    eksik = sorted(a for a in atiflar if a not in kayitli)
+    if eksik:
+        raise SystemExit(f"İngilizce eklerde tanımsız indekse atıf var: {eksik}")
+    if not ANNEX_MD.exists():
+        return len(atiflar), 0
+    tr = ANNEX_MD.read_text(encoding="utf-8")
+    asillar = EN_ASIL_RE.findall(en) + [
+        satir[2:].strip()
+        for satir in en.splitlines()
+        if satir.startswith("> ") and not satir.startswith("> [") and satir[2:].strip()
+    ]
+    bozuk = [a for a in asillar if a not in tr]
+    if bozuk:
+        raise SystemExit(
+            "İngilizce eklerdeki Türkçe asıl, Türkçe eklerde birebir bulunamadı: "
+            + "; ".join(a[:70] for a in bozuk[:3])
+        )
+    return len(atiflar), len(asillar)
+
+
 def _fold(s: str) -> str:
     tr = str.maketrans("çğıİöşüÇĞÖŞÜâîûÂÎÛ", "cgiiosucgosuaiuaiu")
     return re.sub(r"[*`_]", "", s).translate(tr).lower()
@@ -614,6 +656,11 @@ def main() -> None:
     n_ek = check_annex(rows)
     if n_ek:
         print(f"    ekler: {ANNEX_MD.name} — {n_ek} indeks atfının hepsi ana metinde var")
+
+    n_ek_en, n_asil = check_annex_en(rows)
+    if n_ek_en:
+        print(f"    ekler (İngilizce): {n_ek_en} indeks atfı yerinde, "
+              f"{n_asil} Türkçe asıl Türkçe eklerle birebir")
 
     en_ok, en_total, en_bad = check_translation(corpus)
     if en_total:

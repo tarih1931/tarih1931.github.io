@@ -832,7 +832,7 @@ taramaları kaynakçada **[1]** ve **[2]**'dedir.
 
 ## 7. Ekler
 
-Üç ek, ana metnin dayanaklarını açan ayrı bir belgededir:
+Dört ek, ana metnin dayanaklarını açan ayrı bir belgededir:
 [**Ekler**](https://tarih1931.github.io/inceleme-ekler.html).
 
 - **Ek A — Ayet dosyaları.** Ana metinde anılan otuz sekiz ayetin her biri için:
@@ -852,9 +852,7 @@ taramaları kaynakçada **[1]** ve **[2]**'dedir.
 
 ## 8. Yanlılık itirazı ve denetlenebilirlik
 
-Bu incelemeye yöneltilebilecek itirazlardan biri, metnin hazırlanmasında yapay zekâ kullanıldığı, bu yüzden çıktının yanlı olduğu ve bilimsel sayılamayacağıdır. İtiraz iki ayrı iddia taşır: çıktının yanlı olduğu ve yöntemin bilimsel olmadığı. İkisi de, metni kimin yazdığından bağımsız olarak, metnin kendisi üzerinde sınanabilir; incelemenin kurgusu bu sınamayı mümkün kılmak üzere yapılmıştır. Bir iddianın doğruluğu, onu kimin dile getirdiğiyle değil, dayanaklarıyla ölçülür.
-
-Yanlılık iddiası bir yerde somutlaşıyorsa (yanlış aktarılmış bir alıntı, saklanmış bir cümle, ayetin söylemediğini söyleten bir çıkarım), gösterilmesi hâlinde düzeltilir; düzeltme kaydı da açık tutulur.
+Bu incelemeye yöneltilebilecek itirazlardan biri, metnin hazırlanmasında yapay zekâ kullanıldığı, bu yüzden çıktının yanlı olduğu ve bilimsel sayılamayacağıdır. İtiraz iki ayrı iddia taşır: çıktının yanlı olduğu ve yöntemin bilimsel olmadığı. İkisi de, metni kimin yazdığından bağımsız olarak, metnin kendisi üzerinde sınanabilir; incelemenin kurgusu bu sınamayı mümkün kılmak üzere yapılmıştır. Bir iddianın doğruluğu, onu kimin dile getirdiğiyle değil, dayanaklarıyla ölçülür. Yanlılık iddiası bir yerde somutlaşıyorsa (yanlış aktarılmış bir alıntı, saklanmış bir cümle, ayetin söylemediğini söyleten bir çıkarım), gösterilmesi hâlinde düzeltilir; düzeltme kaydı da açık tutulur.
 
 ---
 

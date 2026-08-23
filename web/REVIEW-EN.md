@@ -161,7 +161,7 @@ therefore an interpretation, the following rules are observed:
 5. In the key concepts — religion (din), revelation (vahiy), inspiration (ilham), prophet and messenger (nebî, resul), the unlettered (ümmî), the unseen (gayb), innate disposition (fıtrat) and jinn (cin) — the word the books use and the word the Qur'an uses may not share the same semantic field; where they do not, the difference is named in the finding concerned.
 
 The file for each verse and for each term that carries the findings is in the
-[appendices](https://tarih1931.github.io/inceleme-ekler.html), a separate document.
+[appendices](https://tarih1931.github.io/review-appendices.html), a separate document.
 
 ### 2.4 The axes examined
 
@@ -1322,11 +1322,13 @@ page named in their citation, and this has been machine-verified.
 
 ## 7. Appendices
 
-Three appendices, which set out the grounds of the main text, are in a separate
-document: [**Appendices**](https://tarih1931.github.io/inceleme-ekler.html). The
-appendices are at present available in Turkish only.
+Four appendices, which set out the grounds of the main text, are in a separate
+document: [**Appendices**](https://tarih1931.github.io/review-appendices.html). The
+quotations, the dictionary entries and the 1931 preface are given there in Turkish,
+with an English translation beneath each; the Turkish original of the document is
+[İnceleme — Ekler](https://tarih1931.github.io/inceleme-ekler.html).
 
-- **Appendix A — Verse files.** For each of the thirty-eight verses cited in the main text: its place in the finding, the note in the *Kur'an Yolu Tefsiri*, the Diyanet's commentary, and the relevant *TDV İslâm Ansiklopedisi* entry.
+- **Appendix A — Verse files.** For each of the thirty-eight verses cited in the main text: its place in the finding, the note in the *Kur'an Yolu Tefsiri*, and the relevant *TDV İslâm Ansiklopedisi* entry.
 - **Appendix B — Term files.** For the nine terms that carry the findings — inspiration/revelation (ilham/vahiy), fabrication/tale (uydurma/masal), founder/to found (müessis/kurmak), tradition (an'ane), conception (telâkki), evolution (tekâmül), concept/to find (mefhum/bulmak), nature/created being (tabiat/mahlûk), religion (din) — every use of them within the book, their dictionary meaning in 1931, the shift of meaning, and their Qur'anic counterpart.
 - **Appendix C — The preface and the drafting-committee pages.** The full text and the citation lines of the *Mukaddime* on which the first section rests and of the "Kitabın hazırlanmasında çalışanlar" ("Those who worked on the preparation of the book") pages.
 - **Appendix D — The grounds of each judgement.** For every finding: the claim it attributes to the books, the sentences it rests on, and whether that claim is explicit in the books' wording or built by combining several explicit sentences.
@@ -1335,9 +1337,7 @@ appendices are at present available in Turkish only.
 
 ## 8. The objection of bias, and how it can be tested
 
-One objection that may be raised against this review is that artificial intelligence was used in preparing it, that its output is therefore biased, and that it cannot count as scholarly. The objection carries two distinct claims: that the output is biased, and that the method is not scholarly. Both can be tested on the text itself, independently of who wrote it; the review has been built so as to make that testing possible. The truth of a claim is measured by its grounds, not by who advances it.
-
-If the charge of bias becomes concrete at any point (a misreported quotation, a suppressed sentence, an inference that makes a verse say what it does not), it will be corrected once shown, and the record of the correction kept open.
+One objection that may be raised against this review is that artificial intelligence was used in preparing it, that its output is therefore biased, and that it cannot count as scholarly. The objection carries two distinct claims: that the output is biased, and that the method is not scholarly. Both can be tested on the text itself, independently of who wrote it; the review has been built so as to make that testing possible. The truth of a claim is measured by its grounds, not by who advances it. If the charge of bias becomes concrete at any point (a misreported quotation, a suppressed sentence, an inference that makes a verse say what it does not), it will be corrected once shown, and the record of the correction kept open.
 
 ---
 
