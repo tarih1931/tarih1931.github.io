@@ -105,7 +105,7 @@ DOI bütün sürümleri temsil eder ve daima en sonuncusuna çözümlenir; sür�
 DOI künyeye yazılmaz. İnceleme ayrı bir çalışmadır ve kendi DOI'siyle anılır:
 
 ```
-Talu, M. F. & Claude (Anthropic) (2026). Resmî tarih kitaplarında din, vahiy
-ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı
-karşılaştırması. Zenodo. https://doi.org/10.5281/zenodo.21963507
+Talu, M. F. (2026). Resmî tarih kitaplarında din, vahiy ve nübüvvet:
+Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırması.
+Zenodo. https://doi.org/10.5281/zenodo.21963507
 ```

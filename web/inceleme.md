@@ -1,6 +1,6 @@
 # Resmî tarih kitaplarında din, vahiy ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırması
 
-**Prof. Dr. Muhammed Fatih Talu · Claude (Anthropic)**
+**Prof. Dr. Muhammed Fatih Talu**
 
 **Özet:** [*Tarih I*](https://kutuphane.ttk.gov.tr/resource?itemId=267298&dkymId=6415) ve [*Tarih II*](https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416) (1931), Maarif Vekâleti emriyle basılan ve liselerde on bir yıl okutulan resmî ders kitaplarıdır; geçmişi anlatmakla kalmaz, dinin ve vahyin kaynağı hakkında da hüküm verirler. Bu inceleme, kitapların din bahsini taşıyan iki bölümünü — *Tarih I*'in “Beşer Tarihine Giriş” ve *Tarih II*'nin “İslâm Tarihi” bölümlerini — bütünüyle okuyup din, vahiy, nübüvvet, yaratılış, cin ve melek, Kâbe ve ahkâm hakkında hüküm bildiren cümleleri çıkarmış; **46** sayfa künyeli alıntıyı **38** ayetle karşılaştırarak **19** bulguya varmıştır. Bulguların çekirdeği, kitabın kendi kayıt düzenidir: **vahyin ilâhî kaynağı hiçbir yerde kitabın kendi sesiyle tasdik edilmez, hep “İslâm an'anesinde (…) kabul olunur” gibi bir nakil kaydına havale edilir; beşerî izah ise kitabın kendi sesiyle ve çoğu yerde kayıtsız verilir.** Buna göre kitaplarda Allah'tan gelen dinin yerine insan kökenli din anlayışı, vahyin yerine beşerî tefekkür, peygamberlik yerine din kuruculuğu ve yaratılışın yerine tabiat merkezli açıklama konmaktadır. İncelemenin temel iddiası, bu resmî anlatı ile Kur'an arasındaki ayrılığın ayrıntıda değil **itikadî temelde** bulunduğudur. Her alıntı künyesindeki sayfada makine ile doğrulanmış, ayetler tek bir mealden alınmış, tefsirde ihtilaflı ayetler bulgu dayanağı yapılmamıştır.
 
@@ -823,6 +823,8 @@ taramaları kaynakçada **[1]** ve **[2]**'dedir.
 **Kaynak tabanı.** Kitap tarafında dayanak yalnız kitabın kendi lafzıdır; Kur'an tarafında itikadî dayanak **yalnız Kur'an ayetleridir** ve bulgular hiçbir mezhebin, ekolün veya müellifin görüşüne bağlanmaz. Ayet metinleri Diyanet İşleri Başkanlığı'nın *Kur'an-ı Kerim Meâli*'nden alınmıştır **[13]**; meal bir tercüme, dolayısıyla bir yorum olduğundan, meal ve tefsire ilişkin kurallar yöntem bölümünde beyan edilmiş, mealler arasındaki farkın bulguyu etkilediği yerler ilgili bulgunun altında gösterilmiştir. 1931 basımından yapılan alıntılar kamu malıdır, raporun kendi metni CC0 ile kamuya bırakılmıştır; böylece belgenin tamamı serbestçe çoğaltılabilir.
 
 **Alıntılardaki imlâ 1931 basımına aittir** ve düzeltilmemiştir: *sora*, *evel*, *tabiat*, *iptidaî*, *mabut*, *neş'et*. Alıntı içindeki tırnaklar tek tırnağa çevrilmiştir (basımda *"kabile allahı"*, incelemede *'kabile allahı'*); bunun dışında lafız değiştirilmemiştir. Alıntıların tamamı, künyesinde gösterilen sayfanın düzeltilmiş metninde harfi harfine bulunmaktadır ve bu makine ile denetlenmiştir.
+
+**Araç notu.** Metnin hazırlanmasında yapay zekâ araçlarından yararlanılmıştır: kaynak metnin bütün olarak taranması, alıntı–bulgu–ayet kayıtlarının çıkarılması, ek dosyalarının derlenmesi ve alıntıların kaynak sayfaya karşı makine ile denetlenmesi bu yolla yapılmıştır. Araştırma sorusu, iddiaların seçimi, itikadî değerlendirme ve son metnin sorumluluğu yazara aittir.
 
 ---
 

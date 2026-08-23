@@ -1,6 +1,6 @@
 # Religion, revelation and prophethood in the official history textbooks: a text-based comparison of Tarih I and Tarih II (1931) with the Qur'an
 
-**Prof. Dr. Muhammed Fatih Talu · Claude (Anthropic)**
+**Prof. Dr. Muhammed Fatih Talu**
 
 **Abstract:** [*Tarih I*](https://kutuphane.ttk.gov.tr/resource?itemId=267298&dkymId=6415) and [*Tarih II*](https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416) (1931) are official textbooks, printed by order of the Ministry of Education and taught in high schools for eleven years; they do not merely recount the past but also pronounce judgement on the source of religion and of revelation. This review reads in full the two chapters that carry the books' treatment of religion — "Beşer Tarihine Giriş" (Introduction to Human History) in *Tarih I* and "İslâm Tarihi" (History of Islam) in *Tarih II* — and extracts from them the sentences that make assertions about religion, revelation, prophethood, creation, jinn and angels, the Kaaba and legal rulings; comparing **46** page-cited quotations with **38** verses, it arrives at **19** findings. At the core of these findings lies the books' own register of assertion: **the divine source of revelation is nowhere affirmed in the books' own voice but is always referred to a reported register such as "in Islamic tradition (…) is accepted", while the human explanation is given in the books' own voice and, in most places, without qualification.** Accordingly, the books put a religion of human origin in place of religion sent down by God, human reflection in place of revelation, the founding of a religion in place of prophethood, and a nature-centred explanation in place of creation. The central claim of the review is that the divergence between this official narrative and the Qur'an lies not in detail but **in the foundations of doctrine**. Every quotation has been machine-verified against the page given in its citation, the verses are taken from a single Turkish rendering of the Qur'an, and verses whose interpretation is disputed in the commentary literature have not been made the basis of any finding.
 
@@ -1313,6 +1313,8 @@ inside a quotation have been rendered as single quotes (the printing has *"kabil
 allahı"*, the review *'kabile allahı'*); apart from this the wording has not been
 altered. All the quotations are present letter for letter in the corrected text of the
 page named in their citation, and this has been machine-verified.
+
+**Note on tools.** Artificial-intelligence tools were used in preparing the text: the systematic search of the source text in its entirety, the extraction of the quotation–finding–verse records, the compilation of the appendices and the machine verification of the quotations against the source page were carried out in this way. The research question, the selection of the assertions, the doctrinal assessment and the responsibility for the final text belong to the author.
 
 ---
 

@@ -1,6 +1,6 @@
 # Resmî tarih kitaplarında din, vahiy ve nübüvvet — Ekler
 
-**Prof. Dr. Muhammed Fatih Talu · Claude (Anthropic)**
+**Prof. Dr. Muhammed Fatih Talu**
 
 **Özet:** İncelemenin üç ekidir. **Ek A** her ayetin kilit lafzını, meal farklarını, tefsir notunu ve ansiklopedi maddesini; **Ek B** bulguları taşıyan dokuz terimin kitap içi kullanımını, lügat anlamını ve Kur'anî karşılığını; **Ek C** iki cildin ön sözü ile telif heyeti sayfalarının tam metnini verir. Ekler bulguların dayanağını açar; köşeli parantez içindeki kaynak numaraları (**[1]**, **[13]** gibi) incelemenin kaynakçasına aittir.
 
