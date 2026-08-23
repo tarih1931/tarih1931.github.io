@@ -81,16 +81,6 @@ REVIEW_AUTHOR_LINE = " · ".join(REVIEW_AUTHORS)
 REVIEW_EMAIL = (META.get("review") or {}).get("email") or ""
 
 
-def yazara_eposta(html: str) -> str:
-    """İmza satırındaki ilk yazarın adını yazışma adresine bağlar.
-
-    Yalnız sitede yapılır: .md ve PDF sürümleri, arşiv kayıtlarına giren
-    biçimler olduğu için adresten muaf tutulur."""
-    if not REVIEW_EMAIL or not REVIEW_AUTHORS:
-        return html
-    ad = esc(REVIEW_AUTHORS[0])
-    return html.replace(
-        f"<b>{ad}", f'<b><a href="mailto:{esc(REVIEW_EMAIL)}">{ad}</a>', 1)
 REVIEW_DESC = (
     "1931 basımı resmî tarih ders kitaplarının din, vahiy ve nübüvvet hakkındaki "
     "ifadelerinin Kur'an ile karşılaştırması: 46 doğrudan alıntı, 38 ayet, 19 bulgu. "
@@ -736,7 +726,7 @@ def build_review_page() -> str:
     # İngilizce sürüm bağı sayfa başlığındaki (head) etiketlerde durur.
     body: list[str] = []
     toc: list[tuple[int, str, str]] = []
-    body.append(yazara_eposta(md_to_html(REVIEW_MD.read_text(encoding="utf-8"), toc)))
+    body.append(md_to_html(REVIEW_MD.read_text(encoding="utf-8"), toc))
     # Sayfanın başındaki kutu kaldırıldığı için PDF, İngilizce sürüm ve bulgular
     # gövdede hiçbir yerden bağlantı almıyordu: dosyalar sitemap ve
     # citation_pdf_url dışında görünmez kalıyor, bağlantı izleyerek gezen
@@ -749,6 +739,8 @@ def build_review_page() -> str:
         alt.append('<a href="review.html">English version</a>')
     if REVIEW_ANNEX_MD.exists():
         alt.append('<a href="inceleme-ekler.html">Ekler (A, B, C)</a>')
+    if REVIEW_EMAIL:
+        alt.append(f'Yazışma: <a href="mailto:{esc(REVIEW_EMAIL)}">{esc(REVIEW_EMAIL)}</a>')
     alt.append('<a href="inceleme.json">bulgular (JSON)</a>')
     alt.append('<a href="inceleme.jsonl">JSONL</a>')
     alt.append('<a href="inceleme.md">ham Markdown</a>')
@@ -798,9 +790,11 @@ def build_review_annex_page() -> str:
     (ayet dosyaları, terim dosyaları, ön söz) isteyen okuyucu buraya geçsin."""
     url = f"{BASE_URL}/inceleme-ekler.html"
     toc: list[tuple[int, str, str]] = []
-    body = [yazara_eposta(md_to_html(REVIEW_ANNEX_MD.read_text(encoding="utf-8"), toc))]
+    body = [md_to_html(REVIEW_ANNEX_MD.read_text(encoding="utf-8"), toc)]
     alt = ['<a href="inceleme.html">İncelemenin ana metni</a>',
            '<a href="inceleme-ekler.md">ham Markdown</a>']
+    if REVIEW_EMAIL:
+        alt.append(f'Yazışma: <a href="mailto:{esc(REVIEW_EMAIL)}">{esc(REVIEW_EMAIL)}</a>')
     if REVIEW_DOI:
         alt.append(f'DOI: <a href="https://doi.org/{esc(REVIEW_DOI)}">{esc(REVIEW_DOI)}</a>')
     body.append(
@@ -838,11 +832,13 @@ def build_review_en_page() -> str:
     # Sayfa doğrudan başlıkla açılır: üst gezinti çubuğu, kapsam notu, atıf
     # kutusu ve içindekiler kaldırıldı. Aynı bağların hepsi altbilgide durur.
     toc: list[tuple[int, str, str]] = []
-    body = [yazara_eposta(md_to_html(REVIEW_EN_MD.read_text(encoding="utf-8"), toc))]
+    body = [md_to_html(REVIEW_EN_MD.read_text(encoding="utf-8"), toc)]
     alt = []
     if REVIEW_EN_PDF.exists():
         alt.append('<a href="review.pdf">PDF</a>')
     alt.append('<a href="inceleme.html">Türkçe aslı</a>')
+    if REVIEW_EMAIL:
+        alt.append(f'Correspondence: <a href="mailto:{esc(REVIEW_EMAIL)}">{esc(REVIEW_EMAIL)}</a>')
     alt.append('<a href="inceleme.json">claims (JSON)</a>')
     alt.append('<a href="inceleme.jsonl">JSONL</a>')
     alt.append('<a href="REVIEW-EN.md">raw Markdown</a>')
