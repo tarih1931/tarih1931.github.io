@@ -10,7 +10,7 @@
 
 ## Ek A. Ayet dosyaları
 
-Bu ek, ana metinde anılan otuz sekiz ayetin her biri için §2.3'teki kuralların nasıl uygulandığını gösterir. Her dosyada ayetin bulgudaki yeri, bulguyu taşıyan Arapça lafız ve kökü, başlıca mealler arasında bulguyu etkileyebilecek farklar, *Kur'an Yolu* tefsirinin notu ve ilgili *TDV İslâm Ansiklopedisi* (DİA) maddesi verilir. Ana metindeki ayet metinleri Diyanet İşleri Başkanlığı meâlinden **[13]** alınmıştır; karşılaştırılan mealler *Kur'an Yolu* **[14]**, Elmalılı (sadeleştirilmiş), Muhammed Esed, Yaşar Nuri Öztürk ve Süleyman Ateş **[18]** meâlleridir ve çevrimiçi karşılaştırma sayfasından okunmuştur; telif hakkı sebebiyle bu belgeye yalnız bulguyu etkileyen kelimeler alınmıştır. Tefsir notları *Kur'an Yolu*'nun çevrimiçi sürümünden özetlenmiş, DİA maddeleri çevrimiçi sürümde açılıp doğrulanmıştır (erişim: 23 Ağustos 2026). Lügat anlamları için *el-Müfredât* ve *Lisânü'l-Arab* maddelerine yapılan atıflar basılı nüshayla karşılaştırılmamıştır; "doğrulanmalı" kaydı taşıyan ifadeler bu sınırı gösterir.
+Bu ek, ana metinde anılan otuz sekiz ayetin her biri için incelemenin meal ve tefsir kurallarının nasıl uygulandığını gösterir. Her dosyada ayetin bulgudaki yeri, bulguyu taşıyan Arapça lafız ve kökü, başlıca mealler arasında bulguyu etkileyebilecek farklar, *Kur'an Yolu* tefsirinin notu ve ilgili *TDV İslâm Ansiklopedisi* (DİA) maddesi verilir. Ana metindeki ayet metinleri Diyanet İşleri Başkanlığı meâlinden **[13]** alınmıştır; karşılaştırılan mealler *Kur'an Yolu* **[14]**, Elmalılı (sadeleştirilmiş), Muhammed Esed, Yaşar Nuri Öztürk ve Süleyman Ateş **[18]** meâlleridir ve çevrimiçi karşılaştırma sayfasından okunmuştur; telif hakkı sebebiyle bu belgeye yalnız bulguyu etkileyen kelimeler alınmıştır. Tefsir notları *Kur'an Yolu*'nun çevrimiçi sürümünden özetlenmiş, DİA maddeleri çevrimiçi sürümde açılıp doğrulanmıştır (erişim: 23 Ağustos 2026). Lügat anlamları için *el-Müfredât* ve *Lisânü'l-Arab* maddelerine yapılan atıflar basılı nüshayla karşılaştırılmamıştır; "doğrulanmalı" kaydı taşıyan ifadeler bu sınırı gösterir.
 
 ### A.1 — Ayet-01 · Şûrâ 42/13
 
@@ -320,7 +320,7 @@ Bu ek, ana metinde anılan otuz sekiz ayetin her biri için §2.3'teki kurallar�
 
 ## Ek B. Terim dosyaları
 
-Bu ek, bulguları taşıyan kilit terimlerin kitaptaki bütün kullanımını, 1931'deki lügat anlamını ve Kur'an'daki karşılığını bir araya getirir. Sayımlar, iki bölümün elle düzeltilmiş tam metni üzerinde başlıklar dâhil yapılmıştır; örnek cümleler birebirdir ve künyesindeki sayfada makine ile denetlenmiştir. Lügat tanımları *Kubbealtı Lugati*'nden **[16]** birebir, Kamus-ı Türkî'den (1317/1901) **[17]** tıpkıbasım görüntüsünden okunarak alınmıştır; ikincisi basılı nüshayla teyit edilmelidir. Kur'anî karşılıklarda verilen ayetler §2.3'teki meâl kaynağından kontrol edilmiştir.
+Bu ek, bulguları taşıyan kilit terimlerin kitaptaki bütün kullanımını, 1931'deki lügat anlamını ve Kur'an'daki karşılığını bir araya getirir. Sayımlar, iki bölümün elle düzeltilmiş tam metni üzerinde başlıklar dâhil yapılmıştır; örnek cümleler birebirdir ve künyesindeki sayfada makine ile denetlenmiştir. Lügat tanımları *Kubbealtı Lugati*'nden **[16]** birebir, Kamus-ı Türkî'den (1317/1901) **[17]** tıpkıbasım görüntüsünden okunarak alınmıştır; ikincisi basılı nüshayla teyit edilmelidir. Kur'anî karşılıklarda verilen ayetler, incelemenin kullandığı meâlden kontrol edilmiştir.
 
 ### B.1 — ilham / vahiy / mülhem
 
@@ -407,7 +407,7 @@ Bu ek, bulguları taşıyan kilit terimlerin kitaptaki bütün kullanımını, 1
 
 ## Ek C. Ön söz ve heyet sayfaları
 
-Bu ek, §1'in dayandığı ön söz ve heyet sayfalarının tam metnini verir. Bu sayfalar elle düzeltilmiş korpusun (§2.1) dışındadır; metin, bu ek için taramadan okunarak istinsah edilmiş ve OCR çıktısıyla karşılaştırılmıştır. İmlâ 1931 basımına aittir. *Tarih II*'nin ön sözü *Tarih I*'inkiyle aynıdır; yalnız imlâ farkları vardır (aşağıda köşeli parantezle gösterilmiştir). Taramalar sitede **[19] [20]**.
+Bu ek, incelemenin birinci bölümünün dayandığı ön söz ve heyet sayfalarının tam metnini verir. Bu sayfalar elle düzeltilmiş korpusun dışındadır; metin, bu ek için taramadan okunarak istinsah edilmiş ve OCR çıktısıyla karşılaştırılmıştır. İmlâ 1931 basımına aittir. *Tarih II*'nin ön sözü *Tarih I*'inkiyle aynıdır; yalnız imlâ farkları vardır (aşağıda köşeli parantezle gösterilmiştir). Taramalar sitede **[19] [20]**.
 
 ### C.1 — Künye sayfaları
 

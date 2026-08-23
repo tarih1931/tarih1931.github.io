@@ -23826,13 +23826,11 @@ Aşağıdaki inceleme yukarıdaki metnin bir parçası değildir; 1931 metni üz
 
 **Özet:** [*Tarih I*](https://kutuphane.ttk.gov.tr/resource?itemId=267298&dkymId=6415) ve [*Tarih II*](https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416) (1931), Maarif Vekâleti emriyle basılan ve liselerde on bir yıl okutulan resmî ders kitaplarıdır; geçmişi anlatmakla kalmaz, dinin ve vahyin kaynağı hakkında da hüküm verirler. Bu inceleme, kitapların din bahsini taşıyan iki bölümünü — *Tarih I*'in “Beşer Tarihine Giriş” ve *Tarih II*'nin “İslâm Tarihi” bölümlerini — bütünüyle okuyup din, vahiy, nübüvvet, yaratılış, cin ve melek, Kâbe ve ahkâm hakkında hüküm bildiren cümleleri çıkarmış; **46** sayfa künyeli alıntıyı **38** ayetle karşılaştırarak **19** bulguya varmıştır. Bulguların çekirdeği, kitabın kendi kayıt düzenidir: **vahyin ilâhî kaynağı hiçbir yerde kitabın kendi sesiyle tasdik edilmez, hep “İslâm an'anesinde … kabul olunur” gibi bir nakil kaydına havale edilir; beşerî izah ise kitabın kendi sesiyle ve çoğu yerde kayıtsız verilir.** Buna göre kitaplarda Allah'tan gelen dinin yerine insan kökenli din anlayışı, vahyin yerine beşerî tefekkür, peygamberlik yerine din kuruculuğu ve yaratılışın yerine tabiat merkezli açıklama konmaktadır. İncelemenin temel iddiası, bu resmî anlatı ile Kur'an arasındaki ayrılığın ayrıntıda değil **itikadî temelde** bulunduğudur. Her alıntı künyesindeki sayfada makine ile doğrulanmış, ayetler tek bir mealden alınmış, tefsirde ihtilaflı ayetler bulgu dayanağı yapılmamıştır.
 
-**Kapsam:** Karşılaştırma, elle düzeltilmiş iki bölüme dayanır: *Tarih I*, “Beşer Tarihine Giriş” (basılı s. 1–24) ve *Tarih II*, “İslâm Tarihi” (basılı s. 79–184). Alıntılar bu bölümlerin yirmi sayfasından alınmıştır; yöntem §2'de, kaynak ve doğrulama §6'dadır.
-
 ---
 
 ## 1. Kaynağın resmî statüsü
 
-Kitaplar bir müellifin şahsî görüşü değildir. *Tarih I* **[1]** ve *Tarih II* **[2]**, Türk Tarihi Tetkik Cemiyeti'nin telifi olup **Maarif Vekâleti** adına **Devlet Matbaası**nda (İstanbul) basılmıştır. Künye sayfaları basım emrini tarih ve numarasıyla verir: *Tarih I* "Maarif Vekâleti Millî Talim ve Terbiye Dairesinin 2/8/1931 tarih ve 1869 numaralı emrile 30 000 nüsha" **[3]**, *Tarih II* "28/11/1931 tarih ve 2847 numaralı emrile 25000 nüsha" **[4]** basılmıştır. Aşağıdaki tablo, tespit edilebilen bütün tarih, sayı ve künyeleri kaynaklarıyla birlikte verir.
+Kitaplar bir müellifin şahsî görüşü değildir. *Tarih I* **[1]** ve *Tarih II* **[2]**, Türk Tarihi Tetkik Cemiyeti'nin telifi olup **Maarif Vekâleti** adına **Devlet Matbaası**nda (İstanbul) basılmıştır. Aşağıdaki tablo, tespit edilebilen bütün tarih, sayı ve künyeleri kaynaklarıyla birlikte verir; künye sayfalarının birebir metni [eklerdedir](https://tarih1931.github.io/inceleme-ekler.html).
 
 | Tarih | Olay | Kaynak |
 |---|---|---|
@@ -23854,7 +23852,7 @@ Her iki cildin başında, imlâ farkları dışında aynı olan bir *Mukaddime* 
 
 ### 1.3 "Bir komisyonun görüşü" itirazı
 
-Kitaptaki din anlatısının, girişte adı geçen bir komisyonun görüşü olduğu ve bu yüzden "devletin resmî öğretisi" sayılamayacağı ileri sürülebilir. Metnin resmî niteliği kimin yazdığından değil, yayımlayan ve okutan makamın işlemlerinden doğar: Talim ve Terbiye Dairesi kitabı tarih ve numaralı emirle bastırmış **[3] [4]**, Maarif Vekâleti "mekteplerde okutulmasını kabul" etmiş (s. VI), 1932'de tadil kararı almış **[6]**, 1933 ve 1941'de yeniden bastırmış **[9] [7]**, aynı adlı seri 1942'ye kadar liselerde kalmıştır **[8]**. Heyet de kendini, ön sözde görüldüğü gibi, akademik bir kurul olarak değil cemiyetçe "memur edilmiş" bir kurul olarak takdim eder. Üyelerin şahsî kanaatleri incelemenin konusu değildir (§2.5); incelenen, devletin bastırdığı, onayladığı ve okuttuğu metnin lafzıdır. Hükmün sınırı da kaydedilmelidir: pasajların 1933 ve 1941 basımlarında aynen korunup korunmadığı incelenmemiştir. Kesin olan, 1931 basımının 55 000 nüshayla okutulmaya başlandığı ve serinin on bir yıl liselerin tarih kitabı olarak kaldığıdır. Kitaplar **liseler için yazılmış**, ortamektep ve liselere birlikte dağıtılmıştır.
+Kitaptaki din anlatısının, girişte adı geçen bir komisyonun görüşü olduğu ve bu yüzden "devletin resmî öğretisi" sayılamayacağı ileri sürülebilir. Metnin resmî niteliği ise kimin yazdığından değil, yayımlayan ve okutan makamın işlemlerinden doğar; yukarıda sayılan işlemlerin hepsi devletindir: basım emri, okutulma kararı, 1932 tadili, sonraki iki basım ve serinin 1942'ye kadar liselerde kalması **[8]**. Heyet de kendini, ön sözde görüldüğü gibi, akademik bir kurul olarak değil cemiyetçe "memur edilmiş" bir kurul olarak takdim eder. Üyelerin şahsî kanaatleri incelemenin konusu değildir; incelenen, devletin bastırdığı, onayladığı ve okuttuğu metnin lafzıdır. Kitaplar **liseler için yazılmış**, ortamektep ve liselere birlikte dağıtılmıştır.
 
 ---
 
@@ -23866,10 +23864,10 @@ Kitaptaki din anlatısının, girişte adı geçen bir komisyonun görüşü old
 
 Alıntı seçiminde ölçüt, cümlenin dinin veya vahyin **menşei ve mahiyeti** hakkında bir hüküm taşımasıdır; tasvirî tarih anlatısı (seferler, halifeler, kurumlar) kapsam dışıdır. Alıntılar şu kurallara göre verilir:
 
-1. Lafız 1931 basımından, imlâsı korunarak ve künyesindeki sayfadan birebir alınır; bu, makine ile denetlenir (§6).
+1. Lafız 1931 basımından, imlâsı korunarak ve künyesindeki sayfadan birebir alınır.
 2. Alıntı, içinde bulunduğu paragrafın hükmünü taşıyacak uzunlukta verilir. Elips (…) yalnız terim tarifi gibi hükmü değiştirmeyen kısımlar için kullanılır; atlanan kısmın anlamı değiştirmediği, gerektiğinde bulguda gösterilir.
 3. Bir hüküm kitapta birden fazla yerde geçiyorsa bütün geçişleri anılır; bulgu tek bir cümleye yaslanmaz.
-4. Kitabın aynı konuda kendi hükmünü sınırlayan veya yumuşatan cümleleri (ihtiyat kayıtları, Peygamber'e övgü) saklanmaz; bulgunun altında veya §4'te ele alınır.
+4. Kitabın aynı konuda kendi hükmünü sınırlayan veya yumuşatan cümleleri (ihtiyat kayıtları, Peygamber'e övgü) saklanmaz; bulgunun altında ya da övgü bölümünde ele alınır.
 
 ### 2.2 Kitabın kayıt düzeni
 
@@ -23894,7 +23892,7 @@ Ayet metinleri Diyanet İşleri Başkanlığı'nın *Kur'an-ı Kerim Meâli*'nde
 5. Her bulguda ayetin tartışmasız söylediği ile incelemenin ondan çıkardığı ayrı cümlelerle yazılır.
 6. Kilit kavramlarda (din, vahiy, ilham, nebî ve resul, ümmî, gayb, fıtrat, cin) kitabın kullandığı kelime ile Kur'an'ın kelimesi aynı anlam alanını paylaşmayabilir; bu fark ilgili bulguda adlandırılır.
 
-Her ayetin kilit lafzı, meallerdeki karşılığı, tefsir notu ve ansiklopedi maddesi [Ek A](https://tarih1931.github.io/inceleme-ekler.html)'da; kitabın kilit terimlerinin kitap içi kullanımı, lügat anlamı ve Kur'anî karşılığı [Ek B](https://tarih1931.github.io/inceleme-ekler.html)'de verilmiştir. Üç ek, ayrı bir belgededir.
+Her ayetin ve bulguları taşıyan her terimin dosyası, ayrı bir belgede toplanan [eklerdedir](https://tarih1931.github.io/inceleme-ekler.html).
 
 ### 2.4 İncelenen eksenler
 
@@ -23916,14 +23914,14 @@ sayfaları ve o eksende geçen alıntı ile bulguların indeks aralığını ver
 1. Kitabın tarih anlatısının doğruluğunu ve kaynaklarını değerlendirmez; konusu metnin özgünlüğü değil, resmî metnin itikadî muhtevasıdır.
 2. Telif heyeti üyelerinin şahsî inancı hakkında hüküm vermez; incelenen, kitabın hükmüdür.
 3. Kelâm ekolleri arasındaki ihtilaflı meselelerde taraf tutmaz; karşılaştırma Kur'an'ın sarih beyanlarıyla sınırlıdır.
-4. Kitabın Peygamber'e yönelttiği övgü cümlelerini bulgulardan saymaz ve saklamaz; bunlar §4'te ayrıca ele alınır.
+4. Kitabın Peygamber'e yönelttiği övgü cümlelerini bulgulardan saymaz ve saklamaz; bunlar övgü bölümünde ayrıca ele alınır.
 5. Bulgular 1931 basımının lafzına dayanır; sonraki basımlardaki değişiklikler incelenmemiştir.
 
 ---
 
 ## 3. Eksen eksen karşılaştırma
 
-Her bir eksen altında, öncelikle ilgili alıntı ve ayetlere yer verilmekte, ardından bunların birlikte değerlendirilmesiyle ulaşılan bulgular ortaya konulmaktadır. Alıntılar §2.1'deki kurallara göre, paragrafın hükmünü taşıyacak uzunlukta verilmiştir; elipsle (…) atlanan yerlerde atlanan kısmın ne olduğu bulguda belirtilir.
+Her bir eksen altında, öncelikle ilgili alıntı ve ayetlere yer verilmekte, ardından bunların birlikte değerlendirilmesiyle ulaşılan bulgular ortaya konulmaktadır. Alıntılar yukarıdaki kurallara göre, paragrafın hükmünü taşıyacak uzunlukta verilmiştir; elipsle (…) atlanan yerlerde atlanan kısmın ne olduğu bulguda belirtilir.
 
 ### 3.1 Dinin menşei ve mahiyeti
 
@@ -24101,7 +24099,7 @@ Bu eksenin sayfaları *Tarih I*'in "D. Fikrin Doğuşu" başlığı altındadır
 > ilk muhatabıdır — Âdem "Rabbinden birtakım kelimeler alır" (Ayet-09; fiil *telakkâ*,
 > kitabın "telâkki"sinin aslı) — ve tevhid her topluluğa baştan tebliğ edilmiştir
 > (Ayet-08). Fıtrat ayeti (Rûm 30) aynı yönü gösterir; yorumu çok-vecihli olduğundan
-> bulgu ona dayandırılmamıştır (§2.3).
+> bulgu ona dayandırılmamıştır.
 
 ### 3.2 Yaratılış ve insanın menşei
 
@@ -24221,7 +24219,7 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 
 ### 3.3 Vahiy, nübüvvet ve Kur'an'ın kaynağı
 
-*Tarih II*'nin İslâm Tarihi bölümü "A. İslâm Dini Arabistanda Kuruldu" başlığıyla açılır (s. 79); vahiy bahsi, "Muhammedin Daveti" (s. 89–90) ile "Muhammet Medinede" (s. 93) arasında, "Kuran ve Vahiy" (s. 90–91) ve "İlk Vahiy" (s. 91–92) alt başlıkları altında, siyasî-içtimaî biyografinin bir evresi olarak anlatılır. Cin ve melek bahsi (§3.4) de aynı "Kuran ve Vahiy" paragrafının içindedir; konusu ayrı olduğu için ayrı eksende ele alınmıştır.
+*Tarih II*'nin İslâm Tarihi bölümü "A. İslâm Dini Arabistanda Kuruldu" başlığıyla açılır (s. 79); vahiy bahsi, "Muhammedin Daveti" (s. 89–90) ile "Muhammet Medinede" (s. 93) arasında, "Kuran ve Vahiy" (s. 90–91) ve "İlk Vahiy" (s. 91–92) alt başlıkları altında, siyasî-içtimaî biyografinin bir evresi olarak anlatılır. Cin ve melek bahsi de aynı "Kuran ve Vahiy" paragrafının içindedir; konusu ayrı olduğu için bir sonraki eksende ele alınmıştır.
 
 #### Vahyin ilâhî kaynağı, kitabın kendi sesiyle tasdik edilmez
 
@@ -24301,7 +24299,7 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 > sözün hangi niyetle söylendiği değil, kaynağının beşer olmasıdır. Kur'an şair ve kâhin
 > sözü ihtimalini de adıyla reddeder (Ayet-19); "yıllarca tefekkür" iddiasına karşılık,
 > vahiyden önce aralarında geçen "bir ömür" hatırlatılır (Ayet-20). Tavrın itikadî
-> sonucu §4.2'dedir.
+> sonucu, övgü bahsinin sonunda ele alınır.
 
 #### Peygamber müessis sayılır, risalet tarifi hata ilan edilir
 
@@ -24637,7 +24635,7 @@ taramaları kaynakçada **[1]** ve **[2]**'dedir.
 
 **Katkı beyanı.** Bu inceleme iki yazarın ortak çalışmasıdır. Araştırma sorusu, iddiaların seçimi, itikadî değerlendirme ve son metnin sorumluluğu Muhammed Fatih Talu'ya aittir. Claude (Anthropic), kaynak metnin bütün olarak taranmasında, alıntı–bulgu–ayet kayıtlarının çıkarılmasında, ayet ve terim dosyalarının (Ek A, Ek B) derlenmesinde ve alıntıların kaynak sayfaya karşı makine ile denetlenmesinde çalışmıştır. Yapay zekâ araçlarını yazar saymayan yayın ölçütleri bulunduğundan, katkı burada açıkça beyan edilmiştir.
 
-**Kaynak tabanı.** Kitap tarafında dayanak yalnız kitabın kendi lafzıdır; Kur'an tarafında itikadî dayanak **yalnız Kur'an ayetleridir** ve bulgular hiçbir mezhebin, ekolün veya müellifin görüşüne bağlanmaz. Ayet metinleri Diyanet İşleri Başkanlığı'nın *Kur'an-ı Kerim Meâli*'nden alınmıştır **[13]**; meal bir tercüme, dolayısıyla bir yorum olduğundan, meal ve tefsire ilişkin kurallar §2.3'te beyan edilmiş, mealler arasındaki farkın bulguyu etkilediği yerler ilgili bulgunun altında gösterilmiştir. 1931 basımından yapılan alıntılar kamu malıdır, raporun kendi metni CC0 ile kamuya bırakılmıştır; böylece belgenin tamamı serbestçe çoğaltılabilir.
+**Kaynak tabanı.** Kitap tarafında dayanak yalnız kitabın kendi lafzıdır; Kur'an tarafında itikadî dayanak **yalnız Kur'an ayetleridir** ve bulgular hiçbir mezhebin, ekolün veya müellifin görüşüne bağlanmaz. Ayet metinleri Diyanet İşleri Başkanlığı'nın *Kur'an-ı Kerim Meâli*'nden alınmıştır **[13]**; meal bir tercüme, dolayısıyla bir yorum olduğundan, meal ve tefsire ilişkin kurallar yöntem bölümünde beyan edilmiş, mealler arasındaki farkın bulguyu etkilediği yerler ilgili bulgunun altında gösterilmiştir. 1931 basımından yapılan alıntılar kamu malıdır, raporun kendi metni CC0 ile kamuya bırakılmıştır; böylece belgenin tamamı serbestçe çoğaltılabilir.
 
 **Alıntılardaki imlâ 1931 basımına aittir** ve düzeltilmemiştir: *sora*, *evel*, *tabiat*, *iptidaî*, *mabut*, *neş'et*. Alıntı içindeki tırnaklar tek tırnağa çevrilmiştir (basımda *"kabile allahı"*, incelemede *'kabile allahı'*); bunun dışında lafız değiştirilmemiştir. Alıntıların tamamı, künyesinde gösterilen sayfanın düzeltilmiş metninde harfi harfine bulunmaktadır ve bu makine ile denetlenmiştir.
 
@@ -24656,7 +24654,7 @@ taramaları kaynakçada **[1]** ve **[2]**'dedir.
   uydurma/masal, müessis/kurmak, an'ane, telâkki, tekâmül, mefhum/bulmak,
   tabiat/mahlûk, din) kitap içindeki bütün kullanımı, 1931'deki lügat anlamı,
   anlam kayması ve Kur'anî karşılığı.
-- **Ek C — Ön söz ve heyet sayfaları.** §1'in dayandığı *Mukaddime* ile "Kitabın
+- **Ek C — Ön söz ve heyet sayfaları.** Birinci bölümün dayandığı *Mukaddime* ile "Kitabın
   hazırlanmasında çalışanlar" sayfalarının tam metni ve künye satırları.
 
 ---

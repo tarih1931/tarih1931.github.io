@@ -4,8 +4,6 @@
 
 **Abstract:** [*Tarih I*](https://kutuphane.ttk.gov.tr/resource?itemId=267298&dkymId=6415) and [*Tarih II*](https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416) (1931) are official textbooks, printed by order of the Ministry of Education and taught in high schools for eleven years; they do not merely recount the past but also pronounce judgement on the source of religion and of revelation. This review reads in full the two chapters that carry the books' treatment of religion — "Beşer Tarihine Giriş" (Introduction to Human History) in *Tarih I* and "İslâm Tarihi" (History of Islam) in *Tarih II* — and extracts from them the sentences that make assertions about religion, revelation, prophethood, creation, jinn and angels, the Kaaba and legal rulings; comparing **46** page-cited quotations with **38** verses, it arrives at **19** findings. At the core of these findings lies the books' own register of assertion: **the divine source of revelation is nowhere affirmed in the books' own voice but is always referred to a reported register such as "in Islamic tradition … is accepted", while the human explanation is given in the books' own voice and, in most places, without qualification.** Accordingly, the books put a religion of human origin in place of religion sent down by God, human reflection in place of revelation, the founding of a religion in place of prophethood, and a nature-centred explanation in place of creation. The central claim of the review is that the divergence between this official narrative and the Qur'an lies not in detail but **in the foundations of doctrine**. Every quotation has been machine-verified against the page given in its citation, the verses are taken from a single Turkish rendering of the Qur'an, and verses whose interpretation is disputed in the commentary literature have not been made the basis of any finding.
 
-**Scope:** The comparison rests on two chapters corrected by hand: *Tarih I*, "Beşer Tarihine Giriş" (printed pp. 1–24), and *Tarih II*, "İslâm Tarihi" (printed pp. 79–184). The quotations are drawn from twenty pages of these chapters; the method is set out in §2, and the source and its verification in §6.
-
 ---
 
 ## 1. The official status of the source
@@ -13,13 +11,9 @@
 The books are not a private author's opinion. *Tarih I* **[1]** and *Tarih II* **[2]**
 were written by the Turkish Historical Research Society (Türk Tarihi Tetkik Cemiyeti)
 and printed at the **State Press** (Devlet Matbaası) in Istanbul for the **Ministry of
-Education** (Maarif Vekâleti). The colophon pages give the printing order with its
-date and number: *Tarih I* was printed in "30,000 copies by order no. 1869 of 2/8/1931
-of the National Board of Education of the Ministry of Education" (Maarif Vekâleti
-Millî Talim ve Terbiye Dairesinin 2/8/1931 tarih ve 1869 numaralı emrile 30 000 nüsha)
-**[3]**, and *Tarih II* in "25,000 copies by order no. 2847 of 28/11/1931" (28/11/1931
-tarih ve 2847 numaralı emrile 25000 nüsha) **[4]**. The table below gives every date,
-figure and citation that could be established, together with its source.
+Education** (Maarif Vekâleti). The table below gives every date, figure and citation that could be established,
+together with its source; the verbatim text of the colophon pages is in the
+[appendices](https://tarih1931.github.io/inceleme-ekler.html).
 
 | Date | Event | Source |
 |---|---|---|
@@ -88,21 +82,15 @@ signature of the committee.
 It may be objected that the account of religion in the books is the opinion of a
 commission named at the front of the volume and cannot therefore count as "the
 official teaching of the state". The official character of a text arises not from who
-wrote it but from the acts of the authority that published it and had it taught: the
-Board of Education had the book printed by a dated and numbered order **[3] [4]**; the
-Ministry of Education "agreed that it be taught in the schools" (mekteplerde
-okutulmasını kabul) (p. VI); in 1932 it took a decision to amend it **[6]**; in 1933
-and 1941 it had it reprinted **[9] [7]**; and the series of the same name remained in
-the high schools until 1942 **[8]**. The committee, too, as the preface shows,
-presents itself not as an academic body but as a body "commissioned" (memur edilmiş)
-by the society. The personal convictions of its members are not the subject of this
-review (§2.5); what is examined is the wording of the text that the state printed,
-approved and had taught. The limit of this judgement must also be recorded: whether
-the passages were preserved unchanged in the 1933 and 1941 printings has not been
-examined. What is certain is that the 1931 printing began to be taught in 55,000
-copies and that the series remained the history textbook of the high schools for
-eleven years. The books were **written for high schools** and were distributed to
-middle schools and high schools alike.
+wrote it but from the acts of the authority that published it and had it taught; every
+one of the acts listed above is the state's: the printing order, the decision to have
+the work taught, the amendment of 1932, the two later printings, and the survival of
+the series in the high schools until 1942 **[8]**. The committee, too, as the preface
+shows, presents itself not as an academic body but as a body "commissioned" (memur
+edilmiş) by the society. The personal convictions of its members are not the subject
+of this review; what is examined is the wording of the text that the state printed,
+approved and had taught. The books were **written for high schools** and were
+distributed to middle schools and high schools alike.
 
 ---
 
@@ -127,10 +115,10 @@ about the **origin and nature** of religion or of revelation; descriptive histor
 narrative (campaigns, caliphs, institutions) falls outside the scope. Quotations are
 given according to the following rules:
 
-1. The wording is taken verbatim from the 1931 printing, with its spelling preserved, from the page given in its citation; this is checked by machine (§6).
+1. The wording is taken verbatim from the 1931 printing, with its spelling preserved, from the page given in its citation.
 2. Each quotation is given at a length sufficient to carry the assertion of the paragraph in which it stands. An ellipsis (…) is used only for portions that do not alter the assertion, such as the definition of a term; where necessary, the finding shows that the omitted portion does not change the meaning.
 3. Where an assertion occurs in more than one place in the books, all its occurrences are cited; no finding rests on a single sentence.
-4. Sentences in which the books limit or soften their own assertion on the same subject (cautionary qualifications, praise of the Prophet) are not suppressed; they are treated under the finding concerned or in §4.
+4. Sentences in which the books limit or soften their own assertion on the same subject (cautionary qualifications, praise of the Prophet) are not suppressed; they are treated under the finding concerned or in the section on praise.
 
 ### 2.2 The books' register of assertion
 
@@ -168,12 +156,8 @@ observed:
 5. In every finding, what the verse says beyond dispute and what the review infers from it are written in separate sentences.
 6. In the key concepts — religion (din), revelation (vahiy), inspiration (ilham), prophet and messenger (nebî, resul), the unlettered (ümmî), the unseen (gayb), innate disposition (fıtrat) and jinn (cin) — the word the books use and the word the Qur'an uses may not share the same semantic field; where they do not, the difference is named in the finding concerned.
 
-The key wording of each verse, its equivalent in the principal renderings, a note from
-the commentary literature and the relevant encyclopaedia entry are given in [Appendix
-A](https://tarih1931.github.io/inceleme-ekler.html); the in-text usage, dictionary
-meaning and Qur'anic counterpart of the books' key terms are given in [Appendix
-B](https://tarih1931.github.io/inceleme-ekler.html). The three appendices are in a
-separate document.
+The file for each verse and for each term that carries the findings is in the
+[appendices](https://tarih1931.github.io/inceleme-ekler.html), a separate document.
 
 ### 2.4 The axes examined
 
@@ -195,7 +179,7 @@ The review does not do the following:
 1. It does not assess the accuracy of the books' historical narrative or its sources; its subject is not the originality of the text but the doctrinal content of an official text.
 2. It passes no judgement on the personal belief of the members of the drafting committee; what is examined is the assertion made by the books.
 3. It takes no side in the matters disputed among the schools of kalâm; the comparison is confined to the explicit statements of the Qur'an.
-4. It neither counts the books' sentences of praise for the Prophet among the findings nor suppresses them; they are treated separately in §4.
+4. It neither counts the books' sentences of praise for the Prophet among the findings nor suppresses them; they are treated separately in the section on praise.
 5. The findings rest on the wording of the 1931 printing; changes in later printings have not been examined.
 
 ---
@@ -204,7 +188,7 @@ The review does not do the following:
 
 Under each axis the relevant quotations and verses are set out first, and the findings
 reached by assessing them together are then presented. In accordance with the rules
-given in §2.1, each quotation is reproduced at the length needed to carry the
+given above, each quotation is reproduced at the length needed to carry the
 assertion of its paragraph; where material has been omitted with an ellipsis (…), the
 finding states what has been omitted.
 
@@ -489,7 +473,7 @@ shifts into the declarative. The quotations below belong to this second stage.
 > *talaqqā*, from which the book's own word telâkki, conception, derives) — and tawḥīd
 > was conveyed to every community from the outset (Verse-08). The fiṭra verse (Ar-Rūm
 > 30) points in the same direction; because its interpretation admits of several
-> aspects, the finding has not been rested upon it (§2.3).
+> aspects, the finding has not been rested upon it.
 
 ### 3.2 Creation and the origin of man
 
@@ -678,7 +662,7 @@ The religion of Islam was founded in Arabia" (A. İslâm Dini Arabistanda Kuruld
 pp. 89–90) and "Muhammad in Medina" (Muhammet Medinede, p. 93), under the sub-headings
 "The Qur'an and Revelation" (Kuran ve Vahiy, pp. 90–91) and "The First Revelation"
 (İlk Vahiy, pp. 91–92), and is recounted as one phase of a political and social
-biography. The discussion of jinn and angels (§3.4) falls within that same "Kuran ve
+biography. The discussion of jinn and angels falls within that same "Kuran ve
 Vahiy" paragraph; because its subject is distinct, it is treated under a separate
 axis.
 
@@ -805,7 +789,7 @@ axis.
 > words were spoken but the fact that their source is human. The Qur'an rejects by name
 > the possibility of a poet's or a soothsayer's word as well (Verse-19); and against the
 > claim of "years of reflection" it recalls the "lifetime" spent among them before the
-> revelation (Verse-20). The doctrinal consequence of this attitude is set out in §4.2.
+> revelation (Verse-20). The doctrinal consequence of this attitude is taken up at the end of the section on praise.
 
 #### The Prophet is counted a founder and the definition of messengership is declared an error
 
@@ -1323,7 +1307,7 @@ the findings are not tied to the view of any madhhab, any school of thought or a
 author. The texts of the verses are taken from the *Kur'an-ı Kerim Meâli* of the
 Diyanet İşleri Başkanlığı **[13]**; since a Turkish rendering is a translation and
 therefore an interpretation, the rules governing renderings and Qur'anic commentary
-are stated in §2.3, and the places where a difference between renderings bears on a
+are stated in the section on method, and the places where a difference between renderings bears on a
 finding are shown beneath the finding concerned. The quotations from the 1931 printing
 are in the public domain, and the report's own text has been released to the public
 under CC0, so that the document as a whole may be freely reproduced.
@@ -1345,7 +1329,7 @@ appendices are at present available in Turkish only.
 
 - **Appendix A — Verse files.** For each of the thirty-eight verses cited in the main text: its place in the finding, the Arabic wording that carries the finding and its root, the differences among the principal Turkish renderings that could bear on the finding, the note in the *Kur'an Yolu* commentary, and the relevant *TDV İslâm Ansiklopedisi* entry.
 - **Appendix B — Term files.** For the nine terms that carry the findings — inspiration/revelation (ilham/vahiy), fabrication/tale (uydurma/masal), founder/to found (müessis/kurmak), tradition (an'ane), conception (telâkki), evolution (tekâmül), concept/to find (mefhum/bulmak), nature/created being (tabiat/mahlûk), religion (din) — every use of them within the book, their dictionary meaning in 1931, the shift of meaning, and their Qur'anic counterpart.
-- **Appendix C — The preface and the drafting-committee pages.** The full text and the citation lines of the *Mukaddime* on which §1 rests and of the "Kitabın hazırlanmasında çalışanlar" ("Those who worked on the preparation of the book") pages.
+- **Appendix C — The preface and the drafting-committee pages.** The full text and the citation lines of the *Mukaddime* on which the first section rests and of the "Kitabın hazırlanmasında çalışanlar" ("Those who worked on the preparation of the book") pages.
 
 ---
 

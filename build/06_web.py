@@ -79,10 +79,10 @@ REVIEW_AUTHORS = (META.get("review") or {}).get("authors") or ["Anonim"]
 # ayrı bir citation_author etiketi bekler. İkisi de aynı listeden türer.
 REVIEW_AUTHOR_LINE = " · ".join(REVIEW_AUTHORS)
 REVIEW_DESC = (
-    "1931 basımı resmî tarih ders kitaplarının din ve İslam hakkındaki ifadelerinin Kur'an "
-    "ile karşılaştırması: 34 doğrudan alıntı, 22 ayet, 19 bulgu. Ayrılığın ayrıntıda değil "
-    "itikadî temelde olduğu gösterilir; her iddia sayfa künyeli birebir alıntıyla "
-    "belgelenmiştir."
+    "1931 basımı resmî tarih ders kitaplarının din, vahiy ve nübüvvet hakkındaki "
+    "ifadelerinin Kur'an ile karşılaştırması: 46 doğrudan alıntı, 38 ayet, 19 bulgu. "
+    "Ayrılığın ayrıntıda değil itikadî temelde olduğu gösterilir; her iddia sayfa künyeli "
+    "birebir alıntıyla belgelenmiş ve kaynak sayfaya karşı makine ile doğrulanmıştır."
 )
 
 
