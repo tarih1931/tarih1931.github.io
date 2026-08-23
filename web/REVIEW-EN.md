@@ -579,20 +579,19 @@ already laid down on p. 2.
 > flesh. Finally We brought him forth as a wholly different creature. How exalted is
 > Allah, the best of creators!" — **Al-Mu'minūn 12-14**
 
-> **[Finding-07]** The sentence "man is a creature of nature" (insan, tabiatin
-> mahlûkudur) is not an incidental turn of phrase but part of the doctrine set out on p.
-> 2: nature is the owner of the laws, nothing comes into being out of nothing, and man
-> is "undoubtedly" (şüphesiz) no exception to this. The sentence omitted from Quote-16
-> is an analogy between nation and state. The book does not use the word hâlık, creator;
-> the assertion that nature is the creator is this review's inference, and it follows
-> from these three sentences. The qualification on p. 7 that "none of these works can
-> satisfy present-day humanity" (bütün bu eserler bugünkü beşeriyeti tatmin edemez)
-> concerns the insufficiency of the evidence, not a retraction of the thesis. The
-> disagreement is not about matter — the book's "watery mud" (sulu çamur) and the
-> Qur'an's "essence (extracted) from clay" (Verse-13) do not conflict — but about the
-> agent: the Qur'an puts the question at exactly this point, "is it you who create it,
-> or are We the Creator?" (Verse-12), and it ascribes every stage of the graduated
-> creation to Allah, naming Him "the best of creators".
+> **[Finding-07]** The sentence "İnsan, tabiatin mahlûkudur" ("man is the creature of
+> nature") is not a chance turn of phrase but part of the doctrine set out on p. 2:
+> nature is the owner of the laws, nothing comes into being out of nothing, and man is
+> "undoubtedly" (şüphesiz) no exception to this. The sentence omitted from Quote-16 is
+> an analogy between nation and state. The remark on p. 7 that "all these remains cannot
+> satisfy present-day humanity" concerns the insufficiency of the evidence, not a
+> withdrawal of the thesis. The book ties the origin of man to nature; it also writes
+> that life came about "without the intervention of any agent outside nature" (Quote-15)
+> and names no agent beyond nature. The divergence is not about matter — the book's
+> "thin, watery mud" does not conflict with the Qur'an's "an extract of clay" (Verse-13)
+> — but about the agent: the Qur'an puts the question at exactly this point, "is it you
+> who create it, or are We the creator?" (Verse-12), and it ascribes every stage of the
+> graded creation to Allah, naming Him "the best of creators".
 
 #### Man is placed at the last link of the animal chain
 
