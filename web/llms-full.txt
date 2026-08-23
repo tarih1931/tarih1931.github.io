@@ -23824,7 +23824,7 @@ Aşağıdaki inceleme yukarıdaki metnin bir parçası değildir; 1931 metni üz
 
 **Prof. Dr. Muhammed Fatih Talu · Claude (Anthropic)**
 
-**Özet:** [*Tarih I*](https://kutuphane.ttk.gov.tr/resource?itemId=267298&dkymId=6415) ve [*Tarih II*](https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416) (1931), Maarif Vekâleti emriyle basılan ve liselerde on bir yıl okutulan resmî ders kitaplarıdır; geçmişi anlatmakla kalmaz, dinin ve vahyin kaynağı hakkında da hüküm verirler. Bu inceleme, kitapların din bahsini taşıyan iki bölümünü — *Tarih I*'in “Beşer Tarihine Giriş” ve *Tarih II*'nin “İslâm Tarihi” bölümlerini — bütünüyle okuyup din, vahiy, nübüvvet, yaratılış, cin ve melek, Kâbe ve ahkâm hakkında hüküm bildiren cümleleri çıkarmış; **46** sayfa künyeli alıntıyı **38** ayetle karşılaştırarak **19** bulguya varmıştır. Bulguların çekirdeği, kitabın kendi kayıt düzenidir: **vahyin ilâhî kaynağı hiçbir yerde kitabın kendi sesiyle tasdik edilmez, hep “İslâm an'anesinde … kabul olunur” gibi bir nakil kaydına havale edilir; beşerî izah ise kitabın kendi sesiyle ve çoğu yerde kayıtsız verilir.** Buna göre kitaplarda Allah'tan gelen dinin yerine insan kökenli din anlayışı, vahyin yerine beşerî tefekkür, peygamberlik yerine din kuruculuğu ve yaratılışın yerine tabiat merkezli açıklama konmaktadır. İncelemenin temel iddiası, bu resmî anlatı ile Kur'an arasındaki ayrılığın ayrıntıda değil **itikadî temelde** bulunduğudur. Her alıntı künyesindeki sayfada makine ile doğrulanmış, ayetler tek bir mealden alınmış, tefsirde ihtilaflı ayetler bulgu dayanağı yapılmamıştır.
+**Özet:** [*Tarih I*](https://kutuphane.ttk.gov.tr/resource?itemId=267298&dkymId=6415) ve [*Tarih II*](https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416) (1931), Maarif Vekâleti emriyle basılan ve liselerde on bir yıl okutulan resmî ders kitaplarıdır; geçmişi anlatmakla kalmaz, dinin ve vahyin kaynağı hakkında da hüküm verirler. Bu inceleme, kitapların din bahsini taşıyan iki bölümünü — *Tarih I*'in “Beşer Tarihine Giriş” ve *Tarih II*'nin “İslâm Tarihi” bölümlerini — bütünüyle okuyup din, vahiy, nübüvvet, yaratılış, cin ve melek, Kâbe ve ahkâm hakkında hüküm bildiren cümleleri çıkarmış; **46** sayfa künyeli alıntıyı **38** ayetle karşılaştırarak **19** bulguya varmıştır. Bulguların çekirdeği, kitabın kendi kayıt düzenidir: **vahyin ilâhî kaynağı hiçbir yerde kitabın kendi sesiyle tasdik edilmez, hep “İslâm an'anesinde (…) kabul olunur” gibi bir nakil kaydına havale edilir; beşerî izah ise kitabın kendi sesiyle ve çoğu yerde kayıtsız verilir.** Buna göre kitaplarda Allah'tan gelen dinin yerine insan kökenli din anlayışı, vahyin yerine beşerî tefekkür, peygamberlik yerine din kuruculuğu ve yaratılışın yerine tabiat merkezli açıklama konmaktadır. İncelemenin temel iddiası, bu resmî anlatı ile Kur'an arasındaki ayrılığın ayrıntıda değil **itikadî temelde** bulunduğudur. Her alıntı künyesindeki sayfada makine ile doğrulanmış, ayetler tek bir mealden alınmış, tefsirde ihtilaflı ayetler bulgu dayanağı yapılmamıştır.
 
 ---
 
@@ -23865,7 +23865,7 @@ Kitaptaki din anlatısının, girişte adı geçen bir komisyonun görüşü old
 Alıntı seçiminde ölçüt, cümlenin dinin veya vahyin **menşei ve mahiyeti** hakkında bir hüküm taşımasıdır; tasvirî tarih anlatısı (seferler, halifeler, kurumlar) kapsam dışıdır. Alıntılar şu kurallara göre verilir:
 
 1. Lafız 1931 basımından, imlâsı korunarak ve künyesindeki sayfadan birebir alınır.
-2. Alıntı, içinde bulunduğu paragrafın hükmünü taşıyacak uzunlukta verilir. Elips (…) yalnız terim tarifi gibi hükmü değiştirmeyen kısımlar için kullanılır; atlanan kısmın anlamı değiştirmediği, gerektiğinde bulguda gösterilir.
+2. Alıntı, içinde bulunduğu paragrafın hükmünü taşıyacak uzunlukta verilir. Atlanan yerler **(…)** ile gösterilir ve yalnız terim tarifi gibi hükmü değiştirmeyen kısımlar atlanır; atlananın anlamı değiştirmediği, gerektiğinde bulguda gösterilir.
 3. Bir hüküm kitapta birden fazla yerde geçiyorsa bütün geçişleri anılır; bulgu tek bir cümleye yaslanmaz.
 4. Kitabın aynı konuda kendi hükmünü sınırlayan veya yumuşatan cümleleri (ihtiyat kayıtları, Peygamber'e övgü) saklanmaz; bulgunun altında ya da övgü bölümünde ele alınır.
 
@@ -23873,7 +23873,7 @@ Alıntı seçiminde ölçüt, cümlenin dinin veya vahyin **menşei ve mahiyeti*
 
 Kitap, din hakkındaki hükümlerini üç ayrı kayıtla verir ve bulgular bu kayıtlara göre kurulur:
 
-- **Nakil kaydı** — hüküm bir başkasına atfedilir: "İslâm an'anesinde … kabul olunur" (*Tarih II*, s. 90), "Arap an'anesi … atfetmektedir" (s. 85), "Dinler nazarında" (s. 91), "gûya" (s. 91). Bu kayıtla verilen bir cümle kitabın kendi hükmü sayılmaz; bulgu, kitabın o hükmü kendi sesiyle *vermediğini* tespit eder.
+- **Nakil kaydı** — hüküm bir başkasına atfedilir: "İslâm an'anesinde (…) kabul olunur" (*Tarih II*, s. 90), "Arap an'anesi (…) atfetmektedir" (s. 85), "Dinler nazarında" (s. 91), "gûya" (s. 91). Bu kayıtla verilen bir cümle kitabın kendi hükmü sayılmaz; bulgu, kitabın o hükmü kendi sesiyle *vermediğini* tespit eder.
 - **Disiplin kaydı** — hüküm bir bakış açısına bağlanır: "Tarihî noktai nazardan" (s. 90), "umumiyetle iddia olunuyor" (*Tarih I*, s. 5). Kitap bu kaydı benimsediği izahlar için kullanır; kayıt, hükmün kitabın kendi sesiyle verildiğini gösterir.
 - **Kayıtsız hüküm** — "Görülüyor ki" (*Tarih I*, s. 24), "kabul etmek lâzımdır" (s. 5), "İşte bu hâdiseye biz bugün din namını veriyoruz" (s. 23), "bittabi" (*Tarih II*, s. 85).
 
@@ -23921,7 +23921,7 @@ sayfaları ve o eksende geçen alıntı ile bulguların indeks aralığını ver
 
 ## 3. Eksen eksen karşılaştırma
 
-Her bir eksen altında, öncelikle ilgili alıntı ve ayetlere yer verilmekte, ardından bunların birlikte değerlendirilmesiyle ulaşılan bulgular ortaya konulmaktadır. Alıntılar yukarıdaki kurallara göre, paragrafın hükmünü taşıyacak uzunlukta verilmiştir; elipsle (…) atlanan yerlerde atlanan kısmın ne olduğu bulguda belirtilir.
+Her bir eksen altında, öncelikle ilgili alıntı ve ayetlere yer verilmekte, ardından bunların birlikte değerlendirilmesiyle ulaşılan bulgular ortaya konulmaktadır. Alıntılar yukarıdaki kurallara göre, paragrafın hükmünü taşıyacak uzunlukta verilmiştir; **(…)** ile atlanan yerlerde atlananın ne olduğu bulguda belirtilir.
 
 ### 3.1 Dinin menşei ve mahiyeti
 
@@ -23939,7 +23939,7 @@ Bu eksenin sayfaları *Tarih I*'in "D. Fikrin Doğuşu" başlığı altındadır
 > **[[Alıntı-02](https://tarih1931.github.io/tarih-1-1931/s0022.html)]** "İnsanlar, biribirile konuşarak ta biribirinin korkularını teyit ve
 > tekit eylediler; müşterek mukaddesat an'aneleri icat ettiler. Bu mukaddesat
 > içinde memnu (haram) ve gayritahir (mekruh) mefhumlarına ait fikirler mühim
-> yer tuttu; … Böylece ilk din esasları ve merasimi ile din adamları ve
+> yer tuttu; (…) Böylece ilk din esasları ve merasimi ile din adamları ve
 > sihirbazlar sınıfına yol açılmış oldu." — **Tarih I, s. 22**
 
 > **[[Alıntı-03](https://tarih1931.github.io/tarih-1-1931/s0023.html)]** "Bu kurbanları kesecek diğer pak tanınmış bir sınıf meydana çıktı: ilk
@@ -23958,7 +23958,7 @@ Bu eksenin sayfaları *Tarih I*'in "D. Fikrin Doğuşu" başlığı altındadır
 
 > **[Ayet-01]** "“Dini dosdoğru tutun ve onda ayrılığa düşmeyin!” diye Nûh’a
 > emrettiğini, sana vahyettiğini, İbrâhim’e, Mûsâ’ya ve İsâ’ya emrettiğini size
-> de din kıldı. …" — **Şûrâ 13**
+> de din kıldı. (…)" — **Şûrâ 13**
 
 > **[Ayet-02]** "Senden önce gönderdiğimiz bütün peygamberlere, “Şüphesiz,
 > benden başka hiçbir ilâh yoktur. Öyleyse bana ibadet edin” diye
@@ -23969,15 +23969,14 @@ Bu eksenin sayfaları *Tarih I*'in "D. Fikrin Doğuşu" başlığı altındadır
 > an'aneleri, kurban, rahip sınıfı ve nihayet "din namını" verdiği müşterek âdetler.
 > Zincir incelemenin montajı değildir; bölümün alt başlıkları sırasıyla bu halkaları
 > taşır ve s. 22–23'te hükümler tahmin kaydı olmaksızın verilir ("icat ettiler", "menşei
-> budur"). Alıntı-02'deki elips, tasfiye merasiminin doğuşunu anlatan üç cümleyi atlar;
-> hükmü değiştirmez. İki ayrıntı zincirin nereye bağlandığını gösterir: kitap iptidaî
-> tabuyu "memnu (haram) ve gayritahir (mekruh)" diye fıkıh terimleriyle adlandırır;
-> dinin muhtevasını "ruhlara, ilhamlara, emirlere ve nehiylere taallûk eden karmakarışık
+> budur"). Alıntı-02'de atlanan üç cümle tasfiye merasiminin doğuşunu anlatır; hükmü
+> değiştirmez. İki ayrıntı zincirin nereye bağlandığını gösterir: kitap iptidaî tabuyu
+> "memnu (haram) ve gayritahir (mekruh)" diye fıkıh terimleriyle adlandırır; dinin
+> muhtevasını "ruhlara, ilhamlara, emirlere ve nehiylere taallûk eden karmakarışık
 > düşünceler" sayar — *Tarih II*'de vahiy ve ahkâm için kullanılacak kelimeler burada
 > iptidaî kabilenin zihnine yerleştirilir. Kur'an'da ise din bir tekâmülün neticesi
 > değil, Allah'ın Nuh'tan İsa'ya bütün peygamberlere emrettiği ve "din kıldığı" tek
-> esastır (Ayet-01; fiil *şera'a*, fâili Allah'tır); her peygambere aynı tevhid
-> vahyedilmiştir (Ayet-02).
+> esastır (Ayet-01); her peygambere aynı tevhid vahyedilmiştir (Ayet-02).
 
 #### Din, insanların vücuda getirdiği bir müessesedir
 
@@ -23989,8 +23988,8 @@ Bu eksenin sayfaları *Tarih I*'in "D. Fikrin Doğuşu" başlığı altındadır
 > unsurların tesiri ve yardımı olmuştur. Din de bu müessirlerin
 > başlıcalarındandır." — **Tarih I, s. 24**
 
-> **[Ayet-03]** "… Bugün sizin için dininizi kemale erdirdim. Size nimetimi
-> tamamladım ve sizin için din olarak İslâm’ı seçtim. …" — **Mâide 3**
+> **[Ayet-03]** "(…) Bugün sizin için dininizi kemale erdirdim. Size nimetimi
+> tamamladım ve sizin için din olarak İslâm’ı seçtim. (…)" — **Mâide 3**
 
 > **[Bulgu-02]** Kitapta din, "diğer içtimaî müesseseler gibi" insanların kurduğu bir
 > müessesedir; kaydı "Görülüyor ki"dir, yani tahmin değil bölümün vardığı sonuçtur.
@@ -24020,9 +24019,9 @@ Bu eksenin sayfaları *Tarih I*'in "D. Fikrin Doğuşu" başlığı altındadır
 > **[Ayet-04]** "O, önlerindekini ve arkalarındakini (dünyadaki ve ahiretteki
 > durumlarını) bilir. Onların bilgisi ise Rahmân’ı kuşatamaz." — **Tâhâ 110**
 
-> **[Ayet-05]** "… O, kulların önlerindekileri ve arkalarındakileri
+> **[Ayet-05]** "(…) O, kulların önlerindekileri ve arkalarındakileri
 > (yaptıklarını ve yapacaklarını) bilir. Onlar O’nun ilminden, kendisinin
-> dilediği kadarından başka bir şey kavrayamazlar. …" — **Bakara 255**
+> dilediği kadarından başka bir şey kavrayamazlar. (…)" — **Bakara 255**
 
 > **[Bulgu-03]** Kitapta ulûhiyet keşfedilecek bir mefhumdur ve onu "bulan" insan
 > zekâsıdır; dinî tasavvurun dayanağı olan korku ve zâf hisleri ilmin ilerlemesiyle
@@ -24050,8 +24049,8 @@ Bu eksenin sayfaları *Tarih I*'in "D. Fikrin Doğuşu" başlığı altındadır
 > **[Ayet-06]** "Onlar gaybe inanırlar, namazı dosdoğru kılarlar, kendilerine
 > rızık olarak verdiğimizden de Allah yolunda harcarlar." — **Bakara 3**
 
-> **[Ayet-07]** "… Asıl iyilik, Allah’a, ahiret gününe, meleklere, kitap ve
-> peygamberlere iman edenlerin; … tutum ve davranışlarıdır." — **Bakara 177**
+> **[Ayet-07]** "(…) Asıl iyilik, Allah’a, ahiret gününe, meleklere, kitap ve
+> peygamberlere iman edenlerin; (…) tutum ve davranışlarıdır." — **Bakara 177**
 
 > **[Bulgu-04]** Kural, din bahsinden önce ve bölümün ilk sayfalarında konur: insanların
 > "bütün bilgileri ve inanışları" zekâ eseridir; buradan tabiatın fevkindeki ve
@@ -24059,7 +24058,7 @@ Bu eksenin sayfaları *Tarih I*'in "D. Fikrin Doğuşu" başlığı altındadır
 > "İnanışları" kelimesi dini açıkça kapsar; kitap aynı kuralı bir sayfa sonra din
 > kitaplarındaki yaratılış anlatısına uygular (Alıntı-14). "İnsan dimağı için" kaydı
 > hükmü bilginin sınırına bağlıyormuş gibi okunabilir; fakat kitap bilginin yegâne
-> kaynağını keşif sayar (s. 1: "bütün bilgilerimizin hududu … keşiflerin ötesine
+> kaynağını keşif sayar (s. 1: "bütün bilgilerimizin hududu (…) keşiflerin ötesine
 > geçemez") ve vahyi hiçbir yerde bilgi kaynağı olarak anmaz. İlke gaybın tamamını
 > kapsar; üzerine gayba iman kurulamaz. Oysa gayba iman, Kur'an'ın müminleri tarif
 > ederken saydığı ilk vasıftır (Ayet-06); iman edilecekler sayıldığında da — Allah,
@@ -24069,7 +24068,7 @@ Bu eksenin sayfaları *Tarih I*'in "D. Fikrin Doğuşu" başlığı altındadır
 #### İptidaî insanda din yoktur; vahdet sonradan gelir
 
 > **[[Alıntı-11](https://tarih1931.github.io/tarih-1-1931/s0021.html)]** "İptidaî insan, nereden geldiğini, niçin yaşadığını hiç düşünmek
-> ihtiyacını hissetmiyordu. … Bu insanlarda henüz dinî fikir ve kanaatten eser
+> ihtiyacını hissetmiyordu. (…) Bu insanlarda henüz dinî fikir ve kanaatten eser
 > yoktu." — **Tarih I, s. 21**
 
 > **[[Alıntı-12](https://tarih1931.github.io/tarih-1-1931/s0023.html)]** "İnsanların hayatına taallûk eden her şeyde olduğu gibi dinî meselelerde
@@ -24082,22 +24081,24 @@ Bu eksenin sayfaları *Tarih I*'in "D. Fikrin Doğuşu" başlığı altındadır
 > azametile daha ziyade anlaşılması kabil, hakikî bir mahiyet alır." — **Tarih I, s. 24**
 
 > **[Ayet-08]** "Andolsun biz, her ümmete, “Allah’a kulluk edin, tâğûttan
-> kaçının” diye peygamber gönderdik. …" — **Nahl 36**
+> kaçının” diye peygamber gönderdik. (…)" — **Nahl 36**
 
 > **[Ayet-09]** "Derken, Âdem (vahy yoluyla) Rabbinden birtakım kelimeler aldı,
 > (onlarla amel edip Rabb’ine yalvardı. O da) bunun üzerine tövbesini kabul
-> etti. …" — **Bakara 37**
+> etti. (…)" — **Bakara 37**
 
 > **[Bulgu-05]** Kitaba göre iptidaî insanda Allah ve din hakkında hiçbir fikir yoktu;
 > hüküm s. 21'de iki cümlede, s. 23–24'te bir kez daha ve kayıtsız tekrarlanır. Din
 > sonradan "alıştırılan" bir telâkkidir; vahdet mefhumu başlangıç değil, tekâmülün geç
 > bir merhalesidir. Kitap bu son hâle "hakikî bir mahiyet" der, fakat ölçüsü tabiatın
 > kudret ve azametiyle "anlaşılması kabil" olmaktır: vahdet, tabiatın bir ifadesi olduğu
-> nispette hakikîdir. Kitabın tek iç çatlağı s. 21'dedir — aynı sayfada, ölülerini
-> gömmelerinden bu insanların "müstakbel bir hayata inandıkları" neticesinin
-> çıkarılabileceği de yazılır. Kur'an ise sıralamayı tersinden kurar: ilk insan vahyin
-> ilk muhatabıdır — Âdem "Rabbinden birtakım kelimeler alır" (Ayet-09; fiil *telakkâ*,
-> kitabın "telâkki"sinin aslı) — ve tevhid her topluluğa baştan tebliğ edilmiştir
+> nispette hakikîdir. Kitap kendi hükmünü bir yerde zayıflatır: aynı sayfada, iptidaî
+> insanların ölülerini gömüp yanlarına erzak ve silâh bırakmasından "müstakbel bir
+> hayata inandıkları" neticesinin çıkarılabileceğini de yazar. Öteki dünya inancı,
+> "hiçbir fikir ve kanaat yoktu" hükmüyle bağdaşmaz; kitap bu çelişkiyi gidermez. Kur'an
+> ise sıralamayı tersinden kurar: ilk insan vahyin ilk muhatabıdır — Âdem "Rabbinden
+> birtakım kelimeler alır" (Ayet-09); ayetteki fiil *telakkâ*, kitabın "telâkki"
+> kelimesiyle aynı köktendir — ve tevhid her topluluğa baştan tebliğ edilmiştir
 > (Ayet-08). Fıtrat ayeti (Rûm 30) aynı yönü gösterir; yorumu çok-vecihli olduğundan
 > bulgu ona dayandırılmamıştır.
 
@@ -24124,9 +24125,9 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 
 > **[Ayet-10]** "İnkâr edenler, göklerle yer bitişikken, bizim onları
 > ayırdığımızı ve diri olan her şeyi sudan meydana getirdiğimizi görmediler mi?
-> …" — **Enbiyâ 30**
+> (…)" — **Enbiyâ 30**
 
-> **[Ayet-11]** "Allah, bütün canlıları sudan yarattı. … Allah, dilediğini
+> **[Ayet-11]** "Allah, bütün canlıları sudan yarattı. (…) Allah, dilediğini
 > yaratır. Çünkü Allah, her şeye hakkıyla gücü yetendir." — **Nûr 45**
 
 > **[Bulgu-06]** Paragraf, bilginin sınırını teslim ederek açılır ("kat'î surette
@@ -24145,7 +24146,7 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 #### İnsan, tabiatın mahlûku sayılır
 
 > **[[Alıntı-16](https://tarih1931.github.io/tarih-1-1931/s0002.html)]** "O halde tabiat hem kanunların sahibidir, hem de ayni kanunların
-> tâbiidir. … Bütün varlıklar, tabiatte dahil ve onun kanunlarına tâbi olunca,
+> tâbiidir. (…) Bütün varlıklar, tabiatte dahil ve onun kanunlarına tâbi olunca,
 > hayat sahibi olan her nevi mahlûklar, insanlar dahi şüphesiz bundan hariç ve
 > müstesna olmazlar." — **Tarih I, s. 2**
 
@@ -24168,11 +24169,11 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 
 > **[Bulgu-07]** "İnsan, tabiatin mahlûkudur" cümlesi tesadüfî bir deyiş değil, s. 2'de
 > kurulan öğretinin parçasıdır: tabiat kanunların sahibidir, hiçbir şey yoktan var
-> olmaz, insan da bundan "şüphesiz" müstesna değildir. Alıntı-16'daki elips
-> millet–devlet benzetmesini atlar. Kitap "hâlık" kelimesini kullanmaz; "tabiat
-> hâlıktır" hükmü incelemenin çıkarımıdır ve bu üç cümleden çıkar. s. 7'deki "bütün bu
-> eserler bugünkü beşeriyeti tatmin edemez" kaydı delillerin eksikliğine dairdir, tezin
-> geri alınması değildir. Ayrılık madde üzerinde değildir — kitabın "sulu çamur"u ile
+> olmaz, insan da bundan "şüphesiz" müstesna değildir. Alıntı-16'da atlanan cümle
+> millet–devlet benzetmesidir. Kitap "hâlık" kelimesini kullanmaz; "tabiat hâlıktır"
+> hükmü incelemenin çıkarımıdır ve bu üç cümleden çıkar. s. 7'deki "bütün bu eserler
+> bugünkü beşeriyeti tatmin edemez" kaydı delillerin eksikliğine dairdir, tezin geri
+> alınması değildir. Ayrılık madde üzerinde değildir — kitabın "sulu çamur"u ile
 > Kur'an'ın "çamurdan (süzülmüş) bir öz"ü (Ayet-13) çelişmez —, fâil üzerindedir: Kur'an
 > soruyu tam bu noktada sorar, "onu siz mi yaratıyorsunuz, yoksa yaratan biz miyiz?"
 > (Ayet-12), ve kademeli yaratışın her kademesini Allah'a nisbet edip O'nu "yaratanların
@@ -24191,8 +24192,8 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 > insanın sair memeli hayvanlar gibi, daha basit bir sınıfa ait cetlerden geldiği
 > kanaatine varılır." — **Tarih I, s. 5**
 
-> **[[Alıntı-22](https://tarih1931.github.io/tarih-1-1931/s0005.html)]** "Filhakika umumiyetle iddia olunuyor ki, insanın ve büyük maymunların …
-> müşterek bir cetleri vardır. … İnsan, doğmadan evel, vücudunun geçirdiği pek
+> **[[Alıntı-22](https://tarih1931.github.io/tarih-1-1931/s0005.html)]** "Filhakika umumiyetle iddia olunuyor ki, insanın ve büyük maymunların (…)
+> müşterek bir cetleri vardır. (…) İnsan, doğmadan evel, vücudunun geçirdiği pek
 > garip safhalar vardır ki, onlar bilinecek olursa, bu iddianın sıhhatini kabul
 > etmemek mümkün olmaz." — **Tarih I, s. 5**
 
@@ -24207,10 +24208,10 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 > **[Bulgu-08]** Kitap insanın basit canlılardan uzun bir tekâmülle meydana geldiğini
 > anlatır. Alıntı-22'deki "umumiyetle iddia olunuyor" kaydı kitabın yalnız naklettiği
 > izlenimini verebilir; aynı paragraf bu okumayı kapatır: iddia "kabul etmemek mümkün
-> olmaz" ve "Hulâsa … geldiler" (Alıntı-19) ile üstlenilir. Alıntı-20'yi izleyen ihtiyat
-> cümlesi zincirin uçlarına dairdir; s. 4–5'teki alt başlıklar aynı tezi kesin kayıtla
-> kurar. Alıntı-22'deki elipsler resim atfını ve şecerenin ara halkalarını atlar. Kur'an
-> da insanın yaratılışını kademeli anlatır — çamurdan başlayan, "öz su"dan süren,
+> olmaz" ve "Hulâsa (…) geldiler" (Alıntı-19) ile üstlenilir. Alıntı-20'yi izleyen
+> ihtiyat cümlesi zincirin uçlarına dairdir; s. 4–5'teki alt başlıklar aynı tezi kesin
+> kayıtla kurar. Alıntı-22'de atlananlar resim atfı ile şecerenin ara halkalarıdır.
+> Kur'an da insanın yaratılışını kademeli anlatır — çamurdan başlayan, "öz su"dan süren,
 > şekillendirilen ve ruh üflenen bir yaratış (Ayet-14) — fakat her kademenin fâili
 > Allah'tır (Ayet-15). İhtilaf "insan maymundan mı geldi?" sorusuna indirgenmemelidir;
 > inceleme bu ayetleri tekâmülün mekanizmasına karşı değil, fâil sorusuna bağlar:
@@ -24234,21 +24235,22 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 
 > **[Ayet-17]** "İşte sana da, emrimizle, bir ruh (kalpleri dirilten bir kitap)
 > vahyettik. Sen kitap nedir, iman nedir bilmezdin. Fakat biz onu, kullarımızdan
-> dilediğimizi, kendisiyle doğru yola eriştireceğimiz bir nur yaptık. …" — **Şûrâ 52**
+> dilediğimizi, kendisiyle doğru yola eriştireceğimiz bir nur yaptık. (…)" — **Şûrâ 52**
 
 > **[Bulgu-09]** Paragraf üç kademelidir: Kur'an'ın tarifi kitabın kendi sesiyle ve
 > kayıtsız verilir ("Muhammedin koyduğu esasların toplu olduğu kitap"); araya nötr bir
-> terim tarifi girer; ilâhî kaynak iddiası ise "İslâm an'anesinde … kabul olunur"
+> terim tarifi girer; ilâhî kaynak iddiası ise "İslâm an'anesinde (…) kabul olunur"
 > kaydıyla üçüncü şahsa havale edilir. "Kabul olunur" tek başına mesafe kaydı değildir —
-> kitap benimsediği güneş merkezliliği için de "kabul olundu" der (*Tarih I*, s. 2) —; mesafeyi
-> yapan, fâilin "İslâm an'anesi" olması ve hemen ardından "Tarihî noktai nazardan da …
-> görülüyor ki" ile kitabın kendi hükmünün gelmesidir (Alıntı-24); bölümün geri kalanı
-> yalnız bu ikinci kaydı işler. "An'ane" kitabın sözlüğünde de nötr değildir: an'aneler
-> "icat" edilir (Alıntı-02) ve Kâbe bahsinde "uydurma" ile "masal"ın aynı zincirindedir
-> (Alıntı-36, Alıntı-37). Vahiy ayrıca "vahiy, yani ilham" diye açıklanıp iptidaî Arap
-> telâkkisine bağlanır. İlâhî kaynak an'aneye, beşerî izah kitabın kendisine aittir.
-> Kur'an ise vahyi kendi sesiyle kat'î bir hüküm olarak bildirir (Ayet-16) ve
-> Peygamber'in vahiyden önce "kitap nedir, iman nedir" bilmediğini söyler (Ayet-17).
+> kitap benimsediği güneş merkezliliği için de "kabul olundu" der (*Tarih I*, s. 2) —;
+> mesafeyi yapan, fâilin "İslâm an'anesi" olması ve hemen ardından "Tarihî noktai
+> nazardan da (…) görülüyor ki" ile kitabın kendi hükmünün gelmesidir (Alıntı-24);
+> bölümün geri kalanı yalnız bu ikinci kaydı işler. "An'ane" kitabın sözlüğünde de nötr
+> değildir: an'aneler "icat" edilir (Alıntı-02) ve Kâbe bahsinde "uydurma" ile "masal"ın
+> aynı zincirindedir (Alıntı-36, Alıntı-37). Vahiy ayrıca "vahiy, yani ilham" diye
+> açıklanıp iptidaî Arap telâkkisine bağlanır. İlâhî kaynak an'aneye, beşerî izah
+> kitabın kendisine aittir. Kur'an ise vahyi kendi sesiyle kat'î bir hüküm olarak
+> bildirir (Ayet-16) ve Peygamber'in vahiyden önce "kitap nedir, iman nedir" bilmediğini
+> söyler (Ayet-17).
 
 #### Vahiy, uzun bir tefekkürün mahsulü sayılır
 
@@ -24318,10 +24320,10 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 > indirmek **hatasından** kurtulmak mümkün olmaz." — **Tarih II, s. 93**
 
 > **[Ayet-21]** "Ey Peygamber! Rabbinden sana indirileni tebliğ et. Eğer bunu
-> yapmazsan, O’nun verdiği peygamberlik görevini yerine getirmemiş olursun. …" — **Mâide 67**
+> yapmazsan, O’nun verdiği peygamberlik görevini yerine getirmemiş olursun. (…)" — **Mâide 67**
 
 > **[Ayet-22]** "Onlar, yanlarındaki Tevrat’ta ve İncil’de yazılı buldukları
-> Resûle, o ümmî peygambere uyan kimselerdir. …" — **A'râf 157**
+> Resûle, o ümmî peygambere uyan kimselerdir. (…)" — **A'râf 157**
 
 > **[Ayet-23]** "Sen şu Kur’an’dan önce hiçbir kitap okumuyor ve onu sağ elinle
 > yazmıyordun. (Okuyup yazsaydın) o takdirde batıl peşinde koşanlar, şüpheye
@@ -24337,7 +24339,7 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 > Tasvir, "kendinin bulduğu din" hükmüyle (Alıntı-25) aynı çizgidedir. Kur'an'da
 > Peygamber **müessis** değil **mübelliğdir**. Ümmîlik de kitapta "cahil" ile yan yana
 > anılırken Kur'an'da bir unvandır (Ayet-22) ve vahyin beşerî birikimden bağımsızlığının
-> delilidir: Peygamber daha önce "hiçbir kitap okumuyor ve … yazmıyordu" (Ayet-23). Bu
+> delilidir: Peygamber daha önce "hiçbir kitap okumuyor ve (…) yazmıyordu" (Ayet-23). Bu
 > karşıtlık, kelimenin lügat anlamı üzerindeki tartışmadan bağımsızdır.
 
 #### Aynı kalıp Hz. Musa'ya da uygulanır
@@ -24352,7 +24354,7 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 
 > **[Ayet-25]** "Mûsâ için, Tevrat levhalarında her şeye dair bir öğüt ve her
 > şeyin bir açıklamasını yazdık ve ona şöyle dedik: “Şimdi onları kuvvetle tut,
-> kavmine de emret. …”" — **A'râf 145**
+> kavmine de emret. (…)”" — **A'râf 145**
 
 > **[Bulgu-12]** Aynı izah kalıbı Hz. Musa'ya da uygulanır: dininin esaslarını
 > Medyen'deki telâkkilerden mülhem olarak kendisi koymuştur. Cümle, İslâm öncesi Arap
@@ -24413,7 +24415,7 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 
 > **[Ayet-28]** "Peygamber, Rabbinden kendisine indirilene iman etti, mü’minler
 > de (iman ettiler). Her biri; Allah’a, meleklerine, kitaplarına ve
-> peygamberlerine iman ettiler …" — **Bakara 285**
+> peygamberlerine iman ettiler (…)" — **Bakara 285**
 
 > **[Ayet-29]** "Ey Muhammed! De ki: “Ruhu’l-Kudüs (Cebrail), inananların
 > inançlarını sağlamlaştırmak, müslümanlara doğru yolu göstermek ve onlara bir
@@ -24488,15 +24490,15 @@ Kâbe bahsi, *Tarih II*'de Muhammed anlatıya girmeden önce, "putların muhafaz
 > muharebelerin men'i maksadile birtakım kaideler konmuştu. Bunların herbirine
 > **dinî şekiller verilmişti**. Kâbenin İbrahim tarafından bina edilmiş olduğu
 > söylenerek, dört ay, etrafında muharebe etmek menolunmuştu. Bu tedbirlerin
-> herbiri Mekke ve Kâbenin ehemmiyet ve şerefini arttırmıştı. … İşte bu şerait
+> herbiri Mekke ve Kâbenin ehemmiyet ve şerefini arttırmıştı. (…) İşte bu şerait
 > içinde Kâbe Kureyşliler için iktisadî ve ticarî menfaatler teminine yarıyan
 > bir vasıta oldu." — **Tarih II, s. 85-86**
 
 > **[Ayet-32]** "Allah; Ka’be’yi, o saygıdeğer evi, haram ayı, hac kurbanını ve
 > (bu kurbanlara takılı) gerdanlıkları insanlar(ın din ve dünyaları) için ayakta
-> kalma (ve canlanma) sebebi kıldı. …" — **Mâide 97**
+> kalma (ve canlanma) sebebi kıldı. (…)" — **Mâide 97**
 
-> **[Ayet-33]** "Hani, biz Kâbe’yi insanlara toplantı ve güven yeri kılmıştık. …
+> **[Ayet-33]** "Hani, biz Kâbe’yi insanlara toplantı ve güven yeri kılmıştık. (…)
 > İbrahim ve İsmail’e şöyle emretmiştik: “Tavaf edenler, kendini ibadete
 > verenler, rükû ve secde edenler için evimi (Kâbe’yi) tertemiz tutun.”" — **Bakara 125**
 
@@ -24507,12 +24509,12 @@ Kâbe bahsi, *Tarih II*'de Muhammed anlatıya girmeden önce, "putların muhafaz
 > "söylenmiştir" —; ve bunların Kureyş için "iktisadî ve ticarî menfaat vasıtası"
 > olması. Karataş cümlesi bu zemine bir kıdem iddiası ekler: kitap Kâbe'yi Friklere
 > bağlamaz, karataş kültünün Kâbe'den "çok evel" Friklerde bulunduğunu söyler.
-> Alıntı-40'taki elips, Meryem resmine dair cümleyi atlar. Ekonomik izah kalıbı bölüm
-> boyunca tutarlıdır (Kureyş'in reddi, s. 89; Medinelilerin kabulü, s. 90). Kutsiyetin
-> kaynağı böylece vahiy değil, önceki âdetler ve siyasî-iktisadî ihtiyaçlardır.
-> Kur'an'da ise bu vasıfların her birinin fâili Allah'tır: Kâbe'yi, haram ayı ve hac
-> kurbanını "ayakta kalma sebebi kılan" (Ayet-32) ve Kâbe'yi "insanlara toplantı ve
-> güven yeri kılan" (Ayet-33) O'dur.
+> Alıntı-40'ta atlanan cümle Meryem resmine dairdir. Ekonomik izah kalıbı bölüm boyunca
+> tutarlıdır (Kureyş'in reddi, s. 89; Medinelilerin kabulü, s. 90). Kutsiyetin kaynağı
+> böylece vahiy değil, önceki âdetler ve siyasî-iktisadî ihtiyaçlardır. Kur'an'da ise bu
+> vasıfların her birinin fâili Allah'tır: Kâbe'yi, haram ayı ve hac kurbanını "ayakta
+> kalma sebebi kılan" (Ayet-32) ve Kâbe'yi "insanlara toplantı ve güven yeri kılan"
+> (Ayet-33) O'dur.
 
 #### Ahkâmın ebedîliği kaldırılır
 
@@ -24536,20 +24538,20 @@ Kâbe bahsi, *Tarih II*'de Muhammed anlatıya girmeden önce, "putların muhafaz
 > yapmak lâzımgeldiği zaman, kendini hiçbir şeyle bağlı görmemiştir. Daima
 > tekâmüle doğru yürümüştür." — **Tarih II, s. 118**
 
-> **[Ayet-34]** "… De ki: “Onu kendiliğimden değiştirmem benim için olacak şey
+> **[Ayet-34]** "(…) De ki: “Onu kendiliğimden değiştirmem benim için olacak şey
 > değildir. Ben ancak bana vahyolunana uyarım. Eğer Rabbime isyan edecek
 > olursam, elbette büyük bir günün azabından korkarım.”" — **Yûnus 15**
 
 > **[Ayet-35]** "Rabbinin kelimesi (Kur’an) doğruluk ve adalet bakımından
-> tamdır. Onun kelimelerini değiştirebilecek yoktur. …" — **En'âm 115**
+> tamdır. Onun kelimelerini değiştirebilecek yoktur. (…)" — **En'âm 115**
 
 > **[Bulgu-17]** Kitap Kur'an'ı kendi eliyle üçe ayırır: iman esası "pek mühim"dir;
 > hukukî hükümler "değişegeldiğinden" yerlerine bugün başka kanunlar konmuştur; tarihe
 > ait malûmat ise yeni fenler karşısında "temellerinden" sarsılmıştır. Ahkâm hakkındaki
 > hüküm bu yüzden istilzam değil sarahattir: paragrafın ilk cümlesi, on dört asır
 > evvelki esasların zamanla değiştiğini ve yerlerine yenilerinin konduğunu kitabın kendi
-> sesiyle söyler; "Bunlar dahi … değişmeğe mahkûmdurlar" cümlesi bunu yeni kanunlara da
-> teşmil eder ve iki okumada da — "bunlar da", "bunlar bile" — eski esasların ebedî
+> sesiyle söyler; "Bunlar dahi (…) değişmeğe mahkûmdurlar" cümlesi bunu yeni kanunlara
+> da teşmil eder ve iki okumada da — "bunlar da", "bunlar bile" — eski esasların ebedî
 > olmadığı varsayılır. s. 118 aynı hükmü Peygamber'in şahsına taşır: ıslah gerektiğinde
 > "kendini hiçbir şeyle bağlı görmemiştir" (Alıntı-44). Mansus ile içtihadî ayrımı
 > yapılmaz. Kur'an'da ise Peygamber, Kur'an'ı "kendiliğinden değiştirmesinin olacak şey
@@ -24574,7 +24576,7 @@ Kâbe bahsi, *Tarih II*'de Muhammed anlatıya girmeden önce, "putların muhafaz
 > varlıktı." — **Tarih II, s. 93**
 
 > **[Ayet-36]** "De ki: “Ben de ancak sizin gibi bir insanım. (Ne var ki) bana,
-> ‘Sizin ilâh’ınız ancak bir tek ilâhtır” diye vahyolunuyor. …" — **Kehf 110**
+> ‘Sizin ilâh’ınız ancak bir tek ilâhtır” diye vahyolunuyor. (…)" — **Kehf 110**
 
 > **[Bulgu-18]** Övgü iki cümleden ibaret değildir: s. 90–93'te Peygamber'in şahsiyeti,
 > samimiyeti ve ahlâkı hakkında en az sekiz olumlu cümle vardır ve ortak kelimesi
@@ -24598,9 +24600,15 @@ Kitap, Hz. Muhammed'i **aldattı** şeklinde nitelemez; tersine, kendisini tahri
 > haydi onun gibi bir söz getirsinler!" — **Tûr 33-34**
 
 > **[Ayet-38]** "Bu Kur’an, Allah’tan (indirilmiş olup) başkası tarafından
-> uydurulmamıştır. …" — **Yûnus 37**
+> uydurulmamıştır. (…)" — **Yûnus 37**
 
-> **[Bulgu-19]** Kitap, Kur'an'ın Allah tarafından vahyedildiğini değil, vahiy fikrinin Peygamber'in kendi tefekküründen doğduğunu ileri sürer; Peygamber'in ilâhî kaynağa inancını ise samimî fakat yanlış bir kanaat olarak anlatır. Kur'an bu ikiliyi kendisi kurar: Kur'an "Allah'tan … başkası tarafından uydurulmamıştır" (Ayet-38); uydurma ile vahiy arasında üçüncü bir şık — samimî yanılma — bırakmaz (Ayet-37). Bu yaklaşımda Peygamber'in ahlâkı ve şahsiyeti olumlu değerlendirilse de **Kur'an'ın Allah'ın kelâmı olduğu kabul edilmemekte, vahyin ilâhî kaynağı reddedilmektedir**.
+> **[Bulgu-19]** Kitap, Kur'an'ın Allah tarafından vahyedildiğini değil, vahiy fikrinin
+> Peygamber'in kendi tefekküründen doğduğunu ileri sürer; Peygamber'in ilâhî kaynağa
+> inancını ise samimî fakat yanlış bir kanaat olarak anlatır. Kur'an bu ikiliyi kendisi
+> kurar: Kur'an "Allah'tan (…) başkası tarafından uydurulmamıştır" (Ayet-38); uydurma
+> ile vahiy arasında üçüncü bir şık — samimî yanılma — bırakmaz (Ayet-37). Bu yaklaşımda
+> Peygamber'in ahlâkı ve şahsiyeti olumlu değerlendirilse de **Kur'an'ın Allah'ın kelâmı
+> olduğu kabul edilmemekte, vahyin ilâhî kaynağı reddedilmektedir**.
 
 ---
 

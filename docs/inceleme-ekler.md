@@ -222,7 +222,7 @@ Bu ek, ana metinde anılan otuz sekiz ayetin her biri için incelemenin meal ve 
 
 ### A.27 — Ayet-27 · Cin 72/1-2
 
-- **Bulgudaki yeri.** Bulgu-13: cinler hakkındaki bilginin kaynağı vahiydir ("bana … vahyedildi").
+- **Bulgudaki yeri.** Bulgu-13: cinler hakkındaki bilginin kaynağı vahiydir ("bana (…) vahyedildi").
 - **Kilit lafız.** اسْتَمَعَ نَفَرٌ مِنَ الْجِنِّ (isteme'a neferun mine'l-cinn) — el-cinn (ج ن ن) 'duyulardan gizli olan' (Müfredât; DİA); nefer (ن ف ر) 'üç ile on arası kişiden oluşan topluluk' (doğrulanmalı); ayrıca اُو۫حِيَ اِلَيَّ (ûhiye ileyye; و ح ي).
 - **Mealler.** Var, bulgu için önemli: نَفَرٌ مِنَ الْجِنِّ ibaresini DİB/Kur'an Yolu/Elmalılı/Öztürk/Ateş 'cinlerden bir topluluk / bir takım cin' diye çevirirken Esed 'Tanınmayan/bilinmeyen varlıklardan bir kısmı' der ve bunların muhtemelen Nusaybin'den gelen yahudi yabancılar (insanlar) olabileceğini (kesin olmadan) belirtir.
 - **Kur'an Yolu.** Cin 'örtmek, gizli kalmak' anlamındaki cenne fiilinden isimdir; terim olarak ateşten yaratılmış, duyularla idrak edilemeyen, şuur ve irade sahibi varlık türüdür. Nüzul: cinlerden bir grup Kur'an dinleyip kavimlerine dönerek iman ettiklerini açıklamış; Hz. Peygamber onları görmemiş, durum ona vahiyle bildirilmiştir; nesh yok.

@@ -134,7 +134,9 @@ def verify(quote: str, pages: list[int], corpus: dict[int, dict]) -> bool:
     # ("…husule getir" / "mektedir"). Bu yüzden sayfalar hem boşlukla hem
     # boşluksuz birleştirilip ikisine de bakılır.
     hays = (" ".join(texts), "".join(texts))
-    frags = [f.strip(" ,.;:—-") for f in re.split(r"…|\.\.\.", match_key(quote))]
+    # Atlanan yer "(…)" ile gösterilir: yalın üç nokta, metnin kendi noktalamasıymış
+    # gibi okunuyordu. Parantez ayraçtan sayılır, aksi hâlde parça eşleşmesi bozulur.
+    frags = [f.strip(" ()[],.;:—-") for f in re.split(r"\(…\)|…|\.\.\.", match_key(quote))]
     frags = [f for f in frags if len(f) >= 20] or [match_key(quote)]
     return any(all(f in hay for f in frags) for hay in hays)
 
