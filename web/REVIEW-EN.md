@@ -696,21 +696,23 @@ axis.
 > principles laid down by Muhammad are gathered"); a neutral definition of terms is then
 > interposed; the claim of a divine source, however, is referred to a third party with
 > the qualification "in Islamic tradition (…) it is accepted" (İslâm an'anesinde (…)
-> kabul olunur). "It is accepted" (kabul olunur) is not in itself a distancing
-> qualification — the book also says "it was accepted" (kabul olundu) of the
-> heliocentrism it endorses (*Tarih I*, p. 2). What creates the distance is that the
-> agent is "Islamic tradition" and that the book's own verdict follows immediately,
-> introduced by "considered also from the historical point of view (…) it is seen that"
-> (Tarihî noktai nazardan da (…) görülüyor ki) (Quote-24); the rest of the section works
-> with this second register alone. "Tradition" (an'ane) is not neutral in the book's
-> vocabulary either: traditions are "invented" (icat) (Quote-02), and in the discussion
-> of the Kaaba the word stands in the same chain as "fabrication" (uydurma) and "fable"
-> (masal) (Quote-36, Quote-37). Revelation is further glossed as "revelation, that is,
-> inspiration" (vahiy, yani ilham) and tied to a primitive Arab conception. The divine
-> source belongs to tradition, the human explanation to the book itself. The Qur'an, for
-> its part, declares revelation in its own voice as a definitive judgement (Verse-16),
-> and states that before the revelation the Prophet did not know "what the Book is, nor
-> what faith is" (Verse-17).
+> kabul olunur). The phrase "it is accepted" (kabul olunur) is not in itself a
+> distancing qualification: the book uses the same verb of things it holds to be true —
+> of the view that the sun stands at the centre it writes "this truth was accepted only
+> in the seventeenth century" (Bu hakikat, ancak XVII inci asırda kabul olundu) (*Tarih
+> I*, p. 2). What creates the distance is that the agent is "Islamic tradition" and that
+> the book's own verdict follows immediately, introduced by "considered also from the
+> historical point of view (…) it is seen that" (Tarihî noktai nazardan da (…) görülüyor
+> ki) (Quote-24); the rest of the section works with this second register alone.
+> "Tradition" (an'ane) is not neutral in the book's vocabulary either: traditions are
+> "invented" (icat) (Quote-02), and in the discussion of the Kaaba the word stands in
+> the same chain as "fabrication" (uydurma) and "fable" (masal) (Quote-36, Quote-37).
+> Revelation is further glossed as "revelation, that is, inspiration" (vahiy, yani
+> ilham) and tied to a primitive Arab conception. The divine source belongs to
+> tradition, the human explanation to the book itself. The Qur'an, for its part,
+> declares revelation in its own voice as a definitive judgement (Verse-16), and states
+> that before the revelation the Prophet did not know "what the Book is, nor what faith
+> is" (Verse-17).
 
 #### Revelation is counted the product of a long reflection
 

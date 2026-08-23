@@ -418,17 +418,18 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 > **[Bulgu-09]** Paragraf üç kademelidir: Kur'an'ın tarifi kitabın kendi sesiyle ve
 > kayıtsız verilir ("Muhammedin koyduğu esasların toplu olduğu kitap"); araya nötr bir
 > terim tarifi girer; ilâhî kaynak iddiası ise "İslâm an'anesinde (…) kabul olunur"
-> kaydıyla üçüncü şahsa havale edilir. "Kabul olunur" tek başına mesafe kaydı değildir —
-> kitap benimsediği güneş merkezliliği için de "kabul olundu" der (*Tarih I*, s. 2) —;
-> mesafeyi yapan, fâilin "İslâm an'anesi" olması ve hemen ardından "Tarihî noktai
-> nazardan da (…) görülüyor ki" ile kitabın kendi hükmünün gelmesidir (Alıntı-24);
-> bölümün geri kalanı yalnız bu ikinci kaydı işler. "An'ane" kitabın sözlüğünde de nötr
-> değildir: an'aneler "icat" edilir (Alıntı-02) ve Kâbe bahsinde "uydurma" ile "masal"ın
-> aynı zincirindedir (Alıntı-36, Alıntı-37). Vahiy ayrıca "vahiy, yani ilham" diye
-> açıklanıp iptidaî Arap telâkkisine bağlanır. İlâhî kaynak an'aneye, beşerî izah
-> kitabın kendisine aittir. Kur'an ise vahyi kendi sesiyle kat'î bir hüküm olarak
-> bildirir (Ayet-16) ve Peygamber'in vahiyden önce "kitap nedir, iman nedir" bilmediğini
-> söyler (Ayet-17).
+> kaydıyla üçüncü şahsa havale edilir. "Kabul olunur" ifadesi tek başına mesafe kaydı
+> değildir: kitap, kendi doğru saydığı şeyler için de aynı fiili kullanır — güneşin
+> merkezde bulunduğu görüşü için "Bu hakikat, ancak XVII inci asırda kabul olundu" der
+> (*Tarih I*, s. 2). Mesafeyi yapan, fâilin "İslâm an'anesi" olması ve hemen ardından
+> "Tarihî noktai nazardan da (…) görülüyor ki" ile kitabın kendi hükmünün gelmesidir
+> (Alıntı-24); bölümün geri kalanı yalnız bu ikinci kaydı işler. "An'ane" kitabın
+> sözlüğünde de nötr değildir: an'aneler "icat" edilir (Alıntı-02) ve Kâbe bahsinde
+> "uydurma" ile "masal"ın aynı zincirindedir (Alıntı-36, Alıntı-37). Vahiy ayrıca
+> "vahiy, yani ilham" diye açıklanıp iptidaî Arap telâkkisine bağlanır. İlâhî kaynak
+> an'aneye, beşerî izah kitabın kendisine aittir. Kur'an ise vahyi kendi sesiyle kat'î
+> bir hüküm olarak bildirir (Ayet-16) ve Peygamber'in vahiyden önce "kitap nedir, iman
+> nedir" bilmediğini söyler (Ayet-17).
 
 #### Vahiy, uzun bir tefekkürün mahsulü sayılır
 
