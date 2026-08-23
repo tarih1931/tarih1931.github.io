@@ -23842,7 +23842,7 @@ Kitaplar bir müellifin şahsî görüşü değildir. *Tarih I* **[1]** ve *Tari
 
 ### 1.1 Ön sözün beyanı
 
-Her iki cildin başında, imlâ farkları dışında aynı olan bir *Mukaddime* vardır (*Tarih I*, s. V–VI **[19]**; *Tarih II*, s. V–VI **[20]**; tam metni [Ek C](https://tarih1931.github.io/inceleme-ekler.html)'de). Ön söz üç şeyi kitabın kendi ağzından söyler. Birincisi, kitabı yazan heyet bir ilim kurulu olarak değil, görevlendirilmiş bir kurul olarak tanıtılır: "Türk Tarihi Tetkik Cemiyeti bir kısım azasını tarih tedrisatındaki bu boşluğu doldurabilecek bir kitap hazırlamağa memur etti" (s. V). İkincisi, eserin okutulma kararı devlete aittir: "Cemiyet, dört kitap halinde hazırlamış olduğu bu küçük eseri, mekteplerde okutulmasını kabul eden Türkiye Cümhuriyeti Maarif Vekâletine hediye etmiştir" (s. VI). Üçüncüsü, heyet metni bitmiş saymaz ve düzeltme kapısını açık bırakır: "bu küçük eserin ihtiyaca tam ve mükemmel şekilde tekabül edeceği iddia olunamaz. Noksanlar, ilerde, yeni basılışlarda tamamlanacaktır" (s. VI). Devlet bu kapıdan geçmiştir: 1932'de I. ve II. cildin "tadil ve tashihi" kurul kararına bağlanmış **[6]**, kitap 1933'te ikinci **[9]**, 1941'de üçüncü **[7] [11]** kez basılmıştır.
+Her iki cildin başında, imlâ farkları dışında aynı olan bir *Mukaddime* vardır (*Tarih I*, s. V–VI **[18]**; *Tarih II*, s. V–VI **[19]**; tam metni [Ek C](https://tarih1931.github.io/inceleme-ekler.html)'de). Ön söz üç şeyi kitabın kendi ağzından söyler. Birincisi, kitabı yazan heyet bir ilim kurulu olarak değil, görevlendirilmiş bir kurul olarak tanıtılır: "Türk Tarihi Tetkik Cemiyeti bir kısım azasını tarih tedrisatındaki bu boşluğu doldurabilecek bir kitap hazırlamağa memur etti" (s. V). İkincisi, eserin okutulma kararı devlete aittir: "Cemiyet, dört kitap halinde hazırlamış olduğu bu küçük eseri, mekteplerde okutulmasını kabul eden Türkiye Cümhuriyeti Maarif Vekâletine hediye etmiştir" (s. VI). Üçüncüsü, heyet metni bitmiş saymaz ve düzeltme kapısını açık bırakır: "bu küçük eserin ihtiyaca tam ve mükemmel şekilde tekabül edeceği iddia olunamaz. Noksanlar, ilerde, yeni basılışlarda tamamlanacaktır" (s. VI). Devlet bu kapıdan geçmiştir: 1932'de I. ve II. cildin "tadil ve tashihi" kurul kararına bağlanmış **[6]**, kitap 1933'te ikinci **[9]**, 1941'de üçüncü **[7] [11]** kez basılmıştır.
 
 Ön söz ayrıca kitabın programını din karşısındaki tavrıyla birlikte ilan eder: "mutaassıp müverrihler"in Türk tarihini "kan ve ateş maceralarından ibaret" gösterdiğini, "Türk ve İslam müverrihler"in ise "İslamlığa tekaddüm eden binlerce yıla ait devreleri unutturmayı Ümmetçilik siyasetinin icabı ve din gayreti vecibesi" bildiğini yazar (s. V). Din bahsinde incelenen tavır, bölümlerde sonradan beliren bir şey değil, kitabın girişte kendi koyduğu çerçevedir.
 
@@ -23869,6 +23869,8 @@ Alıntı seçiminde ölçüt, cümlenin dinin veya vahyin **menşei ve mahiyeti*
 3. Bir hüküm kitapta birden fazla yerde geçiyorsa bütün geçişleri anılır; bulgu tek bir cümleye yaslanmaz.
 4. Kitabın aynı konuda kendi hükmünü sınırlayan veya yumuşatan cümleleri (ihtiyat kayıtları, Peygamber'e övgü) saklanmaz; bulgunun altında ya da övgü bölümünde ele alınır.
 
+Her bulgunun kitaba atfettiği hükmün hangi cümlelerden çıktığı ve hangilerinin birden fazla sarih cümlenin birleştirilmesiyle kurulduğu, [eklerdeki dayanak tablosunda](https://tarih1931.github.io/inceleme-ekler.html) tek tek gösterilmiştir.
+
 ### 2.2 Kitabın kayıt düzeni
 
 Kitap, din hakkındaki hükümlerini üç ayrı kayıtla verir ve bulgular bu kayıtlara göre kurulur:
@@ -23883,14 +23885,13 @@ Bulguların dayandığı asıl tespit, cümlelerin tek tek ne dediğinden çok b
 
 Karşılaştırmanın öbür tarafı Kur'an'ın kendi beyanıdır. İnceleme, vahyin tarihen vuku bulup bulmadığını tartışmaz; kitabın din ve vahiy hakkında söylediğini, Kur'an'ın aynı konuda söylediğiyle karşılaştırır. Bu yüzden ayetler tarihî delil olarak değil, İslâm itikadının birincil metni olarak anılır ve itikadî dayanak yalnız ayetlerdir; bulgular hiçbir mezhebin, ekolün veya müellifin görüşüne bağlanmaz.
 
-Ayet metinleri Diyanet İşleri Başkanlığı'nın *Kur'an-ı Kerim Meâli*'nden alınmıştır **[13]**. Her meal bir tercüme, dolayısıyla bir yorum olduğundan şu kurallara uyulur:
+Bütün ayet metinleri tek bir mealden, Diyanet İşleri Başkanlığı'nın *Kur'an-ı Kerim Meâli*'nden alınmıştır **[13]**; başka bir meal kullanılmaz ve mealler karşılaştırılmaz. Meal bir tercüme, dolayısıyla bir yorum olduğundan şu kurallara uyulur:
 
 1. Meal metni değiştirilmeden alınır.
-2. Başlıca mealler arasındaki farkın bulguyu etkilediği yerde fark, ilgili bulgunun altında gösterilir.
-3. Bulguyu taşıyan lafız, fâili ve konusu açık bir cümledir; meçhul fiil, zamir veya istilzam üzerine bulgu kurulmaz.
-4. Tefsirde yorumu ihtilaflı olan ayetler — rü'yet, nesh, fıtratın mahiyeti gibi meselelerin merkezindeki ayetler — bulgu dayanağı yapılmaz; aynı esası ihtilafsız kuran ayet tercih edilir.
-5. Her bulguda ayetin tartışmasız söylediği ile incelemenin ondan çıkardığı ayrı cümlelerle yazılır.
-6. Kilit kavramlarda (din, vahiy, ilham, nebî ve resul, ümmî, gayb, fıtrat, cin) kitabın kullandığı kelime ile Kur'an'ın kelimesi aynı anlam alanını paylaşmayabilir; bu fark ilgili bulguda adlandırılır.
+2. Bulguyu taşıyan lafız, fâili ve konusu açık bir cümledir; meçhul fiil, zamir veya istilzam üzerine bulgu kurulmaz.
+3. Tefsirde yorumu ihtilaflı olan ayetler — rü'yet, nesh, fıtratın mahiyeti gibi meselelerin merkezindeki ayetler — bulgu dayanağı yapılmaz; aynı esası ihtilafsız kuran ayet tercih edilir.
+4. Her bulguda ayetin tartışmasız söylediği ile incelemenin ondan çıkardığı ayrı cümlelerle yazılır.
+5. Kilit kavramlarda (din, vahiy, ilham, nebî ve resul, ümmî, gayb, fıtrat, cin) kitabın kullandığı kelime ile Kur'an'ın kelimesi aynı anlam alanını paylaşmayabilir; bu fark ilgili bulguda adlandırılır.
 
 Her ayetin ve bulguları taşıyan her terimin dosyası, ayrı bir belgede toplanan [eklerdedir](https://tarih1931.github.io/inceleme-ekler.html).
 
@@ -24643,7 +24644,7 @@ Sayfa sayfa görünüm ve her sayfanın taranmış aslına giden bağlantı
 [düzeltilmiş bölümler dizinindedir](https://tarih1931.github.io/duzeltilmis.html); ciltlerin tam
 taramaları kaynakçada **[1]** ve **[2]**'dedir.
 
-**Kaynak tabanı.** Kitap tarafında dayanak yalnız kitabın kendi lafzıdır; Kur'an tarafında itikadî dayanak **yalnız Kur'an ayetleridir** ve bulgular hiçbir mezhebin, ekolün veya müellifin görüşüne bağlanmaz. Ayet metinleri Diyanet İşleri Başkanlığı'nın *Kur'an-ı Kerim Meâli*'nden alınmıştır **[13]**; meal bir tercüme, dolayısıyla bir yorum olduğundan, meal ve tefsire ilişkin kurallar yöntem bölümünde beyan edilmiş, mealler arasındaki farkın bulguyu etkilediği yerler ilgili bulgunun altında gösterilmiştir. 1931 basımından yapılan alıntılar kamu malıdır, raporun kendi metni CC0 ile kamuya bırakılmıştır; böylece belgenin tamamı serbestçe çoğaltılabilir.
+**Kaynak tabanı.** Kitap tarafında dayanak yalnız kitabın kendi lafzıdır; Kur'an tarafında itikadî dayanak **yalnız Kur'an ayetleridir** ve bulgular hiçbir mezhebin, ekolün veya müellifin görüşüne bağlanmaz. Ayet metinleri Diyanet İşleri Başkanlığı'nın *Kur'an-ı Kerim Meâli*'nden alınmıştır **[13]**; meal bir tercüme, dolayısıyla bir yorum olduğundan, meal ve tefsire ilişkin kurallar yöntem bölümünde beyan edilmiştir. 1931 basımından yapılan alıntılar kamu malıdır, raporun kendi metni CC0 ile kamuya bırakılmıştır; böylece belgenin tamamı serbestçe çoğaltılabilir.
 
 **Alıntılardaki imlâ 1931 basımına aittir** ve düzeltilmemiştir: *sora*, *evel*, *tabiat*, *iptidaî*, *mabut*, *neş'et*. Alıntı içindeki tırnaklar tek tırnağa çevrilmiştir (basımda *"kabile allahı"*, incelemede *'kabile allahı'*); bunun dışında lafız değiştirilmemiştir. Alıntıların tamamı, künyesinde gösterilen sayfanın düzeltilmiş metninde harfi harfine bulunmaktadır ve bu makine ile denetlenmiştir.
 
@@ -24657,15 +24658,17 @@ taramaları kaynakçada **[1]** ve **[2]**'dedir.
 [**Ekler**](https://tarih1931.github.io/inceleme-ekler.html).
 
 - **Ek A — Ayet dosyaları.** Ana metinde anılan otuz sekiz ayetin her biri için:
-  bulgudaki yeri, bulguyu taşıyan Arapça lafız ve kökü, başlıca mealler arasında
-  bulguyu etkileyebilecek farklar, *Kur'an Yolu* tefsirinin notu ve ilgili
-  *TDV İslâm Ansiklopedisi* maddesi.
+  bulgudaki yeri, bulguyu taşıyan Arapça lafız ve kökü, *Kur'an Yolu* tefsirinin
+  notu ve ilgili *TDV İslâm Ansiklopedisi* maddesi.
 - **Ek B — Terim dosyaları.** Bulguları taşıyan dokuz terimin (ilham/vahiy,
   uydurma/masal, müessis/kurmak, an'ane, telâkki, tekâmül, mefhum/bulmak,
   tabiat/mahlûk, din) kitap içindeki bütün kullanımı, 1931'deki lügat anlamı,
   anlam kayması ve Kur'anî karşılığı.
 - **Ek C — Ön söz ve heyet sayfaları.** Birinci bölümün dayandığı *Mukaddime* ile "Kitabın
   hazırlanmasında çalışanlar" sayfalarının tam metni ve künye satırları.
+- **Ek D — Hükümlerin dayanak tipi.** Her bulgunun kitaba atfettiği hüküm, dayandığı
+  cümleler ve hükmün kitabın sarih lafzından mı, yoksa birden fazla sarih cümlenin
+  birleştirilmesinden mi çıktığı.
 
 ---
 
@@ -24693,8 +24696,8 @@ Yanlılık iddiası bir yerde somutlaşıyorsa (yanlış aktarılmış bir alın
 
 **Ön söz ve heyet sayfaları** — *Mukaddime* ve "Kitabın hazırlanmasında çalışanlar"; taramaları sitede.
 
-- **[19]** *Tarih I*, s. V–VIII: [s. V](https://tarih1931.github.io/tarih-1-1931/u007r.html) · [s. VI](https://tarih1931.github.io/tarih-1-1931/rvi.html) · [s. VII](https://tarih1931.github.io/tarih-1-1931/u008r.html) · [s. VIII](https://tarih1931.github.io/tarih-1-1931/rviii.html)
-- **[20]** *Tarih II*, s. V–VIII: [s. V](https://tarih1931.github.io/tarih-2-1931/u006r.html) · [s. VI](https://tarih1931.github.io/tarih-2-1931/rvi.html) · [s. VII](https://tarih1931.github.io/tarih-2-1931/u007r.html) · [s. VIII](https://tarih1931.github.io/tarih-2-1931/rviii.html)
+- **[18]** *Tarih I*, s. V–VIII: [s. V](https://tarih1931.github.io/tarih-1-1931/u007r.html) · [s. VI](https://tarih1931.github.io/tarih-1-1931/rvi.html) · [s. VII](https://tarih1931.github.io/tarih-1-1931/u008r.html) · [s. VIII](https://tarih1931.github.io/tarih-1-1931/rviii.html)
+- **[19]** *Tarih II*, s. V–VIII: [s. V](https://tarih1931.github.io/tarih-2-1931/u006r.html) · [s. VI](https://tarih1931.github.io/tarih-2-1931/rvi.html) · [s. VII](https://tarih1931.github.io/tarih-2-1931/u007r.html) · [s. VIII](https://tarih1931.github.io/tarih-2-1931/rviii.html)
 
 **Talim ve Terbiye Kurulu kararları.**
 
@@ -24725,16 +24728,12 @@ Yanlılık iddiası bir yerde somutlaşıyorsa (yanlış aktarılmış bir alın
 - **[14]** *Kur'an Yolu Türkçe Meâl ve Tefsir*, haz. Hayreddin Karaman, Mustafa Çağrıcı,
   İbrahim Kâfi Dönmez, Sadrettin Gümüş, Diyanet İşleri Başkanlığı Yayınları, Ankara, 5 c.
   [Çevrimiçi sürüm](https://kuran.diyanet.gov.tr/tefsir)
-- **[15]** *TDV İslâm Ansiklopedisi* (DİA), Türkiye Diyanet Vakfı İslâm Araştırmaları Merkezi.
+- **[15]** *TDV İslâm Ansiklopedisi* (Türkiye Diyanet Vakfı İslâm Ansiklopedisi), Türkiye
+  Diyanet Vakfı İslâm Araştırmaları Merkezi.
   [Çevrimiçi sürüm](https://islamansiklopedisi.org.tr) — atıf yapılan maddeler Ek A ve Ek B'de.
 - **[16]** İlhan Ayverdi, *Kubbealtı Lugati — Misalli Büyük Türkçe Sözlük*, Kubbealtı Neşriyatı.
   [Çevrimiçi sürüm](https://lugatim.com)
 - **[17]** Şemseddin Sami, *Kamus-ı Türkî*, İkdam Matbaası, İstanbul 1317/1901.
-- **[18]** Karşılaştırılan mealler: Elmalılı M. Hamdi Yazır, *Hak Dini Kur'an Dili* (sadeleştirilmiş
-  meal); Muhammed Esed, *Kur'an Mesajı: Meal-Tefsir*, çev. Cahit Koytak – Ahmet Ertürk, İşaret
-  Yayınları; Yaşar Nuri Öztürk, *Kur'an-ı Kerim Meali*; Süleyman Ateş, *Kur'ân-ı Kerîm ve Yüce
-  Meâli*. Çevrimiçi karşılaştırma: [kuranmeali.com](https://www.kuranmeali.com) (sûre/ayet
-  karşılaştırma sayfaları); basılı nüshalarla karşılaştırılmamıştır.
 
 ---
 

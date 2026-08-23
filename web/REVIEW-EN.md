@@ -26,8 +26,8 @@ together with its source; the verbatim text of the colophon pages is in the
 ### 1.1 What the preface declares
 
 At the front of both volumes stands a *Mukaddime* (preface) which, apart from
-differences of spelling, is identical in the two (*Tarih I*, pp. V–VI **[19]**; *Tarih
-II*, pp. V–VI **[20]**; the full text is given in [Appendix
+differences of spelling, is identical in the two (*Tarih I*, pp. V–VI **[18]**; *Tarih
+II*, pp. V–VI **[19]**; the full text is given in [Appendix
 C](https://tarih1931.github.io/inceleme-ekler.html)). The preface states three things
 in the books' own words. First, the committee that wrote the book is presented not as
 a scholarly body but as a body given a commission: "the Turkish Historical Research
@@ -120,6 +120,11 @@ given according to the following rules:
 3. Where an assertion occurs in more than one place in the books, all its occurrences are cited; no finding rests on a single sentence.
 4. Sentences in which the books limit or soften their own assertion on the same subject (cautionary qualifications, praise of the Prophet) are not suppressed; they are treated under the finding concerned or in the section on praise.
 
+Which sentences each finding's claim about the books rests on, and which of those
+claims are built by combining several explicit sentences, is set out item by item in
+the [table of grounds](https://tarih1931.github.io/inceleme-ekler.html) in the
+appendices.
+
 ### 2.2 The books' register of assertion
 
 The books deliver their assertions about religion in three distinct registers, and the
@@ -145,16 +150,15 @@ and the doctrinal ground is the verses alone; no finding is tied to the view of 
 sect, school or author.
 
 The texts of the verses are taken from the *Kur'an-ı Kerim Meâli* of the Diyanet
-İşleri Başkanlığı (Presidency of Religious Affairs) **[13]**. Since every Turkish
-rendering is a translation and therefore an interpretation, the following rules are
-observed:
+İşleri Başkanlığı (Presidency of Religious Affairs) **[13]**; no other rendering is
+used and renderings are not compared. Since a Turkish rendering is a translation and
+therefore an interpretation, the following rules are observed:
 
 1. The text of the rendering is taken without alteration.
-2. Where a difference among the principal renderings affects a finding, that difference is shown under the finding concerned.
-3. The wording that carries a finding is a sentence whose agent and subject are explicit; no finding is built on a passive verb, a pronoun or an implication.
-4. Verses whose interpretation is disputed in the commentary literature — those at the centre of questions such as the vision of God (rü'yet), abrogation (nesh) and the nature of fıtrat — are not made the basis of a finding; a verse that establishes the same principle without dispute is preferred.
-5. In every finding, what the verse says beyond dispute and what the review infers from it are written in separate sentences.
-6. In the key concepts — religion (din), revelation (vahiy), inspiration (ilham), prophet and messenger (nebî, resul), the unlettered (ümmî), the unseen (gayb), innate disposition (fıtrat) and jinn (cin) — the word the books use and the word the Qur'an uses may not share the same semantic field; where they do not, the difference is named in the finding concerned.
+2. The wording that carries a finding is a sentence whose agent and subject are explicit; no finding is built on a passive verb, a pronoun or an implication.
+3. Verses whose interpretation is disputed in the commentary literature — those at the centre of questions such as the vision of God (rü'yet), abrogation (nesh) and the nature of fıtrat — are not made the basis of a finding; a verse that establishes the same principle without dispute is preferred.
+4. In every finding, what the verse says beyond dispute and what the review infers from it are written in separate sentences.
+5. In the key concepts — religion (din), revelation (vahiy), inspiration (ilham), prophet and messenger (nebî, resul), the unlettered (ümmî), the unseen (gayb), innate disposition (fıtrat) and jinn (cin) — the word the books use and the word the Qur'an uses may not share the same semantic field; where they do not, the difference is named in the finding concerned.
 
 The file for each verse and for each term that carries the findings is in the
 [appendices](https://tarih1931.github.io/inceleme-ekler.html), a separate document.
@@ -1301,8 +1305,7 @@ the findings are not tied to the view of any madhhab, any school of thought or a
 author. The texts of the verses are taken from the *Kur'an-ı Kerim Meâli* of the
 Diyanet İşleri Başkanlığı **[13]**; since a Turkish rendering is a translation and
 therefore an interpretation, the rules governing renderings and Qur'anic commentary
-are stated in the section on method, and the places where a difference between renderings bears on a
-finding are shown beneath the finding concerned. The quotations from the 1931 printing
+are stated in the section on method. The quotations from the 1931 printing
 are in the public domain, and the report's own text has been released to the public
 under CC0, so that the document as a whole may be freely reproduced.
 
@@ -1323,9 +1326,10 @@ Three appendices, which set out the grounds of the main text, are in a separate
 document: [**Appendices**](https://tarih1931.github.io/inceleme-ekler.html). The
 appendices are at present available in Turkish only.
 
-- **Appendix A — Verse files.** For each of the thirty-eight verses cited in the main text: its place in the finding, the Arabic wording that carries the finding and its root, the differences among the principal Turkish renderings that could bear on the finding, the note in the *Kur'an Yolu* commentary, and the relevant *TDV İslâm Ansiklopedisi* entry.
+- **Appendix A — Verse files.** For each of the thirty-eight verses cited in the main text: its place in the finding, the Arabic wording that carries the finding and its root, the note in the *Kur'an Yolu* commentary, and the relevant *TDV İslâm Ansiklopedisi* entry.
 - **Appendix B — Term files.** For the nine terms that carry the findings — inspiration/revelation (ilham/vahiy), fabrication/tale (uydurma/masal), founder/to found (müessis/kurmak), tradition (an'ane), conception (telâkki), evolution (tekâmül), concept/to find (mefhum/bulmak), nature/created being (tabiat/mahlûk), religion (din) — every use of them within the book, their dictionary meaning in 1931, the shift of meaning, and their Qur'anic counterpart.
 - **Appendix C — The preface and the drafting-committee pages.** The full text and the citation lines of the *Mukaddime* on which the first section rests and of the "Kitabın hazırlanmasında çalışanlar" ("Those who worked on the preparation of the book") pages.
+- **Appendix D — The grounds of each judgement.** For every finding: the claim it attributes to the books, the sentences it rests on, and whether that claim is explicit in the books' wording or built by combining several explicit sentences.
 
 ---
 
@@ -1353,8 +1357,8 @@ If the charge of bias becomes concrete at any point (a misreported quotation, a 
 hazırlanmasında çalışanlar" ("Those who worked on the preparation of the book"); the
 scans are on the site.
 
-- **[19]** *Tarih I*, pp. V–VIII: [p. V](https://tarih1931.github.io/tarih-1-1931/u007r.html) · [p. VI](https://tarih1931.github.io/tarih-1-1931/rvi.html) · [p. VII](https://tarih1931.github.io/tarih-1-1931/u008r.html) · [p. VIII](https://tarih1931.github.io/tarih-1-1931/rviii.html)
-- **[20]** *Tarih II*, pp. V–VIII: [p. V](https://tarih1931.github.io/tarih-2-1931/u006r.html) · [p. VI](https://tarih1931.github.io/tarih-2-1931/rvi.html) · [p. VII](https://tarih1931.github.io/tarih-2-1931/u007r.html) · [p. VIII](https://tarih1931.github.io/tarih-2-1931/rviii.html)
+- **[18]** *Tarih I*, pp. V–VIII: [p. V](https://tarih1931.github.io/tarih-1-1931/u007r.html) · [p. VI](https://tarih1931.github.io/tarih-1-1931/rvi.html) · [p. VII](https://tarih1931.github.io/tarih-1-1931/u008r.html) · [p. VIII](https://tarih1931.github.io/tarih-1-1931/rviii.html)
+- **[19]** *Tarih II*, pp. V–VIII: [p. V](https://tarih1931.github.io/tarih-2-1931/u006r.html) · [p. VI](https://tarih1931.github.io/tarih-2-1931/rvi.html) · [p. VII](https://tarih1931.github.io/tarih-2-1931/u007r.html) · [p. VIII](https://tarih1931.github.io/tarih-2-1931/rviii.html)
 
 **Decisions of the Board of Education.**
 
@@ -1384,16 +1388,12 @@ scans are on the site.
 - **[14]** *Kur'an Yolu Türkçe Meâl ve Tefsir*, prepared by Hayreddin Karaman, Mustafa Çağrıcı,
   İbrahim Kâfi Dönmez, Sadrettin Gümüş, Diyanet İşleri Başkanlığı Yayınları, Ankara, 5 vols.
   [Online edition](https://kuran.diyanet.gov.tr/tefsir)
-- **[15]** *TDV İslâm Ansiklopedisi* (DİA), Türkiye Diyanet Vakfı İslâm Araştırmaları Merkezi.
+- **[15]** *TDV İslâm Ansiklopedisi* (Encyclopaedia of Islam of the Turkish Religious
+  Foundation), Türkiye Diyanet Vakfı İslâm Araştırmaları Merkezi.
   [Online edition](https://islamansiklopedisi.org.tr) — the entries cited are in Appendix A and Appendix B.
 - **[16]** İlhan Ayverdi, *Kubbealtı Lugati — Misalli Büyük Türkçe Sözlük*, Kubbealtı Neşriyatı.
   [Online edition](https://lugatim.com)
 - **[17]** Şemseddin Sami, *Kamus-ı Türkî*, İkdam Matbaası, Istanbul 1317/1901.
-- **[18]** Renderings compared: Elmalılı M. Hamdi Yazır, *Hak Dini Kur'an Dili* (simplified
-  rendering); Muhammed Esed, *Kur'an Mesajı: Meal-Tefsir*, trans. Cahit Koytak – Ahmet Ertürk, İşaret
-  Yayınları; Yaşar Nuri Öztürk, *Kur'an-ı Kerim Meali*; Süleyman Ateş, *Kur'ân-ı Kerîm ve Yüce
-  Meâli*. Online comparison: [kuranmeali.com](https://www.kuranmeali.com) (sūra/verse comparison
-  pages); they have not been collated against printed copies.
 
 ---
 
