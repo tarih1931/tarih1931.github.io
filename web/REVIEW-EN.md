@@ -1296,16 +1296,6 @@ The page-by-page view, with a link from each page to its scanned original, is in
 [index of corrected sections](https://tarih1931.github.io/duzeltilmis.html); the full
 scans of the volumes are references **[1]** and **[2]** in the bibliography.
 
-**Contribution statement.** This review is the joint work of two authors. The research
-question, the selection of the assertions, the doctrinal assessment and the
-responsibility for the final text belong to Muhammed Fatih Talu. Claude (Anthropic)
-worked on the systematic search of the source text in its entirety, on the extraction
-of the quotation–finding–verse records, on the compilation of the verse and term files
-(Appendix A and Appendix B), and on the machine verification of the quotations against
-the source page. Since publication standards exist that do not count
-artificial-intelligence tools as authors, the contribution is declared here
-explicitly.
-
 **Source base.** On the side of the book the only ground is the book's own wording; on
 the side of the Qur'an the doctrinal ground is **the verses of the Qur'an alone**, and
 the findings are not tied to the view of any madhhab, any school of thought or any
@@ -1342,19 +1332,7 @@ appendices are at present available in Turkish only.
 
 One objection that may be raised against this review is that artificial intelligence was used in preparing it, that its output is therefore biased, and that it cannot count as scholarly. The objection carries two distinct claims: that the output is biased, and that the method is not scholarly. Both can be tested on the text itself, independently of who wrote it; the review has been built so as to make that testing possible. The truth of a claim is measured by its grounds, not by who advances it.
 
-**The quotations can be verified.** All forty-six quotations are present letter for letter in the corrected text of the page named in their citation, and this is verified by machine; each citation carries a link to the scanned original of that page. The claim "this quotation has been misreported" can be tested by following a single link. The same check applies to the English version, where the wording of the quotations remains Turkish and is verified against the source page.
-
-**Evidence to the contrary is in the text.** The books' favourable judgements on the Prophet's character and person are gathered in a section of their own, and the books' own cautionary qualifications — "we do not know for certain", "it is generally claimed", "stands in need of further clarification" — are cited within the findings. Where the books mark a claim as one they do not credit ("supposedly"), it is stated plainly that the Qur'an rejects that claim too and that the finding does not rest on it.
-
-**The review's own inferences are marked as such.** It is stated that "nature is the creator" is not the books' wording but the review's inference, and from which three sentences it follows; in the discussion of legal rulings it is shown that the judgement rests on the books' explicit statement rather than on implication; and it is recorded that a verse whose interpretation admits of several aspects in the commentary literature (Ar-Rūm 30) has not been made the ground of a finding.
-
-**The method was declared in advance and adhered to.** The Turkish rendering used is named; the rule that verses disputed in the commentary literature are not made the ground of a finding was stated in advance, and the choice of verses was changed in accordance with it. What the review does not do is also listed: it does not assess the originality of the text, pass judgement on the personal beliefs of the members of the drafting committee, take sides in matters disputed among the schools of theology, or examine later printings.
-
-**The criterion is not concealed.** The review does not ask a neutral question. It asks not "what do these books say?" but "does what these books say agree with what the Qur'an declares?", and it takes the Qur'an's declaration as its criterion. This is a declared criterion, not a concealed allegiance; a reader who does not share it can still check every step of the comparison against the same documents. The fault would lie in concealing the criterion and presenting the text as a neutral historical study.
-
-**The division of labour is stated.** Which part of the work involved artificial intelligence, and what remains the responsibility of the human author, is set out explicitly in the contribution statement in the section on source and verification.
-
-All the documents — the review, the appendices, the machine-readable records of the findings, and the source text itself — are publicly available. If the charge of bias becomes concrete at any point (a misreported quotation, a suppressed sentence, an inference that makes a verse say what it does not), it will be corrected once shown, and the record of the correction kept open.
+If the charge of bias becomes concrete at any point (a misreported quotation, a suppressed sentence, an inference that makes a verse say what it does not), it will be corrected once shown, and the record of the correction kept open.
 
 ---
 

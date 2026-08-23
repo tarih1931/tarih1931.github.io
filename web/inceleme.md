@@ -820,8 +820,6 @@ Sayfa sayfa görünüm ve her sayfanın taranmış aslına giden bağlantı
 [düzeltilmiş bölümler dizinindedir](https://tarih1931.github.io/duzeltilmis.html); ciltlerin tam
 taramaları kaynakçada **[1]** ve **[2]**'dedir.
 
-**Katkı beyanı.** Bu inceleme iki yazarın ortak çalışmasıdır. Araştırma sorusu, iddiaların seçimi, itikadî değerlendirme ve son metnin sorumluluğu Muhammed Fatih Talu'ya aittir. Claude (Anthropic), kaynak metnin bütün olarak taranmasında, alıntı–bulgu–ayet kayıtlarının çıkarılmasında, ayet ve terim dosyalarının (Ek A, Ek B) derlenmesinde ve alıntıların kaynak sayfaya karşı makine ile denetlenmesinde çalışmıştır. Yapay zekâ araçlarını yazar saymayan yayın ölçütleri bulunduğundan, katkı burada açıkça beyan edilmiştir.
-
 **Kaynak tabanı.** Kitap tarafında dayanak yalnız kitabın kendi lafzıdır; Kur'an tarafında itikadî dayanak **yalnız Kur'an ayetleridir** ve bulgular hiçbir mezhebin, ekolün veya müellifin görüşüne bağlanmaz. Ayet metinleri Diyanet İşleri Başkanlığı'nın *Kur'an-ı Kerim Meâli*'nden alınmıştır **[13]**; meal bir tercüme, dolayısıyla bir yorum olduğundan, meal ve tefsire ilişkin kurallar yöntem bölümünde beyan edilmiş, mealler arasındaki farkın bulguyu etkilediği yerler ilgili bulgunun altında gösterilmiştir. 1931 basımından yapılan alıntılar kamu malıdır, raporun kendi metni CC0 ile kamuya bırakılmıştır; böylece belgenin tamamı serbestçe çoğaltılabilir.
 
 **Alıntılardaki imlâ 1931 basımına aittir** ve düzeltilmemiştir: *sora*, *evel*, *tabiat*, *iptidaî*, *mabut*, *neş'et*. Alıntı içindeki tırnaklar tek tırnağa çevrilmiştir (basımda *"kabile allahı"*, incelemede *'kabile allahı'*); bunun dışında lafız değiştirilmemiştir. Alıntıların tamamı, künyesinde gösterilen sayfanın düzeltilmiş metninde harfi harfine bulunmaktadır ve bu makine ile denetlenmiştir.
@@ -850,19 +848,7 @@ taramaları kaynakçada **[1]** ve **[2]**'dedir.
 
 Bu incelemeye yöneltilebilecek itirazlardan biri, metnin hazırlanmasında yapay zekâ kullanıldığı, bu yüzden çıktının yanlı olduğu ve bilimsel sayılamayacağıdır. İtiraz iki ayrı iddia taşır: çıktının yanlı olduğu ve yöntemin bilimsel olmadığı. İkisi de, metni kimin yazdığından bağımsız olarak, metnin kendisi üzerinde sınanabilir; incelemenin kurgusu bu sınamayı mümkün kılmak üzere yapılmıştır. Bir iddianın doğruluğu, onu kimin dile getirdiğiyle değil, dayanaklarıyla ölçülür.
 
-**Alıntılar doğrulanabilir.** Kırk altı alıntının tamamı, künyesinde gösterilen sayfanın elle düzeltilmiş metninde harfi harfine bulunur ve bu makine ile denetlenir; her alıntının künyesi, o sayfanın taranmış aslına giden bağlantıyı taşır. "Alıntı yanlış aktarılmış" iddiası, tek bir bağlantıya bakılarak sınanabilir. Aynı denetim İngilizce sürüm için de çalışır: orada da alıntıların lafzı Türkçe kalır ve kaynak sayfaya karşı doğrulanır.
-
-**Aleyhe deliller metindedir.** Kitabın Peygamber'in ahlâkı ve şahsiyeti hakkındaki olumlu hükümleri ayrı bir bölümde toplanmış, kitabın kendi ihtiyat kayıtları — "kat'î surette bilmiyoruz", "umumiyetle iddia olunuyor", "daha aydınlatılmak ihtiyacındadır" — bulguların içinde anılmıştır. Kitabın "gûya" kaydıyla gerçek saymadığı bir iddiayı Kur'an'ın da reddettiği, bulgunun bu noktaya dayanmadığı açıkça yazılmıştır.
-
-**İncelemenin kendi çıkarımları işaretlenmiştir.** "Tabiat hâlıktır" hükmünün kitabın lafzı değil incelemenin çıkarımı olduğu, hangi üç cümleden çıktığıyla birlikte belirtilir; ahkâm bahsinde hükmün istilzamla değil kitabın sarahatiyle elde edildiği gösterilir; yorumu tefsirde çok-vecihli olan bir ayetin (Rûm 30) bulguya dayanak yapılmadığı kaydedilir.
-
-**Yöntem önceden ilan edilmiş ve ona uyulmuştur.** Kullanılan meal adıyla beyan edilmiş, tefsirde ihtilaflı ayetlerin dayanak yapılmayacağı kural olarak konmuş ve bu kural gereği ayet seçimi değiştirilmiştir. İncelemenin yapmadığı şeyler ayrıca sayılmıştır: metnin özgünlüğünü tartışmaz, telif heyeti üyelerinin şahsî inancı hakkında hüküm vermez, kelâm ekolleri arasındaki ihtilaflı meselelerde taraf tutmaz, sonraki basımları incelemez.
-
-**Ölçüt gizlenmemiştir.** İnceleme nötr bir soru sormaz. "Bu kitaplar ne diyor?" değil, "bu kitapların dediği ile Kur'an'ın bildirdiği örtüşüyor mu?" diye sorar ve ölçütünü Kur'an'ın beyanı olarak alır. Bu, gizlenmiş bir taraf değil, beyan edilmiş bir ölçüttür; okuyucu ölçütü paylaşmasa da karşılaştırmanın her adımını aynı belgelerle denetleyebilir. Kusur, ölçütü gizleyip metni tarafsız bir tarih incelemesi diye sunmak olurdu.
-
-**Katkı ayrımı yazılıdır.** Yapay zekânın çalışmanın hangi kısmında yer aldığı ve nelerin insan yazarın sorumluluğunda olduğu, kaynak ve doğrulama bölümündeki katkı beyanında açıkça belirtilmiştir.
-
-Bütün belgeler — inceleme, ekler, makine-okunabilir bulgu kayıtları ve kaynak metnin kendisi — kamuya açıktır. Yanlılık iddiası bir yerde somutlaşıyorsa (yanlış aktarılmış bir alıntı, saklanmış bir cümle, ayetin söylemediğini söyleten bir çıkarım), gösterilmesi hâlinde düzeltilir; düzeltme kaydı da açık tutulur.
+Yanlılık iddiası bir yerde somutlaşıyorsa (yanlış aktarılmış bir alıntı, saklanmış bir cümle, ayetin söylemediğini söyleten bir çıkarım), gösterilmesi hâlinde düzeltilir; düzeltme kaydı da açık tutulur.
 
 ---
 
