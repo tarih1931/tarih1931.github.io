@@ -24658,8 +24658,8 @@ taramaları kaynakçada **[1]** ve **[2]**'dedir.
 [**Ekler**](https://tarih1931.github.io/inceleme-ekler.html).
 
 - **Ek A — Ayet dosyaları.** Ana metinde anılan otuz sekiz ayetin her biri için:
-  bulgudaki yeri, bulguyu taşıyan Arapça lafız ve kökü, *Kur'an Yolu* tefsirinin
-  notu ve ilgili *TDV İslâm Ansiklopedisi* maddesi.
+  bulgudaki yeri, *Kur'an Yolu* tefsirinin notu ve ilgili *TDV İslâm Ansiklopedisi*
+  maddesi.
 - **Ek B — Terim dosyaları.** Bulguları taşıyan dokuz terimin (ilham/vahiy,
   uydurma/masal, müessis/kurmak, an'ane, telâkki, tekâmül, mefhum/bulmak,
   tabiat/mahlûk, din) kitap içindeki bütün kullanımı, 1931'deki lügat anlamı,

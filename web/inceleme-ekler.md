@@ -2,7 +2,7 @@
 
 **Prof. Dr. Muhammed Fatih Talu**
 
-**Özet:** İncelemenin dört ekidir. **Ek A** her ayetin kilit lafzını, tefsir notunu ve ansiklopedi maddesini; **Ek B** bulguları taşıyan dokuz terimin kitap içi kullanımını, lügat anlamını ve Kur'anî karşılığını; **Ek C** iki cildin ön sözü ile telif heyeti sayfalarının tam metnini; **Ek D** her bulgunun kitaba atfettiği hükmü ve o hükmün hangi cümlelerden çıktığını verir. Ekler bulguların dayanağını açar; köşeli parantez içindeki kaynak numaraları (**[1]**, **[13]** gibi) incelemenin kaynakçasına aittir.
+**Özet:** İncelemenin dört ekidir. **Ek A** her ayetin bulgudaki yerini, tefsir notunu ve ansiklopedi maddesini; **Ek B** bulguları taşıyan dokuz terimin kitap içi kullanımını, lügat anlamını ve Kur'anî karşılığını; **Ek C** iki cildin ön sözü ile telif heyeti sayfalarının tam metnini; **Ek D** her bulgunun kitaba atfettiği hükmü ve o hükmün hangi cümlelerden çıktığını verir. Ekler bulguların dayanağını açar; köşeli parantez içindeki kaynak numaraları (**[1]**, **[13]** gibi) incelemenin kaynakçasına aittir.
 
 **Ana metin:** [Resmî tarih kitaplarında din, vahiy ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırması](https://tarih1931.github.io/inceleme.html)
 
@@ -10,271 +10,233 @@
 
 ## Ek A. Ayet dosyaları
 
-Bu ek, ana metinde anılan otuz sekiz ayetin her biri için incelemenin meal ve tefsir kurallarının nasıl uygulandığını gösterir. Her dosyada ayetin bulgudaki yeri, bulguyu taşıyan Arapça lafız ve kökü, *Kur'an Yolu* tefsirinin **[14]** notu ve ilgili *Türkiye Diyanet Vakfı İslâm Ansiklopedisi* maddesi verilir. Bütün ayet metinleri tek bir mealden, Diyanet İşleri Başkanlığı'nın *Kur'an-ı Kerim Meâli*'nden **[13]** alınmıştır; mealler karşılaştırılmaz. Tefsir notları *Kur'an Yolu*'nun çevrimiçi sürümünden özetlenmiş, ansiklopedi maddeleri çevrimiçi sürümde açılıp doğrulanmıştır (erişim: 23 Ağustos 2026). Lügat anlamları için *el-Müfredât* ve *Lisânü'l-Arab* maddelerine yapılan atıflar basılı nüshayla karşılaştırılmamıştır; "doğrulanmalı" kaydı taşıyan ifadeler bu sınırı gösterir.
+Bu ek, ana metinde anılan otuz sekiz ayetin her biri için üç şey verir: ayetin hangi bulguda ve ne için kullanıldığı, *Kur'an Yolu* tefsirinin **[14]** o ayete dair notu ve ilgili *Türkiye Diyanet Vakfı İslâm Ansiklopedisi* maddesi. Ayetlerin kendi metni burada tekrarlanmaz; ana metinde, Ayet-01'den Ayet-38'e kadar her biri Diyanet İşleri Başkanlığı'nın *Kur'an-ı Kerim Meâli*'nden **[13]** birebir verilmiştir. Tefsir notları *Kur'an Yolu*'nun çevrimiçi sürümünden özetlenmiş, ansiklopedi maddeleri çevrimiçi sürümde açılıp doğrulanmıştır (erişim: 23 Ağustos 2026).
 
 ### A.1 — Ayet-01 · Şûrâ 42/13
 
 - **Bulgudaki yeri.** Bulgu-01 ve 02: din, Allah'ın bütün peygamberlere "din kıldığı" esastır; fiil *şera'a*, fâil Allah.
-- **Kilit lafız.** شَرَعَ لَكُمْ مِنَ الدِّينِ (şera'a leküm mine'd-dîn; kök ش-ر-ع) — 'açık yol açmak, kanun koymak'; şir'at ve şerîat aynı kökten 'açık yol'dur (Müfredât). الدِّين (ed-dîn; kök د-ي-ن) — Müfredât: 'itaat ve karşılık', istiare yoluyla 'şeriat'.
 - **Kur'an Yolu.** Hemen bütün müfessirlere göre 'din' burada ilâhî dinlerin tamamını kapsar; kastedilen bütün dinlerdeki ortak hükümlerdir (başta tevhid). Diğer peygamberler için 'vassâ', Hz. Muhammed için 'evhâ' seçilmesi onun peygamberlik görevini vurgular; nüzul sebebi/nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [DİN](https://islamansiklopedisi.org.tr/din)
 
 ### A.2 — Ayet-02 · Enbiyâ 21/25
 
 - **Bulgudaki yeri.** Bulgu-01: her peygambere aynı tevhid vahyedilmiştir; din tekâmülün neticesi değildir.
-- **Kilit lafız.** وَمَٓا اَرْسَلْنَا مِنْ قَبْلِكَ مِنْ رَسُولٍ اِلَّا نُوح۪ٓي اِلَيْهِ اَنَّهُ لَٓا اِلٰهَ اِلَّٓا اَنَا۬ فَاعْبُدُونِ (ve mâ erselnâ min kablike min resûlin illâ nûhî ileyhi ennehû lâ ilâhe illâ ene fa'budûn; kök و-ح-ي, ع-ب-د) — Müfredât'a göre vahyin aslı 'hızlı işaret', ibadet 'tezellülün en ileri derecesi'dir; 'mâ ... illâ' istisnası aynı tevhid mesajını bütün resullere genelleştirir.
 - **Kur'an Yolu.** Peygamber göndermenin maksadı insanların Allah'ın birliğine inanıp yalnız O'na kulluk etmelerini sağlamaktır; ilâhî dinler amaç ve öz itibariyle birdir, hepsi tevhid inancında buluşur, bu âyet bunun en güçlü delillerinden biridir. Nüzul sebebi, nesh veya kelime anlamı tartışması yok.
 - **TDV İslâm Ansiklopedisi.** [TEVHİD](https://islamansiklopedisi.org.tr/tevhid)
 
 ### A.3 — Ayet-03 · Mâide 5/3
 
 - **Bulgudaki yeri.** Bulgu-02: dini kemale erdiren ve "din olarak seçen" Allah'tır — dinin vâzıı.
-- **Kilit lafız.** اَكْمَلْتُ لَكُمْ د۪ينَكُمْ (ekmeltü leküm dîneküm; kök ك-م-ل) — kemâl 'beklenen amacın gerçekleşmesi' (Müfredât). وَرَض۪يتُ لَكُمُ الْاِسْلَامَ د۪ينًا (ve radîtü lekümü'l-İslâme dînen; kök ر-ض-ي, س-ل-م) — radiye 'hoşnut olmak, beğenmek'; İslâm 'silm'e girmek, teslim olmak' (Müfredât).
 - **Kur'an Yolu.** 'Dininizi kemale erdirdim', Hz. Âdem'den beri gönderilen ve Allah katında İslâm denen dinin Kur'an'la kemale erdirilmesidir (Âl-i İmrân 3/19, 85). Nüzul tartışması: Vedâ haccında indiği rivayetlerine karşı Ateş çok önce indiğini, Mevdûdî hicrî 6'da inip hicrî 10'da yeniden nâzil olduğunu söyler; nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [İSLÂM](https://islamansiklopedisi.org.tr/islam)
 
 ### A.4 — Ayet-04 · Tâhâ 20/110
 
 - **Bulgudaki yeri.** Bulgu-03: insan bilgisi Allah'ı kuşatamaz; ulûhiyet, zekânın "bulduğu" bir mefhum değildir.
-- **Kilit lafız.** وَلَا يُح۪يطُونَ بِه۪ عِلْمًا (ve lâ yuhîtûne bihî ilmen; kök ح-و-ط, ع-ل-م) — ihâta 'bir şeyi her yönden kuşatmak'; Müfredât'a göre cisimlerde çevrelemeyi, ilimde bir şeyi bütün yönleriyle bilmeyi anlatır; 'ilmen' temyizdir, 'bihî' zamirinin mercii Allah'tır.
 - **Kur'an Yolu.** 105-112. âyetler blok hâlinde tefsir edilir; 110. âyete özel açıklama yapılmayıp Allah'ın ilminin kuşatılamazlığı için Bakara 2/48, 255'e gönderme verilir. Kelime tartışması olarak 112'deki 'hadm'ın anlamı kaydedilir (Râgıb istiare yoluyla 'zulüm' sayar, müellifler zulm-hadm nüansını korur); nüzul sebebi/nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [ALÎM](https://islamansiklopedisi.org.tr/alim--esma-i-husna)
 
 ### A.5 — Ayet-05 · Bakara 2/255
 
 - **Bulgudaki yeri.** Bulgu-03: O'nun ilminden ancak dilediği kadarı kavranır; ilmin sahibi ve sınırını koyan O'dur.
-- **Kilit lafız.** وَلَا يُح۪يطُونَ بِشَيْءٍ مِنْ عِلْمِه۪ٓ اِلَّا بِمَا شَٓاءَ (ve lâ yuhîtûne bi-şey'in min ilmihî illâ bimâ şâe; kök ح-و-ط, ش-ي-أ) — ihâta 'kuşatmak' (Müfredât: cisimlerde çevrelemek, ilimde bütün yönleriyle bilmek), şâe 'dilemek'. كُرْسِيّ (kürsî; kök ك-ر-س) — sözlükte 'taht, koltuk', mecazen 'hükümranlık', İbn Abbas'a göre 'ilim'; kök yalnız yapı çıkarımıdır (doğrulanmalı).
 - **Kur'an Yolu.** Âyetü'l-kürsî İslâm inancının özünü (tevhid) ihtiva eder; Allah'tan başka bütün bilgi sahiplerinin bilgisi sınırlıdır. Kelime tartışması: 'kürsî' sözlükte 'koltuk, taht', mecazen 'saltanat, hükümranlık'; İbn Abbas'a göre ilimdir, mahiyetini ancak Allah bilir (müteşabih); nüzul sebebi/nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [ÂYETÜ'l-KÜRSÎ](https://islamansiklopedisi.org.tr/ayetul-kursi)
 
 ### A.6 — Ayet-06 · Bakara 2/3
 
 - **Bulgudaki yeri.** Bulgu-04: gayba iman, müminin ilk vasfıdır.
-- **Kilit lafız.** يُؤْمِنُونَ بِالْغَيْبِ (yü'minûne bi'l-gayb; kök غ-ي-ب, أ-م-ن) — Müfredât'a göre gayb 'gözden gizlendi' anlamındaki gâbe fiilinin masdarıdır ve bu âyette duyuların altına girmeyen, aklın bedîhî olarak gerektirmediği, ancak peygamberlerin haberiyle bilinen şeylerdir; îmân 'tasdik yoluyla nefsin hakka boyun eğmesi'dir. بِ harf-i cerinin 'gayba' (nesne) mı 'gaybda' (zarf) mı okunduğu meallerde ayrışır.
 - **Kur'an Yolu.** Gayb 'gözle görülmeyen; akıl, duyular vb. beşerî bilgi vasıtalarıyla bilinemeyen varlıklar, ilişkiler ve oluşlar' diye tanımlanır; Allah, vahiy, kader, ruh, kıyamet ve âhiret hâlleri gayb âlemindendir, bilgi kaynağı vahiydir. Tefsir 'bi'l-gayb'ı imanın nesnesi olarak okur; nüzul sebebi/nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [GAYB](https://islamansiklopedisi.org.tr/gayb)
 
 ### A.7 — Ayet-07 · Bakara 2/177
 
 - **Bulgudaki yeri.** Bulgu-04: iman edilecek şeylerin listesi — hepsi kitabın "uydurma" saydığı sınıftadır.
-- **Kilit lafız.** وَلٰكِنَّ الْبِرَّ مَنْ اٰمَنَ بِاللّٰهِ وَالْيَوْمِ الْاٰخِرِ وَالْمَلٰٓئِكَةِ وَالْكِتَابِ وَالنَّبِيّ۪نَ (ve lâkinne'l-birra men âmene billâhi ve'l-yevmi'l-âhiri ve'l-melâiketi ve'l-kitâbi ve'n-nebiyyîn; kök ب-ر-ر, أ-م-ن) — Müfredât'a göre birr, 'kara'dan (berr) genişlik tasavvuruyla türetilmiş 'hayırda genişlik'tir. الْكِتَاب (el-kitâb; kök ك-ت-ب) — 'yazılmış şey', burada tekil cins isim.
 - **Kur'an Yolu.** 'Birr' Kur'an'ın en kapsamlı kavramlarından biridir; âyette sayılan imana, ibadete, sosyal ve bireysel ahlâka ilişkin dört grup meziyet sınırlama değil örneklemedir. Bağlam, kıble değişikliğinden (144-150) sonra çıkan tartışmaya cevaptır: şeklî unsurlar iman-ibadet-ahlâk özünden yoksun kaldığında temel önem taşımaz; nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [İMAN](https://islamansiklopedisi.org.tr/iman)
 
 ### A.8 — Ayet-08 · Nahl 16/36
 
 - **Bulgudaki yeri.** Bulgu-05: her ümmete tevhidi tebliğ eden bir elçi gönderilmiştir; tevhid başlangıçtır.
-- **Kilit lafız.** وَلَقَدْ بَعَثْنَا ف۪ي كُلِّ اُمَّةٍ رَسُولًا (ve lekad be'asnâ fî külli ümmetin resûlen; kök ب-ع-ث, أ-م-م) — Müfredât: ba's 'harekete geçirip yöneltmek' (göndermek), ümmet 'bir din, zaman veya mekânın bir araya getirdiği topluluk'. الطَّاغُوت (tâğût; kök ط-غ-ي) — 'haddi aşmak'; Müfredât: 'haddi aşan her şey ve Allah'tan başka tapılan her mâbud'.
 - **Kur'an Yolu.** 'Ümmet' burada genel anlamda geniş insan topluluğudur; dinin özü ve peygamber gönderilmesinin ana gayesi tevhiddir, kulluğun özü tevhidi zedeleyecek her inanç ve davranıştan kaçınmaktır. Tâğût için Mâide 5/60'a gönderme yapılır; nüzul sebebi/nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [PEYGAMBER](https://islamansiklopedisi.org.tr/peygamber)
 
 ### A.9 — Ayet-09 · Bakara 2/37
 
 - **Bulgudaki yeri.** Bulgu-05: ilk insan vahyin ilk muhatabıdır (*telakkâ*).
-- **Kilit lafız.** فَتَلَقّٰٓى اٰدَمُ مِنْ رَبِّه۪ كَلِمَاتٍ (fe-telakkâ Âdemü min rabbihî kelimâtin; kök ل-ق-ي, ك-ل-م) — telakkâ 'karşılamak, almak, kabul edip öğrenmek' (doğrulanmalı); kelimât çoğunluğa göre Âdem'in tövbe için öğrendiği dua sözleridir (A'râf 7/23), TDV İslâm Ansiklopedisi bunu 'vahiy (kelimât)' diye niteler. فَتَابَ عَلَيْهِ (fe-tâbe aleyh; kök ت-و-ب) — Allah'a nisbetle 'tövbeyi kabul etmek'.
 - **Kur'an Yolu.** 'Kelimeler'in mahiyetine dair ayrı tartışma yoktur. Hak dinler insanın çatışan arzu ve ihtiyaçlarını düzene koymak üzere gönderilmiştir; Âdem'in davranışı ya günah değildir ya da Allah'ın öğrettiği tövbeyle temizlenmiştir, 'aslî günah' yoktur; nüzul sebebi/nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [ÂDEM](https://islamansiklopedisi.org.tr/adem--peygamber)
 
 ### A.10 — Ayet-10 · Enbiyâ 21/30
 
 - **Bulgudaki yeri.** Bulgu-06: hayat sudan başlar, fakat fâil Allah'tır.
-- **Kilit lafız.** كَانَتَا رَتْقًا فَفَتَقْنَاهُمَا (kânetâ ratkan fe-fetaknâhümâ; kök ر-ت-ق, ف-ت-ق) — Müfredât: ratk 'bitişme ve kaynaşma', fetk 'bitişik iki şeyi ayırmak'; masdar 'ratkan'ın tesniyeye haber oluşu (doğrulanmalı). وَجَعَلْنَا مِنَ الْمَٓاءِ كُلَّ شَيْءٍ حَيٍّ (ve ce'alnâ mine'l-mâi külle şey'in hayy; kök ج-ع-ل, ح-ي-ي) — ce'ale 'kılmak, meydana getirmek', hayy 'diri, canlı'.
 - **Kur'an Yolu.** 'Bitişik olup ayrılma' için müfessirlerin üç yorumu (gök-yer bitişikti; gökler ve yer tek parçaydı; gök yağmur, yer bitki vermiyordu — Taberî sonuncusunu tercih eder) aktarılır, modern tefsirler evrenin tek kütleden ayrılması diye anlar. 'Her canlıyı sudan yarattık' hayatın temelinin suya dayandığına işarettir; bilimsel teorilerle açıklamanın her âyet için isabetli olmadığı kaydedilir, nüzul sebebi/nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [YARATMA](https://islamansiklopedisi.org.tr/yaratma)
 
 ### A.11 — Ayet-11 · Nûr 24/45
 
 - **Bulgudaki yeri.** Bulgu-06: bütün canlıları sudan yaratan Allah'tır.
-- **Kilit lafız.** خَلَقَ كُلَّ دَابَّةٍ مِنْ مَاءٍ (halaka külle dâbbetin min mâ'in; kök خ-ل-ق, د-ب-ب) — Müfredât: halkın aslı 'düzgün takdir', dâbbe 'hafif yürümek, kımıldamak' kökünden hareket eden her canlı; 'mâ'in' nekre olduğundan Kur'an Yolu bunu 'bir su' / 'her birini kendine mahsus bir su' diye okur.
 - **Kur'an Yolu.** Enbiyâ 21/30'daki hayat veren su ile buradaki 'bir su' farklıdır; ikincisi sperm olarak anlaşılır. 'Her birini kendine mahsus bir sudan' mânası da çıktığından canlı türlerinin tek asıldan değil farklı köklerden yaratıldığı sonucuna varılır (ortak ata/evrim okumasına kapalı); nüzul sebebi, nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [HAYAT](https://islamansiklopedisi.org.tr/hayat)
 
 ### A.12 — Ayet-12 · Vâkıa 56/57-59
 
 - **Bulgudaki yeri.** Bulgu-07: "yaratan siz misiniz, yoksa biz miyiz?" — fâil sorusu.
-- **Kilit lafız.** مَا تُمْنُونَ (mâ tümnûn; kök م-ن-ي) — emnâ 'meniyi akıtmak', meniy 'erkeğin suyu'; aynı kökte 'takdir etmek, ölçmek' anlamı da vardır (Müfredât; doğrulanmalı). ءَاَنْتُمْ تَخْلُقُونَهُ اَمْ نَحْنُ الْخَالِقُونَ (e-entüm tahlukûnehû em nahnü'l-hâlikûn; kök خ-ل-ق) — halkın aslı 'düzgün takdir' (Müfredât); yoktan var etme ve bir şeyden başka şey meydana getirme için kullanılır.
 - **Kur'an Yolu.** Âyet grubu, insanın kendi varlığı ve yakın çevresi (meni, ekin, su, ateş) üzerinde 'bütün bu varlık ve oluşların hangi irade ve gücün eseri olduğu' sorusunu sorarak Allah'ın yaratma gücüne dikkat çeker. 57-59 için embriyolojik ayrıntı veya yaratılış/evrim tartışması yapılmaz; 'şecere' (ateş çıkaran ağaç) ve 'tezkire' (hatırlatma) kelimelerinin anlamı verilir, nüzul sebebi/nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [İNSAN](https://islamansiklopedisi.org.tr/insan)
 
 ### A.13 — Ayet-13 · Mü'minûn 23/12-14
 
 - **Bulgudaki yeri.** Bulgu-07: çamurdan özden kademeli yaratış; her kademenin fâili Allah'tır.
-- **Kilit lafız.** سُلَالَةٍ مِنْ ط۪ينٍ (sülâletin min tîn; kök س-ل-ل, ط-ي-ن) — sülâle 'çekip çıkarmak' kökünden süzülüp çıkarılan öz, tîn 'su ile karışmış toprak' (Müfredât; doğrulanmalı). اَنْشَأْنَاهُ خَلْقًا اٰخَرَ (enşe'nâhü halkan âhar; kök ن-ش-أ, خ-ل-ق) — inşâ 'meydana getirmek', halkan âhar 'başka bir yaratılış' (tefsirde ruh üflenmesi, mânevî donanım yorumu).
 - **Kur'an Yolu.** 'Sülâle' sözlükte 'bir şeyin içinden çekip çıkarılan nesne'dir; toprakta bulunup bedeni oluşturan maddeler kastedildiğinden 'sadece ilk insanın değil, diğer bütün insanların varlığının aslı da topraktandır'. Nutfe zigot, alaka rahme tutunan embriyo, mudga şekilsiz et parçasıdır; yaratılış/evrim tartışması, nüzul sebebi, nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [İNSAN](https://islamansiklopedisi.org.tr/insan)
 
 ### A.14 — Ayet-14 · Secde 32/7-9
 
 - **Bulgudaki yeri.** Bulgu-08: çamurla başlayan, öz sudan süren, şekillendirilen ve ruh üflenen yaratış — fâil Allah'tır.
-- **Kilit lafız.** بَدَاَ خَلْقَ الْاِنْسَانِ مِنْ ط۪ينٍ (bede'e halka'l-insâni min tîn; kök ب-د-أ, ط-ي-ن) — bede'e 'başlamak', tîn 'çamur' (Müfredât); çamurla başlamanın ilk insanı mı her insanı mı anlattığı tartışılır (doğrulanmalı). نَفَخَ ف۪يهِ مِنْ رُوحِه۪ (nefeha fîhi min rûhihî; kök ن-ف-خ, ر-و-ح) — nefh 'üflemek'; 'min rûhihî' izafeti TDV İslâm Ansiklopedisi'ne göre teşrif izafetidir, cüz'iyyet bildirmez.
 - **Kur'an Yolu.** 'Allah'ın ruhu' demek Kâbe'ye 'Allah'ın evi' demek gibi şeref izafetidir, parça diye anlaşılması O'nun zat ve sıfatlarına ters düşer; insanın değeri Rabbinin ona değer vermesinden gelir. 7. âyette Âdem/tür/evrim açıklaması, nüzul sebebi, nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [RUH](https://islamansiklopedisi.org.tr/ruh)
 
 ### A.15 — Ayet-15 · İnfitâr 82/6-8
 
 - **Bulgudaki yeri.** Bulgu-08: insanı yaratan, şekillendiren, ölçülü yapan ve dilediği biçimde oluşturan Allah'tır.
-- **Kilit lafız.** خَلَقَكَ فَسَوّٰيكَ فَعَدَلَكَ (halakake fe-sevvâke fe-adeleke; kök خ-ل-ق, س-و-ي, ع-د-ل) — sevvâ 'düzgün ve dengeli hâle getirmek', adele 'dengelemek, ölçülü kılmak'; 'fe-adeleke' / 'fe-addeleke' kıraat farkı vardır, şeddeli okunuş 'dilediği sûrete yöneltti' anlamına da gelir (doğrulanmalı). ف۪ٓي اَيِّ صُورَةٍ مَا شَٓاءَ رَكَّبَكَ (fî eyyi sûratin mâ şâe rakkebeke; kök ر-ك-ب) — rakkebe 'parçaları birleştirip oluşturmak'.
 - **Kur'an Yolu.** İnsan, bedensel ve zihnî melekelerle donatılıp düzgün bir insan olarak dünyaya gelişini Rabbine borçludur. 'Dengeleme/ölçülü kılma' vücudun ve melekelerin uyumlu yaratılışı, 'terkibini dilediği gibi yaptı' yaratılışın Allah'ın iradesine bağlı oluşudur; yaratılış/evrim yorumu, nüzul sebebi, nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [İNSAN](https://islamansiklopedisi.org.tr/insan)
 
 ### A.16 — Ayet-16 · Necm 53/3-4
 
 - **Bulgudaki yeri.** Bulgu-09: vahiy, Kur'an'ın kendi sesiyle verdiği kat'î hükümdür; Peygamber hevâdan konuşmaz.
-- **Kilit lafız.** مَا يَنْطِقُ عَنِ الْهَوٰى (mâ yentıku ani'l-hevâ; kök ن-ط-ق, ه-و-ي) — hevâ 'nefsin şehvete/arzuya meyli' (Müfredât). اِنْ هُوَ اِلَّا وَحْيٌ يُوحٰى (in hüve illâ vahyün yûhâ; kök و-ح-ي) — vahyin aslı 'süratli işaret' (Müfredât); 'hüve' zamirinin mercii ayrışma noktasıdır.
 - **Kur'an Yolu.** 'Hevâdan konuşmaz'ın kapsamı tartışmalıdır: 'bütün söyledikleri vahiydir' görüşüne karşı Peygamber'in ictihad içeren sözleri vardır; tefsir tebliğ dışı söz ve davranışlarının da vahyin kontrolünde olduğu sonucuna varır. Asıl amaç onu şair veya kâhin sayan müşriklere reddiyedir (nüzul bağlamı); 'o' zamiri Kur'an'a döner, nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [VAHİY](https://islamansiklopedisi.org.tr/vahiy)
 
 ### A.17 — Ayet-17 · Şûrâ 42/52
 
 - **Bulgudaki yeri.** Bulgu-09: Peygamber vahiyden önce "kitap nedir, iman nedir" bilmezdi — "kendinin bulduğu din"in reddi.
-- **Kilit lafız.** اَوْحَيْنَٓا اِلَيْكَ رُوحًا مِنْ اَمْرِنَا (evhaynâ ileyke rûhan min emrinâ; kök و-ح-ي, ر-و-ح) — rûh çoğunluğa göre Kur'an/vahiy, azınlığa göre Cebrâil veya nübüvvet; Müfredât Kur'an'ı 'ruh' diye anar (doğrulanmalı). مَا كُنْتَ تَدْر۪ي مَا الْكِتَابُ وَلَا الْا۪يمَانُ (mâ künte tedrî me'l-kitâbü ve le'l-îmân; kök د-ر-ي) — dirâye 'araştırarak bilmek, hakikatine vâkıf olmak' (Müfredât).
 - **Kur'an Yolu.** 'Bilmezdin', 'derâ' fiilinin hakikate vâkıf olmayı anlattığı hatırlatılarak, Peygamber'in vahiyden önce kitabın içeriğini ve imanın hakikatini bilmediği şeklinde anlaşılır; bu onun mümin olmadığı anlamına gelmez. Allah'a nasıl ibadet edileceği ancak vahiyle bilinir; nüzul sebebi, nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [VAHİY](https://islamansiklopedisi.org.tr/vahiy); [RUH](https://islamansiklopedisi.org.tr/ruh)
 
 ### A.18 — Ayet-18 · Müddessir 74/24-25
 
 - **Bulgudaki yeri.** Bulgu-10: "insan sözü" (*kavlü'l-beşer*) nitelemesi Kur'an'da ismen anılır ve reddedilir.
-- **Kilit lafız.** سِحْرٌ يُؤْثَرُ (sihrun yü'ser; kök س-ح-ر, أ-ث-ر) — sihr, Müfredât'a göre ilk anlamıyla hakikati olmayan hile ve hayaller (doğrulanmalı); yü'ser 'nakledilmek', Kur'an Yolu: 'önceki kaynaklardan nakledilen'. قَوْلُ الْبَشَرِ (kavlü'l-beşer; kök ق-و-ل, ب-ش-ر) — 'insan sözü'; Müfredât'a göre insana, derisinin açıkta olması dolayısıyla 'beşere' kelimesinden bu ad verilmiştir.
 - **Kur'an Yolu.** Nüzul sebebi: müşrikler Peygamber'e ve Kur'an'a nasıl karşı çıkacaklarını Velîd b. Mugīre'ye sormuş; Velîd, Peygamber'in sihirbaz, Kur'an'ın eski sihirbazlardan nakledilegelen bir sihir olduğunu söyleyip yaymıştır. İnkârcılar Kur'an'ı 'beşer sözü' saymıştır; nesh notu yok, i'câz meselesi doğrudan ele alınmaz.
 - **TDV İslâm Ansiklopedisi.** [VELÎD b. MUGĪRE](https://islamansiklopedisi.org.tr/velid-b-mugire)
 
 ### A.19 — Ayet-19 · Hâkka 69/41-43
 
 - **Bulgudaki yeri.** Bulgu-10: Kur'an şair ve kâhin sözü değil, âlemlerin Rabbinden tenzildir — kitabın şair ilhamı modelinin reddi.
-- **Kilit lafız.** بِقَوْلِ شَاعِرٍ (bi-kavli şâir; kök ش-ع-ر) — şi'r aslında 'ince bilgi'dir (Müfredât; doğrulanmalı); Câhiliye'de şair cinlerden ilham alır, kâhin gaipten haber verir sayılırdı (TDV İslâm Ansiklopedisi). تَنْز۪يلٌ مِنْ رَبِّ الْعَالَم۪ينَ (tenzîlün min rabbi'l-âlemîn; kök ن-ز-ل) — tenzîl parça parça indirmeye özgüdür, inzâl geneldir (Müfredât).
 - **Kur'an Yolu.** Müşriklerin şair/kâhin ithamına karşı Allah yeminle Kur'an'ın şair ve kâhin sözü olmayıp 'değerli bir elçinin sözü' olduğunu ve âlemlerin Rabbi katından indirildiğini bildirir. 'Değerli elçi' çoğunluğa göre Hz. Peygamber'dir, Tekvîr 81/19'da Cebrâil'dir, ikisi de aracıdır; nüzul sebebi, nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [KÂHİN](https://islamansiklopedisi.org.tr/kahin)
 
 ### A.20 — Ayet-20 · Yûnus 10/16
 
 - **Bulgudaki yeri.** Bulgu-10: vahiyden önceki "bir ömür" — "yıllarca tefekkür" iddiasına karşılık.
-- **Kilit lafız.** فَقَدْ لَبِثْتُ ف۪يكُمْ عُمُرًا مِنْ قَبْلِه۪ (fe-kad lebistü fîküm umuran min kablihî) — lebise (ل ب ث) 'bir yerde kalmak, ikamet etmek'; umur (ع م ر) 'ömür, bedenin hayatla mâmur olduğu süre' (Müfredât) (doğrulanmalı).
 - **Kur'an Yolu.** Nüzul ortamı 15. âyetteki değiştirme talebidir; cevap, içlerinde yıllarca yaşamış bir kimsenin üslûbu ile Kur'an'ın bambaşka içerik ve üslûbunun kolayca ayırt edilebileceğine dayanır. Âyet, Kur'an'ın lafız ve muhtevasında Hz. Peygamber'in hiçbir katkı ve etkisinin bulunmadığı konusunda son derece açıktır; nesh veya müteşabihlik tartışması yok.
 - **TDV İslâm Ansiklopedisi.** [VAHİY](https://islamansiklopedisi.org.tr/vahiy)
 
 ### A.21 — Ayet-21 · Mâide 5/67
 
 - **Bulgudaki yeri.** Bulgu-11: tebliğ emri; Peygamber müessis değil mübelliğdir.
-- **Kilit lafız.** بَلِّغْ مَٓا اُنْزِلَ اِلَيْكَ (belliğ mâ ünzile ileyk) ve فَمَا بَلَّغْتَ رِسَالَتَهُ (fe-mâ bellağte risâletehû) — bellağa (ب ل غ) 'ulaştırmak, eriştirmek' (Müfredât); risâle (ر س ل) 'elçilik, gönderilen mesaj' (TDV İslâm Ansiklopedisi) (doğrulanmalı).
 - **Kur'an Yolu.** Tebliğ görevi muhatapların tavrına göre sınırlandırılamaz; 'iletmemiş olursun' cümlesi çoğunluğa göre 'bir kısmını dahi tebliğ etmezsen hiç tebliğ etmemiş sayılırsın' demektir ve Peygamber'in vahyin bir kısmını sakladığı iddialarını (bazı Şiîler, Bâtınîler) çürütür. 'Allah seni insanlardan koruyacaktır' cümlesine bağlanan nüzul rivayetlerinin gerçekliği eleştiriye açıktır (Derveze); nesh tartışması yok.
 - **TDV İslâm Ansiklopedisi.** [TEBLİĞ](https://islamansiklopedisi.org.tr/teblig); [PEYGAMBER](https://islamansiklopedisi.org.tr/peygamber)
 
 ### A.22 — Ayet-22 · A'râf 7/157
 
 - **Bulgudaki yeri.** Bulgu-11: "ümmî" Kur'an'da bir unvandır.
-- **Kilit lafız.** الرَّسُولَ النَّبِيَّ الْاُمِّيَّ (er-resûle'n-nebiyye'l-ümmiyy) — ümmî (ا م م) 'okuma yazma bilmeyen'; ümm (anne), ümmet veya ümmü'l-kurâ'ya nisbet (TDV İslâm Ansiklopedisi, Müfredât, Lisân); Râgıb'a göre 'kitaptan okumayan ve yazmayan kimse' (doğrulanmalı).
 - **Kur'an Yolu.** Ümmî için üç görüş vardır: Ümmülkurâ'ya nisbetle 'Mekkeli'; ümmete nisbetle 'Arap milletinden'; ümm'e (anne) nisbetle 'annesinden doğduğu gibi' okuma yazma bilmeyen (İbn Atıyye). Kur'an Yolu son görüşü benimser: kelime Hz. Peygamber'in 'en azından başlangıçta' okuma yazma bilmediğini ve din bilgisini yalnızca Allah'tan aldığını anlatır; 'Ehl-i kitaptan olmayan' seçeneği sayılmaz, nesh notu yalnız Yahudilikteki bazı ağır hükümlerin kaldırılmasına dairdir.
 - **TDV İslâm Ansiklopedisi.** [ÜMMÎ](https://islamansiklopedisi.org.tr/ummi)
 
 ### A.23 — Ayet-23 · Ankebût 29/48
 
 - **Bulgudaki yeri.** Bulgu-11: ümmîlik, vahyin beşerî birikimden bağımsızlığının delilidir.
-- **Kilit lafız.** وَمَا كُنْتَ تَتْلُوا مِنْ قَبْلِه۪ مِنْ كِتَابٍ وَلَا تَخُطُّهُ بِيَم۪ينِكَ (ve-mâ künte tetlû min kablihî min kitâbin ve-lâ tehuttuhû bi-yemînik) — telâ (ت ل و) 'okumak; indirilen kitaplara okuyarak veya uyarak tâbi olmak' (Müfredât); yemîn (ي م ن) 'sağ el' (doğrulanmalı).
 - **Kur'an Yolu.** Okumak ve yazmak öğrenim görmenin iki temel yoludur; âyet Hz. Peygamber'in böyle öğrenim görmediğini belirtir, aksi hâlde inkârcılar Kur'an'ı bir Ehl-i kitap mensubundan aldığını ileri sürebilirdi. Ümmîlik 'en azından' on üç yıllık Mekke dönemiyle kayıtlanır (sonradan yazma ihtimali açık); kelime yeniden tartışılmaz, nüzul sebebi ve nesh yok.
 - **TDV İslâm Ansiklopedisi.** [ÜMMÎ](https://islamansiklopedisi.org.tr/ummi)
 
 ### A.24 — Ayet-24 · Tâhâ 20/13-14
 
 - **Bulgudaki yeri.** Bulgu-12: Musa seçilen ve kendisine vahyedilendir.
-- **Kilit lafız.** وَاَنَا اخْتَرْتُكَ فَاسْتَمِعْ لِمَا يُوحٰى (ve-ene'htertüke fe'stemi' li-mâ yûhâ) — ihtâra (خ ي ر) 'seçmek; hayırlı olanı isteyip yapmak' (Müfredât); evhâ (و ح ي) 'hızlı ve gizli biçimde bildirmek, işaret etmek' (Lisân, TDV İslâm Ansiklopedisi) (doğrulanmalı).
 - **Kur'an Yolu.** Hz. Mûsâ Kur'an'da kendisinden en çok söz edilen peygamberdir; anlatımın doğrudan peygamberlik görevinin verilmesiyle başlaması sûrenin Resûlullah'a teselli hedefiyle bağlantılıdır. 14. âyetin 'beni hatırında tutmak için namazı kıl' kısmına 'hatırladığında namazı kıl' mânası da verilmiş, fakat Taberî lafza göre ilk mânayı kuvvetli bulmuştur; nüzul sebebi veya nesh tartışması yok.
 - **TDV İslâm Ansiklopedisi.** [MÛSÂ](https://islamansiklopedisi.org.tr/musa--peygamber)
 
 ### A.25 — Ayet-25 · A'râf 7/145
 
 - **Bulgudaki yeri.** Bulgu-12: levhaları yazan Allah'tır — "kendi dininin esaslarını koymuştur"un reddi.
-- **Kilit lafız.** وَكَتَبْنَا لَهُ فِي الْاَلْوَاحِ مِنْ كُلِّ شَيْءٍ مَوْعِظَةً وَتَفْص۪يلًا لِكُلِّ شَيْءٍ (ve-ketebnâ lehû fi'l-elvâhi min külli şey'in mev'izaten ve tafsîlen li-külli şey') — ketebe (ك ت ب) 'yazmak'; elvâh (ل و ح), levh çoğulu, 'üzerine yazı yazılan dörtgen tahta/levha' (Kur'an Yolu; Müfredât) (doğrulanmalı).
 - **Kur'an Yolu.** Âyet, önceki âyetteki 'risâletler'in açıklaması olarak Tevrat'ın levhalarda yazılı metinler hâlinde gönderildiğine işaret eder; elvâh 'dörtgen biçimindeki tahta' anlamındaki levhanın çoğuludur, Mûsâ'ya bildirilen vahiylerin yazıldığı taş levhalar kastedilir (Çıkış 24/12). 'en güzelini alsınlar' farklı yorumlanmış (İbn Atıyye), 'Yoldan çıkmışların yurdu' için dört görüş nakledilmiştir; nüzul sebebi veya nesh yok.
 - **TDV İslâm Ansiklopedisi.** [TEVRAT](https://islamansiklopedisi.org.tr/tevrat)
 
 ### A.26 — Ayet-26 · Rahmân 55/15
 
 - **Bulgudaki yeri.** Bulgu-13: cinler yaratılmış bir varlık nev'idir.
-- **Kilit lafız.** وَخَلَقَ الْجَٓانَّ مِنْ مَارِجٍ مِنْ نَارٍ (ve-haleka'l-cânne min mâricin min nâr) — el-cânn (ج ن ن) 'örtmek, gizli kalmak' kökünden (Müfredât; TDV İslâm Ansiklopedisi'ne göre cinlerin atalarına cân denir); mâric (م ر ج) 'çalkalanan, yerinde durmayan; karışan' (Kur'an Yolu) (doğrulanmalı).
 - **Kur'an Yolu.** 14-15. âyetler insanların ve cinlerin ilk yaratılışlarındaki ana unsurları bildirerek bunların mahiyetini bilen Allah'ın yegâne yaratıcı olduğuna dikkat çeker. Mâric sözlükte 'çalkalanan, yerinde durmayan' ve 'karışan, karıştırıcı' demektir; birincisine göre 'dumansız saf alev', ikincisine göre 'karışan, nüfuz eden dumanlı ateş' diye açıklanmıştır; nüzul sebebi veya nesh yok.
 - **TDV İslâm Ansiklopedisi.** [CİN](https://islamansiklopedisi.org.tr/cin)
 
 ### A.27 — Ayet-27 · Cin 72/1-2
 
 - **Bulgudaki yeri.** Bulgu-13: cinler hakkındaki bilginin kaynağı vahiydir ("bana (…) vahyedildi").
-- **Kilit lafız.** اسْتَمَعَ نَفَرٌ مِنَ الْجِنِّ (isteme'a neferun mine'l-cinn) — el-cinn (ج ن ن) 'duyulardan gizli olan' (Müfredât; TDV İslâm Ansiklopedisi); nefer (ن ف ر) 'üç ile on arası kişiden oluşan topluluk' (doğrulanmalı); ayrıca اُو۫حِيَ اِلَيَّ (ûhiye ileyye; و ح ي).
 - **Kur'an Yolu.** Cin 'örtmek, gizli kalmak' anlamındaki cenne fiilinden isimdir; terim olarak ateşten yaratılmış, duyularla idrak edilemeyen, şuur ve irade sahibi varlık türüdür. Nüzul: cinlerden bir grup Kur'an dinleyip kavimlerine dönerek iman ettiklerini açıklamış; Hz. Peygamber onları görmemiş, durum ona vahiyle bildirilmiştir; nesh yok.
 - **TDV İslâm Ansiklopedisi.** [CİN](https://islamansiklopedisi.org.tr/cin)
 
 ### A.28 — Ayet-28 · Bakara 2/285
 
 - **Bulgudaki yeri.** Bulgu-14: meleklere iman, imanın sayılı esaslarındandır.
-- **Kilit lafız.** كُلٌّ اٰمَنَ بِاللّٰهِ وَمَلٰٓئِكَتِه۪ وَكُتُبِه۪ وَرُسُلِه۪ (küllün âmene billâhi ve-melâiketihî ve-kütübihî ve-rusülihî) — melâike, melek çoğulu, Sâmî dillerdeki 'göndermek' anlamlı l'ek kökünden 'haberci, elçi' (TDV İslâm Ansiklopedisi; m-l-k / e-l-k kök tartışması için Müfredât); âmene (ا م ن) 'güven duymak, tasdik etmek' (doğrulanmalı).
 - **Kur'an Yolu.** Sûrenin başında iman edenlerin nitelikleri sayılmış, sonunda Resul ve müminlerin Allah'a, meleklerine, kitaplarına ve peygamberlerine imanlarının Allah tarafından tasdik edilmesi eşsiz bir iltifat olarak sunulmuştur; peygamberler arasında ayırım yapılmaması için Bakara 2/136'ya gönderilir. Melek kavramının mahiyeti bu sayfada tartışılmaz (kalanı 286. âyet üzerinden teklîf-i mâlâ yutâk ve kader tartışmasıdır); nüzul sebebi veya nesh yok.
 - **TDV İslâm Ansiklopedisi.** [MELEK](https://islamansiklopedisi.org.tr/melek)
 
 ### A.29 — Ayet-29 · Nahl 16/102-103
 
 - **Bulgudaki yeri.** Bulgu-14: Kur'an'ı indiren Rûhu'l-Kudüs'tür; "ona bir insan öğretiyor" ithamı ismen reddedilir.
-- **Kilit lafız.** رُوحُ الْقُدُسِ (rûhu'l-kudüs; ر و ح + ق د س) 'kutsal/temiz ruh', dört âyette de Cebrâil kastedilir (TDV İslâm Ansiklopedisi); اَعْجَمِيٌّ (a'cemiyy; ع ج م) 'Arap olmayan, dili açık olmayan' (Müfredât) (doğrulanmalı).
 - **Kur'an Yolu.** 'Ruhu'l-Kudüs'ten maksat Cebrâil'dir; Kur'an'ın bir yabancı tarafından dikte edilmesinin imkânsızlığı iddianın saçmalığını gösterir. Nüzul rivayetleri: öğrettiği söylenen kişi Ehl-i kitaptan Bel'am isimli Mekkeli bir kılıç ustası veya Yaîş ya da Cebr isimli bir hıristiyan köledir; bunlar tahminden öte değer taşımaz, İranlı Selmân rivayeti ise Selmân Medine'de müslüman olduğundan asılsızdır; nesh yok.
 - **TDV İslâm Ansiklopedisi.** [RÛHULKUDÜS](https://islamansiklopedisi.org.tr/ruhulkudus)
 
 ### A.30 — Ayet-30 · Bakara 2/127
 
 - **Bulgudaki yeri.** Bulgu-15: Kâbe'nin temellerini yükselten İbrahim ile İsmail'dir.
-- **Kilit lafız.** yerfa'u ... el-kavâ'ide mine'l-beyt (r-f-' رفع 'yükseltmek'; k-'a-d قعد -> kavâ'id 'temel, esas'; b-y-t بيت 'ev') — Müfredât: kavâ'idü'l-beyt = esâsuhû (doğrulanmalı).
 - **Kur'an Yolu.** Müfessirler 'temellerini yükseltiyordu' ifadesinden Kâbe'nin yerinde daha önce (Nûh tûfanında harap olmuş) bir yapı bulunduğunu ve Hz. İbrâhim'in eski temeller üzerine binayı yükselttiğini çıkarır; ilk yapının melekler veya Hz. Âdem'e ait olduğu rivayetleri de aktarılır (Taberî). Taberî kesin bilgi bulunmadığını belirtir, Reşîd Rızâ bu rivayetleri İsrâiliyat sayıp Kâbe'yi ilk defa Hz. İbrâhim'in inşa ettiğini söyler; nüzul sebebi, nesih veya kıraat zikredilmez.
 - **TDV İslâm Ansiklopedisi.** [KÂBE](https://islamansiklopedisi.org.tr/kabe)
 
 ### A.31 — Ayet-31 · Hac 22/26
 
 - **Bulgudaki yeri.** Bulgu-15: Kâbe'nin yerini İbrahim'e belirleyen Allah'tır.
-- **Kilit lafız.** bevve'nâ li-İbrâhîme mekâne'l-beyt (b-v-' بوأ tef'îl 'bir yere yerleştirmek, yurt/mekân hazırlamak') — Kur'an Yolu (Şevkânî'den); Müfredât'ta bevve'e 'bir yeri düzleyip hazırlamak / yerleştirmek' (doğrulanmalı).
 - **Kur'an Yolu.** Âyet Kâbe'nin Hz. İbrâhim zamanından beri toplu ibadet mahalli olduğunu hatırlatır; 'yerleştirdiğimizde' diye çevrilen kısma 'yerini gösterdiğimizde' ve 'yerini hazırladığımızda' anlamları da verilmiştir (Şevkânî). 25. âyetin Mekke'de mi Medine'de mi indiği tartışması nakledilir; nesih zikredilmez.
 - **TDV İslâm Ansiklopedisi.** [KÂBE](https://islamansiklopedisi.org.tr/kabe)
 
 ### A.32 — Ayet-32 · Mâide 5/97
 
 - **Bulgudaki yeri.** Bulgu-16: Kâbe'yi, haram ayı ve hac kurbanını insanlar için düzen kılan Allah'tır.
-- **Kilit lafız.** kıyâmen li'n-nâs (k-v-m قوم -> kıyâm 'ayakta durma; ayakta tutan şey, dayanak') — Müfredât (doğrulanmalı); kıraat: İbn Âmir'in 'kıyemen' (قِيَمًا) okuyuşu nakledilir.
 - **Kur'an Yolu.** 97. âyet ayrıca açıklanmaz; Mâide 5/1-2'ye gönderilir. Nesih notu: Mâide 2'deki 'Beytülharâm'a yönelmiş kimselere saldırmayın' hükmünün neshedildiği (İbnü'l-Arabî, İbn Kesîr, Elmalılı) ve neshedilmediği (Elmalılı, Ateş) görüşleri birlikte aktarılır; Mâide 2 için Hutam b. Hind el-Bekrî hakkında nüzul rivayeti verilir.
 - **TDV İslâm Ansiklopedisi.** [KÂBE](https://islamansiklopedisi.org.tr/kabe); [HARAM AYLAR](https://islamansiklopedisi.org.tr/haram-aylar)
 
 ### A.33 — Ayet-33 · Bakara 2/125
 
 - **Bulgudaki yeri.** Bulgu-16: Kâbe'yi toplantı ve güven yeri kılan Allah'tır.
-- **Kilit lafız.** mesâbeten li'n-nâsi ve emnen (s-v-b ثوب 'dönmek' -> mesâbe 'dönülüp gelinen yer; toplanma yeri'; e-m-n 'güven') — Müfredât; makâmi İbrâhîme musallâ (makâm 'durulan yer'; TDV İslâm Ansiklopedisi) (doğrulanmalı).
 - **Kur'an Yolu.** Âyet Kâbe'nin tekrar tekrar ziyaret edilen hac mahalli ve güvenli yer kılındığını bildirir. Makam-ı İbrâhim, İbrâhim'in Kâbe'yi inşa ederken bastığına inanılan taş veya yeridir (Râzî); makamdan namaz yeri edinme buyruğunun muhatabı tartışmalıdır (Muhammed ümmeti veya İbrâhim'in kavmi); nüzul sebebi, nesih, kıraat yok.
 - **TDV İslâm Ansiklopedisi.** [MAKĀM-ı İBRÂHİM](https://islamansiklopedisi.org.tr/makam-i-ibrahim); [KÂBE](https://islamansiklopedisi.org.tr/kabe)
 
 ### A.34 — Ayet-34 · Yûnus 10/15
 
 - **Bulgudaki yeri.** Bulgu-17: Peygamber vahyi kendiliğinden değiştiremez.
-- **Kilit lafız.** i'ti bi-kur'ânin gayri hâzâ ev beddilhu (b-d-l بدل tef'îl -> tebdîl 'bir şeyi başkasının yerine koymak, değiştirmek') — Müfredât; min tilkâ'i nefsî (tilkâ' 'taraf, yön': 'kendi tarafımdan, kendiliğimden') (doğrulanmalı).
 - **Kur'an Yolu.** Müşriklerin Kur'an'ın değiştirilmesini istemeleri çelişkilidir; Hz. Peygamber bunu yapsa Kur'an'ın Allah'tan geldiği iddiasında yalancı durumuna düşerdi. Âyet, Kur'an'ın lafız ve muhtevasında Peygamber'in hiçbir katkısı bulunmadığı konusunda 'son derece açık'tır; tebdil ile nesih arasında ilişki kurulmaz, nesih, müteşabih, kıraat veya nüzul sebebi zikredilmez.
 - **TDV İslâm Ansiklopedisi.** [NESİH](https://islamansiklopedisi.org.tr/nesih--seriat)
 
 ### A.35 — Ayet-35 · En'âm 6/115
 
 - **Bulgudaki yeri.** Bulgu-17: Rabbin kelimesi tamdır; onu değiştirebilecek yoktur.
-- **Kilit lafız.** lâ mübeddile li-kelimâtihî (b-d-l بدل ism-i fâili mübeddil 'değiştiren'; k-l-m -> kelimât 'sözler') — Müfredât; ve temmet kelimetu rabbike sıdkan ve adlen (t-m-m 'tamam olmak'; s-d-k 'doğruluk'; a-d-l 'adalet') (doğrulanmalı).
 - **Kur'an Yolu.** Sıdk sözde ve işte doğruluk, adl hak ve nesafet kaidelerine uygunluktur. Allah kelâmının dört niteliğine işaret edilir: tam, doğru, âdil ve 'değiştirilemez ve tahrif edilemez oluşu'; nesih, müteşabih, nüzul sebebi, 'kelime/kelimât' kıraat farkı zikredilmez.
 - **TDV İslâm Ansiklopedisi.** [NESİH](https://islamansiklopedisi.org.tr/nesih--seriat)
 
 ### A.36 — Ayet-36 · Kehf 18/110
 
 - **Bulgudaki yeri.** Bulgu-18: Peygamber'i diğer insanlardan ayıran ölçü vahiydir.
-- **Kilit lafız.** innemâ ene beşerun mislukum yûhâ ileyye (b-ş-r بشر -> beşer 'insan (türü)'; v-h-y -> yûhâ 'vahyolunur'; innemâ hasr edatı 'ancak, yalnızca') — Kur'an Yolu; TDV İslâm Ansiklopedisi (doğrulanmalı).
 - **Kur'an Yolu.** Hz. Muhammed şüphesiz bir insandır; Allah'ın bütün ilmini kuşatması mümkün değildir, sadece kendisine vahyedilenleri bilir ve vahyedilenlerden biri bütün insanların tanrısının tek tanrı olduğu gerçeğidir. İkinci yarı için açık şirk yanında riya şeklindeki gizli/küçük şirk anlatılır; 'beşer' kelimesi üzerinde durulmaz, nüzul sebebi, nesih veya kıraat tartışması yok.
 - **TDV İslâm Ansiklopedisi.** [İNSAN](https://islamansiklopedisi.org.tr/insan)
 
 ### A.37 — Ayet-37 · Tûr 52/33-34
 
 - **Bulgudaki yeri.** Bulgu-19: "kendisi uydurdu" ithamı ve tehaddî.
-- **Kilit lafız.** tekavvelehû (k-v-l قول tefa''ul: tekavvele 'uydurup söylemek, söylenmemiş sözü birine isnat etmek') — Kur'an Yolu; fe'l-ye'tû bi-hadîsin mislihî in kânû sâdıkîn (h-d-s حدث -> hadîs 'söz, haber'; misl 'benzer') — TDV İslâm Ansiklopedisi (doğrulanmalı).
 - **Kur'an Yolu.** İnkârcıların 'onu kendisi uydurdu' iddiası ele alınır; 'bel lâ yu'minûn' cümlesine '(dediklerine) kendileri de inanmıyorlar' mânası da verilebilir (Elmalılı). Tehaddî için Bakara 2/23'e gönderilir ('onda bulunanlara benzer bir söz' istenmiş, yapılamamıştır: i'câz); 30. âyete bağlanan nüzul sebebi, sûre bütün indiğinden gönderme sayılmalıdır (Ateş); nesih zikredilmez.
 - **TDV İslâm Ansiklopedisi.** [İ'CÂZÜ'l-KUR'ÂN](https://islamansiklopedisi.org.tr/icazul-kuran); [TEHADDÎ](https://islamansiklopedisi.org.tr/tehaddi)
 
 ### A.38 — Ayet-38 · Yûnus 10/37
 
 - **Bulgudaki yeri.** Bulgu-19: Kur'an Allah'tan başkası tarafından uydurulamaz — ikili tasnifin sarih lafzı.
-- **Kilit lafız.** ve mâ kâne hâze'l-kur'ânu en yüfterâ min dûnillâh (f-r-y فري iftiâl -> iftirâ 'uydurmak, yalan söz düzüp isnat etmek') — TDV İslâm Ansiklopedisi; tafsîle'l-kitâb (f-s-l -> tafsîl 'ayrıntılı açıklama') (doğrulanmalı).
 - **Kur'an Yolu.** Âyet 'Kur'an'ı Hz. Muhammed uydurdu' iddiasına cevaptır. Lafız tartışması: 'kitap'ı bazıları eski kitaplar, Taberî ve Zemahşerî 'Allah'ın Muhammed ümmetine yazdığı, farz kıldığı hükümler' diye anlar (Kur'an Yolu meali ikinci görüştedir); Yûnus 38'de tehaddî âyetleri sayılır; nüzul sebebi, nesih, kıraat yok.
 - **TDV İslâm Ansiklopedisi.** [İ'CÂZÜ'l-KUR'ÂN](https://islamansiklopedisi.org.tr/icazul-kuran)
 

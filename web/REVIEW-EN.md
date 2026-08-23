@@ -1326,7 +1326,7 @@ Three appendices, which set out the grounds of the main text, are in a separate
 document: [**Appendices**](https://tarih1931.github.io/inceleme-ekler.html). The
 appendices are at present available in Turkish only.
 
-- **Appendix A — Verse files.** For each of the thirty-eight verses cited in the main text: its place in the finding, the Arabic wording that carries the finding and its root, the note in the *Kur'an Yolu* commentary, and the relevant *TDV İslâm Ansiklopedisi* entry.
+- **Appendix A — Verse files.** For each of the thirty-eight verses cited in the main text: its place in the finding, the note in the *Kur'an Yolu* commentary, and the relevant *TDV İslâm Ansiklopedisi* entry.
 - **Appendix B — Term files.** For the nine terms that carry the findings — inspiration/revelation (ilham/vahiy), fabrication/tale (uydurma/masal), founder/to found (müessis/kurmak), tradition (an'ane), conception (telâkki), evolution (tekâmül), concept/to find (mefhum/bulmak), nature/created being (tabiat/mahlûk), religion (din) — every use of them within the book, their dictionary meaning in 1931, the shift of meaning, and their Qur'anic counterpart.
 - **Appendix C — The preface and the drafting-committee pages.** The full text and the citation lines of the *Mukaddime* on which the first section rests and of the "Kitabın hazırlanmasında çalışanlar" ("Those who worked on the preparation of the book") pages.
 - **Appendix D — The grounds of each judgement.** For every finding: the claim it attributes to the books, the sentences it rests on, and whether that claim is explicit in the books' wording or built by combining several explicit sentences.
