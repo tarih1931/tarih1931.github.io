@@ -2,7 +2,7 @@
 
 **Prof. Dr. Muhammed Fatih Talu · Claude (Anthropic)**
 
-**Özet:** Bu belge, [*Resmî tarih kitaplarında din, vahiy ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırması*](https://tarih1931.github.io/inceleme.html) incelemesinin üç ekini içerir: **Ek A**, ana metinde anılan otuz sekiz ayetin kilit lafzını, meal farklarını, tefsir notunu ve ansiklopedi maddesini; **Ek B**, bulguları taşıyan dokuz terimin kitap içi kullanımını, lügat anlamını ve Kur'anî karşılığını; **Ek C**, iki cildin ön sözü ile telif heyeti sayfalarının tam metnini verir. Ekler ana metinden bağımsız okunmak için değil, bulguların dayanağını açmak için yazılmıştır; köşeli parantez içindeki kaynak numaraları (**[1]**, **[13]** gibi) incelemenin kaynakçasına aittir.
+**Özet:** Bu belge, *Resmî tarih kitaplarında din, vahiy ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırması* incelemesinin üç ekini içerir: **Ek A**, ana metinde anılan otuz sekiz ayetin kilit lafzını, meal farklarını, tefsir notunu ve ansiklopedi maddesini; **Ek B**, bulguları taşıyan dokuz terimin kitap içi kullanımını, lügat anlamını ve Kur'anî karşılığını; **Ek C**, iki cildin ön sözü ile telif heyeti sayfalarının tam metnini verir. Ekler ana metinden bağımsız okunmak için değil, bulguların dayanağını açmak için yazılmıştır; köşeli parantez içindeki kaynak numaraları (**[1]**, **[13]** gibi) incelemenin kaynakçasına aittir.
 
 **Ana metin:** [Resmî tarih kitaplarında din, vahiy ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırması](https://tarih1931.github.io/inceleme.html)
 
