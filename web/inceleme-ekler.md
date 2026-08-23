@@ -2,9 +2,14 @@
 
 **Prof. Dr. Muhammed Fatih Talu**
 
-**Özet:** İncelemenin dört ekidir. **Ek A** her ayetin bulgudaki yerini, tefsir notunu ve ansiklopedi maddesini; **Ek B** bulguları taşıyan dokuz terimin kitap içi kullanımını, lügat anlamını ve Kur'anî karşılığını; **Ek C** iki cildin ön sözü ile telif heyeti sayfalarının tam metnini; **Ek D** her bulgunun kitaba atfettiği hükmü ve o hükmün hangi cümlelerden çıktığını verir. Ekler bulguların dayanağını açar; köşeli parantez içindeki kaynak numaraları (**[1]**, **[13]** gibi) incelemenin kaynakçasına aittir.
+**Özet:** İncelemenin dört ekidir; her biri ana metindeki bulguların dayanağını açar.
 
-**Ana metin:** [Resmî tarih kitaplarında din, vahiy ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırması](https://tarih1931.github.io/inceleme.html)
+- **Ek A — Ayet dosyaları.** Her ayetin hangi bulguda ne için kullanıldığı, *Kur'an Yolu Tefsiri*'nin o ayete dair notu ve ilgili *Türkiye Diyanet Vakfı İslâm Ansiklopedisi* maddesi.
+- **Ek B — Terim dosyaları.** Bulguları taşıyan dokuz terimin kitap içindeki bütün kullanımı, 1931'deki lügat anlamı, anlam kayması ve Kur'anî karşılığı.
+- **Ek C — Ön söz ve heyet sayfaları.** İki cildin ön sözü ile telif heyeti sayfalarının tam metni ve künye satırları.
+- **Ek D — Hükümlerin dayanak tipi.** Her bulgunun kitaba atfettiği hüküm, dayandığı cümleler ve hükmün sarih lafızdan mı yoksa birleşimden mi çıktığı.
+
+Köşeli parantez içindeki kaynak numaraları (**[1]**, **[13]** gibi) incelemenin kaynakçasına aittir.
 
 ---
 
