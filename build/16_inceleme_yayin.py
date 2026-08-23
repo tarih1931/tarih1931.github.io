@@ -44,7 +44,9 @@ BASE_URL = CHANNELS.get("site") or "https://tarih1931.github.io"
 OUT = ROOT / "inceleme" / "yayin"
 TODAY = date.today().isoformat()
 
-YAZAR = (META.get("review") or {}).get("author") or "Anonim"
+YAZARLAR = (META.get("review") or {}).get("authors") or ["Anonim"]
+# Kapak ve imza satırı tek dize ister, Zenodo künyesi ayrı ayrı yazar ister.
+YAZAR = " · ".join(YAZARLAR)
 KORPUS_DOI = COLL.get("doi")
 
 REVIEW = META.get("review") or {}
@@ -53,6 +55,8 @@ BASLIK_EN = REVIEW.get("title_en") or "1931 review"
 
 TR_MD = ROOT / "docs" / "inceleme.md"
 EN_MD = ROOT / "docs" / "REVIEW-EN.md"
+# Ekler ayrı bir belgedir; kayda ayrı dosya olarak girer (aynı DOI, aynı sürüm).
+EK_MD = ROOT / "docs" / "inceleme-ekler.md"
 
 
 def ozet_ham(yol: Path, etiket: str) -> str:
@@ -236,7 +240,7 @@ def zenodo_kunyesi() -> dict:
         "upload_type": "publication",
         "publication_type": "report",
         "publication_date": TODAY,
-        "creators": [{"name": YAZAR}],
+        "creators": [{"name": a} for a in YAZARLAR],
         "description": (
             # Zenodo açıklaması HTML kabul eder. Düz metin verilirse belgedeki
             # bağlantılar ve vurgular kaybolur; kayıt sayfasında özet, kaynak
@@ -283,12 +287,17 @@ def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
 
     shutil.copy2(tr_md, OUT / "inceleme-tr.md")
+    if EK_MD.exists():
+        shutil.copy2(EK_MD, OUT / "inceleme-ekler-tr.md")
     if en_md.exists():
         shutil.copy2(en_md, OUT / "inceleme-en.md")
     if bulgular.exists():
         shutil.copy2(bulgular, OUT / "bulgular.jsonl")
 
     pdf_yaz(tr_md, OUT / "inceleme-tr.pdf", BASLIK_TR, ozet_html(HAM_TR), en=False)
+    if EK_MD.exists():
+        pdf_yaz(EK_MD, OUT / "inceleme-ekler-tr.pdf", f"{BASLIK_TR} — Ekler",
+                ozet_html(ozet_ham(EK_MD, "Özet")), en=False)
     if en_md.exists():
         pdf_yaz(en_md, OUT / "inceleme-en.pdf", BASLIK_EN, ozet_html(HAM_EN), en=True)
 

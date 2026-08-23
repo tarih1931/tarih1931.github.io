@@ -24,9 +24,12 @@ olarak okutulan `Tarih` serisinin ilk iki cildinin, taranmış nüshalardan
 | **Wikidata** | iki cildin künye kaydı (bilgi grafiği) | [Q141099467](https://www.wikidata.org/wiki/Q141099467) · [Q141099470](https://www.wikidata.org/wiki/Q141099470) |
 
 Elle düzeltilen iki bölüm üzerine metne bağlı bir inceleme:
-[docs/inceleme.md](docs/inceleme.md) — resmî tarih
-öğretisi ile İslam itikadının karşılaştırması; her iddia sayfa künyeli alıntıyla
-belgelenmiştir. Bu inceleme ayrı bir çalışmadır ve kendi DOI'sini taşır:
+[docs/inceleme.md](docs/inceleme.md) — resmî tarih kitaplarındaki din, vahiy ve
+nübüvvet anlatısının Kur'an ile karşılaştırması; her iddia sayfa künyeli
+alıntıyla belgelenmiş ve alıntılar kaynak sayfaya karşı makine ile
+denetlenmiştir. Ayet dosyaları, terim dosyaları ve ön söz metinleri ayrı bir
+belgededir: [docs/inceleme-ekler.md](docs/inceleme-ekler.md). Bu inceleme ayrı
+bir çalışmadır ve kendi DOI'sini taşır:
 [10.5281/zenodo.21963507](https://doi.org/10.5281/zenodo.21963507).
 
 ---
@@ -102,7 +105,7 @@ DOI bütün sürümleri temsil eder ve daima en sonuncusuna çözümlenir; sür�
 DOI künyeye yazılmaz. İnceleme ayrı bir çalışmadır ve kendi DOI'siyle anılır:
 
 ```
-Anonim (2026). 1931–1941 arasında liselerde okutulan resmî tarih
-kitaplarının din ve İslam anlayışına ilişkin kaynak-belge incelemesi. Zenodo.
-https://doi.org/10.5281/zenodo.21963507
+Talu, M. F. & Claude (Anthropic) (2026). Resmî tarih kitaplarında din, vahiy
+ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı
+karşılaştırması. Zenodo. https://doi.org/10.5281/zenodo.21963507
 ```

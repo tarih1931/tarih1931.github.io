@@ -17,9 +17,10 @@ gösterilen sayfanın **düzeltilmiş** metnine karşı doğrular.
             dosyanın esasıdır.
   verse     §3 ve §4 — bulgunun dayandığı ayetler (Ayet-01…). Alıntı gibi
             doğrulanmaz; kaynağı kitap değil Kur'an'dır.
-  claim     §5 — kitaba dayanarak söylenebilecekler (Öz-01…). Bulgu değildir:
-            itikadî hüküm taşımaz, yalnız kitabın sarih lafzını özetler ve
-            künyesinde o lafzı taşıyan alıntıyı gösterir.
+  claim     kitaba dayanarak söylenebilecekler (Öz-01…). Bulgu değildir: itikadî
+            hüküm taşımaz, yalnız kitabın sarih lafzını özetler. Bu tip yalnız
+            belgede numaralı böyle bir bölüm varsa üretilir; §3 ve §4 her alıntıyı
+            zaten bağlamıyla tartıştığı için o bölüm kaldırılmıştır.
   limit     Metne dayanarak SÖYLENEMEYECEK olanlar (S1…Sn). Bu tip yalnız
             belgede böyle bir bölüm varsa üretilir; şu an yoktur.
 
@@ -41,6 +42,9 @@ from common import (  # noqa: E402
 )
 
 REVIEW_MD = ROOT / "docs" / "inceleme.md"
+# Ekler ayrı bir belgededir (Ek A/B/C). Ayrıştırılmaz — alıntı ya da ayet kaydı
+# taşımaz — fakat ana metnin indekslerine atıf yapar; o atıflar denetlenir.
+ANNEX_MD = ROOT / "docs" / "inceleme-ekler.md"
 OUT_DIR = ROOT / "inceleme"
 _META = json.loads((ROOT / "metadata" / "books.json").read_text(encoding="utf-8"))
 # Adres künyeyle aynı yerden gelir (books.json -> channels.site). Burada ikinci
@@ -181,7 +185,7 @@ ALT_BASLIK_RE = re.compile(r"^####\s+.+$", re.M)
 # — bu yüzden dayanağı burada açıkça yazılır. Buraya yazılan her işaretin gerçek
 # bir alıntıya karşılık gelmesi check_index'te ayrıca denetlenir.
 BLOK_DISI_DAYANAK = {
-    "Bulgu-19": ["Alıntı-19", "Alıntı-20", "Alıntı-22", "Alıntı-33", "Alıntı-34"],
+    "Bulgu-19": ["Alıntı-23", "Alıntı-24", "Alıntı-26", "Alıntı-35", "Alıntı-45", "Alıntı-46"],
 }
 
 
@@ -397,7 +401,10 @@ def check_translation(corpus: dict[int, dict]) -> tuple[int, int, list[str]]:
         text = clean(" ".join(l.lstrip("> ").rstrip() for l in block.splitlines()))
         # Künye "— p. 21" ya da "— [Tarih I](url), p. 21" biçiminde olabilir.
         m = re.search(
-            r"—\s*(?:\[?Tarih I{1,2}\]?(?:\([^)]*\))?\s*,\s*)?p\.\s*(\d+)(?:\s*[-–]\s*(\d+))?",
+            # Sayfa aralığı İngilizce sürümde "pp. 85-86" biçimindedir; yalnız "p."
+            # arayan bir kalıp o künyeleri hiç görmez ve alıntı sessizce denetim
+            # dışında kalırdı.
+            r"—\s*(?:\[?Tarih I{1,2}\]?(?:\([^)]*\))?\s*,\s*)?pp?\.\s*(\d+)(?:\s*[-–]\s*(\d+))?",
             text,
         )
         if not m:
@@ -525,6 +532,21 @@ def check_index(md: str, rows: list[dict]) -> dict[str, int]:
     return sayilar
 
 
+def check_annex(rows: list[dict]) -> int:
+    """Eklerdeki her indeks atfı gerçek bir kayda karşılık gelmeli.
+
+    Ekler ana metinden ayrı bir dosyada durur; ana metin yeniden numaralandığında
+    ekler sessizce yanlış bulguya işaret edebilir. Bu denetim onu yakalar."""
+    if not ANNEX_MD.exists():
+        return 0
+    kayitli = {r["id"] for r in rows}
+    atiflar = set(ATIF_RE.findall(ANNEX_MD.read_text(encoding="utf-8")))
+    eksik = sorted(a for a in atiflar if a not in kayitli)
+    if eksik:
+        raise SystemExit(f"eklerde tanımsız indekse atıf var: {eksik}")
+    return len(atiflar)
+
+
 def _fold(s: str) -> str:
     tr = str.maketrans("çğıİöşüÇĞÖŞÜâîûÂÎÛ", "cgiiosucgosuaiuaiu")
     return re.sub(r"[*`_]", "", s).translate(tr).lower()
@@ -586,6 +608,10 @@ def main() -> None:
     for r in checked:
         if not r["verified"]:
             print(f"      DOĞRULANMADI  {r['id']}  s.{r['printed_page']}  {r['quote'][:60]}…")
+
+    n_ek = check_annex(rows)
+    if n_ek:
+        print(f"    ekler: {ANNEX_MD.name} — {n_ek} indeks atfının hepsi ana metinde var")
 
     en_ok, en_total, en_bad = check_translation(corpus)
     if en_total:

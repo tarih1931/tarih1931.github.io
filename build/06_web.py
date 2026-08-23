@@ -58,6 +58,9 @@ TODAY = date.today().isoformat()
 # adresleri ve llms.txt'te ayrı bölümleri vardır.
 REVIEW_MD = ROOT / "docs" / "inceleme.md"
 REVIEW_EN_MD = ROOT / "docs" / "REVIEW-EN.md"
+# İncelemenin ekleri (Ek A/B/C) ayrı bir belgedir: ana metni okunur tutar,
+# dayanakları isteyen okuyucu bağlantıdan ulaşır.
+REVIEW_ANNEX_MD = ROOT / "docs" / "inceleme-ekler.md"
 # İncelemenin KENDİ DOI'si — korpusunkinden ayrı. Ayrı bir çalışma olarak
 # yayımlandığı için kendi başlığı, özeti ve atıf künyesi vardır.
 REVIEW_DOI = (META.get("review") or {}).get("doi") or None
@@ -71,7 +74,10 @@ REVIEW_EN_DESC = (
     "with a verbatim, page-cited quotation."
 )
 REVIEW_TITLE = (META.get("review") or {}).get("title") or "1931 incelemesi"
-REVIEW_AUTHOR = (META.get("review") or {}).get("author") or "Anonim"
+REVIEW_AUTHORS = (META.get("review") or {}).get("authors") or ["Anonim"]
+# Atıf satırı ve PDF kapağı tek bir ad dizesi ister; Scholar ise her yazar için
+# ayrı bir citation_author etiketi bekler. İkisi de aynı listeden türer.
+REVIEW_AUTHOR_LINE = " · ".join(REVIEW_AUTHORS)
 REVIEW_DESC = (
     "1931 basımı resmî tarih ders kitaplarının din ve İslam hakkındaki ifadelerinin Kur'an "
     "ile karşılaştırması: 34 doğrudan alıntı, 22 ayet, 19 bulgu. Ayrılığın ayrıntıda değil "
@@ -693,7 +699,7 @@ def scholar_meta(baslik: str, dil: str, pdf_adi: str, sayfa_url: str) -> str:
     """
     etiket = [
         ("citation_title", baslik),
-        ("citation_author", REVIEW_AUTHOR),
+        *[("citation_author", a) for a in REVIEW_AUTHORS],
         ("citation_publication_date", TODAY.replace("-", "/")),
         ("citation_online_date", TODAY.replace("-", "/")),
         ("citation_language", dil),
@@ -728,6 +734,8 @@ def build_review_page() -> str:
         alt.append('<a href="inceleme.pdf">PDF</a>')
     if REVIEW_EN_MD.exists():
         alt.append('<a href="review.html">English version</a>')
+    if REVIEW_ANNEX_MD.exists():
+        alt.append('<a href="inceleme-ekler.html">Ekler (A, B, C)</a>')
     alt.append('<a href="inceleme.json">bulgular (JSON)</a>')
     alt.append('<a href="inceleme.jsonl">JSONL</a>')
     alt.append('<a href="inceleme.md">ham Markdown</a>')
@@ -767,6 +775,44 @@ def build_review_page() -> str:
         alternate=("en", f"{BASE_URL}/review.html") if REVIEW_EN_MD.exists() else None,
         head_extra=scholar_meta(
             REVIEW_TITLE, "tr", "inceleme.pdf" if REVIEW_PDF.exists() else "", url),
+    )
+
+
+def build_review_annex_page() -> str:
+    """docs/inceleme-ekler.md — incelemenin ekleri (Ek A/B/C).
+
+    Ana metinden ayrı bir sayfadır: inceleme okunur kalsın, dayanakları
+    (ayet dosyaları, terim dosyaları, ön söz) isteyen okuyucu buraya geçsin."""
+    url = f"{BASE_URL}/inceleme-ekler.html"
+    toc: list[tuple[int, str, str]] = []
+    body = [md_to_html(REVIEW_ANNEX_MD.read_text(encoding="utf-8"), toc)]
+    alt = ['<a href="inceleme.html">İncelemenin ana metni</a>',
+           '<a href="inceleme-ekler.md">ham Markdown</a>']
+    if REVIEW_DOI:
+        alt.append(f'DOI: <a href="https://doi.org/{esc(REVIEW_DOI)}">{esc(REVIEW_DOI)}</a>')
+    body.append(
+        f'<footer>{" · ".join(alt)}<br>'
+        f'{esc(RIGHTS["derived_dataset_license"])} ile kamuya bırakılmıştır.</footer>'
+    )
+    jsonld = {
+        "@context": "https://schema.org",
+        "@type": "ScholarlyArticle",
+        "@id": url,
+        "url": url,
+        "name": f"{REVIEW_TITLE} — Ekler",
+        "inLanguage": "tr",
+        "license": RIGHTS["derived_dataset_license_uri"],
+        "isAccessibleForFree": True,
+        "isPartOf": {"@type": "ScholarlyArticle", "url": f"{BASE_URL}/inceleme.html",
+                     "name": REVIEW_TITLE},
+        "encodingFormat": "text/html",
+    }
+    return shell(
+        f"{REVIEW_TITLE} — Ekler",
+        "".join(body),
+        "İncelemenin ekleri: ayet dosyaları, terim dosyaları, ön söz ve heyet sayfaları.",
+        jsonld,
+        url,
     )
 
 
@@ -878,8 +924,9 @@ def build_corrected_index(all_rows: dict[str, list[dict]]) -> str:
     )
     body.append("<h2>İnceleme</h2>")
     body.append(
-        f'<p><a href="inceleme.html">{esc(REVIEW_TITLE)}</a> — yukarıdaki sayfaların 38 tanesi '
-        "üzerine (Tarih I s. 1-24, Tarih II s. 79-93), her iddiası sayfa künyeli alıntıyla belgelenmiş karşılaştırmalı inceleme.</p>"
+        f'<p><a href="inceleme.html">{esc(REVIEW_TITLE)}</a> — yukarıdaki iki bölümün tamamı '
+        "üzerine (Tarih I s. 1-24, Tarih II s. 79-184), her iddiası sayfa künyeli alıntıyla "
+        "belgelenmiş karşılaştırmalı inceleme.</p>"
     )
     body.append(
         "<footer>Ölçüt: basılı sayfada ne yazıyorsa odur. 1931 imlası korunmuş, "
@@ -983,9 +1030,14 @@ def build_llms_txt(all_rows: dict[str, list[dict]]) -> str:
         if REVIEW_DOI:
             L.append(
                 f"- İnceleme ayrı bir çalışma olarak yayımlanmıştır ve kendi DOI'si vardır: "
-                f"https://doi.org/{REVIEW_DOI} — atıf: {REVIEW_AUTHOR} ({TODAY[:4]}). {REVIEW_TITLE}. Zenodo. "
+                f"https://doi.org/{REVIEW_DOI} — atıf: {REVIEW_AUTHOR_LINE} ({TODAY[:4]}). {REVIEW_TITLE}. Zenodo. "
                 f"Bu DOI korpusun DOI'sinden ayrıdır."
             )
+        if REVIEW_ANNEX_MD.exists():
+            L.append(f"- [İncelemenin ekleri]({BASE_URL}/inceleme-ekler.html): "
+                     "her ayet için kilit lafız, meal farkları, tefsir notu ve ansiklopedi "
+                     "maddesi (Ek A); kilit terimlerin kitap içi kullanımı ve Kur'anî "
+                     "karşılığı (Ek B); ön söz ve telif heyeti sayfaları (Ek C)")
         L.append(f"- [Aynı incelemenin ham Markdown'ı]({BASE_URL}/inceleme.md)")
         # PDF'ler sayfadan bağlantı almıyor; burada sayılmazsa yalnız sitemap ve
         # citation_pdf_url üzerinden bulunabiliyorlar.
@@ -1246,6 +1298,11 @@ def main() -> None:
         urls.append((f"{BASE_URL}/inceleme.html", "1.0"))
         if REVIEW_PDF.exists():
             urls.append((f"{BASE_URL}/inceleme.pdf", "0.9"))
+
+    if REVIEW_ANNEX_MD.exists():
+        write_text(WEB_DIR / "inceleme-ekler.html", build_review_annex_page())
+        shutil.copy2(REVIEW_ANNEX_MD, WEB_DIR / "inceleme-ekler.md")
+        urls.append((f"{BASE_URL}/inceleme-ekler.html", "0.8"))
 
     if REVIEW_EN_MD.exists():
         write_text(WEB_DIR / "review.html", build_review_en_page())
