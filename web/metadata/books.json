@@ -54,6 +54,8 @@
       "Prof. Dr. Muhammed Fatih Talu",
       "Claude (Anthropic)"
     ],
+    "email": "fatihtalu@gmail.com",
+    "$comment_email": "Yazışma adresi. Yalnız SİTEDE, ilk yazarın adına mailto bağlantısı olarak giydirilir (06_web); .md ve PDF sürümlerine girmez.",
     "$comment_authors": "İncelemenin yazarları. Künye, site atıf kutusu, Google Scholar etiketleri (her yazar için ayrı citation_author) ve yayın paketi buradan okur; kodda ikinci bir yerde yazmaz. Belgedeki imza satırı bu adların ' · ' ile birleştirilmiş hâlidir ve 16 numaralı adım bunu denetler.",
     "doi": "10.5281/zenodo.21963507",
     "wikidata": "Q141130317",
