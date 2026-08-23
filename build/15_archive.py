@@ -59,11 +59,17 @@ INCELEME_PAKET = ROOT / "inceleme" / "yayin"
 # (files.xml içindeki orig_sort), yükleme sırasına bakmaz. "inceleme-en.pdf"
 # alfabetik olarak "inceleme-tr.pdf"ten önce geldiği için sayfa İngilizce
 # açılıyordu. Adlar sitedeki inceleme.html / review.html düzeniyle de aynı.
+# Ekler "supplement-" ile başlar: aynı sıralama kuralı yüzünden. "inceleme-ekler-tr.pdf"
+# alfabetik olarak "inceleme-tr.pdf"ten önce gelir ve okuyucu öğeyi eklerle açardı.
 INCELEME_DOSYALAR = {
     "inceleme-tr.pdf": "inceleme-tr.pdf",
     "inceleme-tr.md": "inceleme-tr.md",
     "review-en.pdf": "inceleme-en.pdf",
     "review-en.md": "inceleme-en.md",
+    "supplement-ekler-tr.pdf": "inceleme-ekler-tr.pdf",
+    "supplement-ekler-tr.md": "inceleme-ekler-tr.md",
+    "supplement-appendices-en.pdf": "inceleme-ekler-en.pdf",
+    "supplement-appendices-en.md": "inceleme-ekler-en.md",
     "bulgular.jsonl": "bulgular.jsonl",
 }
 
@@ -169,13 +175,15 @@ def inceleme_kunyesi() -> dict:
         "description": (
             f"<p><strong>Özet:</strong> {ozet_tr}</p>"
             f"<p><strong>Abstract (English):</strong> {ozet_en}</p>"
-            "<p>Türkçe aslı ve İngilizce sürümü birlikte verilmiştir (PDF + Markdown). "
+            "<p>Türkçe aslı ve İngilizce sürümü, ekleriyle birlikte verilmiştir "
+            "(PDF + Markdown). "
             "Her alıntı basılı sayfa künyelidir ve kaynak metne karşı makine ile "
             "doğrulanmıştır; <code>bulgular.jsonl</code> iddiaları makine-okunabilir "
             "biçimde taşır.</p>"
             "<p>"
             f'DOI: <a href="https://doi.org/{inc.get("doi", "")}">https://doi.org/{inc.get("doi", "")}</a><br>'
-            f'Çevrimiçi sürüm: <a href="{BASE_URL}/inceleme.html">{BASE_URL}/inceleme.html</a> &middot; <a href="{BASE_URL}/review.html">English</a></p>'
+            f'Çevrimiçi sürüm: <a href="{BASE_URL}/inceleme.html">{BASE_URL}/inceleme.html</a> &middot; <a href="{BASE_URL}/review.html">English</a><br>'
+            f'Ekler (Ek A/B/C/D): <a href="{BASE_URL}/inceleme-ekler.html">{BASE_URL}/inceleme-ekler.html</a> &middot; <a href="{BASE_URL}/review-appendices.html">English</a></p>'
             "<p>İncelemenin dayandığı düzeltilmiş metin ve korpus: "
             f'<a href="https://doi.org/{COLL.get("doi", "")}">https://doi.org/{COLL.get("doi", "")}</a><br>'
             "Taranmış asıllar: "

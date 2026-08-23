@@ -129,7 +129,7 @@ def card() -> str:
         f"| `dogrulanmis` | İki bölüm, {n_corr} sayfa | **Elle düzeltilmiş** — taramayla karşılaştırılmış |",
         "| `parcalar` | RAG parçaları, sayfa aralığı künyeli | Düzeltilmemiş OCR |",
         "| `inceleme` | Metne dayalı incelemenin iddiaları | — |",
-        "| `inceleme-metin` | Aynı incelemenin tam metni, bölüm bölüm (TR + EN) | — |",
+        "| `inceleme-metin` | Aynı incelemenin tam metni ve ekleri, bölüm bölüm (TR + EN) | — |",
         "",
         "> Alıntı yapacaksanız `dogrulanmis` config'ini tercih ediniz. Korpusun geri",
         "> kalanı 150 DPI taramadan çıkarılmış, elle düzeltilmemiş OCR çıktısıdır;",
@@ -184,9 +184,13 @@ def card() -> str:
         "`verified` alanı alıntının o sayfada birebir bulunduğunun makine ile",
         "denetlendiğini gösterir.",
         "",
-        "`inceleme-metin` config'i aynı çalışmanın **tam metnini** taşır: bölüm başlığı,",
-        "gövde metni, dil, DOI ve kaynak sayfanın adresi. İddialar tek başına okunduğunda",
-        "gerekçe ve yöntem görünmez; bu config o eksiği kapatır.",
+        "`inceleme-metin` config'i aynı çalışmanın **tam metnini ve eklerini** taşır:",
+        "bölüm başlığı, gövde metni, dil, DOI, hangi belgeden geldiği (`belge`: ana",
+        "metin / ekler) ve kaynak sayfanın adresi. İddialar tek",
+        "başına okunduğunda gerekçe ve yöntem görünmez; bu config o eksiği kapatır.",
+        "Ekler (Ek A ayet dosyaları, Ek B terim dosyaları, Ek C ön söz ve heyet",
+        "sayfaları, Ek D hükümlerin dayanak tipi) ana metnin bölümlerinden sonra",
+        "gelir ve kendi kaynak adresini taşır.",
         "",
         "Kayıt tipleri: `quotation` (Alıntı-01…, kitaptan birebir aktarılan pasaj —",
         "doğrulanan budur), `verse` (Ayet-01…, bulgunun dayandığı ayet), `finding`",
@@ -253,9 +257,20 @@ def card() -> str:
 
 INCELEME_TR = ROOT / "docs" / "inceleme.md"
 INCELEME_EN = ROOT / "docs" / "REVIEW-EN.md"
+# Ekler ana metnin ardından aynı akışa girer: aynı çalışmanın parçasıdır,
+# aynı DOI'yi taşır, yalnız kaynak adresi ayrıdır.
+INCELEME_EK_TR = ROOT / "docs" / "inceleme-ekler.md"
+INCELEME_EK_EN = ROOT / "docs" / "REVIEW-APPENDICES-EN.md"
+# (dosya, site sayfası, ilk "## " başlığından önceki kısmın adı)
+BELGELER = {
+    "tr": ((INCELEME_TR, "inceleme.html", "Özet, kapsam ve yöntem"),
+           (INCELEME_EK_TR, "inceleme-ekler.html", "Eklerin özeti")),
+    "en": ((INCELEME_EN, "review.html", "Abstract, scope and method"),
+           (INCELEME_EK_EN, "review-appendices.html", "Abstract of the appendices")),
+}
 
 
-def metin_kayitlari(yol: Path, dil: str) -> list[dict]:
+def metin_kayitlari(yol: Path, dil: str, sayfa: str, onsoz: str, sira0: int = 0) -> list[dict]:
     """İnceleme metnini bölüm bölüm kayda çevirir.
 
     Bulgular (`bulgular.jsonl`) incelemenin iddialarını taşır ama metnin
@@ -267,11 +282,10 @@ def metin_kayitlari(yol: Path, dil: str) -> list[dict]:
     if not yol.exists():
         return []
     inc = META.get("review") or {}
-    url = f"{BASE_URL}/{'inceleme' if dil == 'tr' else 'review'}.html"
+    url = f"{BASE_URL}/{sayfa}"
     # İlk "## " başlığından önceki kısım özet, kapsam ve yöntemdir; başlıksız
     # kalırsa kayıt adsız görünür.
-    onsoz = {"tr": "Özet, kapsam ve yöntem", "en": "Abstract, scope and method"}[dil]
-    kayitlar, baslik, govde, sira = [], onsoz, [], 0
+    kayitlar, baslik, govde, sira = [], onsoz, [], sira0
 
     def ekle() -> None:
         nonlocal sira
@@ -285,6 +299,7 @@ def metin_kayitlari(yol: Path, dil: str) -> list[dict]:
             "bolum": baslik,
             "metin": metin,
             "eser": inc.get("title") if dil == "tr" else inc.get("title_en"),
+            "belge": "ekler" if "ekler" in sayfa or "appendices" in sayfa else "ana metin",
             "yazar": inc.get("author"),
             "doi": inc.get("doi"),
             "kaynak_url": url,
@@ -368,8 +383,10 @@ def main() -> None:
 
     kopyala(ROOT / "inceleme" / "bulgular.jsonl", "inceleme/bulgular.jsonl")
 
-    for dil, yol in (("tr", INCELEME_TR), ("en", INCELEME_EN)):
-        kayitlar = metin_kayitlari(yol, dil)
+    for dil, belgeler in BELGELER.items():
+        kayitlar: list[dict] = []
+        for yol, sayfa, onsoz in belgeler:
+            kayitlar += metin_kayitlari(yol, dil, sayfa, onsoz, len(kayitlar))
         if not kayitlar:
             continue
         rel = f"inceleme/metin-{dil}.jsonl"
