@@ -836,7 +836,7 @@ taramaları kaynakçada **[1]** ve **[2]**'dedir.
 [**Ekler**](https://tarih1931.github.io/inceleme-ekler.html).
 
 - **Ek A — Ayet dosyaları.** Ana metinde anılan otuz sekiz ayetin her biri için:
-  bulgudaki yeri, *Kur'an Yolu* tefsirinin notu ve ilgili *TDV İslâm Ansiklopedisi*
+  bulgudaki yeri, *Kur'an Yolu Tefsiri*'nin notu ve ilgili *TDV İslâm Ansiklopedisi*
   maddesi.
 - **Ek B — Terim dosyaları.** Bulguları taşıyan dokuz terimin (ilham/vahiy,
   uydurma/masal, müessis/kurmak, an'ane, telâkki, tekâmül, mefhum/bulmak,
@@ -903,7 +903,7 @@ Yanlılık iddiası bir yerde somutlaşıyorsa (yanlış aktarılmış bir alın
 
 - **[13]** *Kur'an-ı Kerim Meâli*, haz. Halil Altuntaş – Muzaffer Şahin, Diyanet İşleri
   Başkanlığı Yayınları, Ankara. [Çevrimiçi sürüm](https://kuran.diyanet.gov.tr)
-- **[14]** *Kur'an Yolu Türkçe Meâl ve Tefsir*, haz. Hayreddin Karaman, Mustafa Çağrıcı,
+- **[14]** *Kur'an Yolu Türkçe Meâl ve Tefsir* (çevrimiçi sürümde *Kur'an Yolu Tefsiri*), haz. Hayreddin Karaman, Mustafa Çağrıcı,
   İbrahim Kâfi Dönmez, Sadrettin Gümüş, Diyanet İşleri Başkanlığı Yayınları, Ankara, 5 c.
   [Çevrimiçi sürüm](https://kuran.diyanet.gov.tr/tefsir)
 - **[15]** *TDV İslâm Ansiklopedisi* (Türkiye Diyanet Vakfı İslâm Ansiklopedisi), Türkiye

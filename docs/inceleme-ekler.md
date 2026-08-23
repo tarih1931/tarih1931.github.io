@@ -10,234 +10,234 @@
 
 ## Ek A. Ayet dosyaları
 
-Bu ek, ana metinde anılan otuz sekiz ayetin her biri için üç şey verir: ayetin hangi bulguda ve ne için kullanıldığı, *Kur'an Yolu* tefsirinin **[14]** o ayete dair notu ve ilgili *Türkiye Diyanet Vakfı İslâm Ansiklopedisi* maddesi. Ayetlerin kendi metni burada tekrarlanmaz; ana metinde, Ayet-01'den Ayet-38'e kadar her biri Diyanet İşleri Başkanlığı'nın *Kur'an-ı Kerim Meâli*'nden **[13]** birebir verilmiştir. Tefsir notları *Kur'an Yolu*'nun çevrimiçi sürümünden özetlenmiş, ansiklopedi maddeleri çevrimiçi sürümde açılıp doğrulanmıştır (erişim: 23 Ağustos 2026).
+Bu ek, ana metinde anılan otuz sekiz ayetin her biri için üç şey verir: ayetin hangi bulguda ve ne için kullanıldığı, *Kur'an Yolu Tefsiri*'nin **[14]** o ayete dair notu ve ilgili *Türkiye Diyanet Vakfı İslâm Ansiklopedisi* maddesi. Ayetlerin kendi metni burada tekrarlanmaz; ana metinde, Ayet-01'den Ayet-38'e kadar her biri Diyanet İşleri Başkanlığı'nın *Kur'an-ı Kerim Meâli*'nden **[13]** birebir verilmiştir. Tefsir notları *Kur'an Yolu Tefsiri*'nin çevrimiçi sürümünden özetlenmiş, ansiklopedi maddeleri çevrimiçi sürümde açılıp doğrulanmıştır (erişim: 23 Ağustos 2026).
 
 ### A.1 — Ayet-01 · Şûrâ 42/13
 
 - **Bulgudaki yeri.** Bulgu-01 ve 02: din, Allah'ın bütün peygamberlere "din kıldığı" esastır; fiil *şera'a*, fâil Allah.
-- **Kur'an Yolu.** Hemen bütün müfessirlere göre 'din' burada ilâhî dinlerin tamamını kapsar; kastedilen bütün dinlerdeki ortak hükümlerdir (başta tevhid). Diğer peygamberler için 'vassâ', Hz. Muhammed için 'evhâ' seçilmesi onun peygamberlik görevini vurgular; nüzul sebebi/nesh notu yok.
+- **Kur'an Yolu Tefsiri.** Hemen bütün müfessirlere göre 'din' burada ilâhî dinlerin tamamını kapsar; kastedilen bütün dinlerdeki ortak hükümlerdir (başta tevhid). Diğer peygamberler için 'vassâ', Hz. Muhammed için 'evhâ' seçilmesi onun peygamberlik görevini vurgular; nüzul sebebi/nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [DİN](https://islamansiklopedisi.org.tr/din)
 
 ### A.2 — Ayet-02 · Enbiyâ 21/25
 
 - **Bulgudaki yeri.** Bulgu-01: her peygambere aynı tevhid vahyedilmiştir; din tekâmülün neticesi değildir.
-- **Kur'an Yolu.** Peygamber göndermenin maksadı insanların Allah'ın birliğine inanıp yalnız O'na kulluk etmelerini sağlamaktır; ilâhî dinler amaç ve öz itibariyle birdir, hepsi tevhid inancında buluşur, bu âyet bunun en güçlü delillerinden biridir. Nüzul sebebi, nesh veya kelime anlamı tartışması yok.
+- **Kur'an Yolu Tefsiri.** Peygamber göndermenin maksadı insanların Allah'ın birliğine inanıp yalnız O'na kulluk etmelerini sağlamaktır; ilâhî dinler amaç ve öz itibariyle birdir, hepsi tevhid inancında buluşur, bu âyet bunun en güçlü delillerinden biridir. Nüzul sebebi, nesh veya kelime anlamı tartışması yok.
 - **TDV İslâm Ansiklopedisi.** [TEVHİD](https://islamansiklopedisi.org.tr/tevhid)
 
 ### A.3 — Ayet-03 · Mâide 5/3
 
 - **Bulgudaki yeri.** Bulgu-02: dini kemale erdiren ve "din olarak seçen" Allah'tır — dinin vâzıı.
-- **Kur'an Yolu.** 'Dininizi kemale erdirdim', Hz. Âdem'den beri gönderilen ve Allah katında İslâm denen dinin Kur'an'la kemale erdirilmesidir (Âl-i İmrân 3/19, 85). Nüzul tartışması: Vedâ haccında indiği rivayetlerine karşı Ateş çok önce indiğini, Mevdûdî hicrî 6'da inip hicrî 10'da yeniden nâzil olduğunu söyler; nesh notu yok.
+- **Kur'an Yolu Tefsiri.** 'Dininizi kemale erdirdim', Hz. Âdem'den beri gönderilen ve Allah katında İslâm denen dinin Kur'an'la kemale erdirilmesidir (Âl-i İmrân 3/19, 85). Nüzul tartışması: Vedâ haccında indiği rivayetlerine karşı Ateş çok önce indiğini, Mevdûdî hicrî 6'da inip hicrî 10'da yeniden nâzil olduğunu söyler; nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [İSLÂM](https://islamansiklopedisi.org.tr/islam)
 
 ### A.4 — Ayet-04 · Tâhâ 20/110
 
 - **Bulgudaki yeri.** Bulgu-03: insan bilgisi Allah'ı kuşatamaz; ulûhiyet, zekânın "bulduğu" bir mefhum değildir.
-- **Kur'an Yolu.** 105-112. âyetler blok hâlinde tefsir edilir; 110. âyete özel açıklama yapılmayıp Allah'ın ilminin kuşatılamazlığı için Bakara 2/48, 255'e gönderme verilir. Kelime tartışması olarak 112'deki 'hadm'ın anlamı kaydedilir (Râgıb istiare yoluyla 'zulüm' sayar, müellifler zulm-hadm nüansını korur); nüzul sebebi/nesh notu yok.
+- **Kur'an Yolu Tefsiri.** 105-112. âyetler blok hâlinde tefsir edilir; 110. âyete özel açıklama yapılmayıp Allah'ın ilminin kuşatılamazlığı için Bakara 2/48, 255'e gönderme verilir. Kelime tartışması olarak 112'deki 'hadm'ın anlamı kaydedilir (Râgıb istiare yoluyla 'zulüm' sayar, müellifler zulm-hadm nüansını korur); nüzul sebebi/nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [ALÎM](https://islamansiklopedisi.org.tr/alim--esma-i-husna)
 
 ### A.5 — Ayet-05 · Bakara 2/255
 
 - **Bulgudaki yeri.** Bulgu-03: O'nun ilminden ancak dilediği kadarı kavranır; ilmin sahibi ve sınırını koyan O'dur.
-- **Kur'an Yolu.** Âyetü'l-kürsî İslâm inancının özünü (tevhid) ihtiva eder; Allah'tan başka bütün bilgi sahiplerinin bilgisi sınırlıdır. Kelime tartışması: 'kürsî' sözlükte 'koltuk, taht', mecazen 'saltanat, hükümranlık'; İbn Abbas'a göre ilimdir, mahiyetini ancak Allah bilir (müteşabih); nüzul sebebi/nesh notu yok.
+- **Kur'an Yolu Tefsiri.** Âyetü'l-kürsî İslâm inancının özünü (tevhid) ihtiva eder; Allah'tan başka bütün bilgi sahiplerinin bilgisi sınırlıdır. Kelime tartışması: 'kürsî' sözlükte 'koltuk, taht', mecazen 'saltanat, hükümranlık'; İbn Abbas'a göre ilimdir, mahiyetini ancak Allah bilir (müteşabih); nüzul sebebi/nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [ÂYETÜ'l-KÜRSÎ](https://islamansiklopedisi.org.tr/ayetul-kursi)
 
 ### A.6 — Ayet-06 · Bakara 2/3
 
 - **Bulgudaki yeri.** Bulgu-04: gayba iman, müminin ilk vasfıdır.
-- **Kur'an Yolu.** Gayb 'gözle görülmeyen; akıl, duyular vb. beşerî bilgi vasıtalarıyla bilinemeyen varlıklar, ilişkiler ve oluşlar' diye tanımlanır; Allah, vahiy, kader, ruh, kıyamet ve âhiret hâlleri gayb âlemindendir, bilgi kaynağı vahiydir. Tefsir 'bi'l-gayb'ı imanın nesnesi olarak okur; nüzul sebebi/nesh notu yok.
+- **Kur'an Yolu Tefsiri.** Gayb 'gözle görülmeyen; akıl, duyular vb. beşerî bilgi vasıtalarıyla bilinemeyen varlıklar, ilişkiler ve oluşlar' diye tanımlanır; Allah, vahiy, kader, ruh, kıyamet ve âhiret hâlleri gayb âlemindendir, bilgi kaynağı vahiydir. Tefsir 'bi'l-gayb'ı imanın nesnesi olarak okur; nüzul sebebi/nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [GAYB](https://islamansiklopedisi.org.tr/gayb)
 
 ### A.7 — Ayet-07 · Bakara 2/177
 
 - **Bulgudaki yeri.** Bulgu-04: iman edilecek şeylerin listesi — hepsi kitabın "uydurma" saydığı sınıftadır.
-- **Kur'an Yolu.** 'Birr' Kur'an'ın en kapsamlı kavramlarından biridir; âyette sayılan imana, ibadete, sosyal ve bireysel ahlâka ilişkin dört grup meziyet sınırlama değil örneklemedir. Bağlam, kıble değişikliğinden (144-150) sonra çıkan tartışmaya cevaptır: şeklî unsurlar iman-ibadet-ahlâk özünden yoksun kaldığında temel önem taşımaz; nesh notu yok.
+- **Kur'an Yolu Tefsiri.** 'Birr' Kur'an'ın en kapsamlı kavramlarından biridir; âyette sayılan imana, ibadete, sosyal ve bireysel ahlâka ilişkin dört grup meziyet sınırlama değil örneklemedir. Bağlam, kıble değişikliğinden (144-150) sonra çıkan tartışmaya cevaptır: şeklî unsurlar iman-ibadet-ahlâk özünden yoksun kaldığında temel önem taşımaz; nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [İMAN](https://islamansiklopedisi.org.tr/iman)
 
 ### A.8 — Ayet-08 · Nahl 16/36
 
 - **Bulgudaki yeri.** Bulgu-05: her ümmete tevhidi tebliğ eden bir elçi gönderilmiştir; tevhid başlangıçtır.
-- **Kur'an Yolu.** 'Ümmet' burada genel anlamda geniş insan topluluğudur; dinin özü ve peygamber gönderilmesinin ana gayesi tevhiddir, kulluğun özü tevhidi zedeleyecek her inanç ve davranıştan kaçınmaktır. Tâğût için Mâide 5/60'a gönderme yapılır; nüzul sebebi/nesh notu yok.
+- **Kur'an Yolu Tefsiri.** 'Ümmet' burada genel anlamda geniş insan topluluğudur; dinin özü ve peygamber gönderilmesinin ana gayesi tevhiddir, kulluğun özü tevhidi zedeleyecek her inanç ve davranıştan kaçınmaktır. Tâğût için Mâide 5/60'a gönderme yapılır; nüzul sebebi/nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [PEYGAMBER](https://islamansiklopedisi.org.tr/peygamber)
 
 ### A.9 — Ayet-09 · Bakara 2/37
 
 - **Bulgudaki yeri.** Bulgu-05: ilk insan vahyin ilk muhatabıdır (*telakkâ*).
-- **Kur'an Yolu.** 'Kelimeler'in mahiyetine dair ayrı tartışma yoktur. Hak dinler insanın çatışan arzu ve ihtiyaçlarını düzene koymak üzere gönderilmiştir; Âdem'in davranışı ya günah değildir ya da Allah'ın öğrettiği tövbeyle temizlenmiştir, 'aslî günah' yoktur; nüzul sebebi/nesh notu yok.
+- **Kur'an Yolu Tefsiri.** 'Kelimeler'in mahiyetine dair ayrı tartışma yoktur. Hak dinler insanın çatışan arzu ve ihtiyaçlarını düzene koymak üzere gönderilmiştir; Âdem'in davranışı ya günah değildir ya da Allah'ın öğrettiği tövbeyle temizlenmiştir, 'aslî günah' yoktur; nüzul sebebi/nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [ÂDEM](https://islamansiklopedisi.org.tr/adem--peygamber)
 
 ### A.10 — Ayet-10 · Enbiyâ 21/30
 
 - **Bulgudaki yeri.** Bulgu-06: hayat sudan başlar, fakat fâil Allah'tır.
-- **Kur'an Yolu.** 'Bitişik olup ayrılma' için müfessirlerin üç yorumu (gök-yer bitişikti; gökler ve yer tek parçaydı; gök yağmur, yer bitki vermiyordu — Taberî sonuncusunu tercih eder) aktarılır, modern tefsirler evrenin tek kütleden ayrılması diye anlar. 'Her canlıyı sudan yarattık' hayatın temelinin suya dayandığına işarettir; bilimsel teorilerle açıklamanın her âyet için isabetli olmadığı kaydedilir, nüzul sebebi/nesh notu yok.
+- **Kur'an Yolu Tefsiri.** 'Bitişik olup ayrılma' için müfessirlerin üç yorumu (gök-yer bitişikti; gökler ve yer tek parçaydı; gök yağmur, yer bitki vermiyordu — Taberî sonuncusunu tercih eder) aktarılır, modern tefsirler evrenin tek kütleden ayrılması diye anlar. 'Her canlıyı sudan yarattık' hayatın temelinin suya dayandığına işarettir; bilimsel teorilerle açıklamanın her âyet için isabetli olmadığı kaydedilir, nüzul sebebi/nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [YARATMA](https://islamansiklopedisi.org.tr/yaratma)
 
 ### A.11 — Ayet-11 · Nûr 24/45
 
 - **Bulgudaki yeri.** Bulgu-06: bütün canlıları sudan yaratan Allah'tır.
-- **Kur'an Yolu.** Enbiyâ 21/30'daki hayat veren su ile buradaki 'bir su' farklıdır; ikincisi sperm olarak anlaşılır. 'Her birini kendine mahsus bir sudan' mânası da çıktığından canlı türlerinin tek asıldan değil farklı köklerden yaratıldığı sonucuna varılır (ortak ata/evrim okumasına kapalı); nüzul sebebi, nesh notu yok.
+- **Kur'an Yolu Tefsiri.** Enbiyâ 21/30'daki hayat veren su ile buradaki 'bir su' farklıdır; ikincisi sperm olarak anlaşılır. 'Her birini kendine mahsus bir sudan' mânası da çıktığından canlı türlerinin tek asıldan değil farklı köklerden yaratıldığı sonucuna varılır (ortak ata/evrim okumasına kapalı); nüzul sebebi, nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [HAYAT](https://islamansiklopedisi.org.tr/hayat)
 
 ### A.12 — Ayet-12 · Vâkıa 56/57-59
 
 - **Bulgudaki yeri.** Bulgu-07: "yaratan siz misiniz, yoksa biz miyiz?" — fâil sorusu.
-- **Kur'an Yolu.** Âyet grubu, insanın kendi varlığı ve yakın çevresi (meni, ekin, su, ateş) üzerinde 'bütün bu varlık ve oluşların hangi irade ve gücün eseri olduğu' sorusunu sorarak Allah'ın yaratma gücüne dikkat çeker. 57-59 için embriyolojik ayrıntı veya yaratılış/evrim tartışması yapılmaz; 'şecere' (ateş çıkaran ağaç) ve 'tezkire' (hatırlatma) kelimelerinin anlamı verilir, nüzul sebebi/nesh notu yok.
+- **Kur'an Yolu Tefsiri.** Âyet grubu, insanın kendi varlığı ve yakın çevresi (meni, ekin, su, ateş) üzerinde 'bütün bu varlık ve oluşların hangi irade ve gücün eseri olduğu' sorusunu sorarak Allah'ın yaratma gücüne dikkat çeker. 57-59 için embriyolojik ayrıntı veya yaratılış/evrim tartışması yapılmaz; 'şecere' (ateş çıkaran ağaç) ve 'tezkire' (hatırlatma) kelimelerinin anlamı verilir, nüzul sebebi/nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [İNSAN](https://islamansiklopedisi.org.tr/insan)
 
 ### A.13 — Ayet-13 · Mü'minûn 23/12-14
 
 - **Bulgudaki yeri.** Bulgu-07: çamurdan özden kademeli yaratış; her kademenin fâili Allah'tır.
-- **Kur'an Yolu.** 'Sülâle' sözlükte 'bir şeyin içinden çekip çıkarılan nesne'dir; toprakta bulunup bedeni oluşturan maddeler kastedildiğinden 'sadece ilk insanın değil, diğer bütün insanların varlığının aslı da topraktandır'. Nutfe zigot, alaka rahme tutunan embriyo, mudga şekilsiz et parçasıdır; yaratılış/evrim tartışması, nüzul sebebi, nesh notu yok.
+- **Kur'an Yolu Tefsiri.** 'Sülâle' sözlükte 'bir şeyin içinden çekip çıkarılan nesne'dir; toprakta bulunup bedeni oluşturan maddeler kastedildiğinden 'sadece ilk insanın değil, diğer bütün insanların varlığının aslı da topraktandır'. Nutfe zigot, alaka rahme tutunan embriyo, mudga şekilsiz et parçasıdır; yaratılış/evrim tartışması, nüzul sebebi, nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [İNSAN](https://islamansiklopedisi.org.tr/insan)
 
 ### A.14 — Ayet-14 · Secde 32/7-9
 
 - **Bulgudaki yeri.** Bulgu-08: çamurla başlayan, öz sudan süren, şekillendirilen ve ruh üflenen yaratış — fâil Allah'tır.
-- **Kur'an Yolu.** 'Allah'ın ruhu' demek Kâbe'ye 'Allah'ın evi' demek gibi şeref izafetidir, parça diye anlaşılması O'nun zat ve sıfatlarına ters düşer; insanın değeri Rabbinin ona değer vermesinden gelir. 7. âyette Âdem/tür/evrim açıklaması, nüzul sebebi, nesh notu yok.
+- **Kur'an Yolu Tefsiri.** 'Allah'ın ruhu' demek Kâbe'ye 'Allah'ın evi' demek gibi şeref izafetidir, parça diye anlaşılması O'nun zat ve sıfatlarına ters düşer; insanın değeri Rabbinin ona değer vermesinden gelir. 7. âyette Âdem/tür/evrim açıklaması, nüzul sebebi, nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [RUH](https://islamansiklopedisi.org.tr/ruh)
 
 ### A.15 — Ayet-15 · İnfitâr 82/6-8
 
 - **Bulgudaki yeri.** Bulgu-08: insanı yaratan, şekillendiren, ölçülü yapan ve dilediği biçimde oluşturan Allah'tır.
-- **Kur'an Yolu.** İnsan, bedensel ve zihnî melekelerle donatılıp düzgün bir insan olarak dünyaya gelişini Rabbine borçludur. 'Dengeleme/ölçülü kılma' vücudun ve melekelerin uyumlu yaratılışı, 'terkibini dilediği gibi yaptı' yaratılışın Allah'ın iradesine bağlı oluşudur; yaratılış/evrim yorumu, nüzul sebebi, nesh notu yok.
+- **Kur'an Yolu Tefsiri.** İnsan, bedensel ve zihnî melekelerle donatılıp düzgün bir insan olarak dünyaya gelişini Rabbine borçludur. 'Dengeleme/ölçülü kılma' vücudun ve melekelerin uyumlu yaratılışı, 'terkibini dilediği gibi yaptı' yaratılışın Allah'ın iradesine bağlı oluşudur; yaratılış/evrim yorumu, nüzul sebebi, nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [İNSAN](https://islamansiklopedisi.org.tr/insan)
 
 ### A.16 — Ayet-16 · Necm 53/3-4
 
 - **Bulgudaki yeri.** Bulgu-09: vahiy, Kur'an'ın kendi sesiyle verdiği kat'î hükümdür; Peygamber hevâdan konuşmaz.
-- **Kur'an Yolu.** 'Hevâdan konuşmaz'ın kapsamı tartışmalıdır: 'bütün söyledikleri vahiydir' görüşüne karşı Peygamber'in ictihad içeren sözleri vardır; tefsir tebliğ dışı söz ve davranışlarının da vahyin kontrolünde olduğu sonucuna varır. Asıl amaç onu şair veya kâhin sayan müşriklere reddiyedir (nüzul bağlamı); 'o' zamiri Kur'an'a döner, nesh notu yok.
+- **Kur'an Yolu Tefsiri.** 'Hevâdan konuşmaz'ın kapsamı tartışmalıdır: 'bütün söyledikleri vahiydir' görüşüne karşı Peygamber'in ictihad içeren sözleri vardır; tefsir tebliğ dışı söz ve davranışlarının da vahyin kontrolünde olduğu sonucuna varır. Asıl amaç onu şair veya kâhin sayan müşriklere reddiyedir (nüzul bağlamı); 'o' zamiri Kur'an'a döner, nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [VAHİY](https://islamansiklopedisi.org.tr/vahiy)
 
 ### A.17 — Ayet-17 · Şûrâ 42/52
 
 - **Bulgudaki yeri.** Bulgu-09: Peygamber vahiyden önce "kitap nedir, iman nedir" bilmezdi — "kendinin bulduğu din"in reddi.
-- **Kur'an Yolu.** 'Bilmezdin', 'derâ' fiilinin hakikate vâkıf olmayı anlattığı hatırlatılarak, Peygamber'in vahiyden önce kitabın içeriğini ve imanın hakikatini bilmediği şeklinde anlaşılır; bu onun mümin olmadığı anlamına gelmez. Allah'a nasıl ibadet edileceği ancak vahiyle bilinir; nüzul sebebi, nesh notu yok.
+- **Kur'an Yolu Tefsiri.** 'Bilmezdin', 'derâ' fiilinin hakikate vâkıf olmayı anlattığı hatırlatılarak, Peygamber'in vahiyden önce kitabın içeriğini ve imanın hakikatini bilmediği şeklinde anlaşılır; bu onun mümin olmadığı anlamına gelmez. Allah'a nasıl ibadet edileceği ancak vahiyle bilinir; nüzul sebebi, nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [VAHİY](https://islamansiklopedisi.org.tr/vahiy); [RUH](https://islamansiklopedisi.org.tr/ruh)
 
 ### A.18 — Ayet-18 · Müddessir 74/24-25
 
 - **Bulgudaki yeri.** Bulgu-10: "insan sözü" (*kavlü'l-beşer*) nitelemesi Kur'an'da ismen anılır ve reddedilir.
-- **Kur'an Yolu.** Nüzul sebebi: müşrikler Peygamber'e ve Kur'an'a nasıl karşı çıkacaklarını Velîd b. Mugīre'ye sormuş; Velîd, Peygamber'in sihirbaz, Kur'an'ın eski sihirbazlardan nakledilegelen bir sihir olduğunu söyleyip yaymıştır. İnkârcılar Kur'an'ı 'beşer sözü' saymıştır; nesh notu yok, i'câz meselesi doğrudan ele alınmaz.
+- **Kur'an Yolu Tefsiri.** Nüzul sebebi: müşrikler Peygamber'e ve Kur'an'a nasıl karşı çıkacaklarını Velîd b. Mugīre'ye sormuş; Velîd, Peygamber'in sihirbaz, Kur'an'ın eski sihirbazlardan nakledilegelen bir sihir olduğunu söyleyip yaymıştır. İnkârcılar Kur'an'ı 'beşer sözü' saymıştır; nesh notu yok, i'câz meselesi doğrudan ele alınmaz.
 - **TDV İslâm Ansiklopedisi.** [VELÎD b. MUGĪRE](https://islamansiklopedisi.org.tr/velid-b-mugire)
 
 ### A.19 — Ayet-19 · Hâkka 69/41-43
 
 - **Bulgudaki yeri.** Bulgu-10: Kur'an şair ve kâhin sözü değil, âlemlerin Rabbinden tenzildir — kitabın şair ilhamı modelinin reddi.
-- **Kur'an Yolu.** Müşriklerin şair/kâhin ithamına karşı Allah yeminle Kur'an'ın şair ve kâhin sözü olmayıp 'değerli bir elçinin sözü' olduğunu ve âlemlerin Rabbi katından indirildiğini bildirir. 'Değerli elçi' çoğunluğa göre Hz. Peygamber'dir, Tekvîr 81/19'da Cebrâil'dir, ikisi de aracıdır; nüzul sebebi, nesh notu yok.
+- **Kur'an Yolu Tefsiri.** Müşriklerin şair/kâhin ithamına karşı Allah yeminle Kur'an'ın şair ve kâhin sözü olmayıp 'değerli bir elçinin sözü' olduğunu ve âlemlerin Rabbi katından indirildiğini bildirir. 'Değerli elçi' çoğunluğa göre Hz. Peygamber'dir, Tekvîr 81/19'da Cebrâil'dir, ikisi de aracıdır; nüzul sebebi, nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [KÂHİN](https://islamansiklopedisi.org.tr/kahin)
 
 ### A.20 — Ayet-20 · Yûnus 10/16
 
 - **Bulgudaki yeri.** Bulgu-10: vahiyden önceki "bir ömür" — "yıllarca tefekkür" iddiasına karşılık.
-- **Kur'an Yolu.** Nüzul ortamı 15. âyetteki değiştirme talebidir; cevap, içlerinde yıllarca yaşamış bir kimsenin üslûbu ile Kur'an'ın bambaşka içerik ve üslûbunun kolayca ayırt edilebileceğine dayanır. Âyet, Kur'an'ın lafız ve muhtevasında Hz. Peygamber'in hiçbir katkı ve etkisinin bulunmadığı konusunda son derece açıktır; nesh veya müteşabihlik tartışması yok.
+- **Kur'an Yolu Tefsiri.** Nüzul ortamı 15. âyetteki değiştirme talebidir; cevap, içlerinde yıllarca yaşamış bir kimsenin üslûbu ile Kur'an'ın bambaşka içerik ve üslûbunun kolayca ayırt edilebileceğine dayanır. Âyet, Kur'an'ın lafız ve muhtevasında Hz. Peygamber'in hiçbir katkı ve etkisinin bulunmadığı konusunda son derece açıktır; nesh veya müteşabihlik tartışması yok.
 - **TDV İslâm Ansiklopedisi.** [VAHİY](https://islamansiklopedisi.org.tr/vahiy)
 
 ### A.21 — Ayet-21 · Mâide 5/67
 
 - **Bulgudaki yeri.** Bulgu-11: tebliğ emri; Peygamber müessis değil mübelliğdir.
-- **Kur'an Yolu.** Tebliğ görevi muhatapların tavrına göre sınırlandırılamaz; 'iletmemiş olursun' cümlesi çoğunluğa göre 'bir kısmını dahi tebliğ etmezsen hiç tebliğ etmemiş sayılırsın' demektir ve Peygamber'in vahyin bir kısmını sakladığı iddialarını (bazı Şiîler, Bâtınîler) çürütür. 'Allah seni insanlardan koruyacaktır' cümlesine bağlanan nüzul rivayetlerinin gerçekliği eleştiriye açıktır (Derveze); nesh tartışması yok.
+- **Kur'an Yolu Tefsiri.** Tebliğ görevi muhatapların tavrına göre sınırlandırılamaz; 'iletmemiş olursun' cümlesi çoğunluğa göre 'bir kısmını dahi tebliğ etmezsen hiç tebliğ etmemiş sayılırsın' demektir ve Peygamber'in vahyin bir kısmını sakladığı iddialarını (bazı Şiîler, Bâtınîler) çürütür. 'Allah seni insanlardan koruyacaktır' cümlesine bağlanan nüzul rivayetlerinin gerçekliği eleştiriye açıktır (Derveze); nesh tartışması yok.
 - **TDV İslâm Ansiklopedisi.** [TEBLİĞ](https://islamansiklopedisi.org.tr/teblig); [PEYGAMBER](https://islamansiklopedisi.org.tr/peygamber)
 
 ### A.22 — Ayet-22 · A'râf 7/157
 
 - **Bulgudaki yeri.** Bulgu-11: "ümmî" Kur'an'da bir unvandır.
-- **Kur'an Yolu.** Ümmî için üç görüş vardır: Ümmülkurâ'ya nisbetle 'Mekkeli'; ümmete nisbetle 'Arap milletinden'; ümm'e (anne) nisbetle 'annesinden doğduğu gibi' okuma yazma bilmeyen (İbn Atıyye). Kur'an Yolu son görüşü benimser: kelime Hz. Peygamber'in 'en azından başlangıçta' okuma yazma bilmediğini ve din bilgisini yalnızca Allah'tan aldığını anlatır; 'Ehl-i kitaptan olmayan' seçeneği sayılmaz, nesh notu yalnız Yahudilikteki bazı ağır hükümlerin kaldırılmasına dairdir.
+- **Kur'an Yolu Tefsiri.** Ümmî için üç görüş vardır: Ümmülkurâ'ya nisbetle 'Mekkeli'; ümmete nisbetle 'Arap milletinden'; ümm'e (anne) nisbetle 'annesinden doğduğu gibi' okuma yazma bilmeyen (İbn Atıyye). Tefsir son görüşü benimser: kelime Hz. Peygamber'in 'en azından başlangıçta' okuma yazma bilmediğini ve din bilgisini yalnızca Allah'tan aldığını anlatır; 'Ehl-i kitaptan olmayan' seçeneği sayılmaz, nesh notu yalnız Yahudilikteki bazı ağır hükümlerin kaldırılmasına dairdir.
 - **TDV İslâm Ansiklopedisi.** [ÜMMÎ](https://islamansiklopedisi.org.tr/ummi)
 
 ### A.23 — Ayet-23 · Ankebût 29/48
 
 - **Bulgudaki yeri.** Bulgu-11: ümmîlik, vahyin beşerî birikimden bağımsızlığının delilidir.
-- **Kur'an Yolu.** Okumak ve yazmak öğrenim görmenin iki temel yoludur; âyet Hz. Peygamber'in böyle öğrenim görmediğini belirtir, aksi hâlde inkârcılar Kur'an'ı bir Ehl-i kitap mensubundan aldığını ileri sürebilirdi. Ümmîlik 'en azından' on üç yıllık Mekke dönemiyle kayıtlanır (sonradan yazma ihtimali açık); kelime yeniden tartışılmaz, nüzul sebebi ve nesh yok.
+- **Kur'an Yolu Tefsiri.** Okumak ve yazmak öğrenim görmenin iki temel yoludur; âyet Hz. Peygamber'in böyle öğrenim görmediğini belirtir, aksi hâlde inkârcılar Kur'an'ı bir Ehl-i kitap mensubundan aldığını ileri sürebilirdi. Ümmîlik 'en azından' on üç yıllık Mekke dönemiyle kayıtlanır (sonradan yazma ihtimali açık); kelime yeniden tartışılmaz, nüzul sebebi ve nesh yok.
 - **TDV İslâm Ansiklopedisi.** [ÜMMÎ](https://islamansiklopedisi.org.tr/ummi)
 
 ### A.24 — Ayet-24 · Tâhâ 20/13-14
 
 - **Bulgudaki yeri.** Bulgu-12: Musa seçilen ve kendisine vahyedilendir.
-- **Kur'an Yolu.** Hz. Mûsâ Kur'an'da kendisinden en çok söz edilen peygamberdir; anlatımın doğrudan peygamberlik görevinin verilmesiyle başlaması sûrenin Resûlullah'a teselli hedefiyle bağlantılıdır. 14. âyetin 'beni hatırında tutmak için namazı kıl' kısmına 'hatırladığında namazı kıl' mânası da verilmiş, fakat Taberî lafza göre ilk mânayı kuvvetli bulmuştur; nüzul sebebi veya nesh tartışması yok.
+- **Kur'an Yolu Tefsiri.** Hz. Mûsâ Kur'an'da kendisinden en çok söz edilen peygamberdir; anlatımın doğrudan peygamberlik görevinin verilmesiyle başlaması sûrenin Resûlullah'a teselli hedefiyle bağlantılıdır. 14. âyetin 'beni hatırında tutmak için namazı kıl' kısmına 'hatırladığında namazı kıl' mânası da verilmiş, fakat Taberî lafza göre ilk mânayı kuvvetli bulmuştur; nüzul sebebi veya nesh tartışması yok.
 - **TDV İslâm Ansiklopedisi.** [MÛSÂ](https://islamansiklopedisi.org.tr/musa--peygamber)
 
 ### A.25 — Ayet-25 · A'râf 7/145
 
 - **Bulgudaki yeri.** Bulgu-12: levhaları yazan Allah'tır — "kendi dininin esaslarını koymuştur"un reddi.
-- **Kur'an Yolu.** Âyet, önceki âyetteki 'risâletler'in açıklaması olarak Tevrat'ın levhalarda yazılı metinler hâlinde gönderildiğine işaret eder; elvâh 'dörtgen biçimindeki tahta' anlamındaki levhanın çoğuludur, Mûsâ'ya bildirilen vahiylerin yazıldığı taş levhalar kastedilir (Çıkış 24/12). 'en güzelini alsınlar' farklı yorumlanmış (İbn Atıyye), 'Yoldan çıkmışların yurdu' için dört görüş nakledilmiştir; nüzul sebebi veya nesh yok.
+- **Kur'an Yolu Tefsiri.** Âyet, önceki âyetteki 'risâletler'in açıklaması olarak Tevrat'ın levhalarda yazılı metinler hâlinde gönderildiğine işaret eder; elvâh 'dörtgen biçimindeki tahta' anlamındaki levhanın çoğuludur, Mûsâ'ya bildirilen vahiylerin yazıldığı taş levhalar kastedilir (Çıkış 24/12). 'en güzelini alsınlar' farklı yorumlanmış (İbn Atıyye), 'Yoldan çıkmışların yurdu' için dört görüş nakledilmiştir; nüzul sebebi veya nesh yok.
 - **TDV İslâm Ansiklopedisi.** [TEVRAT](https://islamansiklopedisi.org.tr/tevrat)
 
 ### A.26 — Ayet-26 · Rahmân 55/15
 
 - **Bulgudaki yeri.** Bulgu-13: cinler yaratılmış bir varlık nev'idir.
-- **Kur'an Yolu.** 14-15. âyetler insanların ve cinlerin ilk yaratılışlarındaki ana unsurları bildirerek bunların mahiyetini bilen Allah'ın yegâne yaratıcı olduğuna dikkat çeker. Mâric sözlükte 'çalkalanan, yerinde durmayan' ve 'karışan, karıştırıcı' demektir; birincisine göre 'dumansız saf alev', ikincisine göre 'karışan, nüfuz eden dumanlı ateş' diye açıklanmıştır; nüzul sebebi veya nesh yok.
+- **Kur'an Yolu Tefsiri.** 14-15. âyetler insanların ve cinlerin ilk yaratılışlarındaki ana unsurları bildirerek bunların mahiyetini bilen Allah'ın yegâne yaratıcı olduğuna dikkat çeker. Mâric sözlükte 'çalkalanan, yerinde durmayan' ve 'karışan, karıştırıcı' demektir; birincisine göre 'dumansız saf alev', ikincisine göre 'karışan, nüfuz eden dumanlı ateş' diye açıklanmıştır; nüzul sebebi veya nesh yok.
 - **TDV İslâm Ansiklopedisi.** [CİN](https://islamansiklopedisi.org.tr/cin)
 
 ### A.27 — Ayet-27 · Cin 72/1-2
 
 - **Bulgudaki yeri.** Bulgu-13: cinler hakkındaki bilginin kaynağı vahiydir ("bana (…) vahyedildi").
-- **Kur'an Yolu.** Cin 'örtmek, gizli kalmak' anlamındaki cenne fiilinden isimdir; terim olarak ateşten yaratılmış, duyularla idrak edilemeyen, şuur ve irade sahibi varlık türüdür. Nüzul: cinlerden bir grup Kur'an dinleyip kavimlerine dönerek iman ettiklerini açıklamış; Hz. Peygamber onları görmemiş, durum ona vahiyle bildirilmiştir; nesh yok.
+- **Kur'an Yolu Tefsiri.** Cin 'örtmek, gizli kalmak' anlamındaki cenne fiilinden isimdir; terim olarak ateşten yaratılmış, duyularla idrak edilemeyen, şuur ve irade sahibi varlık türüdür. Nüzul: cinlerden bir grup Kur'an dinleyip kavimlerine dönerek iman ettiklerini açıklamış; Hz. Peygamber onları görmemiş, durum ona vahiyle bildirilmiştir; nesh yok.
 - **TDV İslâm Ansiklopedisi.** [CİN](https://islamansiklopedisi.org.tr/cin)
 
 ### A.28 — Ayet-28 · Bakara 2/285
 
 - **Bulgudaki yeri.** Bulgu-14: meleklere iman, imanın sayılı esaslarındandır.
-- **Kur'an Yolu.** Sûrenin başında iman edenlerin nitelikleri sayılmış, sonunda Resul ve müminlerin Allah'a, meleklerine, kitaplarına ve peygamberlerine imanlarının Allah tarafından tasdik edilmesi eşsiz bir iltifat olarak sunulmuştur; peygamberler arasında ayırım yapılmaması için Bakara 2/136'ya gönderilir. Melek kavramının mahiyeti bu sayfada tartışılmaz (kalanı 286. âyet üzerinden teklîf-i mâlâ yutâk ve kader tartışmasıdır); nüzul sebebi veya nesh yok.
+- **Kur'an Yolu Tefsiri.** Sûrenin başında iman edenlerin nitelikleri sayılmış, sonunda Resul ve müminlerin Allah'a, meleklerine, kitaplarına ve peygamberlerine imanlarının Allah tarafından tasdik edilmesi eşsiz bir iltifat olarak sunulmuştur; peygamberler arasında ayırım yapılmaması için Bakara 2/136'ya gönderilir. Melek kavramının mahiyeti bu sayfada tartışılmaz (kalanı 286. âyet üzerinden teklîf-i mâlâ yutâk ve kader tartışmasıdır); nüzul sebebi veya nesh yok.
 - **TDV İslâm Ansiklopedisi.** [MELEK](https://islamansiklopedisi.org.tr/melek)
 
 ### A.29 — Ayet-29 · Nahl 16/102-103
 
 - **Bulgudaki yeri.** Bulgu-14: Kur'an'ı indiren Rûhu'l-Kudüs'tür; "ona bir insan öğretiyor" ithamı ismen reddedilir.
-- **Kur'an Yolu.** 'Ruhu'l-Kudüs'ten maksat Cebrâil'dir; Kur'an'ın bir yabancı tarafından dikte edilmesinin imkânsızlığı iddianın saçmalığını gösterir. Nüzul rivayetleri: öğrettiği söylenen kişi Ehl-i kitaptan Bel'am isimli Mekkeli bir kılıç ustası veya Yaîş ya da Cebr isimli bir hıristiyan köledir; bunlar tahminden öte değer taşımaz, İranlı Selmân rivayeti ise Selmân Medine'de müslüman olduğundan asılsızdır; nesh yok.
+- **Kur'an Yolu Tefsiri.** 'Ruhu'l-Kudüs'ten maksat Cebrâil'dir; Kur'an'ın bir yabancı tarafından dikte edilmesinin imkânsızlığı iddianın saçmalığını gösterir. Nüzul rivayetleri: öğrettiği söylenen kişi Ehl-i kitaptan Bel'am isimli Mekkeli bir kılıç ustası veya Yaîş ya da Cebr isimli bir hıristiyan köledir; bunlar tahminden öte değer taşımaz, İranlı Selmân rivayeti ise Selmân Medine'de müslüman olduğundan asılsızdır; nesh yok.
 - **TDV İslâm Ansiklopedisi.** [RÛHULKUDÜS](https://islamansiklopedisi.org.tr/ruhulkudus)
 
 ### A.30 — Ayet-30 · Bakara 2/127
 
 - **Bulgudaki yeri.** Bulgu-15: Kâbe'nin temellerini yükselten İbrahim ile İsmail'dir.
-- **Kur'an Yolu.** Müfessirler 'temellerini yükseltiyordu' ifadesinden Kâbe'nin yerinde daha önce (Nûh tûfanında harap olmuş) bir yapı bulunduğunu ve Hz. İbrâhim'in eski temeller üzerine binayı yükselttiğini çıkarır; ilk yapının melekler veya Hz. Âdem'e ait olduğu rivayetleri de aktarılır (Taberî). Taberî kesin bilgi bulunmadığını belirtir, Reşîd Rızâ bu rivayetleri İsrâiliyat sayıp Kâbe'yi ilk defa Hz. İbrâhim'in inşa ettiğini söyler; nüzul sebebi, nesih veya kıraat zikredilmez.
+- **Kur'an Yolu Tefsiri.** Müfessirler 'temellerini yükseltiyordu' ifadesinden Kâbe'nin yerinde daha önce (Nûh tûfanında harap olmuş) bir yapı bulunduğunu ve Hz. İbrâhim'in eski temeller üzerine binayı yükselttiğini çıkarır; ilk yapının melekler veya Hz. Âdem'e ait olduğu rivayetleri de aktarılır (Taberî). Taberî kesin bilgi bulunmadığını belirtir, Reşîd Rızâ bu rivayetleri İsrâiliyat sayıp Kâbe'yi ilk defa Hz. İbrâhim'in inşa ettiğini söyler; nüzul sebebi, nesih veya kıraat zikredilmez.
 - **TDV İslâm Ansiklopedisi.** [KÂBE](https://islamansiklopedisi.org.tr/kabe)
 
 ### A.31 — Ayet-31 · Hac 22/26
 
 - **Bulgudaki yeri.** Bulgu-15: Kâbe'nin yerini İbrahim'e belirleyen Allah'tır.
-- **Kur'an Yolu.** Âyet Kâbe'nin Hz. İbrâhim zamanından beri toplu ibadet mahalli olduğunu hatırlatır; 'yerleştirdiğimizde' diye çevrilen kısma 'yerini gösterdiğimizde' ve 'yerini hazırladığımızda' anlamları da verilmiştir (Şevkânî). 25. âyetin Mekke'de mi Medine'de mi indiği tartışması nakledilir; nesih zikredilmez.
+- **Kur'an Yolu Tefsiri.** Âyet Kâbe'nin Hz. İbrâhim zamanından beri toplu ibadet mahalli olduğunu hatırlatır; 'yerleştirdiğimizde' diye çevrilen kısma 'yerini gösterdiğimizde' ve 'yerini hazırladığımızda' anlamları da verilmiştir (Şevkânî). 25. âyetin Mekke'de mi Medine'de mi indiği tartışması nakledilir; nesih zikredilmez.
 - **TDV İslâm Ansiklopedisi.** [KÂBE](https://islamansiklopedisi.org.tr/kabe)
 
 ### A.32 — Ayet-32 · Mâide 5/97
 
 - **Bulgudaki yeri.** Bulgu-16: Kâbe'yi, haram ayı ve hac kurbanını insanlar için düzen kılan Allah'tır.
-- **Kur'an Yolu.** 97. âyet ayrıca açıklanmaz; Mâide 5/1-2'ye gönderilir. Nesih notu: Mâide 2'deki 'Beytülharâm'a yönelmiş kimselere saldırmayın' hükmünün neshedildiği (İbnü'l-Arabî, İbn Kesîr, Elmalılı) ve neshedilmediği (Elmalılı, Ateş) görüşleri birlikte aktarılır; Mâide 2 için Hutam b. Hind el-Bekrî hakkında nüzul rivayeti verilir.
+- **Kur'an Yolu Tefsiri.** 97. âyet ayrıca açıklanmaz; Mâide 5/1-2'ye gönderilir. Nesih notu: Mâide 2'deki 'Beytülharâm'a yönelmiş kimselere saldırmayın' hükmünün neshedildiği (İbnü'l-Arabî, İbn Kesîr, Elmalılı) ve neshedilmediği (Elmalılı, Ateş) görüşleri birlikte aktarılır; Mâide 2 için Hutam b. Hind el-Bekrî hakkında nüzul rivayeti verilir.
 - **TDV İslâm Ansiklopedisi.** [KÂBE](https://islamansiklopedisi.org.tr/kabe); [HARAM AYLAR](https://islamansiklopedisi.org.tr/haram-aylar)
 
 ### A.33 — Ayet-33 · Bakara 2/125
 
 - **Bulgudaki yeri.** Bulgu-16: Kâbe'yi toplantı ve güven yeri kılan Allah'tır.
-- **Kur'an Yolu.** Âyet Kâbe'nin tekrar tekrar ziyaret edilen hac mahalli ve güvenli yer kılındığını bildirir. Makam-ı İbrâhim, İbrâhim'in Kâbe'yi inşa ederken bastığına inanılan taş veya yeridir (Râzî); makamdan namaz yeri edinme buyruğunun muhatabı tartışmalıdır (Muhammed ümmeti veya İbrâhim'in kavmi); nüzul sebebi, nesih, kıraat yok.
+- **Kur'an Yolu Tefsiri.** Âyet Kâbe'nin tekrar tekrar ziyaret edilen hac mahalli ve güvenli yer kılındığını bildirir. Makam-ı İbrâhim, İbrâhim'in Kâbe'yi inşa ederken bastığına inanılan taş veya yeridir (Râzî); makamdan namaz yeri edinme buyruğunun muhatabı tartışmalıdır (Muhammed ümmeti veya İbrâhim'in kavmi); nüzul sebebi, nesih, kıraat yok.
 - **TDV İslâm Ansiklopedisi.** [MAKĀM-ı İBRÂHİM](https://islamansiklopedisi.org.tr/makam-i-ibrahim); [KÂBE](https://islamansiklopedisi.org.tr/kabe)
 
 ### A.34 — Ayet-34 · Yûnus 10/15
 
 - **Bulgudaki yeri.** Bulgu-17: Peygamber vahyi kendiliğinden değiştiremez.
-- **Kur'an Yolu.** Müşriklerin Kur'an'ın değiştirilmesini istemeleri çelişkilidir; Hz. Peygamber bunu yapsa Kur'an'ın Allah'tan geldiği iddiasında yalancı durumuna düşerdi. Âyet, Kur'an'ın lafız ve muhtevasında Peygamber'in hiçbir katkısı bulunmadığı konusunda 'son derece açık'tır; tebdil ile nesih arasında ilişki kurulmaz, nesih, müteşabih, kıraat veya nüzul sebebi zikredilmez.
+- **Kur'an Yolu Tefsiri.** Müşriklerin Kur'an'ın değiştirilmesini istemeleri çelişkilidir; Hz. Peygamber bunu yapsa Kur'an'ın Allah'tan geldiği iddiasında yalancı durumuna düşerdi. Âyet, Kur'an'ın lafız ve muhtevasında Peygamber'in hiçbir katkısı bulunmadığı konusunda 'son derece açık'tır; tebdil ile nesih arasında ilişki kurulmaz, nesih, müteşabih, kıraat veya nüzul sebebi zikredilmez.
 - **TDV İslâm Ansiklopedisi.** [NESİH](https://islamansiklopedisi.org.tr/nesih--seriat)
 
 ### A.35 — Ayet-35 · En'âm 6/115
 
 - **Bulgudaki yeri.** Bulgu-17: Rabbin kelimesi tamdır; onu değiştirebilecek yoktur.
-- **Kur'an Yolu.** Sıdk sözde ve işte doğruluk, adl hak ve nesafet kaidelerine uygunluktur. Allah kelâmının dört niteliğine işaret edilir: tam, doğru, âdil ve 'değiştirilemez ve tahrif edilemez oluşu'; nesih, müteşabih, nüzul sebebi, 'kelime/kelimât' kıraat farkı zikredilmez.
+- **Kur'an Yolu Tefsiri.** Sıdk sözde ve işte doğruluk, adl hak ve nesafet kaidelerine uygunluktur. Allah kelâmının dört niteliğine işaret edilir: tam, doğru, âdil ve 'değiştirilemez ve tahrif edilemez oluşu'; nesih, müteşabih, nüzul sebebi, 'kelime/kelimât' kıraat farkı zikredilmez.
 - **TDV İslâm Ansiklopedisi.** [NESİH](https://islamansiklopedisi.org.tr/nesih--seriat)
 
 ### A.36 — Ayet-36 · Kehf 18/110
 
 - **Bulgudaki yeri.** Bulgu-18: Peygamber'i diğer insanlardan ayıran ölçü vahiydir.
-- **Kur'an Yolu.** Hz. Muhammed şüphesiz bir insandır; Allah'ın bütün ilmini kuşatması mümkün değildir, sadece kendisine vahyedilenleri bilir ve vahyedilenlerden biri bütün insanların tanrısının tek tanrı olduğu gerçeğidir. İkinci yarı için açık şirk yanında riya şeklindeki gizli/küçük şirk anlatılır; 'beşer' kelimesi üzerinde durulmaz, nüzul sebebi, nesih veya kıraat tartışması yok.
+- **Kur'an Yolu Tefsiri.** Hz. Muhammed şüphesiz bir insandır; Allah'ın bütün ilmini kuşatması mümkün değildir, sadece kendisine vahyedilenleri bilir ve vahyedilenlerden biri bütün insanların tanrısının tek tanrı olduğu gerçeğidir. İkinci yarı için açık şirk yanında riya şeklindeki gizli/küçük şirk anlatılır; 'beşer' kelimesi üzerinde durulmaz, nüzul sebebi, nesih veya kıraat tartışması yok.
 - **TDV İslâm Ansiklopedisi.** [İNSAN](https://islamansiklopedisi.org.tr/insan)
 
 ### A.37 — Ayet-37 · Tûr 52/33-34
 
 - **Bulgudaki yeri.** Bulgu-19: "kendisi uydurdu" ithamı ve tehaddî.
-- **Kur'an Yolu.** İnkârcıların 'onu kendisi uydurdu' iddiası ele alınır; 'bel lâ yu'minûn' cümlesine '(dediklerine) kendileri de inanmıyorlar' mânası da verilebilir (Elmalılı). Tehaddî için Bakara 2/23'e gönderilir ('onda bulunanlara benzer bir söz' istenmiş, yapılamamıştır: i'câz); 30. âyete bağlanan nüzul sebebi, sûre bütün indiğinden gönderme sayılmalıdır (Ateş); nesih zikredilmez.
+- **Kur'an Yolu Tefsiri.** İnkârcıların 'onu kendisi uydurdu' iddiası ele alınır; 'bel lâ yu'minûn' cümlesine '(dediklerine) kendileri de inanmıyorlar' mânası da verilebilir (Elmalılı). Tehaddî için Bakara 2/23'e gönderilir ('onda bulunanlara benzer bir söz' istenmiş, yapılamamıştır: i'câz); 30. âyete bağlanan nüzul sebebi, sûre bütün indiğinden gönderme sayılmalıdır (Ateş); nesih zikredilmez.
 - **TDV İslâm Ansiklopedisi.** [İ'CÂZÜ'l-KUR'ÂN](https://islamansiklopedisi.org.tr/icazul-kuran); [TEHADDÎ](https://islamansiklopedisi.org.tr/tehaddi)
 
 ### A.38 — Ayet-38 · Yûnus 10/37
 
 - **Bulgudaki yeri.** Bulgu-19: Kur'an Allah'tan başkası tarafından uydurulamaz — ikili tasnifin sarih lafzı.
-- **Kur'an Yolu.** Âyet 'Kur'an'ı Hz. Muhammed uydurdu' iddiasına cevaptır. Lafız tartışması: 'kitap'ı bazıları eski kitaplar, Taberî ve Zemahşerî 'Allah'ın Muhammed ümmetine yazdığı, farz kıldığı hükümler' diye anlar (Kur'an Yolu meali ikinci görüştedir); Yûnus 38'de tehaddî âyetleri sayılır; nüzul sebebi, nesih, kıraat yok.
+- **Kur'an Yolu Tefsiri.** Âyet 'Kur'an'ı Hz. Muhammed uydurdu' iddiasına cevaptır. Lafız tartışması: 'kitap'ı bazıları eski kitaplar, Taberî ve Zemahşerî 'Allah'ın Muhammed ümmetine yazdığı, farz kıldığı hükümler' diye anlar (tefsirin meali ikinci görüştedir); Yûnus 38'de tehaddî âyetleri sayılır; nüzul sebebi, nesih, kıraat yok.
 - **TDV İslâm Ansiklopedisi.** [İ'CÂZÜ'l-KUR'ÂN](https://islamansiklopedisi.org.tr/icazul-kuran)
 
 ---
