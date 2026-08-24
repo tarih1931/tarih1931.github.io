@@ -852,7 +852,7 @@ Dört ek, ana metnin dayanaklarını açan ayrı bir belgededir:
 
 ## 8. Yanlılık itirazı ve denetlenebilirlik
 
-Bu incelemeye yöneltilebilecek itirazlardan biri, metnin hazırlanmasında yapay zekâ kullanıldığı, bu yüzden çıktının yanlı olduğu ve bilimsel sayılamayacağıdır. İtiraz iki ayrı iddia taşır: çıktının yanlı olduğu ve yöntemin bilimsel olmadığı. İkisi de, metni kimin yazdığından bağımsız olarak, metnin kendisi üzerinde sınanabilir; incelemenin kurgusu bu sınamayı mümkün kılmak üzere yapılmıştır. Bir iddianın doğruluğu, onu kimin dile getirdiğiyle değil, dayanaklarıyla ölçülür. Yanlılık iddiası bir yerde somutlaşıyorsa (yanlış aktarılmış bir alıntı, saklanmış bir cümle, ayetin söylemediğini söyleten bir çıkarım), gösterilmesi hâlinde düzeltilir; düzeltme kaydı da açık tutulur. İncelemenin dayandığı cümlelerin nasıl okunacağı, bu incelemeden bağımsız olarak hakemli literatürde de sınanmıştır: aynı sayfaları inceleyen bir çalışma, *Tarih II*'nin 89-90. sayfalarındaki ifadelerden dinin esaslarının “Allah tarafından değil Hz. Muhammed'in kendisi tarafından konulduğu” sonucunu çıkarır **[20]**.
+Bu incelemeye yöneltilebilecek itirazlardan biri, metnin hazırlanmasında yapay zekâ kullanıldığı, bu yüzden çıktının yanlı olduğu ve bilimsel sayılamayacağıdır. İtiraz iki ayrı iddia taşır: çıktının yanlı olduğu ve yöntemin bilimsel olmadığı. İkisi de, metni kimin yazdığından bağımsız olarak, metnin kendisi üzerinde sınanabilir; incelemenin kurgusu bu sınamayı mümkün kılmak üzere yapılmıştır. Bir iddianın doğruluğu, onu kimin dile getirdiğiyle değil, dayanaklarıyla ölçülür. Yanlılık iddiası bir yerde somutlaşıyorsa (yanlış aktarılmış bir alıntı, saklanmış bir cümle, ayetin söylemediğini söyleten bir çıkarım), gösterilmesi hâlinde düzeltilir; düzeltme kaydı da açık tutulur. İncelemenin bulguları, aynı ders kitapları üzerine yapılmış hakemli akademik çalışmalarda karşılık bulmaktadır **[20] [21]**.
 
 ---
 
@@ -920,6 +920,9 @@ Bu incelemeye yöneltilebilecek itirazlardan biri, metnin hazırlanmasında yapa
   Okutulan Tarih Ders Kitaplarında Hz. Muhammed Anlatısı”, *Eğitim ve Toplum
   Araştırmaları Dergisi*, 5/2 (2018), s. 46-65.
   [Makale sayfası](https://dergipark.org.tr/tr/pub/etad/issue/41884/426786)
+- **[21]** Tercan Yıldırım – Ahmet Şimşek, “Erken Cumhuriyet Dönemi Lise Tarih
+  Ders Kitaplarında Din Anlatısı”, *Eğitim ve Bilim*, 40/179 (2015), s. 323-340.
+  [doi:10.15390/EB.2015.4246](https://doi.org/10.15390/EB.2015.4246)
 
 ---
 

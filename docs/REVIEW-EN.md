@@ -1337,7 +1337,7 @@ with an English translation beneath each; the Turkish original of the document i
 
 ## 8. The objection of bias, and how it can be tested
 
-One objection that may be raised against this review is that artificial intelligence was used in preparing it, that its output is therefore biased, and that it cannot count as scholarly. The objection carries two distinct claims: that the output is biased, and that the method is not scholarly. Both can be tested on the text itself, independently of who wrote it; the review has been built so as to make that testing possible. The truth of a claim is measured by its grounds, not by who advances it. If the charge of bias becomes concrete at any point (a misreported quotation, a suppressed sentence, an inference that makes a verse say what it does not), it will be corrected once shown, and the record of the correction kept open. How the sentences on which this review rests are to be read has also been tested in the peer-reviewed literature, independently of this review: a study that examines the same pages concludes, from the wording of *Tarih II*, pp. 89-90, that the principles of the religion were laid down “not by God but by Muhammad himself” **[20]**.
+One objection that may be raised against this review is that artificial intelligence was used in preparing it, that its output is therefore biased, and that it cannot count as scholarly. The objection carries two distinct claims: that the output is biased, and that the method is not scholarly. Both can be tested on the text itself, independently of who wrote it; the review has been built so as to make that testing possible. The truth of a claim is measured by its grounds, not by who advances it. If the charge of bias becomes concrete at any point (a misreported quotation, a suppressed sentence, an inference that makes a verse say what it does not), it will be corrected once shown, and the record of the correction kept open. The findings of this review have their counterpart in the peer-reviewed academic literature on the same textbooks **[20] [21]**.
 
 ---
 
@@ -1405,6 +1405,11 @@ scans are on the site.
   Prophet Muhammad in the history course books used between the years 1931-1977 in
   Turkey”), *Eğitim ve Toplum Araştırmaları Dergisi*, 5/2 (2018), pp. 46-65.
   [Article page](https://dergipark.org.tr/tr/pub/etad/issue/41884/426786)
+- **[21]** Tercan Yıldırım – Ahmet Şimşek, “Erken Cumhuriyet Dönemi Lise Tarih
+  Ders Kitaplarında Din Anlatısı” (“‘The narrative of religion’ in the high school
+  textbooks of the early Republican period in Turkey”), *Eğitim ve Bilim /
+  Education and Science*, 40/179 (2015), pp. 323-340.
+  [doi:10.15390/EB.2015.4246](https://doi.org/10.15390/EB.2015.4246)
 
 ---
 
