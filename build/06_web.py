@@ -65,6 +65,8 @@ TODAY = date.today().isoformat()
 # kalanı ham OCR olduğu için bu ikisi sitenin en değerli parçasıdır; ayrı
 # adresleri ve llms.txt'te ayrı bölümleri vardır.
 REVIEW_MD = ROOT / "docs" / "inceleme.md"
+# Kaynak dosyanın adı depoda REVIEW-EN.md kalır; sitede sunulan ad
+# review.md'dir — sayfa review.html, PDF review.pdf, ham metin review.md.
 REVIEW_EN_MD = ROOT / "docs" / "REVIEW-EN.md"
 # İncelemenin ekleri (Ek A/B/C) ayrı bir belgedir: ana metni okunur tutar,
 # dayanakları isteyen okuyucu bağlantıdan ulaşır.
@@ -900,7 +902,7 @@ def build_review_annex_en_page() -> str:
     body = [md_to_html(REVIEW_ANNEX_EN_MD.read_text(encoding="utf-8"), toc)]
     alt = ['<a href="review.html">Main text of the review</a>',
            '<a href="inceleme-ekler.html">Türkçe aslı</a>',
-           '<a href="REVIEW-APPENDICES-EN.md">raw Markdown</a>']
+           '<a href="review-appendices.md">raw Markdown</a>']
     if REVIEW_EMAIL:
         alt.append(f'Correspondence: <a href="mailto:{esc(REVIEW_EMAIL)}">{esc(REVIEW_EMAIL)}</a>')
     if REVIEW_DOI:
@@ -956,7 +958,7 @@ def build_review_en_page() -> str:
         alt.append(f'Correspondence: <a href="mailto:{esc(REVIEW_EMAIL)}">{esc(REVIEW_EMAIL)}</a>')
     alt.append('<a href="inceleme.json">claims (JSON)</a>')
     alt.append('<a href="inceleme.jsonl">JSONL</a>')
-    alt.append('<a href="REVIEW-EN.md">raw Markdown</a>')
+    alt.append('<a href="review.md">raw Markdown</a>')
     if REVIEW_DOI:
         alt.append(f'DOI: <a href="https://doi.org/{esc(REVIEW_DOI)}">{esc(REVIEW_DOI)}</a>')
     alt.append(hf_ogesi())
@@ -1168,7 +1170,7 @@ def build_llms_txt(all_rows: dict[str, list[dict]]) -> str:
             L.append(f"- [Appendices, English]({BASE_URL}/review-appendices.html): "
                      "the same four appendices in English; quotations, dictionary entries "
                      "and the 1931 preface stay in Turkish, each with an English "
-                     f"translation beneath. Raw: {BASE_URL}/REVIEW-APPENDICES-EN.md")
+                     f"translation beneath. Raw: {BASE_URL}/review-appendices.md")
         L.append(f"- [Aynı incelemenin ham Markdown'ı]({BASE_URL}/inceleme.md)")
         # PDF'ler sayfadan bağlantı almıyor; burada sayılmazsa yalnız sitemap ve
         # citation_pdf_url üzerinden bulunabiliyorlar.
@@ -1181,7 +1183,7 @@ def build_llms_txt(all_rows: dict[str, list[dict]]) -> str:
             L.append(
                 f"- [English version — {REVIEW_EN_TITLE}]({BASE_URL}/review.html): {REVIEW_EN_DESC} "
                 "Quotations remain in the original 1931 Turkish and are machine-verified against "
-                f"the cited page; the English is a translation only. Raw: {BASE_URL}/REVIEW-EN.md"
+                f"the cited page; the English is a translation only. Raw: {BASE_URL}/review.md"
             )
         L.append(
             f"- [Bulgular, makine-okunabilir]({BASE_URL}/inceleme.json) "
@@ -1437,12 +1439,12 @@ def main() -> None:
 
     if REVIEW_ANNEX_EN_MD.exists():
         write_text(WEB_DIR / "review-appendices.html", build_review_annex_en_page())
-        shutil.copy2(REVIEW_ANNEX_EN_MD, WEB_DIR / "REVIEW-APPENDICES-EN.md")
+        shutil.copy2(REVIEW_ANNEX_EN_MD, WEB_DIR / "review-appendices.md")
         urls.append((f"{BASE_URL}/review-appendices.html", "0.8"))
 
     if REVIEW_EN_MD.exists():
         write_text(WEB_DIR / "review.html", build_review_en_page())
-        shutil.copy2(REVIEW_EN_MD, WEB_DIR / "REVIEW-EN.md")
+        shutil.copy2(REVIEW_EN_MD, WEB_DIR / "review.md")
         if REVIEW_EN_PDF.exists():
             shutil.copy2(REVIEW_EN_PDF, WEB_DIR / "review.pdf")
         urls.append((f"{BASE_URL}/review.html", "1.0"))
