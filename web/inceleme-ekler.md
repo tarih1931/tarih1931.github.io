@@ -9,13 +9,13 @@
 - **Ek C — Ön söz ve heyet sayfaları.** İki cildin ön sözü ile telif heyeti sayfalarının tam metni ve künye satırları.
 - **Ek D — Hükümlerin dayanak tipi.** Her bulgunun kitaba atfettiği hüküm, dayandığı cümleler ve hükmün sarih lafızdan mı yoksa birleşimden mi çıktığı.
 
-Köşeli parantez içindeki kaynak numaraları (**[1]**, **[13]** gibi) incelemenin kaynakçasına aittir.
+Köşeli parantez içindeki kaynak numaraları (**[1]**, **[15]** gibi) incelemenin kaynakçasına aittir.
 
 ---
 
 ## Ek A. Ayet dosyaları
 
-Bu ek, ana metinde anılan otuz sekiz ayetin her biri için üç şey verir: ayetin hangi bulguda ve ne için kullanıldığı, *Kur'an Yolu Tefsiri*'nin **[14]** o ayete dair notu ve ilgili *Türkiye Diyanet Vakfı İslâm Ansiklopedisi* maddesi. Ayetlerin kendi metni burada tekrarlanmaz; ana metinde, Ayet-01'den Ayet-38'e kadar her biri Diyanet İşleri Başkanlığı'nın *Kur'an-ı Kerim Meâli*'nden **[13]** birebir verilmiştir. Tefsir notları *Kur'an Yolu Tefsiri*'nin çevrimiçi sürümünden özetlenmiş, ansiklopedi maddeleri çevrimiçi sürümde açılıp doğrulanmıştır (erişim: 23 Ağustos 2026).
+Bu ek, ana metinde anılan otuz sekiz ayetin her biri için üç şey verir: ayetin hangi bulguda ve ne için kullanıldığı, *Kur'an Yolu Tefsiri*'nin **[16]** o ayete dair notu ve ilgili *Türkiye Diyanet Vakfı İslâm Ansiklopedisi* maddesi. Ayetlerin kendi metni burada tekrarlanmaz; ana metinde, Ayet-01'den Ayet-38'e kadar her biri Diyanet İşleri Başkanlığı'nın *Kur'an-ı Kerim Meâli*'nden **[15]** birebir verilmiştir. Tefsir notları *Kur'an Yolu Tefsiri*'nin çevrimiçi sürümünden özetlenmiş, ansiklopedi maddeleri çevrimiçi sürümde açılıp doğrulanmıştır (erişim: 23 Ağustos 2026).
 
 ### A.1 — Ayet-01 · Şûrâ 42/13
 
@@ -249,7 +249,7 @@ Bu ek, ana metinde anılan otuz sekiz ayetin her biri için üç şey verir: aye
 
 ## Ek B. Terim dosyaları
 
-Bu ek, bulguları taşıyan kilit terimlerin kitaptaki bütün kullanımını, 1931'deki lügat anlamını ve Kur'an'daki karşılığını bir araya getirir. Sayımlar, iki bölümün elle düzeltilmiş tam metni üzerinde başlıklar dâhil yapılmıştır; örnek cümleler birebirdir ve künyesindeki sayfada makine ile denetlenmiştir. Lügat tanımları *Kubbealtı Lugati*'nden **[16]** birebir, Kamus-ı Türkî'den (1317/1901) **[17]** tıpkıbasım görüntüsünden okunarak alınmıştır; ikincisi basılı nüshayla teyit edilmelidir. Kur'anî karşılıklarda verilen ayetler, incelemenin kullandığı meâlden kontrol edilmiştir.
+Bu ek, bulguları taşıyan kilit terimlerin kitaptaki bütün kullanımını, 1931'deki lügat anlamını ve Kur'an'daki karşılığını bir araya getirir. Sayımlar, iki bölümün elle düzeltilmiş tam metni üzerinde başlıklar dâhil yapılmıştır; örnek cümleler birebirdir ve künyesindeki sayfada makine ile denetlenmiştir. Lügat tanımları *Kubbealtı Lugati*'nden **[18]** birebir, Kamus-ı Türkî'den (1317/1901) **[19]** tıpkıbasım görüntüsünden okunarak alınmıştır; ikincisi basılı nüshayla teyit edilmelidir. Kur'anî karşılıklarda verilen ayetler, incelemenin kullandığı meâlden kontrol edilmiştir.
 
 ### B.1 — ilham / vahiy / mülhem
 
@@ -336,7 +336,7 @@ Bu ek, bulguları taşıyan kilit terimlerin kitaptaki bütün kullanımını, 1
 
 ## Ek C. Ön söz ve heyet sayfaları
 
-Bu ek, incelemenin birinci bölümünün dayandığı ön söz ve heyet sayfalarının tam metnini verir. Bu sayfalar elle düzeltilmiş korpusun dışındadır; metin, bu ek için taramadan okunarak istinsah edilmiş ve OCR çıktısıyla karşılaştırılmıştır. İmlâ 1931 basımına aittir. *Tarih II*'nin ön sözü *Tarih I*'inkiyle aynıdır; yalnız imlâ farkları vardır (aşağıda köşeli parantezle gösterilmiştir). Taramalar sitede **[18] [19]**.
+Bu ek, incelemenin birinci bölümünün dayandığı ön söz ve heyet sayfalarının tam metnini verir. Bu sayfalar elle düzeltilmiş korpusun dışındadır; metin, bu ek için taramadan okunarak istinsah edilmiş ve OCR çıktısıyla karşılaştırılmıştır. İmlâ 1931 basımına aittir. *Tarih II*'nin ön sözü *Tarih I*'inkiyle aynıdır; yalnız imlâ farkları vardır (aşağıda köşeli parantezle gösterilmiştir). Taramalar sitede **[5] [6]**.
 
 ### C.1 — Künye sayfaları
 

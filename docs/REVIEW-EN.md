@@ -17,17 +17,17 @@ together with its source; the verbatim text of the colophon pages is in the
 
 | Date | Event | Source |
 |---|---|---|
-| **1931** | First printing orders for *Tarih I* (**30,000 copies**) and *Tarih II* (**25,000 copies**) | [3] [4] [5] |
-| **1932** | Board decisions (**27**, **213**, **239**), **amendment and correction of vols. I and II** | [6] |
-| **1933** | **Second printing** · a **separate series** for middle schools: *Ortamektep için Tarih* | [9] [10] |
-| **1941** | *Tarih I* reprinted; third printing order for *Tarih II* (**3,000 copies**) | [7] [11] |
-| **1942** | Board decision **222**: high school years 1, 2, 3; **364**: middle-school history books | [8] |
+| **1931** | First printing orders for *Tarih I* (**30,000 copies**) and *Tarih II* (**25,000 copies**) | [3] [4] [7] |
+| **1932** | Board decisions (**27**, **213**, **239**), **amendment and correction of vols. I and II** | [8] |
+| **1933** | **Second printing** · a **separate series** for middle schools: *Ortamektep için Tarih* | [11] [12] |
+| **1941** | *Tarih I* reprinted; third printing order for *Tarih II* (**3,000 copies**) | [9] [13] |
+| **1942** | Board decision **222**: high school years 1, 2, 3; **364**: middle-school history books | [10] |
 
 ### 1.1 What the preface declares
 
 At the front of both volumes stands a *Mukaddime* (preface) which, apart from
-differences of spelling, is identical in the two (*Tarih I*, pp. V–VI **[18]**; *Tarih
-II*, pp. V–VI **[19]**; the full text is given in [Appendix
+differences of spelling, is identical in the two (*Tarih I*, pp. V–VI **[5]**; *Tarih
+II*, pp. V–VI **[6]**; the full text is given in [Appendix
 C](https://tarih1931.github.io/inceleme-ekler.html)). The preface states three things
 in the books' own words. First, the committee that wrote the book is presented not as
 a scholarly body but as a body given a commission: "the Turkish Historical Research
@@ -45,8 +45,8 @@ meet the need fully and perfectly. The deficiencies will be made good later, in 
 printings" (bu küçük eserin ihtiyaca tam ve mükemmel şekilde tekabül edeceği iddia
 olunamaz. Noksanlar, ilerde, yeni basılışlarda tamamlanacaktır) (p. VI). The state
 passed through that door: in 1932 the "amendment and correction" (tadil ve tashih) of
-vols. I and II was made the subject of a Board decision **[6]**, and the book was
-printed a second time in 1933 **[9]** and a third time in 1941 **[7] [11]**.
+vols. I and II was made the subject of a Board decision **[8]**, and the book was
+printed a second time in 1933 **[11]** and a third time in 1941 **[9] [13]**.
 
 The preface also announces the books' programme together with their stance towards
 religion: it writes that "bigoted historians" (mutaassıp müverrihler) presented
@@ -85,7 +85,7 @@ official teaching of the state". The official character of a text arises not fro
 wrote it but from the acts of the authority that published it and had it taught; every
 one of the acts listed above is the state's: the printing order, the decision to have
 the work taught, the amendment of 1932, the two later printings, and the survival of
-the series in the high schools until 1942 **[8]**. The committee, too, as the preface
+the series in the high schools until 1942 **[10]**. The committee, too, as the preface
 shows, presents itself not as an academic body but as a body "commissioned" (memur
 edilmiş) by the society. The personal convictions of its members are not the subject
 of this review; what is examined is the wording of the text that the state printed,
@@ -150,7 +150,7 @@ and the doctrinal ground is the verses alone; no finding is tied to the view of 
 sect, school or author.
 
 The texts of the verses are taken from the *Kur'an-ı Kerim Meâli* of the Diyanet
-İşleri Başkanlığı (Presidency of Religious Affairs) **[13]**; no other rendering is
+İşleri Başkanlığı (Presidency of Religious Affairs) **[15]**; no other rendering is
 used and renderings are not compared. Since a Turkish rendering is a translation and
 therefore an interpretation, the following rules are observed:
 
@@ -1303,7 +1303,7 @@ scans of the volumes are references **[1]** and **[2]** in the bibliography.
 the side of the Qur'an the doctrinal ground is **the verses of the Qur'an alone**, and
 the findings are not tied to the view of any madhhab, any school of thought or any
 author. The texts of the verses are taken from the *Kur'an-ı Kerim Meâli* of the
-Diyanet İşleri Başkanlığı **[13]**; since a Turkish rendering is a translation and
+Diyanet İşleri Başkanlığı **[15]**; since a Turkish rendering is a translation and
 therefore an interpretation, the rules governing renderings and Qur'anic commentary
 are stated in the section on method. The quotations from the 1931 printing
 are in the public domain, and the report's own text has been released to the public
@@ -1357,43 +1357,43 @@ One objection that may be raised against this review is that artificial intellig
 hazırlanmasında çalışanlar" ("Those who worked on the preparation of the book"); the
 scans are on the site.
 
-- **[18]** *Tarih I*, pp. V–VIII: [p. V](https://tarih1931.github.io/tarih-1-1931/u007r.html) · [p. VI](https://tarih1931.github.io/tarih-1-1931/rvi.html) · [p. VII](https://tarih1931.github.io/tarih-1-1931/u008r.html) · [p. VIII](https://tarih1931.github.io/tarih-1-1931/rviii.html)
-- **[19]** *Tarih II*, pp. V–VIII: [p. V](https://tarih1931.github.io/tarih-2-1931/u006r.html) · [p. VI](https://tarih1931.github.io/tarih-2-1931/rvi.html) · [p. VII](https://tarih1931.github.io/tarih-2-1931/u007r.html) · [p. VIII](https://tarih1931.github.io/tarih-2-1931/rviii.html)
+- **[5]** *Tarih I*, pp. V–VIII: [p. V](https://tarih1931.github.io/tarih-1-1931/u007r.html) · [p. VI](https://tarih1931.github.io/tarih-1-1931/rvi.html) · [p. VII](https://tarih1931.github.io/tarih-1-1931/u008r.html) · [p. VIII](https://tarih1931.github.io/tarih-1-1931/rviii.html)
+- **[6]** *Tarih II*, pp. V–VIII: [p. V](https://tarih1931.github.io/tarih-2-1931/u006r.html) · [p. VI](https://tarih1931.github.io/tarih-2-1931/rvi.html) · [p. VII](https://tarih1931.github.io/tarih-2-1931/u007r.html) · [p. VIII](https://tarih1931.github.io/tarih-2-1931/rviii.html)
 
 **Decisions of the Board of Education.**
 
-- **[5]** [Index of 1931 decisions](https://ttkb.meb.gov.tr/meb_iys_dosyalar/2025_04/30114318_fihrist_1931.pdf)
-- **[6]** [Index of 1932 decisions](https://ttkb.meb.gov.tr/meb_iys_dosyalar/2025_04/30114318_fihrist_1932.pdf)
-- **[7]** [Index of 1941 decisions](https://ttkb.meb.gov.tr/meb_iys_dosyalar/2025_04/30114319_fihrist_1941.pdf)
-- **[8]** [Index of 1942 decisions](https://ttkb.meb.gov.tr/meb_iys_dosyalar/2025_04/30114319_fihrist_1942.pdf)
+- **[7]** [Index of 1931 decisions](https://ttkb.meb.gov.tr/meb_iys_dosyalar/2025_04/30114318_fihrist_1931.pdf)
+- **[8]** [Index of 1932 decisions](https://ttkb.meb.gov.tr/meb_iys_dosyalar/2025_04/30114318_fihrist_1932.pdf)
+- **[9]** [Index of 1941 decisions](https://ttkb.meb.gov.tr/meb_iys_dosyalar/2025_04/30114319_fihrist_1941.pdf)
+- **[10]** [Index of 1942 decisions](https://ttkb.meb.gov.tr/meb_iys_dosyalar/2025_04/30114319_fihrist_1942.pdf)
 
 **Library records.**
 
-- **[9]** [TTK Library, **AKM/K/16799** — "2nd printing" (2. basılış), Ministry of Education,
+- **[11]** [TTK Library, **AKM/K/16799** — "2nd printing" (2. basılış), Ministry of Education,
   1933](https://kutuphane.ttk.gov.tr/details?id=770536&materialType=KT)
-- **[10]** [TTK Library, *Ortamektep için Tarih*, Ministry of Education,
+- **[12]** [TTK Library, *Ortamektep için Tarih*, Ministry of Education,
   1933](https://kutuphane.ttk.gov.tr/resource?itemId=273987&dkymId=62876)
-- **[11]** [TTK Library, **AKM/K/10726** — "3rd printing" (3. bs.), Ministry of Education,
+- **[13]** [TTK Library, **AKM/K/10726** — "3rd printing" (3. bs.), Ministry of Education,
   1932-1941](https://kutuphane.ttk.gov.tr/details?id=770538&materialType=KT). The number of copies of the 1941 printing of *Tarih II* is on the colophon page of that printing; the scan of that page is not online.
 
 **Archive.**
 
-- **[12]** [Board of Education, archive of decision indexes](https://ttkb.meb.gov.tr/www/gecmisten-gunumuze-kurul-kararlari-fihrist-arsivi/icerik/808)
+- **[14]** [Board of Education, archive of decision indexes](https://ttkb.meb.gov.tr/www/gecmisten-gunumuze-kurul-kararlari-fihrist-arsivi/icerik/808)
   — all the indexes from 1927 to 1942 were searched.
 
 **Turkish rendering of the Qur'an.**
 
-- **[13]** *Kur'an-ı Kerim Meâli*, prepared by Halil Altuntaş – Muzaffer Şahin, Diyanet İşleri
+- **[15]** *Kur'an-ı Kerim Meâli*, prepared by Halil Altuntaş – Muzaffer Şahin, Diyanet İşleri
   Başkanlığı Yayınları, Ankara. [Online edition](https://kuran.diyanet.gov.tr)
-- **[14]** *Kur'an Yolu Türkçe Meâl ve Tefsir* (online as *Kur'an Yolu Tefsiri*), prepared by Hayreddin Karaman, Mustafa Çağrıcı,
+- **[16]** *Kur'an Yolu Türkçe Meâl ve Tefsir* (online as *Kur'an Yolu Tefsiri*), prepared by Hayreddin Karaman, Mustafa Çağrıcı,
   İbrahim Kâfi Dönmez, Sadrettin Gümüş, Diyanet İşleri Başkanlığı Yayınları, Ankara, 5 vols.
   [Online edition](https://kuran.diyanet.gov.tr/tefsir)
-- **[15]** *TDV İslâm Ansiklopedisi* (Encyclopaedia of Islam of the Turkish Religious
+- **[17]** *TDV İslâm Ansiklopedisi* (Encyclopaedia of Islam of the Turkish Religious
   Foundation), Türkiye Diyanet Vakfı İslâm Araştırmaları Merkezi.
   [Online edition](https://islamansiklopedisi.org.tr) — the entries cited are in Appendix A and Appendix B.
-- **[16]** İlhan Ayverdi, *Kubbealtı Lugati — Misalli Büyük Türkçe Sözlük*, Kubbealtı Neşriyatı.
+- **[18]** İlhan Ayverdi, *Kubbealtı Lugati — Misalli Büyük Türkçe Sözlük*, Kubbealtı Neşriyatı.
   [Online edition](https://lugatim.com)
-- **[17]** Şemseddin Sami, *Kamus-ı Türkî*, İkdam Matbaası, Istanbul 1317/1901.
+- **[19]** Şemseddin Sami, *Kamus-ı Türkî*, İkdam Matbaası, Istanbul 1317/1901.
 
 **Secondary literature.**
 

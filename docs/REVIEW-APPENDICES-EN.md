@@ -9,13 +9,13 @@
 - **Appendix C — The preface and the drafting-committee pages.** The full text and the citation lines of the preface and of the drafting-committee pages of the two volumes.
 - **Appendix D — The grounds of each judgement.** For every finding: the claim it attributes to the books, the sentences it rests on, and whether that claim comes from the explicit wording or from a combination.
 
-The reference numbers in square brackets (**[1]**, **[13]** and the like) belong to the bibliography of the review. Quotations from the books, the dictionaries and the preface are given in the Turkish of their printing, with an English translation in square brackets beneath.
+The reference numbers in square brackets (**[1]**, **[15]** and the like) belong to the bibliography of the review. Quotations from the books, the dictionaries and the preface are given in the Turkish of their printing, with an English translation in square brackets beneath.
 
 ---
 
 ## Appendix A. Verse files
 
-This appendix gives three things for each of the thirty-eight verses cited in the main text: where and for what the verse is used in the findings, the note of the *Kur'an Yolu Tefsiri* **[14]** on that verse, and the relevant *Türkiye Diyanet Vakfı İslâm Ansiklopedisi* entry. The texts of the verses are not repeated here; in the main text each of them, from Verse-01 to Verse-38, is given word for word from the *Kur'an-ı Kerim Meâli* of the Diyanet İşleri Başkanlığı **[13]**. The commentary notes are summarised from the online edition of the *Kur'an Yolu Tefsiri*, and the encyclopaedia entries were opened and verified in the online edition (accessed: 23 August 2026).
+This appendix gives three things for each of the thirty-eight verses cited in the main text: where and for what the verse is used in the findings, the note of the *Kur'an Yolu Tefsiri* **[16]** on that verse, and the relevant *Türkiye Diyanet Vakfı İslâm Ansiklopedisi* entry. The texts of the verses are not repeated here; in the main text each of them, from Verse-01 to Verse-38, is given word for word from the *Kur'an-ı Kerim Meâli* of the Diyanet İşleri Başkanlığı **[15]**. The commentary notes are summarised from the online edition of the *Kur'an Yolu Tefsiri*, and the encyclopaedia entries were opened and verified in the online edition (accessed: 23 August 2026).
 
 ### A.1 — Verse-01 · Ash-Shūrā 42/13
 
@@ -249,7 +249,7 @@ This appendix gives three things for each of the thirty-eight verses cited in th
 
 ## Appendix B. Term files
 
-This appendix brings together, for the key terms that carry the findings, every use of them in the books, their dictionary meaning in 1931 and their counterpart in the Qur'an. The counts were made on the hand-corrected full text of the two sections, headings included; the example sentences are word for word and have been machine-checked against the page named in their citation. The dictionary definitions are taken word for word from the *Kubbealtı Lugatı* **[16]** and, from the *Kamus-ı Türkî* (1317/1901) **[17]**, by reading the facsimile image; the second should be confirmed against a printed copy. The verses given as Qur'anic counterparts have been checked against the Turkish rendering used by the review.
+This appendix brings together, for the key terms that carry the findings, every use of them in the books, their dictionary meaning in 1931 and their counterpart in the Qur'an. The counts were made on the hand-corrected full text of the two sections, headings included; the example sentences are word for word and have been machine-checked against the page named in their citation. The dictionary definitions are taken word for word from the *Kubbealtı Lugatı* **[18]** and, from the *Kamus-ı Türkî* (1317/1901) **[19]**, by reading the facsimile image; the second should be confirmed against a printed copy. The verses given as Qur'anic counterparts have been checked against the Turkish rendering used by the review.
 
 ### B.1 — ilham / vahiy / mülhem (inspiration / revelation / inspired)
 
@@ -336,7 +336,7 @@ This appendix brings together, for the key terms that carry the findings, every 
 
 ## Appendix C. The preface and the drafting-committee pages
 
-This appendix gives the full text of the preface and the drafting-committee pages on which the first section of the review rests. These pages lie outside the hand-corrected corpus; for this appendix the text was copied out by reading the scan and was compared with the OCR output. The orthography is that of the 1931 printing. The preface of *Tarih II* is the same as that of *Tarih I*; there are only differences of spelling, shown below in square brackets. The scans are on the site, references **[18]** and **[19]**. The Turkish text is given first, and an English translation follows in square brackets.
+This appendix gives the full text of the preface and the drafting-committee pages on which the first section of the review rests. These pages lie outside the hand-corrected corpus; for this appendix the text was copied out by reading the scan and was compared with the OCR output. The orthography is that of the 1931 printing. The preface of *Tarih II* is the same as that of *Tarih I*; there are only differences of spelling, shown below in square brackets. The scans are on the site, references **[5]** and **[6]**. The Turkish text is given first, and an English translation follows in square brackets.
 
 ### C.1 — The citation pages
 
