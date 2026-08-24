@@ -56,6 +56,9 @@ SAYAC = (CHANNELS.get("counter") or "").strip()
 # Veri kümesinin Hugging Face adresi; inceleme sayfalarının altbilgisinde
 # DOI ile sayacın arasında durur.
 HF_URL = (CHANNELS.get("huggingface") or "").strip()
+# İncelemenin Internet Archive öğesi. Kanal listesinde değil, review künyesinde
+# durur: arşiv nüshası korpusun değil, incelemenin kendi kaydıdır.
+IA_URL = ((META.get("review") or {}).get("internet_archive") or "").strip()
 TODAY = date.today().isoformat()
 
 # Elle düzeltilmiş bölümler ve onlar üzerine yapılan inceleme. Korpusun geri
@@ -209,6 +212,13 @@ def hf_ogesi() -> str:
     if not HF_URL:
         return ""
     return f'<a href="{esc(HF_URL)}">Hugging Face</a>'
+
+
+def ia_ogesi() -> str:
+    """Altbilgideki Internet Archive bağı. Künyede adres yoksa boş döner."""
+    if not IA_URL:
+        return ""
+    return f'<a href="{esc(IA_URL)}">Internet Archive</a>'
 
 
 def sayac_ogesi(canonical: str) -> str:
@@ -798,6 +808,7 @@ def build_review_page() -> str:
     if REVIEW_DOI:
         alt.append(f'DOI: <a href="https://doi.org/{esc(REVIEW_DOI)}">{esc(REVIEW_DOI)}</a>')
     alt.append(hf_ogesi())
+    alt.append(ia_ogesi())
     alt.append(sayac_ogesi(url))
     body.append(
         f'<footer>{" · ".join(x for x in alt if x)}<br>'
@@ -853,6 +864,7 @@ def build_review_annex_page() -> str:
     if REVIEW_DOI:
         alt.append(f'DOI: <a href="https://doi.org/{esc(REVIEW_DOI)}">{esc(REVIEW_DOI)}</a>')
     alt.append(hf_ogesi())
+    alt.append(ia_ogesi())
     alt.append(sayac_ogesi(url))
     body.append(
         f'<footer>{" · ".join(x for x in alt if x)}<br>'
@@ -897,6 +909,7 @@ def build_review_annex_en_page() -> str:
     if REVIEW_DOI:
         alt.append(f'DOI: <a href="https://doi.org/{esc(REVIEW_DOI)}">{esc(REVIEW_DOI)}</a>')
     alt.append(hf_ogesi())
+    alt.append(ia_ogesi())
     alt.append(sayac_ogesi(url))
     body.append(
         f'<footer>{" · ".join(x for x in alt if x)}<br>'
@@ -951,6 +964,7 @@ def build_review_en_page() -> str:
     if REVIEW_DOI:
         alt.append(f'DOI: <a href="https://doi.org/{esc(REVIEW_DOI)}">{esc(REVIEW_DOI)}</a>')
     alt.append(hf_ogesi())
+    alt.append(ia_ogesi())
     alt.append(sayac_ogesi(url))
     body.append(
         f'<footer>{" · ".join(x for x in alt if x)}<br>'
