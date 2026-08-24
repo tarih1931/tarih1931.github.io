@@ -811,9 +811,7 @@ def build_review_page() -> str:
     alt.append(ia_ogesi())
     alt.append(sayac_ogesi(url))
     body.append(
-        f'<footer>{" · ".join(x for x in alt if x)}<br>'
-        f'Bu inceleme kaynak metinle birlikte {esc(RIGHTS["derived_dataset_license"])} '
-        f"ile kamuya bırakılmıştır. Kaynak metin: 1931 basımı, kamu malı.</footer>"
+        f'<footer>{" · ".join(x for x in alt if x)}</footer>'
     )
     jsonld = {
         "@context": "https://schema.org",
@@ -867,8 +865,7 @@ def build_review_annex_page() -> str:
     alt.append(ia_ogesi())
     alt.append(sayac_ogesi(url))
     body.append(
-        f'<footer>{" · ".join(x for x in alt if x)}<br>'
-        f'{esc(RIGHTS["derived_dataset_license"])} ile kamuya bırakılmıştır.</footer>'
+        f'<footer>{" · ".join(x for x in alt if x)}</footer>'
     )
     jsonld = {
         "@context": "https://schema.org",
@@ -912,8 +909,7 @@ def build_review_annex_en_page() -> str:
     alt.append(ia_ogesi())
     alt.append(sayac_ogesi(url))
     body.append(
-        f'<footer>{" · ".join(x for x in alt if x)}<br>'
-        f'Released into the public domain under {esc(RIGHTS["derived_dataset_license"])}.</footer>'
+        f'<footer>{" · ".join(x for x in alt if x)}</footer>'
     )
     jsonld = {
         "@context": "https://schema.org",
@@ -967,9 +963,7 @@ def build_review_en_page() -> str:
     alt.append(ia_ogesi())
     alt.append(sayac_ogesi(url))
     body.append(
-        f'<footer>{" · ".join(x for x in alt if x)}<br>'
-        f'Released into the public domain under {esc(RIGHTS["derived_dataset_license"])}. '
-        "Source work: 1931 printing, public domain.</footer>"
+        f'<footer>{" · ".join(x for x in alt if x)}</footer>'
     )
     jsonld = {
         "@context": "https://schema.org",
