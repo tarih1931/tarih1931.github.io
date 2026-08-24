@@ -69,6 +69,8 @@ th,td{border:1px solid var(--bd);padding:.4rem .55rem;text-align:left;vertical-a
 th{background:var(--card);font-weight:bold}
 footer{margin-top:3rem;padding-top:1rem;border-top:1px solid var(--bd);
  color:var(--mut);font-size:.82rem}
+p.sayac{margin:1.2rem 0 0;text-align:center}
+p.sayac img{height:20px;width:auto;opacity:.75;vertical-align:middle}
 </style>
 </head>
 <body><div class="wrap"><header class="site"><div class="meta"><a href="index.html">Tarih Ders Kitapları 1931</a> · <a href="ara.html">Arama</a> · <a href="duzeltilmis.html">Düzeltilmiş sayfalar</a> · <a href="inceleme.html">İnceleme</a> · <a href="hakkinda.html">Hakkında</a> · <a href="veri.html">Veri &amp; API</a></div></header><h1>Arama</h1><p class="meta">İki cildin tam metninde arama yapar. Türkçe aksan ve büyük/küçük harf duyarsızdır: <code>hurafe</code>, <code>İSLAM</code>, <code>taassup</code> aynı çalışır.</p><p><input id="q" placeholder="aranacak kelime…" style="width:100%;padding:.6rem .7rem;font-size:1rem;font-family:inherit;border:1px solid var(--bd);border-radius:4px;background:var(--card);color:var(--fg)"></p><p><select id="book" style="padding:.4rem;font-family:inherit;background:var(--card);color:var(--fg);border:1px solid var(--bd);border-radius:4px"><option value="">Her iki cilt</option><option value="tarih-1-1931">Tarih I</option><option value="tarih-2-1931">Tarih II</option></select> <span class="meta" id="status"></span></p><div id="out"></div><script>
@@ -101,5 +103,5 @@ el('q').addEventListener('input',()=>{clearTimeout(window._t);window._t=setTimeo
 el('book').addEventListener('change',run);
 const p=new URLSearchParams(location.search).get('q');
 if(p){el('q').value=p;run();}
-</script></div></body>
+</script><p class="sayac"><img src="https://hits.sh/tarih1931.github.io/ara.html.svg?style=flat-square&amp;label=okuma&amp;color=777&amp;labelColor=eee" alt="Bu sayfanın okunma sayısı" loading="lazy" referrerpolicy="no-referrer"></p></div></body>
 </html>

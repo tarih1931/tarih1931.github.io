@@ -16,19 +16,84 @@
       "note": "Cemiyet 1930'da kurulmuş, 1935'te Türk Tarih Kurumu adını almıştır. İç kapakta kurumsal yazar olarak bu cemiyet görünür; eseri hazırlayan on üç kişi ise 9. sayfada 'Kitabın hazırlanmasında çalışanlar' başlığı altında ad, soyad, mebusu oldukları şehir ve cemiyetteki görevleriyle birlikte tek tek sayılmıştır."
     },
     "contributors": [
-      {"name_1931": "M. Tevfik Bey", "name_modern": "Mahmut Tevfik Bıyıklıoğlu", "role_1931": "Riyaseticümhur Umumî Kâtibi ve Türk Tarihi Tetkik Cemiyeti Reisi", "role": "editor"},
-      {"name_1931": "Samih Rifat Bey", "name_modern": "Samih Rifat", "role_1931": "Çanakkale Meb'usu ve T. T. T. C. Reis Vekili", "role": "editor"},
-      {"name_1931": "Akçuraoğlu Yusuf Bey", "name_modern": "Yusuf Akçura", "role_1931": "İstanbul Meb'usu, Ankara Hukuk Mektebi Siyasî Tarih Profesörü ve T. T. T. C. Reis Vekili", "role": "author"},
-      {"name_1931": "Reşit Galip Bey", "name_modern": "Reşit Galip", "role_1931": "Aydın Meb'usu ve T. T. T. C. Umumî Kâtibi", "role": "author"},
-      {"name_1931": "Hasan Cemil Bey", "name_modern": "Hasan Cemil Çambel", "role_1931": "Bolu Meb'usu ve T. T. T. C. Azası", "role": "author"},
-      {"name_1931": "Afet Hanımefendi", "name_modern": "Afet İnan", "role_1931": "Musiki Muallim Mektebi Tarih ve Medenî Bilgiler Muallimi ve T. T. T. C. Azası", "role": "author"},
-      {"name_1931": "Baki Bey", "name_modern": "Baki Vandemir", "role_1931": "Erkânı Harbiye Miralayı, Büyük Erkânı Harbiye Harp Tarihi İkinci Şube Müdürü", "role": "author"},
-      {"name_1931": "İsmail Hakkı Bey", "name_modern": "İsmail Hakkı Uzunçarşılı", "role_1931": "Balıkesir Meb'usu ve T. T. T. C. Azası", "role": "author"},
-      {"name_1931": "Reşit Saffet Bey", "name_modern": "Reşit Saffet Atabinen", "role_1931": "Kocaeli Meb'usu ve T. T. T. C. Azası", "role": "author"},
-      {"name_1931": "Sadri Maksudi Bey", "name_modern": "Sadri Maksudi Arsal", "role_1931": "Şarkî Karahisar Meb'usu ve T. T. T. C. Azası", "role": "author"},
-      {"name_1931": "Şemseddin Bey", "name_modern": "Mehmet Şemsettin Günaltay", "role_1931": "Sivas Meb'usu ve İstanbul Darülfünunu Türk Tarihi Sabık Profesörü ve T. T. T. C. Azası", "role": "author"},
-      {"name_1931": "Şemsi Bey", "name_modern": "Şemsi Bey", "role_1931": "Miralay, Harita Umum Müdürlüğü Harita Şubesi Müdürü", "role": "cartographer"},
-      {"name_1931": "Yusuf Ziya Bey", "name_modern": "Yusuf Ziya Özer", "role_1931": "Eskişehir Meb'usu, İstanbul Darülfünunu Hukuk Tarihi Sabık Profesörü ve T. T. T. C. Azası", "role": "author"}
+      {
+        "name_1931": "M. Tevfik Bey",
+        "name_modern": "Mahmut Tevfik Bıyıklıoğlu",
+        "role_1931": "Riyaseticümhur Umumî Kâtibi ve Türk Tarihi Tetkik Cemiyeti Reisi",
+        "role": "editor"
+      },
+      {
+        "name_1931": "Samih Rifat Bey",
+        "name_modern": "Samih Rifat",
+        "role_1931": "Çanakkale Meb'usu ve T. T. T. C. Reis Vekili",
+        "role": "editor"
+      },
+      {
+        "name_1931": "Akçuraoğlu Yusuf Bey",
+        "name_modern": "Yusuf Akçura",
+        "role_1931": "İstanbul Meb'usu, Ankara Hukuk Mektebi Siyasî Tarih Profesörü ve T. T. T. C. Reis Vekili",
+        "role": "author"
+      },
+      {
+        "name_1931": "Reşit Galip Bey",
+        "name_modern": "Reşit Galip",
+        "role_1931": "Aydın Meb'usu ve T. T. T. C. Umumî Kâtibi",
+        "role": "author"
+      },
+      {
+        "name_1931": "Hasan Cemil Bey",
+        "name_modern": "Hasan Cemil Çambel",
+        "role_1931": "Bolu Meb'usu ve T. T. T. C. Azası",
+        "role": "author"
+      },
+      {
+        "name_1931": "Afet Hanımefendi",
+        "name_modern": "Afet İnan",
+        "role_1931": "Musiki Muallim Mektebi Tarih ve Medenî Bilgiler Muallimi ve T. T. T. C. Azası",
+        "role": "author"
+      },
+      {
+        "name_1931": "Baki Bey",
+        "name_modern": "Baki Vandemir",
+        "role_1931": "Erkânı Harbiye Miralayı, Büyük Erkânı Harbiye Harp Tarihi İkinci Şube Müdürü",
+        "role": "author"
+      },
+      {
+        "name_1931": "İsmail Hakkı Bey",
+        "name_modern": "İsmail Hakkı Uzunçarşılı",
+        "role_1931": "Balıkesir Meb'usu ve T. T. T. C. Azası",
+        "role": "author"
+      },
+      {
+        "name_1931": "Reşit Saffet Bey",
+        "name_modern": "Reşit Saffet Atabinen",
+        "role_1931": "Kocaeli Meb'usu ve T. T. T. C. Azası",
+        "role": "author"
+      },
+      {
+        "name_1931": "Sadri Maksudi Bey",
+        "name_modern": "Sadri Maksudi Arsal",
+        "role_1931": "Şarkî Karahisar Meb'usu ve T. T. T. C. Azası",
+        "role": "author"
+      },
+      {
+        "name_1931": "Şemseddin Bey",
+        "name_modern": "Mehmet Şemsettin Günaltay",
+        "role_1931": "Sivas Meb'usu ve İstanbul Darülfünunu Türk Tarihi Sabık Profesörü ve T. T. T. C. Azası",
+        "role": "author"
+      },
+      {
+        "name_1931": "Şemsi Bey",
+        "name_modern": "Şemsi Bey",
+        "role_1931": "Miralay, Harita Umum Müdürlüğü Harita Şubesi Müdürü",
+        "role": "cartographer"
+      },
+      {
+        "name_1931": "Yusuf Ziya Bey",
+        "name_modern": "Yusuf Ziya Özer",
+        "role_1931": "Eskişehir Meb'usu, İstanbul Darülfünunu Hukuk Tarihi Sabık Profesörü ve T. T. T. C. Azası",
+        "role": "author"
+      }
     ],
     "contributor_note": "1931 basımında Soyadı Kanunu (1934) henüz yürürlükte olmadığı için kişiler yalnız ad ve unvanla anılmıştır. 'name_1931' alanı kitapta basılı biçimdir ve alıntılamada esas alınmalıdır; 'name_modern' TTK Kütüphanesi katalog kaydıyla (kayıt no. 508611) eşleştirilmiş modern kimliktir.",
     "subjects": [
@@ -82,6 +147,8 @@
   "channels": {
     "$comment": "Yayın kanallarının tek kaynağı. Künye üreticisi (05), site (06), veri kümesi kartı (13) ve README buradan okur; adresler kodda ikinci bir yerde yazmaz.",
     "site": "https://tarih1931.github.io",
+    "counter": "https://hits.sh/{yol}.svg?style=flat-square&label=okuma&color=777&labelColor=eee",
+    "$comment_counter": "Sayfa altındaki okuma sayacı. {yol} yerine sayfanın adresi (şema olmadan) konur, sayım sayfa başınadır. Boş bırakılırsa sayaç hiç basılmaz. Sayaç bir dış hizmettir (hits.sh): rozet yüklenirken ziyaretçinin IP'si oraya gider. Hesap gerektiren bir ölçüme (GoatCounter, Cloudflare Web Analytics) geçilecekse yalnız bu alan değişir.",
     "repository": "https://github.com/tarih1931/tarih1931.github.io",
     "huggingface": "https://huggingface.co/datasets/asayimusa19/tarih-ders-kitaplari-1931",
     "wikisource": "https://tr.wikisource.org"
@@ -149,7 +216,10 @@
     }
   ],
   "scope": {
-    "in_scope": ["tarih-1-1931", "tarih-2-1931"],
+    "in_scope": [
+      "tarih-1-1931",
+      "tarih-2-1931"
+    ],
     "note": "Veri kümesi Tarih I ve Tarih II (1931) ciltleriyle sınırlıdır."
   }
 }

@@ -51,6 +51,8 @@ BOOKMETA = {b["slug"]: b for b in META["books"]}
 # Yayın kanalları künyeyle aynı yerden okunur (metadata/books.json -> channels).
 CHANNELS = META.get("channels", {})
 BASE_URL = CHANNELS.get("site") or "https://tarih1931.github.io"
+# Okuma sayacının adres kalıbı; boş bırakılırsa sayfalara sayaç konmaz.
+SAYAC = (CHANNELS.get("counter") or "").strip()
 TODAY = date.today().isoformat()
 
 # Elle düzeltilmiş bölümler ve onlar üzerine yapılan inceleme. Korpusun geri
@@ -186,11 +188,27 @@ th,td{border:1px solid var(--bd);padding:.4rem .55rem;text-align:left;vertical-a
 th{background:var(--card);font-weight:bold}
 footer{margin-top:3rem;padding-top:1rem;border-top:1px solid var(--bd);
  color:var(--mut);font-size:.82rem}
+p.sayac{margin:1.2rem 0 0;text-align:center}
+p.sayac img{height:20px;width:auto;opacity:.75;vertical-align:middle}
 """
 
 
 def esc(s) -> str:
     return html.escape(str(s), quote=True)
+
+
+# Okuma sayacı. GitHub Pages ziyaretçi saymaz; sayfanın kendi altına konan bu
+# rozet dış bir hizmetten (books.json -> channels.counter) gelir ve sayım sayfa
+# başınadır. Alan boşsa hiç basılmaz. Rozet <img> olduğu için hizmet çökse
+# sayfa etkilenmez; genişlik/yükseklik CSS'te sabit, yerleşme kaymaz.
+def sayac(canonical: str) -> str:
+    if not SAYAC or not canonical:
+        return ""
+    yol = re.sub(r"^https?://", "", canonical).rstrip("/")
+    if not yol:
+        return ""
+    return (f'<p class="sayac"><img src="{esc(SAYAC.replace("{yol}", yol))}" '
+            f'alt="Bu sayfanın okunma sayısı" loading="lazy" referrerpolicy="no-referrer"></p>')
 
 
 def shell(
@@ -231,7 +249,7 @@ def shell(
 {ld}
 <style>{CSS}</style>
 </head>
-<body><div class="wrap">{body}</div></body>
+<body><div class="wrap">{body}{sayac(canonical)}</div></body>
 </html>
 """
 
