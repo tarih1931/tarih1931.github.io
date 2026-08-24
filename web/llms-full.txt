@@ -24726,6 +24726,9 @@ Bu incelemeye yöneltilebilecek itirazlardan biri, metnin hazırlanmasında yapa
 - **[16]** *Kur'an Yolu Türkçe Meâl ve Tefsir* (çevrimiçi sürümde *Kur'an Yolu Tefsiri*), haz. Hayreddin Karaman, Mustafa Çağrıcı,
   İbrahim Kâfi Dönmez, Sadrettin Gümüş, Diyanet İşleri Başkanlığı Yayınları, Ankara, 5 c.
   [Çevrimiçi sürüm](https://kuran.diyanet.gov.tr/tefsir)
+
+**Ansiklopedi ve lügatler.**
+
 - **[17]** *TDV İslâm Ansiklopedisi* (Türkiye Diyanet Vakfı İslâm Ansiklopedisi), Türkiye
   Diyanet Vakfı İslâm Araştırmaları Merkezi.
   [Çevrimiçi sürüm](https://islamansiklopedisi.org.tr) — atıf yapılan maddeler Ek A ve Ek B'de.

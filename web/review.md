@@ -1388,6 +1388,9 @@ scans are on the site.
 - **[16]** *Kur'an Yolu Türkçe Meâl ve Tefsir* (online as *Kur'an Yolu Tefsiri*), prepared by Hayreddin Karaman, Mustafa Çağrıcı,
   İbrahim Kâfi Dönmez, Sadrettin Gümüş, Diyanet İşleri Başkanlığı Yayınları, Ankara, 5 vols.
   [Online edition](https://kuran.diyanet.gov.tr/tefsir)
+
+**Encyclopaedia and dictionaries.**
+
 - **[17]** *TDV İslâm Ansiklopedisi* (Encyclopaedia of Islam of the Turkish Religious
   Foundation), Türkiye Diyanet Vakfı İslâm Araştırmaları Merkezi.
   [Online edition](https://islamansiklopedisi.org.tr) — the entries cited are in Appendix A and Appendix B.
