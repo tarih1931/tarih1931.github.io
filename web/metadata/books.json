@@ -118,7 +118,7 @@
     "authors": [
       "Prof. Dr. Muhammed Fatih Talu"
     ],
-    "email": "tarih.1931.1941@gmail.com",
+    "email": "fatih.talu@inonu.edu.tr",
     "$comment_email": "Yazışma adresi. Yalnız SİTEDE, inceleme sayfalarının altbilgisinde açık metin olarak gösterilir (06_web); .md ve PDF sürümlerine girmez.",
     "$comment_authors": "İncelemenin yazarları. Künye, site atıf kutusu, Google Scholar etiketleri (her yazar için ayrı citation_author) ve yayın paketi buradan okur; kodda ikinci bir yerde yazmaz. Belgedeki imza satırı bu adların ' · ' ile birleştirilmiş hâlidir ve 16 numaralı adım bunu denetler.",
     "doi": "10.5281/zenodo.21963507",
