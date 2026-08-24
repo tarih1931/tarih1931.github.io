@@ -147,7 +147,7 @@
   "channels": {
     "$comment": "Yayın kanallarının tek kaynağı. Künye üreticisi (05), site (06), veri kümesi kartı (13) ve README buradan okur; adresler kodda ikinci bir yerde yazmaz.",
     "site": "https://tarih1931.github.io",
-    "counter": "https://hits.sh/{yol}.svg?style=flat-square&label=okuma&color=777&labelColor=eee",
+    "counter": "https://hits.sh/{yol}.svg?style=flat-square&label=ziyaret&color=777&labelColor=eee",
     "$comment_counter": "Sayfa altındaki okuma sayacı. {yol} yerine sayfanın adresi (şema olmadan) konur, sayım sayfa başınadır. Boş bırakılırsa sayaç hiç basılmaz. Sayaç bir dış hizmettir (hits.sh): rozet yüklenirken ziyaretçinin IP'si oraya gider. Hesap gerektiren bir ölçüme (GoatCounter, Cloudflare Web Analytics) geçilecekse yalnız bu alan değişir.",
     "repository": "https://github.com/tarih1931/tarih1931.github.io",
     "huggingface": "https://huggingface.co/datasets/asayimusa19/tarih-ders-kitaplari-1931",
