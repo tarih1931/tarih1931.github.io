@@ -207,8 +207,11 @@ def sayac(canonical: str) -> str:
     yol = re.sub(r"^https?://", "", canonical).rstrip("/")
     if not yol:
         return ""
+    # loading="lazy" konmaz: rozet sayfanın en altındadır, tembel yüklemede yalnız
+    # sonuna kadar kaydıran okuyucu sayılırdı — üstelik tarayıcı çoğu zaman hiç
+    # yüklemiyordu. referrerpolicy sayımı etkilemez (anahtar adresin içinde).
     return (f'<p class="sayac"><img src="{esc(SAYAC.replace("{yol}", yol))}" '
-            f'alt="Bu sayfanın okunma sayısı" loading="lazy" referrerpolicy="no-referrer"></p>')
+            f'alt="Bu sayfanın okunma sayısı" referrerpolicy="no-referrer"></p>')
 
 
 def shell(
