@@ -53,6 +53,9 @@ CHANNELS = META.get("channels", {})
 BASE_URL = CHANNELS.get("site") or "https://tarih1931.github.io"
 # Okuma sayacının adres kalıbı; boş bırakılırsa sayfalara sayaç konmaz.
 SAYAC = (CHANNELS.get("counter") or "").strip()
+# Veri kümesinin Hugging Face adresi; inceleme sayfalarının altbilgisinde
+# DOI ile sayacın arasında durur.
+HF_URL = (CHANNELS.get("huggingface") or "").strip()
 TODAY = date.today().isoformat()
 
 # Elle düzeltilmiş bölümler ve onlar üzerine yapılan inceleme. Korpusun geri
@@ -201,6 +204,13 @@ def esc(s) -> str:
 # rozet dış bir hizmetten (books.json -> channels.counter) gelir ve sayım sayfa
 # başınadır. Alan boşsa hiç basılmaz. Rozet <img> olduğu için hizmet çökse
 # sayfa etkilenmez; genişlik/yükseklik CSS'te sabit, yerleşme kaymaz.
+def hf_ogesi() -> str:
+    """Altbilgideki Hugging Face bağı. Kanal tanımsızsa boş döner."""
+    if not HF_URL:
+        return ""
+    return f'<a href="{esc(HF_URL)}">Hugging Face</a>'
+
+
 def sayac_ogesi(canonical: str) -> str:
     """Rozetin kendisi. Altbilgi satırının son öğesi olarak kullanılır.
 
@@ -787,6 +797,7 @@ def build_review_page() -> str:
     alt.append('<a href="inceleme.md">ham Markdown</a>')
     if REVIEW_DOI:
         alt.append(f'DOI: <a href="https://doi.org/{esc(REVIEW_DOI)}">{esc(REVIEW_DOI)}</a>')
+    alt.append(hf_ogesi())
     alt.append(sayac_ogesi(url))
     body.append(
         f'<footer>{" · ".join(x for x in alt if x)}<br>'
@@ -841,6 +852,7 @@ def build_review_annex_page() -> str:
         alt.append(f'Yazışma: <a href="mailto:{esc(REVIEW_EMAIL)}">{esc(REVIEW_EMAIL)}</a>')
     if REVIEW_DOI:
         alt.append(f'DOI: <a href="https://doi.org/{esc(REVIEW_DOI)}">{esc(REVIEW_DOI)}</a>')
+    alt.append(hf_ogesi())
     alt.append(sayac_ogesi(url))
     body.append(
         f'<footer>{" · ".join(x for x in alt if x)}<br>'
@@ -884,6 +896,7 @@ def build_review_annex_en_page() -> str:
         alt.append(f'Correspondence: <a href="mailto:{esc(REVIEW_EMAIL)}">{esc(REVIEW_EMAIL)}</a>')
     if REVIEW_DOI:
         alt.append(f'DOI: <a href="https://doi.org/{esc(REVIEW_DOI)}">{esc(REVIEW_DOI)}</a>')
+    alt.append(hf_ogesi())
     alt.append(sayac_ogesi(url))
     body.append(
         f'<footer>{" · ".join(x for x in alt if x)}<br>'
@@ -937,6 +950,7 @@ def build_review_en_page() -> str:
     alt.append('<a href="REVIEW-EN.md">raw Markdown</a>')
     if REVIEW_DOI:
         alt.append(f'DOI: <a href="https://doi.org/{esc(REVIEW_DOI)}">{esc(REVIEW_DOI)}</a>')
+    alt.append(hf_ogesi())
     alt.append(sayac_ogesi(url))
     body.append(
         f'<footer>{" · ".join(x for x in alt if x)}<br>'
