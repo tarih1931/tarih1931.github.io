@@ -73,20 +73,13 @@ Bütün ayet metinleri tek bir mealden, Diyanet İşleri Başkanlığı'nın *Ku
 
 Her ayetin ve bulguları taşıyan her terimin dosyası, ayrı bir belgede toplanan [eklerdedir](https://tarih1931.github.io/inceleme-ekler.html).
 
-### 2.4 İncelenen eksenler
+### 2.4 İncelenen eksenler ve incelemenin sınırları
 
-Karşılaştırma beş eksende yürütülmüştür; aşağıdaki tablo her eksenin dayandığı
-sayfaları ve o eksende geçen alıntı ile bulguların indeks aralığını verir.
-
-| No | Eksen | Kaynak | Alıntı | Bulgu |
-|---|---|---|---|---|
-| **1** | Dinin menşei ve mahiyeti | *Tarih I*, s. 2, 21-24 | Alıntı-01–Alıntı-13 | Bulgu-01–Bulgu-05 |
-| **2** | Yaratılış ve insanın menşei | *Tarih I*, s. 2-7 | Alıntı-14–Alıntı-22 | Bulgu-06–Bulgu-08 |
-| **3** | Vahiy, nübüvvet ve Kur'an'ın kaynağı | *Tarih II*, s. 79-80, 89-93 | Alıntı-23–Alıntı-31 | Bulgu-09–Bulgu-12 |
-| **4** | Cin ve melek itikadının menşei | *Tarih II*, s. 84, 91 | Alıntı-32–Alıntı-35 | Bulgu-13–Bulgu-14 |
-| **5** | Nass, ahkâm ve kutsal mekân | *Tarih II*, s. 85-86, 92, 118 | Alıntı-36–Alıntı-44 | Bulgu-15–Bulgu-17 |
-
-### 2.5 İncelemenin sınırları
+Karşılaştırma beş eksende yürütülmüştür: dinin menşei ve mahiyeti (*Tarih I*,
+s. 2, 21-24); yaratılış ve insanın menşei (*Tarih I*, s. 2-7); vahiy, nübüvvet
+ve Kur'an'ın kaynağı (*Tarih II*, s. 79-80, 89-93); cin ve melek itikadının
+menşei (*Tarih II*, s. 84, 91); nass, ahkâm ve kutsal mekân (*Tarih II*,
+s. 85-86, 92, 118). Her eksen §3'te ayrı bir başlık altındadır.
 
 İnceleme şunları yapmaz:
 

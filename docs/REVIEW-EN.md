@@ -163,20 +163,14 @@ therefore an interpretation, the following rules are observed:
 The file for each verse and for each term that carries the findings is in the
 [appendices](https://tarih1931.github.io/review-appendices.html), a separate document.
 
-### 2.4 The axes examined
+### 2.4 The axes examined and the limits of the review
 
-The comparison was carried out along five axes; the table below gives the pages each
-axis rests on and the index range of the quotations and findings in it.
-
-| No | Axis | Source | Quotations | Findings |
-|---|---|---|---|---|
-| **1** | The origin and nature of religion | *Tarih I*, pp. 2, 21-24 | Quote-01–Quote-13 | Finding-01–Finding-05 |
-| **2** | Creation and the origin of man | *Tarih I*, pp. 2-7 | Quote-14–Quote-22 | Finding-06–Finding-08 |
-| **3** | Revelation, prophethood and the source of the Qur'an | *Tarih II*, pp. 79-80, 89-93 | Quote-23–Quote-31 | Finding-09–Finding-12 |
-| **4** | The origin of belief in jinn and angels | *Tarih II*, pp. 84, 91 | Quote-32–Quote-35 | Finding-13–Finding-14 |
-| **5** | Scriptural text, legal rulings and sacred place | *Tarih II*, pp. 85-86, 92, 118 | Quote-36–Quote-44 | Finding-15–Finding-17 |
-
-### 2.5 The limits of the review
+The comparison was carried out along five axes: the origin and nature of religion
+(*Tarih I*, pp. 2, 21-24); creation and the origin of man (*Tarih I*, pp. 2-7);
+revelation, prophethood and the source of the Qur'an (*Tarih II*, pp. 79-80, 89-93);
+the origin of belief in jinn and angels (*Tarih II*, pp. 84, 91); scriptural text,
+legal rulings and sacred place (*Tarih II*, pp. 85-86, 92, 118). Each axis has its
+own heading in §3.
 
 The review does not do the following:
 

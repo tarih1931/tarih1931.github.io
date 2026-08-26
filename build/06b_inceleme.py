@@ -517,21 +517,17 @@ def check_index(md: str, rows: list[dict]) -> dict[str, int]:
         if atif not in kayitli:
             raise SystemExit(f"metinde tanımsız indekse atıf var: {atif}")
 
-    # §2 tablosu yalnız §3'ün eksenlerini listeler
-    eksen: dict[str, dict[str, list[str]]] = {}
-    for r in rows:
-        if r["type"] in ("quotation", "finding") and r["section"].startswith("3."):
-            eksen.setdefault(r["axis"], {}).setdefault(r["type"], []).append(r["id"])
-    for ad, d in eksen.items():
-        # Eksen adı satırın hangi sütununda olursa olsun bulunur.
-        satir = next((l for l in md.splitlines() if l.startswith("|") and ad in _hucre(l)), None)
-        if satir is None:
-            raise SystemExit(f"§2 tablosunda '{ad}' satırı yok")
-        hucre = _hucre(satir)
-        for tip in ("quotation", "finding"):
-            beklenen = _aralik(d.get(tip, []))
-            if beklenen and beklenen not in hucre:
-                raise SystemExit(f"§2/'{ad}': {beklenen} bekleniyordu — satır: {satir}")
+    # §2, §3'ün eksenlerini sayar. Eskiden burada bir tablo vardı ve her eksenin
+    # ilan ettiği alıntı/bulgu aralığı §3'te fiilen bulunanla karşılaştırılırdı;
+    # tablo 2026-08-25'te kaldırıldı, aralık denetimi de onunla birlikte düştü.
+    # Kalan denetim şu: §3'teki her eksen adı §2'de de geçmeli, yoksa iki bölüm
+    # sessizce ayrışır.
+    # Satır sonları araya girebildiği için boşluklar tek boşluğa indirilir.
+    ust = re.sub(r"\s+", " ", _fold(md[: md.find("## 3.")]))
+    for ad in {r["axis"] for r in rows
+               if r["type"] in ("quotation", "finding") and r["section"].startswith("3.")}:
+        if re.sub(r"\s+", " ", _fold(ad)) not in ust:
+            raise SystemExit(f"§2 eksenleri sayarken '{ad}' anılmamış")
     return sayilar
 
 
@@ -642,7 +638,7 @@ def main() -> None:
         + ", ".join(
             _aralik([_isaret(o, b, 1), _isaret(o, b, n[t])]) for t, o, _, b in var
         )
-        + " eksiksiz ve sıralı; §2 tablosundaki eksen aralıklarıyla tutarlı"
+        + " eksiksiz ve sıralı; §2'de sayılan eksenlerle tutarlı"
     )
     print("    " + ", ".join(f"{n[t]} {e}" for t, _, e, _b in var))
 
