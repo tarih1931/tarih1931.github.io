@@ -8,6 +8,8 @@
 
 ## 1. The official status of the source
 
+### 1.1 The authorship and printing record
+
 The books are not a private author's opinion. *Tarih I* **[1]** and *Tarih II* **[2]**
 were written by the Turkish Historical Research Society (Türk Tarihi Tetkik Cemiyeti)
 and printed at the **State Press** (Devlet Matbaası) in Istanbul for the **Ministry of
@@ -23,7 +25,7 @@ together with its source; the verbatim text of the colophon pages is in the
 | **1941** | *Tarih I* reprinted; third printing order for *Tarih II* (**3,000 copies**) | [9] [13] |
 | **1942** | Board decision **222**: high school years 1, 2, 3; **364**: middle-school history books | [10] |
 
-### 1.1 What the preface declares
+### 1.2 What the preface declares
 
 At the front of both volumes stands a *Mukaddime* (preface) which, apart from
 differences of spelling, is identical in the two (*Tarih I*, pp. V–VI **[5]**; *Tarih
@@ -59,7 +61,7 @@ of religious zeal" (İslamlığa tekaddüm eden binlerce yıla ait devreleri unu
 the treatment of religion is not something that emerges later in the chapters; it is
 the frame the books set for themselves at the outset.
 
-### 1.2 The composition of the committee
+### 1.3 The composition of the committee
 
 The pages headed "Those who worked on the preparation of the book" (Kitabın
 hazırlanmasında çalışanlar) (*Tarih I*, pp. VII–VIII; *Tarih II*, pp. VII–VIII) list

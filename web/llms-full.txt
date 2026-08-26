@@ -23830,6 +23830,8 @@ Aşağıdaki inceleme yukarıdaki metnin bir parçası değildir; 1931 metni üz
 
 ## 1. Kaynağın resmî statüsü
 
+### 1.1 Telif ve basım künyesi
+
 Kitaplar bir müellifin şahsî görüşü değildir. *Tarih I* **[1]** ve *Tarih II* **[2]**, Türk Tarihi Tetkik Cemiyeti'nin telifi olup **Maarif Vekâleti** adına **Devlet Matbaası**nda (İstanbul) basılmıştır. Aşağıdaki tablo, tespit edilebilen bütün tarih, sayı ve künyeleri kaynaklarıyla birlikte verir; künye sayfalarının birebir metni [eklerdedir](https://tarih1931.github.io/inceleme-ekler.html).
 
 | Tarih | Olay | Kaynak |
@@ -23840,13 +23842,13 @@ Kitaplar bir müellifin şahsî görüşü değildir. *Tarih I* **[1]** ve *Tari
 | **1941** | *Tarih I* yeniden basım, *Tarih II* (**3 000 nüsha**) üçüncü basım emri | [9] [13] |
 | **1942** | Kurul kararı **222**: lise 1, 2, 3; **364**: ortaokul tarih kitapları | [10] |
 
-### 1.1 Ön sözün beyanı
+### 1.2 Ön sözün beyanı
 
 Her iki cildin başında, imlâ farkları dışında aynı olan bir *Mukaddime* vardır (*Tarih I*, s. V–VI **[5]**; *Tarih II*, s. V–VI **[6]**; tam metni [Ek C](https://tarih1931.github.io/inceleme-ekler.html)'de). Ön söz üç şeyi kitabın kendi ağzından söyler. Birincisi, kitabı yazan heyet bir ilim kurulu olarak değil, görevlendirilmiş bir kurul olarak tanıtılır: "Türk Tarihi Tetkik Cemiyeti bir kısım azasını tarih tedrisatındaki bu boşluğu doldurabilecek bir kitap hazırlamağa memur etti" (s. V). İkincisi, eserin okutulma kararı devlete aittir: "Cemiyet, dört kitap halinde hazırlamış olduğu bu küçük eseri, mekteplerde okutulmasını kabul eden Türkiye Cümhuriyeti Maarif Vekâletine hediye etmiştir" (s. VI). Üçüncüsü, heyet metni bitmiş saymaz ve düzeltme kapısını açık bırakır: "bu küçük eserin ihtiyaca tam ve mükemmel şekilde tekabül edeceği iddia olunamaz. Noksanlar, ilerde, yeni basılışlarda tamamlanacaktır" (s. VI). Devlet bu kapıdan geçmiştir: 1932'de I. ve II. cildin "tadil ve tashihi" kurul kararına bağlanmış **[8]**, kitap 1933'te ikinci **[11]**, 1941'de üçüncü **[9] [13]** kez basılmıştır.
 
 Ön söz ayrıca kitabın programını din karşısındaki tavrıyla birlikte ilan eder: "mutaassıp müverrihler"in Türk tarihini "kan ve ateş maceralarından ibaret" gösterdiğini, "Türk ve İslam müverrihler"in ise "İslamlığa tekaddüm eden binlerce yıla ait devreleri unutturmayı Ümmetçilik siyasetinin icabı ve din gayreti vecibesi" bildiğini yazar (s. V). Din bahsinde incelenen tavır, bölümlerde sonradan beliren bir şey değil, kitabın girişte kendi koyduğu çerçevedir.
 
-### 1.2 Heyetin terkibi
+### 1.3 Heyetin terkibi
 
 "Kitabın hazırlanmasında çalışanlar" sayfaları (*Tarih I*, s. VII–VIII; *Tarih II*, s. VII–VIII) her iki ciltte aynı on üç kişiyi sayar; yalnız unvanlarda küçük farklar vardır (Ek C). Heyetin reisi, cemiyetin reisi sıfatıyla **Riyaseticümhur Umumî Kâtibi** M. Tevfik Bey'dir; dokuz üye **mebus**tur (Samih Rifat, Akçuraoğlu Yusuf, Reşit Galip, Hasan Cemil, İsmail Hakkı, Reşit Saffet, Sadri Maksudi, Şemseddin, Yusuf Ziya Beyler) ve bunlardan dördü aynı zamanda hukuk veya tarih profesörü olarak anılır (Akçuraoğlu Yusuf: Ankara Hukuk Mektebi Siyasî Tarih Profesörü; Sadri Maksudi: Ankara Hukuk Mektebi profesörlerinden; Şemseddin: İstanbul Darülfünunu Türk Tarihi sabık profesörü; Yusuf Ziya: İstanbul Darülfünunu Hukuk Tarihi sabık profesörü); iki üye **miralay** (Baki Bey, Şemsi Bey), bir üye Musiki Muallim Mektebi tarih ve medenî bilgiler **muallimi**dir (Afet Hanımefendi). Kitap hiçbir bölümü hiçbir üyeye nispet etmez; metin heyetin ortak imzasıyla çıkar.
 
