@@ -24625,7 +24625,7 @@ kabul edilen ve on bir yıl liselerde kalan bir serinin 1931 basımında — oku
 
 ---
 
-## 6. Kaynak ve doğrulama
+## 6. Kaynak, doğrulama ve kaynakça
 
 Bütün alıntılar, taranmış asıllarıyla sayfa sayfa karşılaştırılarak elle
 düzeltilmiş metinden birebir alınmıştır. Bu metin herkese açıktır:
@@ -24642,36 +24642,6 @@ taramaları kaynakçada **[1]** ve **[2]**'dedir.
 **Alıntılardaki imlâ 1931 basımına aittir** ve düzeltilmemiştir: *sora*, *evel*, *tabiat*, *iptidaî*, *mabut*, *neş'et*. Alıntı içindeki tırnaklar tek tırnağa çevrilmiştir (basımda *"kabile allahı"*, incelemede *'kabile allahı'*); bunun dışında lafız değiştirilmemiştir. Alıntıların tamamı, künyesinde gösterilen sayfanın düzeltilmiş metninde harfi harfine bulunmaktadır ve bu makine ile denetlenmiştir.
 
 **Araç notu.** Metnin hazırlanmasında yapay zekâ araçlarından yararlanılmıştır: kaynak metnin bütün olarak taranması, alıntı–bulgu–ayet kayıtlarının çıkarılması, ek dosyalarının derlenmesi ve alıntıların kaynak sayfaya karşı makine ile denetlenmesi bu yolla yapılmıştır. Araştırma sorusu, iddiaların seçimi, itikadî değerlendirme ve son metnin sorumluluğu yazara aittir.
-
----
-
-## 7. Ekler
-
-Dört ek, ana metnin dayanaklarını açan ayrı bir belgededir:
-[**Ekler**](https://tarih1931.github.io/inceleme-ekler.html).
-
-- **Ek A — Ayet dosyaları.** Ana metinde anılan otuz sekiz ayetin her biri için:
-  bulgudaki yeri, *Kur'an Yolu Tefsiri*'nin notu ve ilgili *TDV İslâm Ansiklopedisi*
-  maddesi.
-- **Ek B — Terim dosyaları.** Bulguları taşıyan dokuz terimin (ilham/vahiy,
-  uydurma/masal, müessis/kurmak, an'ane, telâkki, tekâmül, mefhum/bulmak,
-  tabiat/mahlûk, din) kitap içindeki bütün kullanımı, 1931'deki lügat anlamı,
-  anlam kayması ve Kur'anî karşılığı.
-- **Ek C — Ön söz ve heyet sayfaları.** Birinci bölümün dayandığı *Mukaddime* ile "Kitabın
-  hazırlanmasında çalışanlar" sayfalarının tam metni ve künye satırları.
-- **Ek D — Hükümlerin dayanak tipi.** Her bulgunun kitaba atfettiği hüküm, dayandığı
-  cümleler ve hükmün kitabın sarih lafzından mı, yoksa birden fazla sarih cümlenin
-  birleştirilmesinden mi çıktığı.
-
----
-
-## 8. Yanlılık itirazı ve denetlenebilirlik
-
-Bu incelemeye yöneltilebilecek itirazlardan biri, metnin hazırlanmasında yapay zekâ kullanıldığı, bu yüzden çıktının yanlı olduğu ve bilimsel sayılamayacağıdır. İtiraz iki ayrı iddia taşır: çıktının yanlı olduğu ve yöntemin bilimsel olmadığı. İkisi de, metni kimin yazdığından bağımsız olarak, metnin kendisi üzerinde sınanabilir; incelemenin kurgusu bu sınamayı mümkün kılmak üzere yapılmıştır. Bir iddianın doğruluğu, onu kimin dile getirdiğiyle değil, dayanaklarıyla ölçülür. Yanlılık iddiası bir yerde somutlaşıyorsa (yanlış aktarılmış bir alıntı, saklanmış bir cümle, ayetin söylemediğini söyleten bir çıkarım), gösterilmesi hâlinde düzeltilir; düzeltme kaydı da açık tutulur. İncelemenin bulguları, aynı ders kitapları üzerine yapılmış hakemli akademik çalışmalarda karşılık bulmaktadır **[20] [21]**.
-
----
-
-## 9. Kaynakça
 
 **Taranmış asıllar** — Türk Tarih Kurumu Kütüphanesi, yer no. A/4789.
 
@@ -24738,6 +24708,27 @@ Bu incelemeye yöneltilebilecek itirazlardan biri, metnin hazırlanmasında yapa
 - **[21]** Tercan Yıldırım – Ahmet Şimşek, “Erken Cumhuriyet Dönemi Lise Tarih
   Ders Kitaplarında Din Anlatısı”, *Eğitim ve Bilim*, 40/179 (2015), s. 323-340.
   [doi:10.15390/EB.2015.4246](https://doi.org/10.15390/EB.2015.4246)
+
+**Ekler.** Dört ek, ana metnin dayanaklarını açan [ayrı bir belgededir](https://tarih1931.github.io/inceleme-ekler.html).
+
+- **[Ek A — Ayet dosyaları](https://tarih1931.github.io/inceleme-ekler.html#s-ek-a-ayet-dosyalari).** Ana metinde anılan otuz sekiz ayetin her biri için:
+  bulgudaki yeri, *Kur'an Yolu Tefsiri*'nin notu ve ilgili *TDV İslâm Ansiklopedisi*
+  maddesi.
+- **[Ek B — Terim dosyaları](https://tarih1931.github.io/inceleme-ekler.html#s-ek-b-terim-dosyalari).** Bulguları taşıyan dokuz terimin (ilham/vahiy,
+  uydurma/masal, müessis/kurmak, an'ane, telâkki, tekâmül, mefhum/bulmak,
+  tabiat/mahlûk, din) kitap içindeki bütün kullanımı, 1931'deki lügat anlamı,
+  anlam kayması ve Kur'anî karşılığı.
+- **[Ek C — Ön söz ve heyet sayfaları](https://tarih1931.github.io/inceleme-ekler.html#s-ek-c-on-soz-ve-heyet-sayfalari).** Birinci bölümün dayandığı *Mukaddime* ile "Kitabın
+  hazırlanmasında çalışanlar" sayfalarının tam metni ve künye satırları.
+- **[Ek D — Hükümlerin dayanak tipi](https://tarih1931.github.io/inceleme-ekler.html#s-ek-d-hukumlerin-dayanak-tipi).** Her bulgunun kitaba atfettiği hüküm, dayandığı
+  cümleler ve hükmün kitabın sarih lafzından mı, yoksa birden fazla sarih cümlenin
+  birleştirilmesinden mi çıktığı.
+
+---
+
+## 7. Yanlılık itirazı ve denetlenebilirlik
+
+Bu incelemeye yöneltilebilecek itirazlardan biri, metnin hazırlanmasında yapay zekâ kullanıldığı, bu yüzden çıktının yanlı olduğu ve bilimsel sayılamayacağıdır. İtiraz iki ayrı iddia taşır: çıktının yanlı olduğu ve yöntemin bilimsel olmadığı. İkisi de, metni kimin yazdığından bağımsız olarak, metnin kendisi üzerinde sınanabilir; incelemenin kurgusu bu sınamayı mümkün kılmak üzere yapılmıştır. Bir iddianın doğruluğu, onu kimin dile getirdiğiyle değil, dayanaklarıyla ölçülür. Yanlılık iddiası bir yerde somutlaşıyorsa (yanlış aktarılmış bir alıntı, saklanmış bir cümle, ayetin söylemediğini söyleten bir çıkarım), gösterilmesi hâlinde düzeltilir; düzeltme kaydı da açık tutulur. İncelemenin bulguları, aynı ders kitapları üzerine yapılmış hakemli akademik çalışmalarda karşılık bulmaktadır **[20] [21]**.
 
 ---
 

@@ -1281,7 +1281,7 @@ and kept in the high schools for eleven years.
 
 ---
 
-## 6. Source and verification
+## 6. Source, verification and bibliography
 
 All quotations are taken verbatim from text that was corrected by hand, page by page,
 against the scanned originals. That text is publicly available:
@@ -1311,31 +1311,6 @@ altered. All the quotations are present letter for letter in the corrected text 
 page named in their citation, and this has been machine-verified.
 
 **Note on tools.** Artificial-intelligence tools were used in preparing the text: the systematic search of the source text in its entirety, the extraction of the quotation–finding–verse records, the compilation of the appendices and the machine verification of the quotations against the source page were carried out in this way. The research question, the selection of the assertions, the doctrinal assessment and the responsibility for the final text belong to the author.
-
----
-
-## 7. Appendices
-
-Four appendices, which set out the grounds of the main text, are in a separate
-document: [**Appendices**](https://tarih1931.github.io/review-appendices.html). The
-quotations, the dictionary entries and the 1931 preface are given there in Turkish,
-with an English translation beneath each; the Turkish original of the document is
-[İnceleme — Ekler](https://tarih1931.github.io/inceleme-ekler.html).
-
-- **Appendix A — Verse files.** For each of the thirty-eight verses cited in the main text: its place in the finding, the note in the *Kur'an Yolu Tefsiri*, and the relevant *TDV İslâm Ansiklopedisi* entry.
-- **Appendix B — Term files.** For the nine terms that carry the findings — inspiration/revelation (ilham/vahiy), fabrication/tale (uydurma/masal), founder/to found (müessis/kurmak), tradition (an'ane), conception (telâkki), evolution (tekâmül), concept/to find (mefhum/bulmak), nature/created being (tabiat/mahlûk), religion (din) — every use of them within the book, their dictionary meaning in 1931, the shift of meaning, and their Qur'anic counterpart.
-- **Appendix C — The preface and the drafting-committee pages.** The full text and the citation lines of the *Mukaddime* on which the first section rests and of the "Kitabın hazırlanmasında çalışanlar" ("Those who worked on the preparation of the book") pages.
-- **Appendix D — The grounds of each judgement.** For every finding: the claim it attributes to the books, the sentences it rests on, and whether that claim is explicit in the books' wording or built by combining several explicit sentences.
-
----
-
-## 8. The objection of bias, and how it can be tested
-
-One objection that may be raised against this review is that artificial intelligence was used in preparing it, that its output is therefore biased, and that it cannot count as scholarly. The objection carries two distinct claims: that the output is biased, and that the method is not scholarly. Both can be tested on the text itself, independently of who wrote it; the review has been built so as to make that testing possible. The truth of a claim is measured by its grounds, not by who advances it. If the charge of bias becomes concrete at any point (a misreported quotation, a suppressed sentence, an inference that makes a verse say what it does not), it will be corrected once shown, and the record of the correction kept open. The findings of this review have their counterpart in the peer-reviewed academic literature on the same textbooks **[20] [21]**.
-
----
-
-## 9. Bibliography
 
 **Scanned originals** — Turkish Historical Society Library, call no. A/4789.
 
@@ -1404,6 +1379,19 @@ scans are on the site.
   textbooks of the early Republican period in Turkey”), *Eğitim ve Bilim /
   Education and Science*, 40/179 (2015), pp. 323-340.
   [doi:10.15390/EB.2015.4246](https://doi.org/10.15390/EB.2015.4246)
+
+**Appendices.** Four appendices, which set out the grounds of the main text, are in [a separate document](https://tarih1931.github.io/review-appendices.html). The quotations, the dictionary entries and the 1931 preface are given there in Turkish, with an English translation beneath each; the Turkish original of the document is [İnceleme — Ekler](https://tarih1931.github.io/inceleme-ekler.html).
+
+- **[Appendix A — Verse files](https://tarih1931.github.io/review-appendices.html#s-appendix-a-verse-files).** For each of the thirty-eight verses cited in the main text: its place in the finding, the note in the *Kur'an Yolu Tefsiri*, and the relevant *TDV İslâm Ansiklopedisi* entry.
+- **[Appendix B — Term files](https://tarih1931.github.io/review-appendices.html#s-appendix-b-term-files).** For the nine terms that carry the findings — inspiration/revelation (ilham/vahiy), fabrication/tale (uydurma/masal), founder/to found (müessis/kurmak), tradition (an'ane), conception (telâkki), evolution (tekâmül), concept/to find (mefhum/bulmak), nature/created being (tabiat/mahlûk), religion (din) — every use of them within the book, their dictionary meaning in 1931, the shift of meaning, and their Qur'anic counterpart.
+- **[Appendix C — The preface and the drafting-committee pages](https://tarih1931.github.io/review-appendices.html#s-appendix-c-the-preface-and-the-drafting-committee-pages).** The full text and the citation lines of the *Mukaddime* on which the first section rests and of the "Kitabın hazırlanmasında çalışanlar" ("Those who worked on the preparation of the book") pages.
+- **[Appendix D — The grounds of each judgement](https://tarih1931.github.io/review-appendices.html#s-appendix-d-the-grounds-of-each-judgement).** For every finding: the claim it attributes to the books, the sentences it rests on, and whether that claim is explicit in the books' wording or built by combining several explicit sentences.
+
+---
+
+## 7. The objection of bias, and how it can be tested
+
+One objection that may be raised against this review is that artificial intelligence was used in preparing it, that its output is therefore biased, and that it cannot count as scholarly. The objection carries two distinct claims: that the output is biased, and that the method is not scholarly. Both can be tested on the text itself, independently of who wrote it; the review has been built so as to make that testing possible. The truth of a claim is measured by its grounds, not by who advances it. If the charge of bias becomes concrete at any point (a misreported quotation, a suppressed sentence, an inference that makes a verse say what it does not), it will be corrected once shown, and the record of the correction kept open. The findings of this review have their counterpart in the peer-reviewed academic literature on the same textbooks **[20] [21]**.
 
 ---
 
