@@ -28,10 +28,6 @@ Her iki cildin başında, imlâ farkları dışında aynı olan bir *Mukaddime* 
 
 "Kitabın hazırlanmasında çalışanlar" sayfaları (*Tarih I*, s. VII–VIII; *Tarih II*, s. VII–VIII) her iki ciltte aynı on üç kişiyi sayar; yalnız unvanlarda küçük farklar vardır (Ek C). Heyetin reisi, cemiyetin reisi sıfatıyla **Riyaseticümhur Umumî Kâtibi** M. Tevfik Bey'dir; dokuz üye **mebus**tur (Samih Rifat, Akçuraoğlu Yusuf, Reşit Galip, Hasan Cemil, İsmail Hakkı, Reşit Saffet, Sadri Maksudi, Şemseddin, Yusuf Ziya Beyler) ve bunlardan dördü aynı zamanda hukuk veya tarih profesörü olarak anılır (Akçuraoğlu Yusuf: Ankara Hukuk Mektebi Siyasî Tarih Profesörü; Sadri Maksudi: Ankara Hukuk Mektebi profesörlerinden; Şemseddin: İstanbul Darülfünunu Türk Tarihi sabık profesörü; Yusuf Ziya: İstanbul Darülfünunu Hukuk Tarihi sabık profesörü); iki üye **miralay** (Baki Bey, Şemsi Bey), bir üye Musiki Muallim Mektebi tarih ve medenî bilgiler **muallimi**dir (Afet Hanımefendi). Kitap hiçbir bölümü hiçbir üyeye nispet etmez; metin heyetin ortak imzasıyla çıkar.
 
-### 1.3 "Bir komisyonun görüşü" itirazı
-
-Kitaptaki din anlatısının, girişte adı geçen bir komisyonun görüşü olduğu ve bu yüzden "devletin resmî öğretisi" sayılamayacağı ileri sürülebilir. Metnin resmî niteliği ise kimin yazdığından değil, yayımlayan ve okutan makamın işlemlerinden doğar; yukarıda sayılan işlemlerin hepsi devletindir: basım emri, okutulma kararı, 1932 tadili, sonraki iki basım ve serinin 1942'ye kadar liselerde kalması **[10]**. Heyet de kendini, ön sözde görüldüğü gibi, akademik bir kurul olarak değil cemiyetçe "memur edilmiş" bir kurul olarak takdim eder. Üyelerin şahsî kanaatleri incelemenin konusu değildir; incelenen, devletin bastırdığı, onayladığı ve okuttuğu metnin lafzıdır. Kitaplar **liseler için yazılmış**, ortamektep ve liselere birlikte dağıtılmıştır.
-
 ---
 
 ## 2. Yöntem ve incelenen eksenler
@@ -803,7 +799,7 @@ kabul edilen ve on bir yıl liselerde kalan bir serinin 1931 basımında — oku
 
 ---
 
-## 6. Kaynak, doğrulama ve kaynakça
+## 6. Bazı ek bilgiler
 
 Bütün alıntılar, taranmış asıllarıyla sayfa sayfa karşılaştırılarak elle
 düzeltilmiş metinden birebir alınmıştır. Bu metin herkese açıktır:
@@ -811,7 +807,7 @@ düzeltilmiş metinden birebir alınmıştır. Bu metin herkese açıktır:
 - **Beşer Tarihine Giriş** — *Tarih I*, s. 1-24: [düzeltilmiş tam metin](https://tarih1931.github.io/duzeltilmis/beser-tarihine-giris-tam.txt)
 - **İslâm Tarihi** — *Tarih II*, s. 79-184: [düzeltilmiş tam metin](https://tarih1931.github.io/duzeltilmis/islam-tarihi-tam.txt)
 
-Sayfa sayfa görünüm ve her sayfanın taranmış aslına giden bağlantı
+**Alıntılar.** Sayfa sayfa görünüm ve her sayfanın taranmış aslına giden bağlantı
 [düzeltilmiş bölümler dizinindedir](https://tarih1931.github.io/duzeltilmis.html); ciltlerin tam
 taramaları kaynakçada **[1]** ve **[2]**'dedir.
 
@@ -820,6 +816,14 @@ taramaları kaynakçada **[1]** ve **[2]**'dedir.
 **Alıntılardaki imlâ 1931 basımına aittir** ve düzeltilmemiştir: *sora*, *evel*, *tabiat*, *iptidaî*, *mabut*, *neş'et*. Alıntı içindeki tırnaklar tek tırnağa çevrilmiştir (basımda *"kabile allahı"*, incelemede *'kabile allahı'*); bunun dışında lafız değiştirilmemiştir. Alıntıların tamamı, künyesinde gösterilen sayfanın düzeltilmiş metninde harfi harfine bulunmaktadır ve bu makine ile denetlenmiştir.
 
 **Araç notu.** Metnin hazırlanmasında yapay zekâ araçlarından yararlanılmıştır: kaynak metnin bütün olarak taranması, alıntı–bulgu–ayet kayıtlarının çıkarılması, ek dosyalarının derlenmesi ve alıntıların kaynak sayfaya karşı makine ile denetlenmesi bu yolla yapılmıştır. Araştırma sorusu, iddiaların seçimi, itikadî değerlendirme ve son metnin sorumluluğu yazara aittir.
+
+**“Bir komisyonun görüşü” itirazı.** Kitaptaki din anlatısının, girişte adı geçen bir komisyonun görüşü olduğu ve bu yüzden "devletin resmî öğretisi" sayılamayacağı ileri sürülebilir. Metnin resmî niteliği ise kimin yazdığından değil, yayımlayan ve okutan makamın işlemlerinden doğar; yukarıda sayılan işlemlerin hepsi devletindir: basım emri, okutulma kararı, 1932 tadili, sonraki iki basım ve serinin 1942'ye kadar liselerde kalması **[10]**. Heyet de kendini, ön sözde görüldüğü gibi, akademik bir kurul olarak değil cemiyetçe "memur edilmiş" bir kurul olarak takdim eder. Üyelerin şahsî kanaatleri incelemenin konusu değildir; incelenen, devletin bastırdığı, onayladığı ve okuttuğu metnin lafzıdır. Kitaplar **liseler için yazılmış**, ortamektep ve liselere birlikte dağıtılmıştır.
+
+**Yapay zekâ kullanımı itirazı.** Bu incelemeye yöneltilebilecek itirazlardan biri, metnin hazırlanmasında yapay zekâ kullanıldığı, bu yüzden çıktının yanlı olduğu ve bilimsel sayılamayacağıdır. İtiraz iki ayrı iddia taşır: çıktının yanlı olduğu ve yöntemin bilimsel olmadığı. İkisi de, metni kimin yazdığından bağımsız olarak, metnin kendisi üzerinde sınanabilir; incelemenin kurgusu bu sınamayı mümkün kılmak üzere yapılmıştır. Bir iddianın doğruluğu, onu kimin dile getirdiğiyle değil, dayanaklarıyla ölçülür. Yanlılık iddiası bir yerde somutlaşıyorsa (yanlış aktarılmış bir alıntı, saklanmış bir cümle, ayetin söylemediğini söyleten bir çıkarım), gösterilmesi hâlinde düzeltilir; düzeltme kaydı da açık tutulur. İncelemenin bulguları, aynı ders kitapları üzerine yapılmış hakemli akademik çalışmalarda karşılık bulmaktadır **[20] [21]**.
+
+---
+
+## 7. Kaynakça
 
 **Taranmış asıllar** — Türk Tarih Kurumu Kütüphanesi, yer no. A/4789.
 
@@ -901,12 +905,6 @@ taramaları kaynakçada **[1]** ve **[2]**'dedir.
 - **[Ek D — Hükümlerin dayanak tipi](https://tarih1931.github.io/inceleme-ekler.html#s-ek-d-hukumlerin-dayanak-tipi).** Her bulgunun kitaba atfettiği hüküm, dayandığı
   cümleler ve hükmün kitabın sarih lafzından mı, yoksa birden fazla sarih cümlenin
   birleştirilmesinden mi çıktığı.
-
----
-
-## 7. Yanlılık itirazı ve denetlenebilirlik
-
-Bu incelemeye yöneltilebilecek itirazlardan biri, metnin hazırlanmasında yapay zekâ kullanıldığı, bu yüzden çıktının yanlı olduğu ve bilimsel sayılamayacağıdır. İtiraz iki ayrı iddia taşır: çıktının yanlı olduğu ve yöntemin bilimsel olmadığı. İkisi de, metni kimin yazdığından bağımsız olarak, metnin kendisi üzerinde sınanabilir; incelemenin kurgusu bu sınamayı mümkün kılmak üzere yapılmıştır. Bir iddianın doğruluğu, onu kimin dile getirdiğiyle değil, dayanaklarıyla ölçülür. Yanlılık iddiası bir yerde somutlaşıyorsa (yanlış aktarılmış bir alıntı, saklanmış bir cümle, ayetin söylemediğini söyleten bir çıkarım), gösterilmesi hâlinde düzeltilir; düzeltme kaydı da açık tutulur. İncelemenin bulguları, aynı ders kitapları üzerine yapılmış hakemli akademik çalışmalarda karşılık bulmaktadır **[20] [21]**.
 
 ---
 

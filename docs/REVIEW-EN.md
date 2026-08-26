@@ -77,21 +77,6 @@ Darülfünunu); two members are **colonels** (Baki Bey, Şemsi Bey), and one mem
 The book attributes no chapter to any member; the text appears under the joint
 signature of the committee.
 
-### 1.3 The "opinion of a commission" objection
-
-It may be objected that the account of religion in the books is the opinion of a
-commission named at the front of the volume and cannot therefore count as "the
-official teaching of the state". The official character of a text arises not from who
-wrote it but from the acts of the authority that published it and had it taught; every
-one of the acts listed above is the state's: the printing order, the decision to have
-the work taught, the amendment of 1932, the two later printings, and the survival of
-the series in the high schools until 1942 **[10]**. The committee, too, as the preface
-shows, presents itself not as an academic body but as a body "commissioned" (memur
-edilmiş) by the society. The personal convictions of its members are not the subject
-of this review; what is examined is the wording of the text that the state printed,
-approved and had taught. The books were **written for high schools** and were
-distributed to middle schools and high schools alike.
-
 ---
 
 ## 2. Method and the axes examined
@@ -1281,7 +1266,7 @@ and kept in the high schools for eleven years.
 
 ---
 
-## 6. Source, verification and bibliography
+## 6. Additional notes
 
 All quotations are taken verbatim from text that was corrected by hand, page by page,
 against the scanned originals. That text is publicly available:
@@ -1289,7 +1274,7 @@ against the scanned originals. That text is publicly available:
 - **Beşer Tarihine Giriş** — *Tarih I*, pp. 1-24: [corrected full text](https://tarih1931.github.io/duzeltilmis/beser-tarihine-giris-tam.txt)
 - **İslâm Tarihi** — *Tarih II*, pp. 79-184: [corrected full text](https://tarih1931.github.io/duzeltilmis/islam-tarihi-tam.txt)
 
-The page-by-page view, with a link from each page to its scanned original, is in the
+**Quotations.** The page-by-page view, with a link from each page to its scanned original, is in the
 [index of corrected sections](https://tarih1931.github.io/duzeltilmis.html); the full
 scans of the volumes are references **[1]** and **[2]** in the bibliography.
 
@@ -1311,6 +1296,25 @@ altered. All the quotations are present letter for letter in the corrected text 
 page named in their citation, and this has been machine-verified.
 
 **Note on tools.** Artificial-intelligence tools were used in preparing the text: the systematic search of the source text in its entirety, the extraction of the quotation–finding–verse records, the compilation of the appendices and the machine verification of the quotations against the source page were carried out in this way. The research question, the selection of the assertions, the doctrinal assessment and the responsibility for the final text belong to the author.
+
+**The “opinion of a commission” objection.** It may be objected that the account of religion in the books is the opinion of a
+commission named at the front of the volume and cannot therefore count as "the
+official teaching of the state". The official character of a text arises not from who
+wrote it but from the acts of the authority that published it and had it taught; every
+one of the acts listed above is the state's: the printing order, the decision to have
+the work taught, the amendment of 1932, the two later printings, and the survival of
+the series in the high schools until 1942 **[10]**. The committee, too, as the preface
+shows, presents itself not as an academic body but as a body "commissioned" (memur
+edilmiş) by the society. The personal convictions of its members are not the subject
+of this review; what is examined is the wording of the text that the state printed,
+approved and had taught. The books were **written for high schools** and were
+distributed to middle schools and high schools alike.
+
+**The objection to the use of artificial intelligence.** One objection that may be raised against this review is that artificial intelligence was used in preparing it, that its output is therefore biased, and that it cannot count as scholarly. The objection carries two distinct claims: that the output is biased, and that the method is not scholarly. Both can be tested on the text itself, independently of who wrote it; the review has been built so as to make that testing possible. The truth of a claim is measured by its grounds, not by who advances it. If the charge of bias becomes concrete at any point (a misreported quotation, a suppressed sentence, an inference that makes a verse say what it does not), it will be corrected once shown, and the record of the correction kept open. The findings of this review have their counterpart in the peer-reviewed academic literature on the same textbooks **[20] [21]**.
+
+---
+
+## 7. Bibliography
 
 **Scanned originals** — Turkish Historical Society Library, call no. A/4789.
 
@@ -1386,12 +1390,6 @@ scans are on the site.
 - **[Appendix B — Term files](https://tarih1931.github.io/review-appendices.html#s-appendix-b-term-files).** For the nine terms that carry the findings — inspiration/revelation (ilham/vahiy), fabrication/tale (uydurma/masal), founder/to found (müessis/kurmak), tradition (an'ane), conception (telâkki), evolution (tekâmül), concept/to find (mefhum/bulmak), nature/created being (tabiat/mahlûk), religion (din) — every use of them within the book, their dictionary meaning in 1931, the shift of meaning, and their Qur'anic counterpart.
 - **[Appendix C — The preface and the drafting-committee pages](https://tarih1931.github.io/review-appendices.html#s-appendix-c-the-preface-and-the-drafting-committee-pages).** The full text and the citation lines of the *Mukaddime* on which the first section rests and of the "Kitabın hazırlanmasında çalışanlar" ("Those who worked on the preparation of the book") pages.
 - **[Appendix D — The grounds of each judgement](https://tarih1931.github.io/review-appendices.html#s-appendix-d-the-grounds-of-each-judgement).** For every finding: the claim it attributes to the books, the sentences it rests on, and whether that claim is explicit in the books' wording or built by combining several explicit sentences.
-
----
-
-## 7. The objection of bias, and how it can be tested
-
-One objection that may be raised against this review is that artificial intelligence was used in preparing it, that its output is therefore biased, and that it cannot count as scholarly. The objection carries two distinct claims: that the output is biased, and that the method is not scholarly. Both can be tested on the text itself, independently of who wrote it; the review has been built so as to make that testing possible. The truth of a claim is measured by its grounds, not by who advances it. If the charge of bias becomes concrete at any point (a misreported quotation, a suppressed sentence, an inference that makes a verse say what it does not), it will be corrected once shown, and the record of the correction kept open. The findings of this review have their counterpart in the peer-reviewed academic literature on the same textbooks **[20] [21]**.
 
 ---
 
