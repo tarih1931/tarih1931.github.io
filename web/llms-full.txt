@@ -23897,7 +23897,7 @@ Karşılaştırma beş eksende yürütülmüştür: dinin menşei ve mahiyeti (*
 s. 2, 21-24); yaratılış ve insanın menşei (*Tarih I*, s. 2-7); vahiy, nübüvvet
 ve Kur'an'ın kaynağı (*Tarih II*, s. 79-80, 89-93); cin ve melek itikadının
 menşei (*Tarih II*, s. 84, 91); nass, ahkâm ve kutsal mekân (*Tarih II*,
-s. 85-86, 92, 118). Her eksen, aşağıdaki eksen eksen karşılaştırmada ayrı bir başlık altındadır.
+s. 85-86, 92, 118).
 
 İnceleme şunları yapmaz:
 
@@ -23911,7 +23911,7 @@ s. 85-86, 92, 118). Her eksen, aşağıdaki eksen eksen karşılaştırmada ayr�
 
 ## 3. Eksen eksen karşılaştırma
 
-Her bir eksen altında, öncelikle ilgili alıntı ve ayetlere yer verilmekte, ardından bunların birlikte değerlendirilmesiyle ulaşılan bulgular ortaya konulmaktadır. Alıntılar yukarıdaki kurallara göre, paragrafın hükmünü taşıyacak uzunlukta verilmiştir; **(…)** ile atlanan yerlerde atlananın ne olduğu bulguda belirtilir.
+Her bir eksen altında, öncelikle ilgili alıntı ve ayetlere yer verilmekte, ardından bunların birlikte değerlendirilmesiyle ulaşılan bulgular ortaya konulmaktadır. Alıntılar yukarıdaki kurallara göre, paragrafın hükmünü taşıyacak uzunlukta verilmiştir; **(…)** ile atlanan yerlerde atlananın ne olduğu bulguda belirtilir. Her eksen ayrı bir başlık altındadır.
 
 ### 3.1 Dinin menşei ve mahiyeti
 
@@ -24623,13 +24623,13 @@ kabul edilen ve on bir yıl liselerde kalan bir serinin 1931 basımında — oku
 
 ## 6. Bazı ek bilgiler
 
-Bütün alıntılar, taranmış asıllarıyla sayfa sayfa karşılaştırılarak elle
+**Alıntılar.** Bütün alıntılar, taranmış asıllarıyla sayfa sayfa karşılaştırılarak elle
 düzeltilmiş metinden birebir alınmıştır. Bu metin herkese açıktır:
 
 - **Beşer Tarihine Giriş** — *Tarih I*, s. 1-24: [düzeltilmiş tam metin](https://tarih1931.github.io/duzeltilmis/beser-tarihine-giris-tam.txt)
 - **İslâm Tarihi** — *Tarih II*, s. 79-184: [düzeltilmiş tam metin](https://tarih1931.github.io/duzeltilmis/islam-tarihi-tam.txt)
 
-**Alıntılar.** Sayfa sayfa görünüm ve her sayfanın taranmış aslına giden bağlantı
+Sayfa sayfa görünüm ve her sayfanın taranmış aslına giden bağlantı
 [düzeltilmiş bölümler dizinindedir](https://tarih1931.github.io/duzeltilmis.html); ciltlerin tam
 taramaları kaynakçada **[1]** ve **[2]**'dedir.
 

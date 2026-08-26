@@ -154,8 +154,7 @@ The comparison was carried out along five axes: the origin and nature of religio
 (*Tarih I*, pp. 2, 21-24); creation and the origin of man (*Tarih I*, pp. 2-7);
 revelation, prophethood and the source of the Qur'an (*Tarih II*, pp. 79-80, 89-93);
 the origin of belief in jinn and angels (*Tarih II*, pp. 84, 91); scriptural text,
-legal rulings and sacred place (*Tarih II*, pp. 85-86, 92, 118). Each axis has its
-own heading in the axis-by-axis comparison below.
+legal rulings and sacred place (*Tarih II*, pp. 85-86, 92, 118).
 
 The review does not do the following:
 
@@ -172,7 +171,7 @@ The review does not do the following:
 Under each axis the relevant quotations and verses are set out first, and the findings
 reached by assessing them together are then presented. In accordance with the rules
 given above, each quotation is reproduced at the length needed to carry the
-assertion of its paragraph; where material has been omitted, marked **(…)**, the finding states what was omitted.
+assertion of its paragraph; where material has been omitted, marked **(…)**, the finding states what was omitted. Each axis has its own heading.
 
 ### 3.1 The origin and nature of religion
 
@@ -1268,13 +1267,13 @@ and kept in the high schools for eleven years.
 
 ## 6. Additional notes
 
-All quotations are taken verbatim from text that was corrected by hand, page by page,
+**Quotations.** All quotations are taken verbatim from text that was corrected by hand, page by page,
 against the scanned originals. That text is publicly available:
 
 - **Beşer Tarihine Giriş** — *Tarih I*, pp. 1-24: [corrected full text](https://tarih1931.github.io/duzeltilmis/beser-tarihine-giris-tam.txt)
 - **İslâm Tarihi** — *Tarih II*, pp. 79-184: [corrected full text](https://tarih1931.github.io/duzeltilmis/islam-tarihi-tam.txt)
 
-**Quotations.** The page-by-page view, with a link from each page to its scanned original, is in the
+The page-by-page view, with a link from each page to its scanned original, is in the
 [index of corrected sections](https://tarih1931.github.io/duzeltilmis.html); the full
 scans of the volumes are references **[1]** and **[2]** in the bibliography.
 
