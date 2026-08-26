@@ -170,7 +170,7 @@ The comparison was carried out along five axes: the origin and nature of religio
 revelation, prophethood and the source of the Qur'an (*Tarih II*, pp. 79-80, 89-93);
 the origin of belief in jinn and angels (*Tarih II*, pp. 84, 91); scriptural text,
 legal rulings and sacred place (*Tarih II*, pp. 85-86, 92, 118). Each axis has its
-own heading in §3.
+own heading in the axis-by-axis comparison below.
 
 The review does not do the following:
 

@@ -79,7 +79,7 @@ Karşılaştırma beş eksende yürütülmüştür: dinin menşei ve mahiyeti (*
 s. 2, 21-24); yaratılış ve insanın menşei (*Tarih I*, s. 2-7); vahiy, nübüvvet
 ve Kur'an'ın kaynağı (*Tarih II*, s. 79-80, 89-93); cin ve melek itikadının
 menşei (*Tarih II*, s. 84, 91); nass, ahkâm ve kutsal mekân (*Tarih II*,
-s. 85-86, 92, 118). Her eksen §3'te ayrı bir başlık altındadır.
+s. 85-86, 92, 118). Her eksen, aşağıdaki eksen eksen karşılaştırmada ayrı bir başlık altındadır.
 
 İnceleme şunları yapmaz:
 

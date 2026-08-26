@@ -197,6 +197,20 @@ th{background:var(--card);font-weight:bold}
 footer{margin-top:3rem;padding-top:1rem;border-top:1px solid var(--bd);
  color:var(--mut);font-size:.82rem}
 img.sayac{height:1.15em;width:auto;opacity:.8;vertical-align:-.22em}
+details.k2,details.k3{margin:0}
+details.k2>summary,details.k3>summary{cursor:pointer;list-style:none;display:flex;
+ align-items:baseline;gap:.5rem}
+details.k2>summary::-webkit-details-marker,
+details.k3>summary::-webkit-details-marker{display:none}
+details.k2>summary::before,details.k3>summary::before{content:"+";flex:0 0 auto;
+ font-weight:bold;color:var(--mut);width:1em;text-align:center}
+details.k2[open]>summary::before,details.k3[open]>summary::before{content:"2"}
+details.k2>summary h2,details.k3>summary h3{margin:0}
+details.k2>summary:hover h2,details.k3>summary:hover h3{text-decoration:underline}
+details.k3{margin-left:1.15rem}
+.acKapa{margin:1rem 0 0;font-size:.85rem}
+.acKapa button{font:inherit;cursor:pointer;background:var(--card);color:inherit;
+ border:1px solid var(--bd);border-radius:4px;padding:.2rem .6rem;margin-right:.4rem}
 p.sayac{margin:1.2rem 0 0;text-align:center}
 """
 
@@ -780,6 +794,55 @@ def scholar_meta(baslik: str, dil: str, pdf_adi: str, sayfa_url: str) -> str:
     return "".join(f'<meta name="{k}" content="{esc(v)}">' for k, v in etiket)
 
 
+# Katlanabilir bölümler. İnceleme uzun bir belge; ekranda tamamı açık geldiğinde
+# okuyucu nereden başlayacağını göremiyordu. h2 tıklanınca alt başlıklar, h3
+# tıklanınca alıntı-ayet-bulgu blokları açılır. İçerik DOM'da durmaya devam eder:
+# <details> gizler ama silmez, dolayısıyla arama motorları ve dil modelleri
+# metnin tamamını görür, sayfa içi arama da çalışır.
+def katlanabilir(govde: str) -> str:
+    """h2 ve h3 başlıklarını <details>/<summary> içine alır."""
+
+    def sar(parca: str, seviye: int) -> str:
+        kalip = re.compile(rf'(<h{seviye} id="[^"]*">.*?</h{seviye}>)', re.S)
+        parcalar = kalip.split(parca)
+        if len(parcalar) < 3:
+            return parca
+        out = [parcalar[0]]
+        for i in range(1, len(parcalar), 2):
+            baslik, govde_ic = parcalar[i], parcalar[i + 1]
+            if seviye == 2:
+                govde_ic = sar(govde_ic, 3)
+            # Bölüm sonundaki ayraç dışarıda kalsın, kutunun içinde çirkin duruyor
+            son = ""
+            if govde_ic.rstrip().endswith("<hr>"):
+                govde_ic = govde_ic.rstrip()[: -len("<hr>")]
+                son = "<hr>"
+            out.append(f'<details class="k{seviye}"><summary>{baslik}</summary>'
+                       f"{govde_ic}</details>{son}")
+        return "".join(out)
+
+    ic = sar(govde, 2)
+    # Aç/kapa düğmeleri ve derin bağlantı: kapalı bir bölümün içindeki bir
+    # başlığa bağlantıyla gelindiğinde tarayıcı oraya kaydıramaz; üst
+    # <details> öğeleri elle açılır.
+    dugme = ('<p class="acKapa">'
+             '<button type="button" data-ac="1">Hepsini aç</button>'
+             '<button type="button" data-ac="0">Hepsini kapat</button></p>')
+    betik = (
+        "<script>document.addEventListener('click',function(e){"
+        "var b=e.target.closest('[data-ac]');if(!b)return;"
+        "var a=b.dataset.ac==='1';"
+        "document.querySelectorAll('details.k2,details.k3').forEach(function(d){d.open=a});"
+        "});"
+        "function acHedef(){var h=location.hash;if(!h||h.length<2)return;"
+        "var t=document.getElementById(decodeURIComponent(h.slice(1)));if(!t)return;"
+        "var p=t.closest('details');while(p){p.open=true;p=p.parentElement&&"
+        "p.parentElement.closest('details')}t.scrollIntoView()}"
+        "addEventListener('hashchange',acHedef);acHedef();</script>"
+    )
+    return dugme + ic + betik
+
+
 def build_review_page() -> str:
     """docs/inceleme.md — sitedeki okunabilir sürüm."""
     url = f"{BASE_URL}/inceleme.html"
@@ -789,7 +852,7 @@ def build_review_page() -> str:
     # İngilizce sürüm bağı sayfa başlığındaki (head) etiketlerde durur.
     body: list[str] = []
     toc: list[tuple[int, str, str]] = []
-    body.append(md_to_html(REVIEW_MD.read_text(encoding="utf-8"), toc))
+    body.append(katlanabilir(md_to_html(REVIEW_MD.read_text(encoding="utf-8"), toc)))
     # Sayfanın başındaki kutu kaldırıldığı için PDF, İngilizce sürüm ve bulgular
     # gövdede hiçbir yerden bağlantı almıyordu: dosyalar sitemap ve
     # citation_pdf_url dışında görünmez kalıyor, bağlantı izleyerek gezen
@@ -854,7 +917,7 @@ def build_review_annex_page() -> str:
     (ayet dosyaları, terim dosyaları, ön söz) isteyen okuyucu buraya geçsin."""
     url = f"{BASE_URL}/inceleme-ekler.html"
     toc: list[tuple[int, str, str]] = []
-    body = [md_to_html(REVIEW_ANNEX_MD.read_text(encoding="utf-8"), toc)]
+    body = [katlanabilir(md_to_html(REVIEW_ANNEX_MD.read_text(encoding="utf-8"), toc))]
     alt = ['<a href="inceleme.html">İncelemenin ana metni</a>']
     if REVIEW_ANNEX_EN_MD.exists():
         alt.append('<a href="review-appendices.html">English version</a>')
@@ -899,7 +962,7 @@ def build_review_annex_en_page() -> str:
     alıntılanabilir kalsın diye Türkçe durur, İngilizcesi altlarında verilir."""
     url = f"{BASE_URL}/review-appendices.html"
     toc: list[tuple[int, str, str]] = []
-    body = [md_to_html(REVIEW_ANNEX_EN_MD.read_text(encoding="utf-8"), toc)]
+    body = [katlanabilir(md_to_html(REVIEW_ANNEX_EN_MD.read_text(encoding="utf-8"), toc))]
     alt = ['<a href="review.html">Main text of the review</a>',
            '<a href="inceleme-ekler.html">Türkçe aslı</a>',
            '<a href="review-appendices.md">raw Markdown</a>']
@@ -947,7 +1010,7 @@ def build_review_en_page() -> str:
     # Sayfa doğrudan başlıkla açılır: üst gezinti çubuğu, kapsam notu, atıf
     # kutusu ve içindekiler kaldırıldı. Aynı bağların hepsi altbilgide durur.
     toc: list[tuple[int, str, str]] = []
-    body = [md_to_html(REVIEW_EN_MD.read_text(encoding="utf-8"), toc)]
+    body = [katlanabilir(md_to_html(REVIEW_EN_MD.read_text(encoding="utf-8"), toc))]
     alt = []
     if REVIEW_EN_PDF.exists():
         alt.append('<a href="review.pdf">PDF</a>')

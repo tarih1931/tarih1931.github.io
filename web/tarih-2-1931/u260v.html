@@ -70,6 +70,20 @@ th{background:var(--card);font-weight:bold}
 footer{margin-top:3rem;padding-top:1rem;border-top:1px solid var(--bd);
  color:var(--mut);font-size:.82rem}
 img.sayac{height:1.15em;width:auto;opacity:.8;vertical-align:-.22em}
+details.k2,details.k3{margin:0}
+details.k2>summary,details.k3>summary{cursor:pointer;list-style:none;display:flex;
+ align-items:baseline;gap:.5rem}
+details.k2>summary::-webkit-details-marker,
+details.k3>summary::-webkit-details-marker{display:none}
+details.k2>summary::before,details.k3>summary::before{content:"+";flex:0 0 auto;
+ font-weight:bold;color:var(--mut);width:1em;text-align:center}
+details.k2[open]>summary::before,details.k3[open]>summary::before{content:"2"}
+details.k2>summary h2,details.k3>summary h3{margin:0}
+details.k2>summary:hover h2,details.k3>summary:hover h3{text-decoration:underline}
+details.k3{margin-left:1.15rem}
+.acKapa{margin:1rem 0 0;font-size:.85rem}
+.acKapa button{font:inherit;cursor:pointer;background:var(--card);color:inherit;
+ border:1px solid var(--bd);border-radius:4px;padding:.2rem .6rem;margin-right:.4rem}
 p.sayac{margin:1.2rem 0 0;text-align:center}
 </style>
 </head>
