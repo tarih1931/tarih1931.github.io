@@ -1277,6 +1277,13 @@ The page-by-page view, with a link from each page to its scanned original, is in
 [index of corrected sections](https://tarih1931.github.io/duzeltilmis.html); the full
 scans of the volumes are references **[1]** and **[2]** in the bibliography.
 
+**The orthography of the quotations is that of the 1931 printing** and has not been
+corrected: *sora*, *evel*, *tabiat*, *iptidaî*, *mabut*, *neş'et*. Quotation marks
+inside a quotation have been rendered as single quotes (the printing has *"kabile
+allahı"*, the review *'kabile allahı'*); apart from this the wording has not been
+altered. All the quotations are present letter for letter in the corrected text of the
+page named in their citation, and this has been machine-verified.
+
 **Source base.** On the side of the book the only ground is the book's own wording; on
 the side of the Qur'an the doctrinal ground is **the verses of the Qur'an alone**, and
 the findings are not tied to the view of any madhhab, any school of thought or any
@@ -1286,13 +1293,6 @@ therefore an interpretation, the rules governing renderings and Qur'anic comment
 are stated in the section on method. The quotations from the 1931 printing
 are in the public domain, and the report's own text has been released to the public
 under CC0, so that the document as a whole may be freely reproduced.
-
-**The orthography of the quotations is that of the 1931 printing** and has not been
-corrected: *sora*, *evel*, *tabiat*, *iptidaî*, *mabut*, *neş'et*. Quotation marks
-inside a quotation have been rendered as single quotes (the printing has *"kabile
-allahı"*, the review *'kabile allahı'*); apart from this the wording has not been
-altered. All the quotations are present letter for letter in the corrected text of the
-page named in their citation, and this has been machine-verified.
 
 **Note on tools.** Artificial-intelligence tools were used in preparing the text: the systematic search of the source text in its entirety, the extraction of the quotation–finding–verse records, the compilation of the appendices and the machine verification of the quotations against the source page were carried out in this way. The research question, the selection of the assertions, the doctrinal assessment and the responsibility for the final text belong to the author.
 

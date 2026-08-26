@@ -811,9 +811,9 @@ Sayfa sayfa görünüm ve her sayfanın taranmış aslına giden bağlantı
 [düzeltilmiş bölümler dizinindedir](https://tarih1931.github.io/duzeltilmis.html); ciltlerin tam
 taramaları kaynakçada **[1]** ve **[2]**'dedir.
 
-**Kaynak tabanı.** Kitap tarafında dayanak yalnız kitabın kendi lafzıdır; Kur'an tarafında itikadî dayanak **yalnız Kur'an ayetleridir** ve bulgular hiçbir mezhebin, ekolün veya müellifin görüşüne bağlanmaz. Ayet metinleri Diyanet İşleri Başkanlığı'nın *Kur'an-ı Kerim Meâli*'nden alınmıştır **[15]**; meal bir tercüme, dolayısıyla bir yorum olduğundan, meal ve tefsire ilişkin kurallar yöntem bölümünde beyan edilmiştir. 1931 basımından yapılan alıntılar kamu malıdır, raporun kendi metni CC0 ile kamuya bırakılmıştır; böylece belgenin tamamı serbestçe çoğaltılabilir.
-
 **Alıntılardaki imlâ 1931 basımına aittir** ve düzeltilmemiştir: *sora*, *evel*, *tabiat*, *iptidaî*, *mabut*, *neş'et*. Alıntı içindeki tırnaklar tek tırnağa çevrilmiştir (basımda *"kabile allahı"*, incelemede *'kabile allahı'*); bunun dışında lafız değiştirilmemiştir. Alıntıların tamamı, künyesinde gösterilen sayfanın düzeltilmiş metninde harfi harfine bulunmaktadır ve bu makine ile denetlenmiştir.
+
+**Kaynak tabanı.** Kitap tarafında dayanak yalnız kitabın kendi lafzıdır; Kur'an tarafında itikadî dayanak **yalnız Kur'an ayetleridir** ve bulgular hiçbir mezhebin, ekolün veya müellifin görüşüne bağlanmaz. Ayet metinleri Diyanet İşleri Başkanlığı'nın *Kur'an-ı Kerim Meâli*'nden alınmıştır **[15]**; meal bir tercüme, dolayısıyla bir yorum olduğundan, meal ve tefsire ilişkin kurallar yöntem bölümünde beyan edilmiştir. 1931 basımından yapılan alıntılar kamu malıdır, raporun kendi metni CC0 ile kamuya bırakılmıştır; böylece belgenin tamamı serbestçe çoğaltılabilir.
 
 **Araç notu.** Metnin hazırlanmasında yapay zekâ araçlarından yararlanılmıştır: kaynak metnin bütün olarak taranması, alıntı–bulgu–ayet kayıtlarının çıkarılması, ek dosyalarının derlenmesi ve alıntıların kaynak sayfaya karşı makine ile denetlenmesi bu yolla yapılmıştır. Araştırma sorusu, iddiaların seçimi, itikadî değerlendirme ve son metnin sorumluluğu yazara aittir.
 
