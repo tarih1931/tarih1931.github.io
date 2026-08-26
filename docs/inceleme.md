@@ -77,6 +77,8 @@ ve Kur'an'ın kaynağı (*Tarih II*, s. 79-80, 89-93); cin ve melek itikadının
 menşei (*Tarih II*, s. 84, 91); nass, ahkâm ve kutsal mekân (*Tarih II*,
 s. 85-86, 92, 118).
 
+Her bir eksen altında, öncelikle ilgili alıntı ve ayetlere yer verilmekte, ardından bunların birlikte değerlendirilmesiyle ulaşılan bulgular ortaya konulmaktadır. Alıntılar yukarıdaki kurallara göre, paragrafın hükmünü taşıyacak uzunlukta verilmiştir; **(…)** ile atlanan yerlerde atlananın ne olduğu bulguda belirtilir. Her eksen, aşağıdaki eksen eksen karşılaştırmada ayrı bir başlık altındadır.
+
 İnceleme şunları yapmaz:
 
 1. Kitabın tarih anlatısının doğruluğunu ve kaynaklarını değerlendirmez; konusu metnin özgünlüğü değil, resmî metnin itikadî muhtevasıdır.
@@ -88,8 +90,6 @@ s. 85-86, 92, 118).
 ---
 
 ## 3. Eksen eksen karşılaştırma
-
-Her bir eksen altında, öncelikle ilgili alıntı ve ayetlere yer verilmekte, ardından bunların birlikte değerlendirilmesiyle ulaşılan bulgular ortaya konulmaktadır. Alıntılar yukarıdaki kurallara göre, paragrafın hükmünü taşıyacak uzunlukta verilmiştir; **(…)** ile atlanan yerlerde atlananın ne olduğu bulguda belirtilir. Her eksen ayrı bir başlık altındadır.
 
 ### 3.1 Dinin menşei ve mahiyeti
 

@@ -156,6 +156,11 @@ revelation, prophethood and the source of the Qur'an (*Tarih II*, pp. 79-80, 89-
 the origin of belief in jinn and angels (*Tarih II*, pp. 84, 91); scriptural text,
 legal rulings and sacred place (*Tarih II*, pp. 85-86, 92, 118).
 
+Under each axis the relevant quotations and verses are set out first, and the findings
+reached by assessing them together are then presented. In accordance with the rules
+given above, each quotation is reproduced at the length needed to carry the
+assertion of its paragraph; where material has been omitted, marked **(…)**, the finding states what was omitted. Each axis has its own heading in the axis-by-axis comparison below.
+
 The review does not do the following:
 
 1. It does not assess the accuracy of the books' historical narrative or its sources; its subject is not the originality of the text but the doctrinal content of an official text.
@@ -167,11 +172,6 @@ The review does not do the following:
 ---
 
 ## 3. Axis-by-axis comparison
-
-Under each axis the relevant quotations and verses are set out first, and the findings
-reached by assessing them together are then presented. In accordance with the rules
-given above, each quotation is reproduced at the length needed to carry the
-assertion of its paragraph; where material has been omitted, marked **(…)**, the finding states what was omitted. Each axis has its own heading.
 
 ### 3.1 The origin and nature of religion
 
