@@ -204,13 +204,10 @@ details.k2>summary::-webkit-details-marker,
 details.k3>summary::-webkit-details-marker{display:none}
 details.k2>summary::before,details.k3>summary::before{content:"+";flex:0 0 auto;
  font-weight:bold;color:var(--mut);width:1em;text-align:center}
-details.k2[open]>summary::before,details.k3[open]>summary::before{content:"2"}
+details.k2[open]>summary::before,details.k3[open]>summary::before{content:"−"}
 details.k2>summary h2,details.k3>summary h3{margin:0}
 details.k2>summary:hover h2,details.k3>summary:hover h3{text-decoration:underline}
 details.k3{margin-left:1.15rem}
-.acKapa{margin:1rem 0 0;font-size:.85rem}
-.acKapa button{font:inherit;cursor:pointer;background:var(--card);color:inherit;
- border:1px solid var(--bd);border-radius:4px;padding:.2rem .6rem;margin-right:.4rem}
 p.sayac{margin:1.2rem 0 0;text-align:center}
 """
 
@@ -822,25 +819,17 @@ def katlanabilir(govde: str) -> str:
         return "".join(out)
 
     ic = sar(govde, 2)
-    # Aç/kapa düğmeleri ve derin bağlantı: kapalı bir bölümün içindeki bir
-    # başlığa bağlantıyla gelindiğinde tarayıcı oraya kaydıramaz; üst
-    # <details> öğeleri elle açılır.
-    dugme = ('<p class="acKapa">'
-             '<button type="button" data-ac="1">Hepsini aç</button>'
-             '<button type="button" data-ac="0">Hepsini kapat</button></p>')
+    # Derin bağlantı: kapalı bir bölümün içindeki bir başlığa bağlantıyla
+    # gelindiğinde tarayıcı oraya kaydıramaz; üst <details> öğeleri elle açılır.
     betik = (
-        "<script>document.addEventListener('click',function(e){"
-        "var b=e.target.closest('[data-ac]');if(!b)return;"
-        "var a=b.dataset.ac==='1';"
-        "document.querySelectorAll('details.k2,details.k3').forEach(function(d){d.open=a});"
-        "});"
+        "<script>"
         "function acHedef(){var h=location.hash;if(!h||h.length<2)return;"
         "var t=document.getElementById(decodeURIComponent(h.slice(1)));if(!t)return;"
         "var p=t.closest('details');while(p){p.open=true;p=p.parentElement&&"
         "p.parentElement.closest('details')}t.scrollIntoView()}"
         "addEventListener('hashchange',acHedef);acHedef();</script>"
     )
-    return dugme + ic + betik
+    return ic + betik
 
 
 def build_review_page() -> str:
