@@ -857,8 +857,6 @@ def build_review_page() -> str:
         alt.append('<a href="inceleme.pdf">PDF</a>')
     if REVIEW_EN_MD.exists():
         alt.append('<a href="review.html">English version</a>')
-    if REVIEW_ANNEX_MD.exists():
-        alt.append('<a href="inceleme-ekler.html">Ekler (A, B, C, D)</a>')
     if REVIEW_EMAIL:
         alt.append(f'Yazışma: <a href="mailto:{esc(REVIEW_EMAIL)}">{esc(REVIEW_EMAIL)}</a>')
     alt.append('<a href="inceleme.json">bulgular (JSON)</a>')
@@ -1009,8 +1007,6 @@ def build_review_en_page() -> str:
     if REVIEW_EN_PDF.exists():
         alt.append('<a href="review.pdf">PDF</a>')
     alt.append('<a href="inceleme.html">Türkçe aslı</a>')
-    if REVIEW_ANNEX_EN_MD.exists():
-        alt.append('<a href="review-appendices.html">Appendices (A, B, C, D)</a>')
     if REVIEW_EMAIL:
         alt.append(f'Correspondence: <a href="mailto:{esc(REVIEW_EMAIL)}">{esc(REVIEW_EMAIL)}</a>')
     alt.append('<a href="inceleme.json">claims (JSON)</a>')

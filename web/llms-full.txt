@@ -24715,18 +24715,18 @@ taramaları kaynakçada **[1]** ve **[2]**'dedir.
   Ders Kitaplarında Din Anlatısı”, *Eğitim ve Bilim*, 40/179 (2015), s. 323-340.
   [doi:10.15390/EB.2015.4246](https://doi.org/10.15390/EB.2015.4246)
 
-**Ekler.** Dört ek, ana metnin dayanaklarını açan [ayrı bir belgededir](https://tarih1931.github.io/inceleme-ekler.html).
+**Ekler.**
 
-- **[Ek A — Ayet dosyaları](https://tarih1931.github.io/inceleme-ekler.html#s-ek-a-ayet-dosyalari).** Ana metinde anılan otuz sekiz ayetin her biri için:
+- **[22]** [Ek A — Ayet dosyaları](https://tarih1931.github.io/inceleme-ekler.html#s-ek-a-ayet-dosyalari). Ana metinde anılan otuz sekiz ayetin her biri için:
   bulgudaki yeri, *Kur'an Yolu Tefsiri*'nin notu ve ilgili *TDV İslâm Ansiklopedisi*
   maddesi.
-- **[Ek B — Terim dosyaları](https://tarih1931.github.io/inceleme-ekler.html#s-ek-b-terim-dosyalari).** Bulguları taşıyan dokuz terimin (ilham/vahiy,
+- **[23]** [Ek B — Terim dosyaları](https://tarih1931.github.io/inceleme-ekler.html#s-ek-b-terim-dosyalari). Bulguları taşıyan dokuz terimin (ilham/vahiy,
   uydurma/masal, müessis/kurmak, an'ane, telâkki, tekâmül, mefhum/bulmak,
   tabiat/mahlûk, din) kitap içindeki bütün kullanımı, 1931'deki lügat anlamı,
   anlam kayması ve Kur'anî karşılığı.
-- **[Ek C — Ön söz ve heyet sayfaları](https://tarih1931.github.io/inceleme-ekler.html#s-ek-c-on-soz-ve-heyet-sayfalari).** Birinci bölümün dayandığı *Mukaddime* ile "Kitabın
+- **[24]** [Ek C — Ön söz ve heyet sayfaları](https://tarih1931.github.io/inceleme-ekler.html#s-ek-c-on-soz-ve-heyet-sayfalari). Birinci bölümün dayandığı *Mukaddime* ile "Kitabın
   hazırlanmasında çalışanlar" sayfalarının tam metni ve künye satırları.
-- **[Ek D — Hükümlerin dayanak tipi](https://tarih1931.github.io/inceleme-ekler.html#s-ek-d-hukumlerin-dayanak-tipi).** Her bulgunun kitaba atfettiği hüküm, dayandığı
+- **[25]** [Ek D — Hükümlerin dayanak tipi](https://tarih1931.github.io/inceleme-ekler.html#s-ek-d-hukumlerin-dayanak-tipi). Her bulgunun kitaba atfettiği hüküm, dayandığı
   cümleler ve hükmün kitabın sarih lafzından mı, yoksa birden fazla sarih cümlenin
   birleştirilmesinden mi çıktığı.
 
