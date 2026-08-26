@@ -177,20 +177,6 @@ The review does not do the following:
 
 ### 3.1 The origin and nature of religion
 
-The pages of this axis fall under the heading "D. The Birth of Thought" (D. Fikrin
-Doğuşu) in *Tarih I* (pp. 20–24); its subheadings are, in order, "Primitive
-Philosophy" (İptidaî Felsefe), "The Place and Influence of the Ancestor in Religion"
-(Dinde Atanın Mevkii ve Tesiri), "Fear and Hope in Religion" (Dinde Korku ve Ümit),
-"Stars and Seasons" (Yıldızlar ve Mevsimler), "Tales and Superstitions" (Hikâye ve
-Hurafeler) and "The Mixed Nature of the Origins of Religion" (Din Menşelerinin Karışık
-Mahiyeti): religion is thereby placed in the book as one section of "the birth of
-thought", that is, as a product of the mind. The chapter opens on p. 20 with a
-conjectural qualifier: "what may have been going on inside their minds" (dimağları
-içinde neler cereyan etmiş olabileceğinden). It continues on p. 21 with the qualifiers
-"it is understood" (anlaşılıyor), "suppose" (Faraza) and "it is possible to conclude"
-(hükmetmek mümkündür); from p. 22 onward the qualifiers fall away and the language
-shifts into the declarative. The quotations below belong to this second stage.
-
 #### The birth of religion is tied to a human chain
 
 > **[[Quote-01](https://tarih1931.github.io/tarih-1-1931/s0021.html)]** "Ata korkusu
@@ -255,25 +241,36 @@ shifts into the declarative. The quotations below belong to this second stage.
 > **[Verse-02]** "To all the prophets We sent before you, We revealed: "Truly there is
 > no god but Me; so worship Me."" — **Al-Anbiyā' 25**
 
-> **[Finding-01]** The book ties the birth of religion, from beginning to end, to a
-> human chain: fear of the ancestor, the tribal god, fears reinforced through speech,
-> the "invented" (icat edilen) traditions of sacred things, sacrifice, the priestly
-> class, and finally the common customs to which it gives "the name of religion" (din
-> namını). The chain is not an assembly made by this review; the chapter's own
-> subheadings carry these links in order, and on pp. 22–23 the assertions are given
-> without any conjectural qualifier: "they invented" (icat ettiler), "this is the
-> origin" (menşei budur). The three sentences omitted from Quote-02 describe the
-> emergence of the purification rite; they do not alter the assertion. Two details show
-> where the chain is anchored: the book names the primitive taboo with terms drawn from
-> fiqh, "the forbidden (haram) and the impure (mekruh)" (memnu, gayritahir); and it
-> counts the content of religion as "a confused mass of ideas concerning spirits,
-> inspirations, commands and prohibitions" (ruhlara, ilhamlara, emirlere ve nehiylere
-> taallûk eden karmakarışık düşünceler) — the very words that *Tarih II* will use for
-> revelation and legal rulings are here lodged in the mind of the primitive tribe. In
-> the Qur'an, by contrast, religion is not the outcome of an evolution but the single
-> foundation that Allah enjoined upon every prophet from Nūḥ to ʿĪsā and "ordained as
-> religion" (din kıldığı) for them (Verse-01); the same tawḥīd was revealed to every
-> prophet (Verse-02).
+> **[Finding-01]** The book ties the birth of religion, from beginning to end, to a human
+> chain: fear of the ancestor, the tribal god, fears reinforced through speech, the
+> "invented" (icat edilen) traditions of sacred things, sacrifice, the priestly class, and
+> finally the common customs to which it gives "the name of religion" (din namını). The
+> chain is not an assembly made by this review: the chapter falls under the heading "D.
+> The Birth of Thought" (D. Fikrin Doğuşu) in *Tarih I* (pp. 20–24) — religion is thereby
+> placed in the book as one section of "the birth of thought", that is, as a product of
+> the mind — and its own subheadings carry these links in order: "Primitive Philosophy"
+> (İptidaî Felsefe), "The Place and Influence of the Ancestor in Religion" (Dinde Atanın
+> Mevkii ve Tesiri), "Fear and Hope in Religion" (Dinde Korku ve Ümit), "Stars and
+> Seasons" (Yıldızlar ve Mevsimler), "Tales and Superstitions" (Hikâye ve Hurafeler) and
+> "The Mixed Nature of the Origins of Religion" (Din Menşelerinin Karışık Mahiyeti). The
+> chapter opens on p. 20 with a conjectural qualifier ("what may have been going on inside
+> their minds", dimağları içinde neler cereyan etmiş olabileceğinden) and continues on p.
+> 21 with "it is understood" (anlaşılıyor), "suppose" (Faraza) and "it is possible to
+> conclude" (hükmetmek mümkündür); from p. 22 onward the qualifiers fall away and the
+> language shifts into the declarative. The quotations above belong to this second stage,
+> and on pp. 22–23 the assertions are given without any conjectural qualifier: "they
+> invented" (icat ettiler), "this is the origin" (menşei budur). The three sentences
+> omitted from Quote-02 describe the emergence of the purification rite; they do not alter
+> the assertion. Two details show where the chain is anchored: the book names the
+> primitive taboo with terms drawn from fiqh, "the forbidden (haram) and the impure
+> (mekruh)" (memnu, gayritahir); and it counts the content of religion as "a confused mass
+> of ideas concerning spirits, inspirations, commands and prohibitions" (ruhlara,
+> ilhamlara, emirlere ve nehiylere taallûk eden karmakarışık düşünceler) — the very words
+> that *Tarih II* will use for revelation and legal rulings are here lodged in the mind of
+> the primitive tribe. In the Qur'an, by contrast, religion is not the outcome of an
+> evolution but the single foundation that Allah enjoined upon every prophet from Nūḥ to
+> ʿĪsā and "ordained as religion" (din kıldığı) for them (Verse-01); the same tawḥīd was
+> revealed to every prophet (Verse-02).
 
 #### Religion is an institution brought into being by human beings
 
@@ -463,15 +460,6 @@ shifts into the declarative. The quotations below belong to this second stage.
 
 ### 3.2 Creation and the origin of man
 
-This axis falls under the heading "A. The Universe — Nature" (A. Kâinat — Tabiat) in
-*Tarih I* (pp. 1–8), and it proceeds deductively: the principle is laid down first (p.
-2: nature is the owner of the laws, nothing comes into being out of nothing, every
-concept above nature is a fabrication), then the religious account of creation is
-cleared away (p. 3), and only afterwards are the chain of life and the genealogy of
-man set out (pp. 3–7). On this ordering, the assertion "it must be accepted" (kabul
-etmek lâzımdır) on p. 5 is not drawn from observation but placed within the framework
-already laid down on p. 2.
-
 #### The formation of life is explained without any factor outside nature
 
 > **[[Quote-14](https://tarih1931.github.io/tarih-1-1931/s0003.html)]** "Bundan 200 sene
@@ -514,20 +502,26 @@ already laid down on p. 2.
 
 > **[Finding-06]** The paragraph opens by conceding the limits of knowledge — "we do not
 > know with certainty" (kat'î surette bilmiyoruz), "it is probable" (muhtemeldir) — and
-> closes with a normative assertion: "it must be accepted" (kabul etmek lâzımdır). The
-> caution attaches only to the mechanism; the exclusion of any factor outside nature is
-> given with "in any case" (her halde). The pattern is the same throughout the chapter:
-> the book is cautious about dates, figures and fossils, and categorical in rejecting
-> any factor outside nature — a question admitted to be unknown is settled by excluding
-> one possibility from the outset. The book's thesis rests not on chance but on
-> necessity ("a natural and necessary chemical and physical course" — tabiî, zarurî bir
-> kimya ve fizik seyri); the disagreement therefore does not lie in the question "chance
-> or design?" but in the question of who owns the laws (Quote-16). In the Qur'an, too,
-> life begins from water (Verse-10, Verse-11): the two sides speak on the same ground,
-> and the point at which they part is the agent. It is the book itself that opens the
-> comparison — immediately before turning to the chain of life it classifies the
-> creation account in the books of religion as "story" (hikâye) and "false idea" (yanlış
-> fikir) (Quote-14).
+> closes with a normative assertion: "it must be accepted" (kabul etmek lâzımdır). That
+> assertion is not drawn from observation: the axis falls under the heading "A. The
+> Universe — Nature" (A. Kâinat — Tabiat) in *Tarih I* (pp. 1–8) and proceeds deductively
+> — the principle is laid down first (p. 2: nature is the owner of the laws, nothing comes
+> into being out of nothing, every concept above nature is a fabrication), the religious
+> account of creation is then cleared away (p. 3), and only afterwards are the chain of
+> life and the genealogy of man set out (pp. 3–7); the assertion on p. 5 falls inside that
+> ordering, placed within the framework already laid down on p. 2. The caution attaches
+> only to the mechanism; the exclusion of any factor outside nature is given with "in any
+> case" (her halde). The pattern is the same throughout the chapter: the book is cautious
+> about dates, figures and fossils, and categorical in rejecting any factor outside nature
+> — a question admitted to be unknown is settled by excluding one possibility from the
+> outset. The book's thesis rests not on chance but on necessity ("a natural and necessary
+> chemical and physical course" — tabiî, zarurî bir kimya ve fizik seyri); the
+> disagreement therefore does not lie in the question "chance or design?" but in the
+> question of who owns the laws (Quote-16). In the Qur'an, too, life begins from water
+> (Verse-10, Verse-11): the two sides speak on the same ground, and the point at which
+> they part is the agent. It is the book itself that opens the comparison — immediately
+> before turning to the chain of life it classifies the creation account in the books of
+> religion as "story" (hikâye) and "false idea" (yanlış fikir) (Quote-14).
 
 #### Man is held to be a creature of nature
 
@@ -642,16 +636,6 @@ already laid down on p. 2.
 
 ### 3.3 Revelation, prophethood and the source of the Qur'an
 
-The History of Islam (İslâm Tarihi) section of *Tarih II* opens with the heading "A.
-The religion of Islam was founded in Arabia" (A. İslâm Dini Arabistanda Kuruldu) (p.
-79); the discussion of revelation stands between "Muhammad's Call" (Muhammedin Daveti,
-pp. 89–90) and "Muhammad in Medina" (Muhammet Medinede, p. 93), under the sub-headings
-"The Qur'an and Revelation" (Kuran ve Vahiy, pp. 90–91) and "The First Revelation"
-(İlk Vahiy, pp. 91–92), and is recounted as one phase of a political and social
-biography. The discussion of jinn and angels falls within that same "Kuran ve
-Vahiy" paragraph; because its subject is distinct, it is treated under a separate
-axis.
-
 #### The divine source of revelation is not affirmed in the book's own voice
 
 > **[[Quote-23](https://tarih1931.github.io/tarih-2-1931/s0090.html)]** "Muhammedin
@@ -674,28 +658,33 @@ axis.
 > have made it a light by which We guide whom We will of Our servants. (…)" — **Ash-Shūrā
 > 52**
 
-> **[Finding-09]** The paragraph works on three levels: the definition of the Qur'an is
-> given in the book's own voice and without qualification ("the book in which the
-> principles laid down by Muhammad are gathered"); a neutral definition of terms is then
-> interposed; the claim of a divine source, however, is referred to a third party with
-> the qualification "in Islamic tradition (…) it is accepted" (İslâm an'anesinde (…)
-> kabul olunur). The phrase "it is accepted" (kabul olunur) is not in itself a
-> distancing qualification: the book uses the same verb of things it holds to be true —
-> of the view that the sun stands at the centre it writes "this truth was accepted only
-> in the seventeenth century" (Bu hakikat, ancak XVII inci asırda kabul olundu) (*Tarih
-> I*, p. 2). What creates the distance is that the agent is "Islamic tradition" and that
-> the book's own verdict follows immediately, introduced by "considered also from the
+> **[Finding-09]** The discussion of revelation is not a section of its own in *Tarih II*:
+> the chapter opens with the heading "A. The religion of Islam was founded in Arabia" (A.
+> İslâm Dini Arabistanda Kuruldu) (p. 79), and revelation stands between "Muhammad's Call"
+> (Muhammedin Daveti, pp. 89–90) and "Muhammad in Medina" (Muhammet Medinede, p. 93),
+> under the sub-headings "The Qur'an and Revelation" (Kuran ve Vahiy, pp. 90–91) and "The
+> First Revelation" (İlk Vahiy, pp. 91–92), recounted as one phase of a political and
+> social biography. The paragraph examined here works on three levels: the definition of
+> the Qur'an is given in the book's own voice and without qualification ("the book in
+> which the principles laid down by Muhammad are gathered"); a neutral definition of terms
+> is then interposed; the claim of a divine source, however, is referred to a third party
+> with the qualification "in Islamic tradition (…) it is accepted" (İslâm an'anesinde (…)
+> kabul olunur). The phrase "it is accepted" (kabul olunur) is not in itself a distancing
+> qualification: the book uses the same verb of things it holds to be true — of the view
+> that the sun stands at the centre it writes "this truth was accepted only in the
+> seventeenth century" (Bu hakikat, ancak XVII inci asırda kabul olundu) (*Tarih I*, p.
+> 2). What creates the distance is that the agent is "Islamic tradition" and that the
+> book's own verdict follows immediately, introduced by "considered also from the
 > historical point of view (…) it is seen that" (Tarihî noktai nazardan da (…) görülüyor
 > ki) (Quote-24); the rest of the section works with this second register alone.
 > "Tradition" (an'ane) is not neutral in the book's vocabulary either: traditions are
-> "invented" (icat) (Quote-02), and in the discussion of the Kaaba the word stands in
-> the same chain as "fabrication" (uydurma) and "fable" (masal) (Quote-36, Quote-37).
-> Revelation is further glossed as "revelation, that is, inspiration" (vahiy, yani
-> ilham) and tied to a primitive Arab conception. The divine source belongs to
-> tradition, the human explanation to the book itself. The Qur'an, for its part,
-> declares revelation in its own voice as a definitive judgement (Verse-16), and states
-> that before the revelation the Prophet did not know "what the Book is, nor what faith
-> is" (Verse-17).
+> "invented" (icat) (Quote-02), and in the discussion of the Kaaba the word stands in the
+> same chain as "fabrication" (uydurma) and "fable" (masal) (Quote-36, Quote-37).
+> Revelation is further glossed as "revelation, that is, inspiration" (vahiy, yani ilham)
+> and tied to a primitive Arab conception. The divine source belongs to tradition, the
+> human explanation to the book itself. The Qur'an, for its part, declares revelation in
+> its own voice as a definitive judgement (Verse-16), and states that before the
+> revelation the Prophet did not know "what the Book is, nor what faith is" (Verse-17).
 
 #### Revelation is counted the product of a long reflection
 
@@ -909,17 +898,19 @@ axis.
 > **[Finding-13]** Belief in jinn is tied to the soothsaying culture of Arabia; the
 > preceding paragraph places this belief in the class of "all primitive peoples"
 > (Quote-24), and it is written that the Prophet acquired that belief from his
-> surroundings. Two words take the passage out of the descriptive: **"supposedly"**
-> (gûya) is the book's regular distancing qualification — it is used of the soothsayers
-> on p. 84 as well (Quote-32) — and marks what the book does not hold to be real;
-> **"even"** (dahi) says that a belief one would not expect him to share was in fact
-> shared. What the book marks with "supposedly" — the jinn giving soothsayers news of
-> the unseen — is a claim the Qur'an rejects as well; the finding concerns not this but
-> the origin of belief in jinn. In the book that origin is culture: the Prophet believed
-> in the jinn because those around him did, and he believed "genuinely" (hakikaten). In
-> the Qur'an, by contrast, the jinn are a species of being that God created (Verse-26),
-> and the source of knowledge about them is not culture but revelation (Verse-27). The
-> two accounts of origin cannot be reconciled.
+> surroundings. The discussion is not a section of its own: it falls within the "Kuran ve
+> Vahiy" paragraph in which revelation is recounted (pp. 90–91), and it is treated under
+> this axis because its subject is distinct. Two words take the passage out of the
+> descriptive: **"supposedly"** (gûya) is the book's regular distancing qualification — it
+> is used of the soothsayers on p. 84 as well (Quote-32) — and marks what the book does
+> not hold to be real; **"even"** (dahi) says that a belief one would not expect him to
+> share was in fact shared. What the book marks with "supposedly" — the jinn giving
+> soothsayers news of the unseen — is a claim the Qur'an rejects as well; the finding
+> concerns not this but the origin of belief in jinn. In the book that origin is culture:
+> the Prophet believed in the jinn because those around him did, and he believed
+> "genuinely" (hakikaten). In the Qur'an, by contrast, the jinn are a species of being
+> that God created (Verse-26), and the source of knowledge about them is not culture but
+> revelation (Verse-27). The two accounts of origin cannot be reconciled.
 
 #### Not the source of belief in angels but its reinforcement is recounted
 
@@ -972,12 +963,6 @@ axis.
 > name (Verse-29).
 
 ### 3.5 Scriptural text, legal rulings and sacred space
-
-In *Tarih II* the Kaaba is treated before Muhammed enters the narrative, within the
-class of "places set apart for the keeping of idols" (putların muhafazasına mahsus
-yerler) and among the economic institutions of the Quraysh (pp. 84–86); the content of
-the Qur'an, on the other hand, is taken up at the end of the subsection "İlk Vahiy"
-(The First Revelation) (p. 92).
 
 #### The Kaaba narrative is declared "invented fables"
 
@@ -1078,21 +1063,24 @@ the Qur'an, on the other hand, is taken up at the end of the subsection "İlk Va
 
 > **[Finding-16]** In the book the sanctity of the Kaaba is tied to three human factors:
 > the people of Mecca raising a local temple "to the rank of a national temple" (millî
-> mabet derecesine yükseltmek) and gathering 360 idols there in order to attract
-> pilgrims; the giving of "religious forms" (dinî şekiller) to rules laid down in order
-> to prevent warfare — the building of the Kaaba by İbrahim being one of those forms,
-> something that was merely "said" (söylenmiştir); and the fact that all this became for
-> the Quraysh "an instrument for securing economic and commercial interests" (iktisadî
-> ve ticarî menfaatler). The sentence about the black stone adds a claim of priority to
-> this ground: the book does not derive the Kaaba from the Phrygians; it says that the
-> black-stone cult existed among the Phrygians "long before" (çok evel) the Kaaba. The
-> sentence omitted from Quote-40 concerns the picture of Meryem. The pattern of economic
-> explanation is consistent throughout the chapter (the rejection by the Quraysh, p. 89;
-> the acceptance by the people of Medina, p. 90). The source of the sanctity is thus not
-> revelation but earlier customs and political and economic needs. In the Qur'an, by
-> contrast, the agent of each of these attributes is God: it is He who "made" the Kaaba,
-> the sacred month and the sacrificial offerings "a means of support" (Verse-32), and He
-> who "made the Kaaba a place of assembly and of security for people" (Verse-33).
+> mabet derecesine yükseltmek) and gathering 360 idols there in order to attract pilgrims;
+> the giving of "religious forms" (dinî şekiller) to rules laid down in order to prevent
+> warfare — the building of the Kaaba by İbrahim being one of those forms, something that
+> was merely "said" (söylenmiştir); and the fact that all this became for the Quraysh "an
+> instrument for securing economic and commercial interests" (iktisadî ve ticarî
+> menfaatler). The sentence about the black stone adds a claim of priority to this ground:
+> the book does not derive the Kaaba from the Phrygians; it says that the black-stone cult
+> existed among the Phrygians "long before" (çok evel) the Kaaba. The sentence omitted
+> from Quote-40 concerns the picture of Meryem. The placement of the discussion belongs to
+> this same ground: the Kaaba is treated before Muhammed enters the narrative, within the
+> class of "places set apart for the keeping of idols" (putların muhafazasına mahsus
+> yerler) and among the economic institutions of the Quraysh (pp. 84–86). The pattern of
+> economic explanation is consistent throughout the chapter (the rejection by the Quraysh,
+> p. 89; the acceptance by the people of Medina, p. 90). The source of the sanctity is
+> thus not revelation but earlier customs and political and economic needs. In the Qur'an,
+> by contrast, the agent of each of these attributes is God: it is He who "made" the
+> Kaaba, the sacred month and the sacrificial offerings "a means of support" (Verse-32),
+> and He who "made the Kaaba a place of assembly and of security for people" (Verse-33).
 
 #### The eternity of the legal rulings is abolished
 
@@ -1148,24 +1136,24 @@ the Qur'an, on the other hand, is taken up at the end of the subsection "İlk Va
 > **[Verse-35]** "The word of your Lord (the Qur'an) is complete in truthfulness and
 > justice. There is none who can change His words. (…)" — **Al-Anʿām 115**
 
-> **[Finding-17]** The book divides the Qur'an into three with its own hand: the
-> principle of belief is "very important"; the legal rulings "have always changed"
-> (değişegeldiğinden), so that other laws have today been put in their place; and the
-> information concerning history has been shaken "to its foundations" (temellerinden) by
-> the new sciences. The judgement about the legal rulings is therefore not an
-> implication but an explicit statement: the first sentence of the paragraph says, in
-> the book's own voice, that the principles of fourteen centuries ago changed with time
+> **[Finding-17]** The content of the Qur'an is taken up at the end of the subsection "İlk
+> Vahiy" (The First Revelation) (p. 92); there the book divides the Qur'an into three with
+> its own hand: the principle of belief is "very important"; the legal rulings "have
+> always changed" (değişegeldiğinden), so that other laws have today been put in their
+> place; and the information concerning history has been shaken "to its foundations"
+> (temellerinden) by the new sciences. The judgement about the legal rulings is therefore
+> not an implication but an explicit statement: the first sentence of the paragraph says,
+> in the book's own voice, that the principles of fourteen centuries ago changed with time
 > and that new ones were put in their place; the sentence "These too are (…) bound to
 > change" (Bunlar dahi (…) değişmeğe mahkûmdurlar) extends this to the new laws as well,
 > and on either reading — "these too", "even these" — the earlier principles are assumed
 > not to be eternal. Page 118 carries the same judgement over to the person of the
 > Prophet: when reform was called for, he "considered himself bound by nothing" (kendini
 > hiçbir şeyle bağlı görmemiştir) (Quote-44). No distinction is drawn between what is
-> textually stipulated and what is derived by ijtihād. In the Qur'an, however, the
-> Prophet says that it "is not for him" to change the Qur'an "of his own accord"
-> (Verse-34); the word of the Lord is "complete" and "there is none who can change His
-> words" (Verse-35). The changing of a ruling is the work of revelation, not of time or
-> of society.
+> textually stipulated and what is derived by ijtihād. In the Qur'an, however, the Prophet
+> says that it "is not for him" to change the Qur'an "of his own accord" (Verse-34); the
+> word of the Lord is "complete" and "there is none who can change His words" (Verse-35).
+> The changing of a ruling is the work of revelation, not of time or of society.
 
 ---
 

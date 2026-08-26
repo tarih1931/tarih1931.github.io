@@ -95,8 +95,6 @@ Her bir eksen altında, öncelikle ilgili alıntı ve ayetlere yer verilmekte, a
 
 ### 3.1 Dinin menşei ve mahiyeti
 
-Bu eksenin sayfaları *Tarih I*'in "D. Fikrin Doğuşu" başlığı altındadır (s. 20–24); alt başlıkları sırasıyla "İptidaî Felsefe", "Dinde Atanın Mevkii ve Tesiri", "Dinde Korku ve Ümit", "Yıldızlar ve Mevsimler", "Hikâye ve Hurafeler" ve "Din Menşelerinin Karışık Mahiyeti"dir: din, kitapta "fikrin doğuşu"nun bir faslı, yani bir zihin ürünü olarak konumlandırılır. Bölüm s. 20'de tahmin kaydıyla açılır ("dimağları içinde neler cereyan etmiş olabileceğinden"), s. 21'de "anlaşılıyor", "Faraza", "hükmetmek mümkündür" kayıtlarıyla sürer; s. 22'den itibaren kayıtlar kalkar ve dil bildirme kipine geçer. Aşağıdaki alıntılar bu ikinci kademedendir.
-
 #### Dinin doğuşu beşerî bir zincire bağlanır
 
 > **[[Alıntı-01](https://tarih1931.github.io/tarih-1-1931/s0021.html)]** "Ata korkusu yavaş yavaş anlaşılmaz bir surette 'kabile allahı' korkusuna
@@ -137,16 +135,23 @@ Bu eksenin sayfaları *Tarih I*'in "D. Fikrin Doğuşu" başlığı altındadır
 > **[Bulgu-01]** Kitap dinin doğuşunu baştan sona beşerî bir zincire bağlar: ata
 > korkusu, kabile allahı, konuşarak pekiştirilen korkular, "icat" edilen mukaddesat
 > an'aneleri, kurban, rahip sınıfı ve nihayet "din namını" verdiği müşterek âdetler.
-> Zincir incelemenin montajı değildir; bölümün alt başlıkları sırasıyla bu halkaları
-> taşır ve s. 22–23'te hükümler tahmin kaydı olmaksızın verilir ("icat ettiler", "menşei
-> budur"). Alıntı-02'de atlanan üç cümle tasfiye merasiminin doğuşunu anlatır; hükmü
-> değiştirmez. İki ayrıntı zincirin nereye bağlandığını gösterir: kitap iptidaî tabuyu
-> "memnu (haram) ve gayritahir (mekruh)" diye fıkıh terimleriyle adlandırır; dinin
-> muhtevasını "ruhlara, ilhamlara, emirlere ve nehiylere taallûk eden karmakarışık
-> düşünceler" sayar — *Tarih II*'de vahiy ve ahkâm için kullanılacak kelimeler burada
-> iptidaî kabilenin zihnine yerleştirilir. Kur'an'da ise din bir tekâmülün neticesi
-> değil, Allah'ın Nuh'tan İsa'ya bütün peygamberlere emrettiği ve "din kıldığı" tek
-> esastır (Ayet-01); her peygambere aynı tevhid vahyedilmiştir (Ayet-02).
+> Zincir incelemenin montajı değildir: bölüm *Tarih I*'de "D. Fikrin Doğuşu" başlığı
+> altındadır (s. 20–24) — din, kitapta fikrin doğuşunun bir faslı, yani bir zihin
+> ürünüdür — ve alt başlıkları sırasıyla bu halkaları taşır: "İptidaî Felsefe", "Dinde
+> Atanın Mevkii ve Tesiri", "Dinde Korku ve Ümit", "Yıldızlar ve Mevsimler", "Hikâye ve
+> Hurafeler", "Din Menşelerinin Karışık Mahiyeti". Bölüm s. 20'de tahmin kaydıyla açılır
+> ("dimağları içinde neler cereyan etmiş olabileceğinden"), s. 21'de "anlaşılıyor",
+> "Faraza", "hükmetmek mümkündür" kayıtlarıyla sürer; s. 22'den itibaren kayıtlar kalkar
+> ve dil bildirme kipine geçer: yukarıdaki alıntılar bu ikinci kademedendir ve s.
+> 22–23'te hükümler tahmin kaydı olmaksızın verilir ("icat ettiler", "menşei budur").
+> Alıntı-02'de atlanan üç cümle tasfiye merasiminin doğuşunu anlatır; hükmü değiştirmez.
+> İki ayrıntı zincirin nereye bağlandığını gösterir: kitap iptidaî tabuyu "memnu (haram)
+> ve gayritahir (mekruh)" diye fıkıh terimleriyle adlandırır; dinin muhtevasını
+> "ruhlara, ilhamlara, emirlere ve nehiylere taallûk eden karmakarışık düşünceler" sayar
+> — *Tarih II*'de vahiy ve ahkâm için kullanılacak kelimeler burada iptidaî kabilenin
+> zihnine yerleştirilir. Kur'an'da ise din bir tekâmülün neticesi değil, Allah'ın
+> Nuh'tan İsa'ya bütün peygamberlere emrettiği ve "din kıldığı" tek esastır (Ayet-01);
+> her peygambere aynı tevhid vahyedilmiştir (Ayet-02).
 
 #### Din, insanların vücuda getirdiği bir müessesedir
 
@@ -274,8 +279,6 @@ Bu eksenin sayfaları *Tarih I*'in "D. Fikrin Doğuşu" başlığı altındadır
 
 ### 3.2 Yaratılış ve insanın menşei
 
-Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8) ve tümdengelimlidir: önce ilke konur (s. 2: tabiat kanunların sahibidir, hiçbir şey yoktan var olmaz, tabiat üstü her mefhum uydurmadır), sonra dinî yaratılış anlatısı tasfiye edilir (s. 3), daha sonra hayat zinciri ve insanın şeceresi anlatılır (s. 3–7). s. 5'teki "kabul etmek lâzımdır" hükmü bu sıraya göre gözlemden çıkarılmış değil, s. 2'de konmuş çerçeveye yerleştirilmiştir.
-
 #### Hayatın oluşumu, tabiat dışı bir âmil olmaksızın açıklanır
 
 > **[[Alıntı-14](https://tarih1931.github.io/tarih-1-1931/s0003.html)]** "Bundan 200 sene eveline kadar, dünyanın 5-6 bin sene evel yaratıldığı ve
@@ -302,16 +305,22 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 
 > **[Bulgu-06]** Paragraf, bilginin sınırını teslim ederek açılır ("kat'î surette
 > bilmiyoruz", "muhtemeldir") ve normatif bir hükümle kapanır: "kabul etmek lâzımdır".
-> İhtiyat yalnız mekanizmaya bağlanır; tabiat dışı âmilin dışarıda bırakılması "her
-> halde" ile verilir. Örüntü bölüm boyunca aynıdır: kitap tarih, sayı ve fosil konusunda
-> ihtiyatlı, tabiat dışı âmilin reddinde kesindir — bilinmediği kabul edilen bir mesele,
-> bir ihtimal baştan dışarıda bırakılarak karara bağlanır. Kitabın tezi tesadüf değil
-> zaruret üzerine kuruludur ("tabiî, zarurî bir kimya ve fizik seyri"); ayrılık bu
-> yüzden "tesadüf mü, kasıt mı" sorusunda değil, kanunların sahibi kim sorusundadır
-> (Alıntı-16). Kur'an'da da hayat sudan başlar (Ayet-10, Ayet-11): iki taraf aynı
-> zeminde konuşur, ayrıldıkları yer fâildir. Karşılaştırmayı kitabın kendisi başlatır —
-> hayat zincirine geçmeden hemen önce din kitaplarındaki yaratılış anlatısını "hikâye"
-> ve "yanlış fikir" diye tasnif eder (Alıntı-14).
+> Hüküm gözlemden çıkarılmış değildir: eksenin sayfaları *Tarih I*'de "A. Kâinat —
+> Tabiat" başlığı altındadır (s. 1–8) ve sıra tümdengelimlidir — önce ilke konur (s. 2:
+> tabiat kanunların sahibidir, hiçbir şey yoktan var olmaz, tabiat üstü her mefhum
+> uydurmadır), araya dinî yaratılış anlatısının tasfiyesi girer (s. 3), sonra hayat
+> zinciri ve insanın şeceresi anlatılır (s. 3–7); s. 5'teki hüküm bu sıranın içinde, s.
+> 2'de konmuş çerçeveye yerleşir. İhtiyat yalnız mekanizmaya bağlanır; tabiat dışı
+> âmilin dışarıda bırakılması "her halde" ile verilir. Örüntü bölüm boyunca aynıdır:
+> kitap tarih, sayı ve fosil konusunda ihtiyatlı, tabiat dışı âmilin reddinde kesindir —
+> bilinmediği kabul edilen bir mesele, bir ihtimal baştan dışarıda bırakılarak karara
+> bağlanır. Kitabın tezi tesadüf değil zaruret üzerine kuruludur ("tabiî, zarurî bir
+> kimya ve fizik seyri"); ayrılık bu yüzden "tesadüf mü, kasıt mı" sorusunda değil,
+> kanunların sahibi kim sorusundadır (Alıntı-16). Kur'an'da da hayat sudan başlar
+> (Ayet-10, Ayet-11): iki taraf aynı zeminde konuşur, ayrıldıkları yer fâildir.
+> Karşılaştırmayı kitabın kendisi başlatır — hayat zincirine geçmeden hemen önce din
+> kitaplarındaki yaratılış anlatısını "hikâye" ve "yanlış fikir" diye tasnif eder
+> (Alıntı-14).
 
 #### İnsan, tabiatın mahlûku sayılır
 
@@ -391,8 +400,6 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 
 ### 3.3 Vahiy, nübüvvet ve Kur'an'ın kaynağı
 
-*Tarih II*'nin İslâm Tarihi bölümü "A. İslâm Dini Arabistanda Kuruldu" başlığıyla açılır (s. 79); vahiy bahsi, "Muhammedin Daveti" (s. 89–90) ile "Muhammet Medinede" (s. 93) arasında, "Kuran ve Vahiy" (s. 90–91) ve "İlk Vahiy" (s. 91–92) alt başlıkları altında, siyasî-içtimaî biyografinin bir evresi olarak anlatılır. Cin ve melek bahsi de aynı "Kuran ve Vahiy" paragrafının içindedir; konusu ayrı olduğu için bir sonraki eksende ele alınmıştır.
-
 #### Vahyin ilâhî kaynağı, kitabın kendi sesiyle tasdik edilmez
 
 > **[[Alıntı-23](https://tarih1931.github.io/tarih-2-1931/s0090.html)]** "Muhammedin koyduğu esasların toplu olduğu kitaba Kuran denir. Bu
@@ -408,21 +415,25 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 > vahyettik. Sen kitap nedir, iman nedir bilmezdin. Fakat biz onu, kullarımızdan
 > dilediğimizi, kendisiyle doğru yola eriştireceğimiz bir nur yaptık. (…)" — **Şûrâ 52**
 
-> **[Bulgu-09]** Paragraf üç kademelidir: Kur'an'ın tarifi kitabın kendi sesiyle ve
-> kayıtsız verilir ("Muhammedin koyduğu esasların toplu olduğu kitap"); araya nötr bir
-> terim tarifi girer; ilâhî kaynak iddiası ise "İslâm an'anesinde (…) kabul olunur"
-> kaydıyla üçüncü şahsa havale edilir. "Kabul olunur" ifadesi tek başına mesafe kaydı
-> değildir: kitap, kendi doğru saydığı şeyler için de aynı fiili kullanır — güneşin
-> merkezde bulunduğu görüşü için "Bu hakikat, ancak XVII inci asırda kabul olundu" der
-> (*Tarih I*, s. 2). Mesafeyi yapan, fâilin "İslâm an'anesi" olması ve hemen ardından
-> "Tarihî noktai nazardan da (…) görülüyor ki" ile kitabın kendi hükmünün gelmesidir
-> (Alıntı-24); bölümün geri kalanı yalnız bu ikinci kaydı işler. "An'ane" kitabın
-> sözlüğünde de nötr değildir: an'aneler "icat" edilir (Alıntı-02) ve Kâbe bahsinde
-> "uydurma" ile "masal"ın aynı zincirindedir (Alıntı-36, Alıntı-37). Vahiy ayrıca
-> "vahiy, yani ilham" diye açıklanıp iptidaî Arap telâkkisine bağlanır. İlâhî kaynak
-> an'aneye, beşerî izah kitabın kendisine aittir. Kur'an ise vahyi kendi sesiyle kat'î
-> bir hüküm olarak bildirir (Ayet-16) ve Peygamber'in vahiyden önce "kitap nedir, iman
-> nedir" bilmediğini söyler (Ayet-17).
+> **[Bulgu-09]** Vahiy bahsi *Tarih II*'de müstakil bir fasıl değildir: bölüm "A. İslâm
+> Dini Arabistanda Kuruldu" başlığıyla açılır (s. 79) ve vahiy, "Muhammedin Daveti" (s.
+> 89–90) ile "Muhammet Medinede" (s. 93) arasında, "Kuran ve Vahiy" (s. 90–91) ve "İlk
+> Vahiy" (s. 91–92) alt başlıkları altında, siyasî-içtimaî biyografinin bir evresi
+> olarak anlatılır. İncelenen paragraf üç kademelidir: Kur'an'ın tarifi kitabın kendi
+> sesiyle ve kayıtsız verilir ("Muhammedin koyduğu esasların toplu olduğu kitap"); araya
+> nötr bir terim tarifi girer; ilâhî kaynak iddiası ise "İslâm an'anesinde (…) kabul
+> olunur" kaydıyla üçüncü şahsa havale edilir. "Kabul olunur" ifadesi tek başına mesafe
+> kaydı değildir: kitap, kendi doğru saydığı şeyler için de aynı fiili kullanır —
+> güneşin merkezde bulunduğu görüşü için "Bu hakikat, ancak XVII inci asırda kabul
+> olundu" der (*Tarih I*, s. 2). Mesafeyi yapan, fâilin "İslâm an'anesi" olması ve hemen
+> ardından "Tarihî noktai nazardan da (…) görülüyor ki" ile kitabın kendi hükmünün
+> gelmesidir (Alıntı-24); bölümün geri kalanı yalnız bu ikinci kaydı işler. "An'ane"
+> kitabın sözlüğünde de nötr değildir: an'aneler "icat" edilir (Alıntı-02) ve Kâbe
+> bahsinde "uydurma" ile "masal"ın aynı zincirindedir (Alıntı-36, Alıntı-37). Vahiy
+> ayrıca "vahiy, yani ilham" diye açıklanıp iptidaî Arap telâkkisine bağlanır. İlâhî
+> kaynak an'aneye, beşerî izah kitabın kendisine aittir. Kur'an ise vahyi kendi sesiyle
+> kat'î bir hüküm olarak bildirir (Ayet-16) ve Peygamber'in vahiyden önce "kitap nedir,
+> iman nedir" bilmediğini söyler (Ayet-17).
 
 #### Vahiy, uzun bir tefekkürün mahsulü sayılır
 
@@ -562,15 +573,17 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 
 > **[Bulgu-13]** Cin inancı Arabistan'ın kâhinlik kültürüne bağlanır; bir önceki
 > paragraf bu inancı "bütün iptidaî kavimler" sınıfına koyar (Alıntı-24) ve Peygamber'in
-> o inancı çevresinden edindiği yazılır. İki kelime pasajı tasvirî olmaktan çıkarır:
-> **"gûya"** kitabın düzenli mesafe kaydıdır — kâhinler için s. 84'te de kullanılır
-> (Alıntı-32) — ve gerçek saymadığı şeyi gösterir; **"dahi"**, paylaşılması beklenmeyen
-> bir inancın paylaşıldığını söyler. Kitabın "gûya" dediği şey — cinlerin kâhinlere
-> gaybdan haber vermesi — Kur'an'ın da reddettiği bir iddiadır; bulgu buna değil, cin
-> inancının menşeine dairdir. Kitapta menşe kültürdür: Peygamber cinlere çevresi
-> inandığı için ve "hakikaten" inanmıştır. Kur'an'da ise cinler Allah'ın yarattığı bir
-> varlık nev'idir (Ayet-26) ve onlar hakkındaki bilginin kaynağı kültür değil vahiydir
-> (Ayet-27). İki menşe anlatısı uzlaşmaz.
+> o inancı çevresinden edindiği yazılır. Bahis müstakil değildir: vahyin anlatıldığı
+> "Kuran ve Vahiy" paragrafının (s. 90–91) içindedir ve konusu ayrı olduğu için bu
+> eksende ele alınmıştır. İki kelime pasajı tasvirî olmaktan çıkarır: **"gûya"** kitabın
+> düzenli mesafe kaydıdır — kâhinler için s. 84'te de kullanılır (Alıntı-32) — ve gerçek
+> saymadığı şeyi gösterir; **"dahi"**, paylaşılması beklenmeyen bir inancın
+> paylaşıldığını söyler. Kitabın "gûya" dediği şey — cinlerin kâhinlere gaybdan haber
+> vermesi — Kur'an'ın da reddettiği bir iddiadır; bulgu buna değil, cin inancının
+> menşeine dairdir. Kitapta menşe kültürdür: Peygamber cinlere çevresi inandığı için ve
+> "hakikaten" inanmıştır. Kur'an'da ise cinler Allah'ın yarattığı bir varlık nev'idir
+> (Ayet-26) ve onlar hakkındaki bilginin kaynağı kültür değil vahiydir (Ayet-27). İki
+> menşe anlatısı uzlaşmaz.
 
 #### Melek itikadının kaynağı değil, takviyesi anlatılır
 
@@ -609,8 +622,6 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 > esaslarındandır (Ayet-28); "öğrenme" modeli de adıyla reddedilir (Ayet-29).
 
 ### 3.5 Nass, ahkâm ve kutsal mekân
-
-Kâbe bahsi, *Tarih II*'de Muhammed anlatıya girmeden önce, "putların muhafazasına mahsus yerler" sınıfı içinde ve Kureyş'in iktisadî kurumları arasında anlatılır (s. 84–86); Kur'an'ın muhtevası ise "İlk Vahiy" alt başlığının sonunda ele alınır (s. 92).
 
 #### Kâbe anlatısı "uydurulmuş masallar" ilan edilir
 
@@ -681,12 +692,14 @@ Kâbe bahsi, *Tarih II*'de Muhammed anlatıya girmeden önce, "putların muhafaz
 > "söylenmiştir" —; ve bunların Kureyş için "iktisadî ve ticarî menfaat vasıtası"
 > olması. Karataş cümlesi bu zemine bir kıdem iddiası ekler: kitap Kâbe'yi Friklere
 > bağlamaz, karataş kültünün Kâbe'den "çok evel" Friklerde bulunduğunu söyler.
-> Alıntı-40'ta atlanan cümle Meryem resmine dairdir. Ekonomik izah kalıbı bölüm boyunca
-> tutarlıdır (Kureyş'in reddi, s. 89; Medinelilerin kabulü, s. 90). Kutsiyetin kaynağı
-> böylece vahiy değil, önceki âdetler ve siyasî-iktisadî ihtiyaçlardır. Kur'an'da ise bu
-> vasıfların her birinin fâili Allah'tır: Kâbe'yi, haram ayı ve hac kurbanını "ayakta
-> kalma sebebi kılan" (Ayet-32) ve Kâbe'yi "insanlara toplantı ve güven yeri kılan"
-> (Ayet-33) O'dur.
+> Alıntı-40'ta atlanan cümle Meryem resmine dairdir. Bahsin yeri de bu zemine aittir:
+> Kâbe, Muhammed anlatıya girmeden önce, "putların muhafazasına mahsus yerler" sınıfı
+> içinde ve Kureyş'in iktisadî kurumları arasında anlatılır (s. 84–86). Ekonomik izah
+> kalıbı bölüm boyunca tutarlıdır (Kureyş'in reddi, s. 89; Medinelilerin kabulü, s. 90).
+> Kutsiyetin kaynağı böylece vahiy değil, önceki âdetler ve siyasî-iktisadî
+> ihtiyaçlardır. Kur'an'da ise bu vasıfların her birinin fâili Allah'tır: Kâbe'yi, haram
+> ayı ve hac kurbanını "ayakta kalma sebebi kılan" (Ayet-32) ve Kâbe'yi "insanlara
+> toplantı ve güven yeri kılan" (Ayet-33) O'dur.
 
 #### Ahkâmın ebedîliği kaldırılır
 
@@ -717,9 +730,10 @@ Kâbe bahsi, *Tarih II*'de Muhammed anlatıya girmeden önce, "putların muhafaz
 > **[Ayet-35]** "Rabbinin kelimesi (Kur’an) doğruluk ve adalet bakımından
 > tamdır. Onun kelimelerini değiştirebilecek yoktur. (…)" — **En'âm 115**
 
-> **[Bulgu-17]** Kitap Kur'an'ı kendi eliyle üçe ayırır: iman esası "pek mühim"dir;
-> hukukî hükümler "değişegeldiğinden" yerlerine bugün başka kanunlar konmuştur; tarihe
-> ait malûmat ise yeni fenler karşısında "temellerinden" sarsılmıştır. Ahkâm hakkındaki
+> **[Bulgu-17]** Kur'an'ın muhtevası "İlk Vahiy" alt başlığının sonunda ele alınır (s.
+> 92); kitap Kur'an'ı orada kendi eliyle üçe ayırır: iman esası "pek mühim"dir; hukukî
+> hükümler "değişegeldiğinden" yerlerine bugün başka kanunlar konmuştur; tarihe ait
+> malûmat ise yeni fenler karşısında "temellerinden" sarsılmıştır. Ahkâm hakkındaki
 > hüküm bu yüzden istilzam değil sarahattir: paragrafın ilk cümlesi, on dört asır
 > evvelki esasların zamanla değiştiğini ve yerlerine yenilerinin konduğunu kitabın kendi
 > sesiyle söyler; "Bunlar dahi (…) değişmeğe mahkûmdurlar" cümlesi bunu yeni kanunlara
