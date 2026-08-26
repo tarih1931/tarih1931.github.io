@@ -597,7 +597,7 @@ already laid down on p. 2.
 > who create it, or are We the creator?" (Verse-12), and it ascribes every stage of the
 > graded creation to Allah, naming Him "the best of creators".
 
-#### Man is placed at the last link of the animal chain
+#### Man is placed at the last link of the chain of life
 
 > **[[Quote-19](https://tarih1931.github.io/tarih-1-1931/s0005.html)]** "Hulâsa
 > insanlar, sularda kaynaşıp çırpınan bir mevcuttan, çok yavaş yürüyen bir tekâmülle,

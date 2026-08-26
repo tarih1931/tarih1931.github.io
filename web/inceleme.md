@@ -359,7 +359,7 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 > kademeli yaratışın her kademesini Allah'a nisbet edip O'nu "yaratanların en güzeli"
 > diye anar.
 
-#### İnsan, hayvan zincirinin son halkasına yerleştirilir
+#### İnsan, hayat zincirinin son halkasına yerleştirilir
 
 > **[[Alıntı-19](https://tarih1931.github.io/tarih-1-1931/s0005.html)]** "Hulâsa insanlar, sularda kaynaşıp çırpınan bir mevcuttan, çok yavaş
 > yürüyen bir tekâmülle, bugünkü şekle geldiler." — **Tarih I, s. 5**
