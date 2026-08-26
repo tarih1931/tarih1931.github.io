@@ -484,7 +484,7 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 > vahiyden önce aralarında geçen "bir ömür" hatırlatılır (Ayet-20). Tavrın itikadî
 > sonucu, övgü bahsinin sonunda ele alınır.
 
-#### Peygamber müessis sayılır, risalet tarifi hata ilan edilir
+#### Peygamber müessis sayılır, tebliğ tarifi “hata” ilan edilir
 
 > **[[Alıntı-28](https://tarih1931.github.io/tarih-2-1931/s0079.html)]** "A. İSLÂM DİNİ ARABİSTANDA KURULDU" — **Tarih II, s. 79**
 
@@ -581,7 +581,7 @@ Bu eksen *Tarih I*'in "A. Kâinat — Tabiat" başlığı altındadır (s. 1–8
 > varlık nev'idir (Ayet-26) ve onlar hakkındaki bilginin kaynağı kültür değil vahiydir
 > (Ayet-27). İki menşe anlatısı uzlaşmaz.
 
-#### Melek tasavvurunun kaynağı önceki dinlere bağlanır
+#### Melek itikadının kaynağı değil, takviyesi anlatılır
 
 > **[[Alıntı-34](https://tarih1931.github.io/tarih-2-1931/s0091.html)]** "Muhammedin Musa, İsa, dinlerine dair öğrendikleri de kendisinde bu itikadı
 > **kuvvetlendirmiştir**. Bu Peygamberler de melekler vasıtasile ilham

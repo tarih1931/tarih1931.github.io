@@ -800,7 +800,7 @@ axis.
 > revelation (Verse-20). The doctrinal consequence of this attitude is taken up at the
 > end of the section on praise.
 
-#### The Prophet is counted a founder and the definition of messengership is declared an error
+#### The Prophet is counted a founder, the description of proclamation declared an “error”
 
 > **[[Quote-28](https://tarih1931.github.io/tarih-2-1931/s0079.html)]** "A. İSLÂM DİNİ
 > ARABİSTANDA KURULDU" — **Tarih II, p. 79**
@@ -941,7 +941,7 @@ axis.
 > and the source of knowledge about them is not culture but revelation (Verse-27). The
 > two accounts of origin cannot be reconciled.
 
-#### The source of the conception of angels is tied to earlier religions
+#### Not the source of belief in angels but its reinforcement is recounted
 
 > **[[Quote-34](https://tarih1931.github.io/tarih-2-1931/s0091.html)]** "Muhammedin
 > Musa, İsa, dinlerine dair öğrendikleri de kendisinde bu itikadı
