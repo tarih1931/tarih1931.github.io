@@ -859,8 +859,6 @@ def build_review_page() -> str:
         alt.append('<a href="review.html">English version</a>')
     if REVIEW_EMAIL:
         alt.append(f'Yazışma: <a href="mailto:{esc(REVIEW_EMAIL)}">{esc(REVIEW_EMAIL)}</a>')
-    alt.append('<a href="inceleme.json">bulgular (JSON)</a>')
-    alt.append('<a href="inceleme.jsonl">JSONL</a>')
     alt.append('<a href="inceleme.md">ham Markdown</a>')
     if REVIEW_DOI:
         alt.append(f'DOI: <a href="https://doi.org/{esc(REVIEW_DOI)}">{esc(REVIEW_DOI)}</a>')
@@ -1009,8 +1007,6 @@ def build_review_en_page() -> str:
     alt.append('<a href="inceleme.html">Türkçe aslı</a>')
     if REVIEW_EMAIL:
         alt.append(f'Correspondence: <a href="mailto:{esc(REVIEW_EMAIL)}">{esc(REVIEW_EMAIL)}</a>')
-    alt.append('<a href="inceleme.json">claims (JSON)</a>')
-    alt.append('<a href="inceleme.jsonl">JSONL</a>')
     alt.append('<a href="review.md">raw Markdown</a>')
     if REVIEW_DOI:
         alt.append(f'DOI: <a href="https://doi.org/{esc(REVIEW_DOI)}">{esc(REVIEW_DOI)}</a>')
