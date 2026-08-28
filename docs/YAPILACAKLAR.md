@@ -236,7 +236,7 @@ Zenodo'da `isSupplementTo` ile bağlıdır.
 |---|---|
 | **Concept DOI** (künyelerde kullanılan) | `10.5281/zenodo.21963507` |
 | Kayıt | https://doi.org/10.5281/zenodo.21963507 |
-| Son yayımlanan sürüm | `22060070` (22.08.2026) — DOI `10.5281/zenodo.22060070` |
+| Son yayımlanan sürüm | `22137655` (26.08.2026) — DOI `10.5281/zenodo.22137655` |
 
 DOI `metadata/books.json` → `review.doi` alanında durur; site, `llms.txt` ve
 Vikikaynak düzenleme özetleri oradan okur.
@@ -256,8 +256,14 @@ Wikidata P2093 tek alandan (`books.json` -> `review.author`) beslenir.
 
 Aynı gün `22059727` (§4.2 üç paragraftan bire indi), `22059860` (§7'deki imlâ
 notu tek paragrafa toplandı) ve `22060070` (§5 başlığı cümle düzenine geçti)
-açıldı; hepsinde İngilizce sürüm eşitlendi. Concept DOI artık `22060070`'e
-çözümlenir.
+açıldı; hepsinde İngilizce sürüm eşitlendi.
+
+23.08.2026'da `22070949`, 26.08.2026'da `22137655` açıldı. Sonuncusu §1'in
+yapısını (giriş paragrafı ve basım tablosu artık "1.1 Telif ve basım künyesi"
+altında), eklerin kaynakçaya `[22]`–`[25]` olarak katılmasını, altbilgi
+sadeleşmesini ve §3'ün eksen giriş paragraflarının ilgili bulguların içine
+dağıtılmasını getirdi; İngilizce sürüm her adımda eşitlendi. Concept DOI artık
+`22137655`'e çözümlenir.
 
 > **Bilinen aksaklık — `inceleme-en.md` önizlemesi.** Zenodo bu dosyanın
 > önizlemesinde HTTP 500 veriyor (`inceleme-tr.md`, iki PDF ve `bulgular.jsonl`
