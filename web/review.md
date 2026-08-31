@@ -737,8 +737,9 @@ The review does not do the following:
 > period.]
 
 > **[Verse-18]** "Then he turned away and grew arrogant, and said: “This is nothing but
-> magic handed down.” “This is nothing but the word of a human being.”" —
-> **Al-Muddaththir 23-25**
+> magic handed down.” “This is nothing but the word of a human being.” I will cast him
+> into Saqar. And what will make you know what Saqar is? It spares nothing and leaves
+> nothing. It scorches the skin." — **Al-Muddaththir 23-29**
 
 > **[Verse-19]** "It is not the word of a poet. How little you believe! Nor is it the
 > word of a soothsayer. How little you reflect! It is sent down from the Lord of the
@@ -758,6 +759,13 @@ The review does not do the following:
 > by literary merit (Quote-27). Two levels must be kept apart. At the level of the
 > proposition, what the book says is the very characterisation the Qur'an names and
 > rejects: "This is nothing but the word of a human being" (*kavlü'l-beşer*, Verse-18).
+> The Qur'an does not merely note that characterisation as a mistaken opinion; where it
+> quotes it, it also states what it incurs: the sentence is followed at once by "I will
+> cast him into Saqar", and the fire is described as sparing nothing, leaving nothing,
+> scorching the skin (Verse-18). The Qur'an thus records the words that assign its
+> source to a human being not as a neutral historical verdict but as words to which the
+> gravest punishment is attached. This review's finding concerns those words themselves;
+> upon whom that judgement falls is, as declared in §2, not its subject.
 > At the level of attitude the book frames that proposition respectfully — the Prophet
 > is "sincerely convinced" (samimî surette kani), "honourable and free of any thought of
 > self-interest" (namuskâr ve menfaat fikrinden ari) (Quote-26, Quote-45) — whereas the

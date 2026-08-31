@@ -20,10 +20,6 @@ temel iddiası, bu resmî anlatı ile Kur'an arasındaki ayrılığın ayrıntı
 **itikadî temelde** bulunduğudur. Bütün alıntılar künyelerindeki sayfada makine ile
 doğrulanmıştır.
 
-*Bu belge bir özettir. Bütün delil aygıtı — 46 alıntının, 38 ayetin ve 19 bulgunun
-tamamı, yöntem kurallarının gerekçeleri, itirazlara cevaplar, ekler ve kaynakça —
-[incelemenin kapsamlı metnindedir](https://tarih1931.github.io/inceleme-kapsamli.html).*
-
 ---
 
 ## 1. Kaynağın resmî statüsü
@@ -124,8 +120,7 @@ sayıldığında anılan Allah, ahiret, melekler, kitap ve peygamberlerin hepsi,
 > verdiğimizden de Allah yolunda harcarlar." — **Bakara 3**
 
 İki menşe anlatısı uzlaşmaz; ulûhiyeti beşerî bir yapıntı sayan izah, İslâm itikadı
-bakımından **ulûhiyetin reddidir** — kapsamlı metinde
-[Bulgu-01–Bulgu-05](https://tarih1931.github.io/inceleme-kapsamli.html#s-3-1-dinin-mensei-ve-mahiyeti).
+bakımından **ulûhiyetin reddidir**.
 
 ### 3.2 Yaratılış ve insanın menşei
 
@@ -151,26 +146,55 @@ Kur'an'da da hayat sudan başlar (Enbiyâ 30), yaratılış kademeli anlatılır
 > Onu siz mi yaratıyorsunuz, yoksa yaratan biz miyiz?" — **Vâkıa 57-59**
 
 Kitap kanunların sahibi olarak tabiatı gösterir; Kur'an kademeli yaratışın her
-kademesini Allah'a nisbet eder — kapsamlı metinde
-[Bulgu-06–Bulgu-08](https://tarih1931.github.io/inceleme-kapsamli.html#s-3-2-yaratilis-ve-insanin-mensei).
+kademesini Allah'a nisbet eder.
 
 ### 3.3 Vahiy, nübüvvet ve Kur'an'ın kaynağı
 
-Bölümün ana başlığı hükmün kendisidir:
-
-> A. İSLÂM DİNİ ARABİSTANDA KURULDU
-> — **[Tarih II](https://tarih1931.github.io/tarih-2-1931/s0079.html), s. 79**
-
-Kur'an'ın tarifi kitabın kendi sesiyle ve kayıtsız verilir; ilâhî kaynak iddiası ise
-nakil kaydıyla üçüncü şahsa havale edilir:
+Kitap, Kur'an'ı tarif ederken onu doğrudan Muhammed'in koyduğu esaslara bağlar; vahyin
+ilâhî kaynağını ise kendi sesiyle hiçbir yerde tasdik etmez, bir nakil kaydına havale
+eder:
 
 > Muhammedin koyduğu esasların toplu olduğu kitaba Kuran denir. (…) **İslâm
 > an'anesinde** bu ayetlerin Muhammede Cebrail adında bir melek vasıtasile Allah
 > tarafından vahiy, yani ilham edildiği **kabul olunur**.
 > — **[Tarih II](https://tarih1931.github.io/tarih-2-1931/s0090.html), s. 90**
 
-Hemen ardından kitabın kendi izahı gelir ve bölümün geri kalanı yalnız bu izahı
-işler:
+Ayetlerin nereden geldiğini ise kayıtsız ve kendi sesiyle söyler:
+
+> Muhammet **uzun bir devirdeki tefekkürlerin mahsulü olan ayetleri** lüzum ve
+> ihtiyaçlara göre takrir ediyordu. Bununla beraber kendisini tahrik eden kuvvetin
+> tabiat fevkinde bir mevcudiyet olduğuna samimî surette kani idi.
+> — **[Tarih II](https://tarih1931.github.io/tarih-2-1931/s0091.html), s. 91**
+
+Bu iki cümle yan yana konduğunda kitabın Kur'an hakkındaki hükmü tamamlanır ve başka
+bir okumaya yer bırakmaz: **Kur'an, Muhammed'in koyduğu esasların toplandığı ve uzun
+bir tefekkürün mahsulü olan bir kitaptır — yani beşer sözüdür.** Kitabın ilâhî kaynağa
+dair söylediği tek cümle ise kendisinin katılmadığı bir nakildir: "İslâm an'anesinde
+(…) kabul olunur".
+
+Kur'an bu nitelemeyi adıyla anar: onu kelimesi kelimesine zikreder, söyleyenini
+tarif eder ve karşılığını bildirir:
+
+> "Sonra arkasını döndü ve büyüklük taslayıp şöyle dedi: “Bu, ancak nakledilegelen bir
+> sihirdir.” “Bu, ancak insan sözüdür.” Ben onu “Sekar”a (cehenneme) sokacağım.
+> Sekar’ın ne olduğunu sen ne bileceksin? Geride bir şey koymaz, bırakmaz. Derileri
+> kavurur." — **Müddessir 23-29**
+
+Ayet üç şeyi arka arkaya koyar: nitelemeyi ("Bu, ancak insan sözüdür"), o nitelemeyi
+yapanı ve karşılığını. Karşılık Sekar'dır; ateş "geride bir şey koymaz, bırakmaz" ve
+"derileri kavurur" diye vasfedilir. **Kur'an, kendi kaynağını beşere veren sözü
+tartışılabilir bir tarih görüşü olarak değil, en ağır azabın bağlandığı bir söz olarak
+kaydeder.** Kitabın s. 90-91'de kurduğu hüküm ile ayetin zikrettiği söz aynı sözdür;
+aradaki fark, kitabın onu hürmetle ve iyi niyetle söylemesidir — ayetin reddettiği ise
+niyet değil, sözün kaynağını beşere vermektir.
+
+Kur'an'ın kendi kaynağı hakkındaki beyanı da bunun tam karşısındadır:
+
+> "O, nefis arzusu ile konuşmaz. (Size okuduğu) Kur'an ancak kendisine bildirilen
+> bir vahiydir." — **Necm 3-4**
+
+Kitabın vahiy anlatısının geri kalanı, kurduğu bu hükmün etrafında işler: vahiy fikri
+yıllarca tefekkürden sonra "doğmuş"tur, din "kendinin bulduğu" bir dindir.
 
 > **Tarihî noktai nazardan** da mütalea edildiği zaman görülüyor ki: Muhammet
 > birdenbire Allahın Resulüyüm diyerek ortaya çıkmamıştır. O, (…) bunları ıslah için
@@ -182,31 +206,20 @@ işler:
 > olduğuna inandığı yeni bir dine davete başladı.
 > — **[Tarih II](https://tarih1931.github.io/tarih-2-1931/s0089.html), s. 89**
 
-Ayetler "uzun bir devirdeki tefekkürlerin mahsulü"dür (s. 91); kitap Kur'an için
-"söylenmek" fiilini kullanır ve sureleri edebî kıymetle derecelendirir (s. 92).
-Peygamber "cihanşümul bir dinin müessisi"dir (s. 91); onu "her şeyi bir melekten alan
-ve aynen muhitine tebliğ eden" biri saymak ise kitaba göre "put derekesine indirmek"
-hatasıdır (s. 93). Aynı kalıp Hz. Musa'ya da uygulanır:
+Peygamber böylece mübelliğ değil müessis sayılır: kitap onu "cihanşümul bir dinin
+müessisi" diye anar; "her şeyi bir melekten alan ve aynen muhitine tebliğ eden" bir
+peygamber tasavvurunu ise "put derekesine indirmek" hatası ilan eder (s. 91, 93). Aynı
+kalıp Hz. Musa'ya da uygulanır:
 
 > Musa gençliğinde uzun müddet Medyen de bulunmuş ve buradaki telâkkilerden mülhem
 > olarak **kendi dininin esaslarını koymuştur**.
 > — **[Tarih II](https://tarih1931.github.io/tarih-2-1931/s0080.html), s. 80**
 
-Kitabın önerme düzeyinde dediği, Kur'an'ın ismen zikredip reddettiği nitelemedir —
-"insan sözü":
-
-> "O, nefis arzusu ile konuşmaz. (Size okuduğu) Kur'an ancak kendisine bildirilen
-> bir vahiydir." — **Necm 3-4**
-
-> "Sonra arkasını döndü ve büyüklük taslayıp şöyle dedi: “Bu, ancak nakledilegelen
-> bir sihirdir.” “Bu, ancak insan sözüdür.”" — **Müddessir 23-25**
-
-"Yıllarca tefekkür" iddiasına karşılık Kur'an, vahiyden önce aralarında geçen "bir
-ömür"ü hatırlatır (Yûnus 16); Musa da dinini kuran değil, seçilen ve kendisine
-vahyedilendir (Tâhâ 13-14). Kur'an'da Peygamber **müessis** değil **mübelliğdir**
-(Mâide 67) ve tebliğ emri, kitabın s. 93'te saydığı mücadelenin ta kendisidir — kapsamlı
-metinde
-[Bulgu-09–Bulgu-12](https://tarih1931.github.io/inceleme-kapsamli.html#s-3-3-vahiy-nubuvvet-ve-kur-an-in-kaynagi).
+Kur'an şair ve kâhin sözü ihtimalini de adıyla reddeder (Hâkka 41-43); "yıllarca
+tefekkür" iddiasına karşılık vahiyden önce aralarında geçen "bir ömür" hatırlatılır
+(Yûnus 16). Musa dinini kuran değil, seçilen ve kendisine vahyedilendir (Tâhâ 13-14);
+Peygamber **müessis** değil **mübelliğdir** (Mâide 67) ve tebliğ emri, kitabın s. 93'te
+saydığı mücadelenin ta kendisidir.
 
 ### 3.4 Cin ve melek itikadının menşei
 
@@ -230,8 +243,7 @@ sayılı esaslarındandır (Bakara 285). "Öğrenme" modeli de adıyla reddedili
 > biliyoruz. İma ettikleri kimsenin dili yabancıdır. Bu Kur’an ise gayet açık bir
 > Arapça’dır." — **Nahl 102-103**
 
-İki menşe anlatısı uzlaşmaz — kapsamlı metinde
-[Bulgu-13–Bulgu-14](https://tarih1931.github.io/inceleme-kapsamli.html#s-3-4-cin-ve-melek-itikadinin-mensei).
+İki menşe anlatısı uzlaşmaz.
 
 ### 3.5 Nass, ahkâm ve kutsal mekân
 
@@ -267,8 +279,7 @@ zamanın değil vahyin işidir:
 > "Rabbinin kelimesi (Kur’an) doğruluk ve adalet bakımından tamdır. Onun kelimelerini
 > değiştirebilecek yoktur. (…)" — **En'âm 115**
 
-Kat'î nassla sabit bir haberi masal saymak, doğrudan nass çatışmasıdır — kapsamlı metinde
-[Bulgu-15–Bulgu-17](https://tarih1931.github.io/inceleme-kapsamli.html#s-3-5-nass-ahkam-ve-kutsal-mekan).
+Kat'î nassla sabit bir haberi masal saymak, doğrudan nass çatışmasıdır.
 
 ---
 
@@ -297,17 +308,16 @@ ihtimallerini tehaddî ayetleriyle karşı karşıya koyar (Tûr 33-34; Bakara 2
 Kur'an'da Peygamber'i diğer insanlardan ayıran ölçü de şahsî meziyetleri değil,
 kendisine **vahiy indirilmesidir** (Kehf 110). Bu yaklaşımda Peygamber'in ahlâkı
 olumlu değerlendirilse de Kur'an'ın Allah'ın kelâmı olduğu kabul edilmemekte, vahyin
-ilâhî kaynağı reddedilmektedir — kapsamlı metinde
-[Bulgu-18–Bulgu-19](https://tarih1931.github.io/inceleme-kapsamli.html#s-4-muhammet-in-ovuldugu-yerler-ve-bu-ovgunun-itikadi-degeri).
+ilâhî kaynağı reddedilmektedir.
 
 ---
 
 ## 5. Sonuç
 
 Bu inceleme, *Tarih I* ve *Tarih II* ciltlerinin din ve İslam hakkındaki ifadelerini
-Kur'an'ın ortaya koyduğu inanç esaslarıyla karşılaştırmıştır. Beş eksende kırk altı
-alıntı, dayandığı otuz sekiz ayet karşısında değerlendirilerek on dokuz bulguya
-varılmıştır. **Bulgular dağınık ifadelere değil tek bir çerçeveye işaret eder:
+Kur'an'ın ortaya koyduğu inanç esaslarıyla karşılaştırmıştır. Beş eksende 46 alıntı,
+dayandığı 38 ayet karşısında değerlendirilerek 19 bulguya varılmıştır. **Bulgular
+dağınık ifadelere değil tek bir çerçeveye işaret eder:
 kitaplar dini insanların kurduğu bir müessese, ulûhiyeti insan zekâsının bulduğu bir
 mefhum, vahyi Peygamber'in tefekkürünün mahsulü, gaybı da beşerî bir yakıştırma
 sayar.** Bu çerçeve ile Kur'an'ın bildirdiği esaslar arasındaki ayrılık ayrıntıda
@@ -328,8 +338,8 @@ sayfanın düzeltilmiş metnine ve taranmış aslına gider; alıntıların kün
 sayfada birebir bulunduğu makine ile denetlenmiştir. 1931 basımından yapılan
 alıntılar kamu malıdır; incelemenin kendi metni CC0 ile kamuya bırakılmıştır.
 
-**Kapsamlı metin.** Bu belge bir özettir. Kırk altı alıntının, otuz sekiz ayetin ve on
-dokuz bulgunun tamamı; yöntem kurallarının gerekçeleri; "bir komisyonun görüşü" ve
+**Kapsamlı metin.** Bu belge bir özettir. 46 alıntının, 38 ayetin ve 19 bulgunun
+tamamı; yöntem kurallarının gerekçeleri; "bir komisyonun görüşü" ve
 "yapay zekâ kullanımı" itirazlarına cevaplar; ekler (ayet dosyaları, terim dosyaları,
 ön söz ve heyet sayfaları, bulguların dayanak tablosu) ve tam kaynakça
 [incelemenin kapsamlı metnindedir](https://tarih1931.github.io/inceleme-kapsamli.html). Bulgular,
@@ -352,6 +362,7 @@ bulmaktadır (künyeleri kapsamlı metnin kaynakçasındadır).
 
 ---
 
-*Bu özet, incelemenin kapsamlı metni ve kaynak metnin kendisiyle birlikte
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) ile kamuya
-bırakılmıştır.*
+*Bu özet, incelemenin
+[kapsamlı metni](https://tarih1931.github.io/inceleme-kapsamli.html) ve kaynak metnin
+kendisiyle birlikte [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) ile
+kamuya bırakılmıştır.*

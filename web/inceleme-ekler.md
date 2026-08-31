@@ -119,10 +119,10 @@ Bu ek, ana metinde anılan otuz sekiz ayetin her biri için üç şey verir: aye
 - **Kur'an Yolu Tefsiri.** 'Bilmezdin', 'derâ' fiilinin hakikate vâkıf olmayı anlattığı hatırlatılarak, Peygamber'in vahiyden önce kitabın içeriğini ve imanın hakikatini bilmediği şeklinde anlaşılır; bu onun mümin olmadığı anlamına gelmez. Allah'a nasıl ibadet edileceği ancak vahiyle bilinir; nüzul sebebi, nesh notu yok.
 - **TDV İslâm Ansiklopedisi.** [VAHİY](https://islamansiklopedisi.org.tr/vahiy); [RUH](https://islamansiklopedisi.org.tr/ruh)
 
-### A.18 — Ayet-18 · Müddessir 74/24-25
+### A.18 — Ayet-18 · Müddessir 74/23-29
 
-- **Bulgudaki yeri.** Bulgu-10: "insan sözü" (*kavlü'l-beşer*) nitelemesi Kur'an'da ismen anılır ve reddedilir.
-- **Kur'an Yolu Tefsiri.** Nüzul sebebi: müşrikler Peygamber'e ve Kur'an'a nasıl karşı çıkacaklarını Velîd b. Mugīre'ye sormuş; Velîd, Peygamber'in sihirbaz, Kur'an'ın eski sihirbazlardan nakledilegelen bir sihir olduğunu söyleyip yaymıştır. İnkârcılar Kur'an'ı 'beşer sözü' saymıştır; nesh notu yok, i'câz meselesi doğrudan ele alınmaz.
+- **Bulgudaki yeri.** Bulgu-10: "insan sözü" (*kavlü'l-beşer*) nitelemesi Kur'an'da ismen anılır, reddedilir ve karşılığı bildirilir — nitelemenin hemen ardından Sekar gelir (74/26-29).
+- **Kur'an Yolu Tefsiri.** Nüzul sebebi: müşrikler Peygamber'e ve Kur'an'a nasıl karşı çıkacaklarını Velîd b. Mugīre'ye sormuş; Velîd, Peygamber'in sihirbaz, Kur'an'ın eski sihirbazlardan nakledilegelen bir sihir olduğunu söyleyip yaymıştır. İnkârcılar Kur'an'ı 'beşer sözü' saymıştır; nesh notu yok, i'câz meselesi doğrudan ele alınmaz. 26-29. âyetler nitelemenin karşılığını verir: Sekar, cehennem isimlerindendir ve tefsir onu "geride bir şey koymaz, bırakmaz", "derileri kavurur" vasıflarıyla anar.
 - **TDV İslâm Ansiklopedisi.** [VELÎD b. MUGĪRE](https://islamansiklopedisi.org.tr/velid-b-mugire)
 
 ### A.19 — Ayet-19 · Hâkka 69/41-43

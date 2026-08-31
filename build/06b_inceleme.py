@@ -399,6 +399,9 @@ OZ_CITE_RE = re.compile(
     r"—\s*(?:\[?(Tarih I{1,2})\]?(?:\(([^)]*)\))?\s*,\s*)?"
     r"s\.\s*(\d+)(?:\s*[-–]\s*(\d+))?\s*$"
 )
+# Ayet bloğunun künyesi: "... - **Necm 3-4**". clean() yıldızları attığı için
+# kalan biçim "... - Necm 3-4"dür; künye, son " — "den sonraki parçadır.
+OZ_AYET_RE = re.compile(r"\s—\s([^—]{3,40})$")
 
 
 def check_summary(corpus: dict[int, dict], md: str) -> tuple[int, int, list[str]]:
@@ -414,11 +417,31 @@ def check_summary(corpus: dict[int, dict], md: str) -> tuple[int, int, list[str]
         return 0, 0, []
     ok, total, bad = 0, 0, []
     oz = OZ_MD.read_text(encoding="utf-8")
+    # Özetteki ayetler kapsamlı metnin ayet kayıtlarına karşı denetlenir: aynı lafız
+    # iki belgede durduğu için biri elde düzeltilince öteki sessizce ayrışabilir.
+    ayetler: dict[str, str] = {}
+    for r in parse_verses(md):
+        ayetler[r["reference"]] = ayetler.get(r["reference"], "") + " " + match_key(r["text"])
     for block in re.findall(r"(?:^>.*\n?)+", oz, re.M):
         text = clean(" ".join(l.lstrip("> ").rstrip() for l in block.splitlines()))
         m = OZ_CITE_RE.search(text)
         if not m:
-            continue  # ayet bloğu: kaynağı kitap değil, doğrulanmaz
+            ma = OZ_AYET_RE.search(text)
+            if not ma:
+                continue  # künyesiz blok
+            kunye = ma.group(1).strip()
+            total += 1
+            if kunye not in ayetler:
+                bad.append(f"ayet künyesi kapsamlı metinde tanımsız: {kunye}")
+                continue
+            lafiz = text[: ma.start()].strip().strip("\"'").strip()
+            parca = [f.strip(" ()[],.;:—-\"'") for f in re.split(r"\(…\)|…", match_key(lafiz))]
+            kotu = [f for f in parca if len(f) >= 12 and f not in ayetler[kunye]]
+            if kotu:
+                bad.append(f"{kunye}: lafız kapsamlı metinle uyuşmuyor — {kotu[0][:50]}…")
+            else:
+                ok += 1
+            continue
         quote = text[: m.start()].strip().strip("\"'").strip()
         pages = [int(m.group(3))] + ([int(m.group(4))] if m.group(4) else [])
         total += 1
@@ -733,7 +756,7 @@ def main() -> None:
     oz_ok, oz_total, oz_bad = check_summary(corpus, md)
     if oz_total:
         n_capa = check_summary_anchors(md)
-        print(f"    özet ({OZ_MD.name}): {oz_ok}/{oz_total} alıntı ve aktarım yerinde, "
+        print(f"    özet ({OZ_MD.name}): {oz_ok}/{oz_total} alıntı, ayet ve aktarım yerinde, "
               f"{n_capa} derin bağ kapsamlı metnin başlıklarına düşüyor")
         for line in oz_bad:
             print(f"      DOĞRULANMADI  {line}")
