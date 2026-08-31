@@ -1,9 +1,11 @@
 """06b — İncelemenin iddialarını makine-okunabilir delile çevirir.
 
 Yorumlu bir metni bir dil modeli ancak iddialarını kaynağa kadar takip
-edebiliyorsa güvenle kullanır. Bu adım, docs/inceleme.md
-içindeki düzyazıyı kayıt kayıt ayrıştırır ve her alıntıyı, künyesinde
-gösterilen sayfanın **düzeltilmiş** metnine karşı doğrular.
+edebiliyorsa güvenle kullanır. Bu adım, docs/inceleme-kapsamli.md
+(incelemenin bütün delil aygıtını taşıyan kapsamlı metin; inceleme.md onun
+özetidir ve indeksli kayıt taşımaz) içindeki düzyazıyı kayıt kayıt ayrıştırır
+ve her alıntıyı, künyesinde gösterilen sayfanın **düzeltilmiş** metnine karşı
+doğrular.
 
 Üretilen kayıt tipleri:
 
@@ -41,7 +43,7 @@ from common import (  # noqa: E402
     BOOKS, ROOT, WEB_DIR, heading_id, page_slug, read_jsonl, write_jsonl, write_text,
 )
 
-REVIEW_MD = ROOT / "docs" / "inceleme.md"
+REVIEW_MD = ROOT / "docs" / "inceleme-kapsamli.md"
 # Ekler ayrı bir belgededir (Ek A/B/C). Ayrıştırılmaz — alıntı ya da ayet kaydı
 # taşımaz — fakat ana metnin indekslerine atıf yapar; o atıflar denetlenir.
 ANNEX_MD = ROOT / "docs" / "inceleme-ekler.md"
@@ -52,7 +54,7 @@ _META = json.loads((ROOT / "metadata" / "books.json").read_text(encoding="utf-8"
 # bir kopyası tutulmaz: site taşındığında bu betik eski adresi üretmeye devam
 # ederse incelemenin 34 alıntısının delil zinciri ölü adrese bakar.
 BASE_URL = (_META.get("channels") or {}).get("site") or "https://tarih1931.github.io"
-REVIEW_URL = f"{BASE_URL}/inceleme.html"
+REVIEW_URL = f"{BASE_URL}/inceleme-kapsamli.html"
 REVIEW_DOI = (_META.get("review") or {}).get("doi") or None
 
 VOLUME = {"tarih-1-1931": "Tarih I", "tarih-2-1931": "Tarih II"}
@@ -389,6 +391,76 @@ def parse_limits(md: str) -> list[dict]:
     return rows
 
 
+# Özetin (docs/inceleme.md) künyeli alıntısı: "— **[Tarih I](url), s. 21**".
+# Kapsamlı metnin künyesinden tek farkı indeks işareti taşımamasıdır; özet
+# indeksli kayıt üretmez, çünkü kayıtların kaynağı kapsamlı metindir.
+OZ_MD = ROOT / "docs" / "inceleme.md"
+OZ_CITE_RE = re.compile(
+    r"—\s*(?:\[?(Tarih I{1,2})\]?(?:\(([^)]*)\))?\s*,\s*)?"
+    r"s\.\s*(\d+)(?:\s*[-–]\s*(\d+))?\s*$"
+)
+
+
+def check_summary(corpus: dict[int, dict], md: str) -> tuple[int, int, list[str]]:
+    """Özetteki kitap alıntılarını ve aktarımlarını doğrular.
+
+    Özet indeksli kayıt taşımadığı için yukarıdaki indeks denetimlerinin hiçbiri
+    ona değmez; denetimsiz bırakılırsa sitenin giriş sayfasındaki alıntılar
+    sessizce bozulabilir. İki şey bakılır: künyeli her alıntının o sayfada
+    birebir bulunması ve künyedeki bağlantının künyedeki sayfaya gitmesi.
+    Ayrıca düzyazı içinde tırnakla aktarılan her parça kapsamlı metinde
+    aranır — özet kapsamlı metinden türer, ondan ayrışmamalıdır."""
+    if not OZ_MD.exists():
+        return 0, 0, []
+    ok, total, bad = 0, 0, []
+    oz = OZ_MD.read_text(encoding="utf-8")
+    for block in re.findall(r"(?:^>.*\n?)+", oz, re.M):
+        text = clean(" ".join(l.lstrip("> ").rstrip() for l in block.splitlines()))
+        m = OZ_CITE_RE.search(text)
+        if not m:
+            continue  # ayet bloğu: kaynağı kitap değil, doğrulanmaz
+        quote = text[: m.start()].strip().strip("\"'").strip()
+        pages = [int(m.group(3))] + ([int(m.group(4))] if m.group(4) else [])
+        total += 1
+        if not verify(quote, pages, corpus):
+            bad.append(f"s.{pages[0]}  {quote[:60]}…")
+            continue
+        url = m.group(2) or ""
+        if url and f"s{pages[0]:04d}.html" not in url:
+            bad.append(f"s.{pages[0]}  künye bağlantısı başka sayfaya gidiyor: {url}")
+            continue
+        ok += 1
+
+    # Düzyazıdaki aktarımlar. Blok işaretleri soyulur, yoksa ">" satır
+    # kırılımlarında araya girer ve satır sınırını aşan parça bulunamaz.
+    tam = match_key(re.sub(r"^>+\s?", "", md, flags=re.M))
+    duz = clean(re.sub(r"(?:^>.*\n?)+", "", oz, flags=re.M))
+    for parca in re.findall(r'"([^"]*)"', duz):
+        if len(parca) < 12:
+            continue
+        total += 1
+        if match_key(parca) in tam:
+            ok += 1
+        else:
+            bad.append(f'aktarım kapsamlı metinde yok: "{parca[:60]}"')
+    return ok, total, bad
+
+
+def check_summary_anchors(md: str) -> int:
+    """Özetten kapsamlı metne giden derin bağların çapaları gerçek olmalı.
+
+    Kapsamlı metnin bir başlığı değişince özetteki bağ sessizce sayfanın
+    başına düşerdi."""
+    if not OZ_MD.exists():
+        return 0
+    capalar = {heading_id(h) for h in re.findall(r"^#{2,4}\s+(.+)$", md, re.M)}
+    atif = set(re.findall(r"inceleme-kapsamli\.html#([a-z0-9\-]+)", OZ_MD.read_text(encoding="utf-8")))
+    eksik = sorted(a for a in atif if a not in capalar)
+    if eksik:
+        raise SystemExit(f"özetten kapsamlı metnin olmayan başlığına bağ var: {eksik}")
+    return len(atif)
+
+
 def check_translation(corpus: dict[int, dict]) -> tuple[int, int, list[str]]:
     """İngilizce sürümdeki Türkçe alıntıları da doğrular.
 
@@ -657,6 +729,14 @@ def main() -> None:
     if n_ek_en:
         print(f"    ekler (İngilizce): {n_ek_en} indeks atfı yerinde, "
               f"{n_asil} Türkçe asıl Türkçe eklerle birebir")
+
+    oz_ok, oz_total, oz_bad = check_summary(corpus, md)
+    if oz_total:
+        n_capa = check_summary_anchors(md)
+        print(f"    özet ({OZ_MD.name}): {oz_ok}/{oz_total} alıntı ve aktarım yerinde, "
+              f"{n_capa} derin bağ kapsamlı metnin başlıklarına düşüyor")
+        for line in oz_bad:
+            print(f"      DOĞRULANMADI  {line}")
 
     en_ok, en_total, en_bad = check_translation(corpus)
     if en_total:

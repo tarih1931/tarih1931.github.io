@@ -169,10 +169,12 @@ def card() -> str:
     md += [
         "## İnceleme",
         "",
-        "İncelemenin okunabilir tam metni sitede durur; aşağıdaki config'ler onun",
+        "İncelemenin okunabilir metni sitede durur; aşağıdaki config'ler onun",
         "makine-okunabilir parçalarıdır.",
         "",
-        f"- Türkçe: {BASE_URL}/inceleme.html",
+        f"- Türkçe, öz hâli: {BASE_URL}/inceleme.html",
+        f"- Türkçe, kapsamlı metin (delillerin tamamı, atıf bu metnedir): "
+        f"{BASE_URL}/inceleme-kapsamli.html",
     ]
     if INCELEME_EN.exists():
         md.append(f"- İngilizce: {BASE_URL}/review.html")
@@ -255,7 +257,10 @@ def card() -> str:
     return "\n".join(yaml + md)
 
 
-INCELEME_TR = ROOT / "docs" / "inceleme.md"
+# Kanonik Türkçe belge kapsamlı metindir; docs/inceleme.md onun özetidir ve
+# ayrı bir kayıt olarak girmez — aynı iddiaların kısa hâli, veri kümesinde iki
+# kez sayılmasın.
+INCELEME_TR = ROOT / "docs" / "inceleme-kapsamli.md"
 INCELEME_EN = ROOT / "docs" / "REVIEW-EN.md"
 # Ekler ana metnin ardından aynı akışa girer: aynı çalışmanın parçasıdır,
 # aynı DOI'yi taşır, yalnız kaynak adresi ayrıdır.
@@ -263,7 +268,7 @@ INCELEME_EK_TR = ROOT / "docs" / "inceleme-ekler.md"
 INCELEME_EK_EN = ROOT / "docs" / "REVIEW-APPENDICES-EN.md"
 # (dosya, site sayfası, ilk "## " başlığından önceki kısmın adı)
 BELGELER = {
-    "tr": ((INCELEME_TR, "inceleme.html", "Özet, kapsam ve yöntem"),
+    "tr": ((INCELEME_TR, "inceleme-kapsamli.html", "Özet, kapsam ve yöntem"),
            (INCELEME_EK_TR, "inceleme-ekler.html", "Eklerin özeti")),
     "en": ((INCELEME_EN, "review.html", "Abstract, scope and method"),
            (INCELEME_EK_EN, "review-appendices.html", "Abstract of the appendices")),

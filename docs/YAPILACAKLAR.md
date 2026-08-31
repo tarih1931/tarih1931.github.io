@@ -229,6 +229,23 @@ Release artık yalnız GitHub tarafında bir kayıttır: Zenodo'yu tetiklemez, s
 
 ### 1.2b İncelemenin kendi Zenodo kaydı — ✅ yayında
 
+> **İnceleme 31.08.2026'dan beri iki belgedir.** Uzunluk yaygınlaşmanın önündeki
+> engel olduğu için ana metin öz hâline getirildi; kapsamlı metin kaybolmadı,
+> yanına taşındı:
+>
+> | | Dosya | Sayfa | Uzunluk |
+> |---|---|---|---|
+> | **Özet** — sitenin giriş sayfası | `docs/inceleme.md` | `/inceleme.html` | ~2 400 kelime, 5 sayfa PDF |
+> | **Kapsamlı metin** — delil aygıtının tamamı | `docs/inceleme-kapsamli.md` | `/inceleme-kapsamli.html` | ~8 800 kelime, 16 sayfa PDF |
+>
+> Kanonik belge kapsamlı metindir: DOI, Google Scholar etiketleri, İngilizce
+> çeviri, ekler, Zenodo künyesi ve `bulgular.jsonl` ona bağlıdır — 46 alıntı,
+> 38 ayet ve 19 bulgunun indeksli kaydı yalnız orada durur. Özet indeksli kayıt
+> taşımaz; her eksenin sonundan kapsamlı metnin ilgili bölümüne derin bağ verir.
+> **Özet de denetlenir:** `06b_inceleme.py` künyeli 16 alıntısını kaynak
+> sayfaya, düzyazıdaki aktarımları kapsamlı metne ve sekiz derin bağın çapasını
+> kapsamlı metnin başlıklarına karşı sınar.
+
 İnceleme korpustan ayrı bir çalışmadır ve ayrı bir concept DOI taşır; ikisi
 Zenodo'da `isSupplementTo` ile bağlıdır.
 
@@ -257,6 +274,11 @@ Wikidata P2093 tek alandan (`books.json` -> `review.author`) beslenir.
 Aynı gün `22059727` (§4.2 üç paragraftan bire indi), `22059860` (§7'deki imlâ
 notu tek paragrafa toplandı) ve `22060070` (§5 başlığı cümle düzenine geçti)
 açıldı; hepsinde İngilizce sürüm eşitlendi.
+
+31.08.2026'da inceleme ikiye ayrıldı (yukarıdaki kutu): ana metin özet oldu,
+kapsamlı metin `inceleme-kapsamli` adıyla yanına taşındı. Yayın paketi artık
+`inceleme-oz-tr.md` ve `inceleme-oz-tr.pdf` dosyalarını da taşır; Zenodo
+künyesindeki `isIdenticalTo` bağı kapsamlı sayfayı gösterir.
 
 23.08.2026'da `22070949`, 26.08.2026'da `22137655` açıldı. Sonuncusu §1'in
 yapısını (giriş paragrafı ve basım tablosu artık "1.1 Telif ve basım künyesi"

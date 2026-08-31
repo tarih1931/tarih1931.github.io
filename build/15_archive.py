@@ -64,6 +64,10 @@ INCELEME_PAKET = ROOT / "inceleme" / "yayin"
 INCELEME_DOSYALAR = {
     "inceleme-tr.pdf": "inceleme-tr.pdf",
     "inceleme-tr.md": "inceleme-tr.md",
+    # Özet "oz-" ile başlar: alfabetik sıralamada kapsamlı metinden sonra gelsin,
+    # öğe kapsamlı metinle açılsın.
+    "oz-inceleme-tr.pdf": "inceleme-oz-tr.pdf",
+    "oz-inceleme-tr.md": "inceleme-oz-tr.md",
     "review-en.pdf": "inceleme-en.pdf",
     "review-en.md": "inceleme-en.md",
     "supplement-ekler-tr.pdf": "inceleme-ekler-tr.pdf",
@@ -182,7 +186,8 @@ def inceleme_kunyesi() -> dict:
             "biçimde taşır.</p>"
             "<p>"
             f'DOI: <a href="https://doi.org/{inc.get("doi", "")}">https://doi.org/{inc.get("doi", "")}</a><br>'
-            f'Çevrimiçi sürüm: <a href="{BASE_URL}/inceleme.html">{BASE_URL}/inceleme.html</a> &middot; <a href="{BASE_URL}/review.html">English</a><br>'
+            f'Çevrimiçi sürüm: <a href="{BASE_URL}/inceleme-kapsamli.html">{BASE_URL}/inceleme-kapsamli.html</a> &middot; <a href="{BASE_URL}/review.html">English</a><br>'
+            f'Aynı incelemenin öz hâli: <a href="{BASE_URL}/inceleme.html">{BASE_URL}/inceleme.html</a><br>'
             f'Ekler (Ek A/B/C/D): <a href="{BASE_URL}/inceleme-ekler.html">{BASE_URL}/inceleme-ekler.html</a> &middot; <a href="{BASE_URL}/review-appendices.html">English</a></p>'
             "<p>İncelemenin dayandığı düzeltilmiş metin ve korpus: "
             f'<a href="https://doi.org/{COLL.get("doi", "")}">https://doi.org/{COLL.get("doi", "")}</a><br>'

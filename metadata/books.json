@@ -115,6 +115,8 @@
     "title": "Resmî tarih kitaplarında din, vahiy ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırması",
     "title_en": "Religion, revelation and prophethood in the official history textbooks: a text-based comparison of Tarih I and Tarih II (1931) with the Qur'an",
     "$comment_title": "İncelemenin başlığı BURADA tanımlanır; site, yayın paketi ve künye üreticileri buradan okur. Daha önce üç dosyada ayrı ayrı yazılıydı ve ikisi ayrışmıştı (site 'öğretisi', künye 'ders kitapları' diyordu).",
+    "title_oz": "Resmî tarih kitaplarında din, vahiy ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırmasının özeti",
+    "$comment_title_oz": "Özet sayfasının (inceleme.html) başlığı. Kapsamlı metin inceleme-kapsamli.html'dedir ve yukarıdaki title onundur; DOI, Scholar ve arşiv künyeleri kapsamlı metne bağlıdır.",
     "authors": [
       "Prof. Dr. Muhammed Fatih Talu"
     ],

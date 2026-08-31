@@ -400,6 +400,8 @@ def inceleme_ogesi(istek, csrf: str) -> None:
             _oge("P275", CC0, kaynak),
             *[_oge("P921", q) for q in ciltler],
             _oge("P921", ISLAM),
+            # Kapsamlı metin önce: DOI'nin karşılık geldiği tam sürüm odur.
+            _metin("P953", f"{BASE_URL}/inceleme-kapsamli.html"),
             _metin("P953", f"{BASE_URL}/inceleme.html"),
             _metin("P953", f"{BASE_URL}/review.html"),
         ],

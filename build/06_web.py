@@ -64,7 +64,14 @@ TODAY = date.today().isoformat()
 # Elle düzeltilmiş bölümler ve onlar üzerine yapılan inceleme. Korpusun geri
 # kalanı ham OCR olduğu için bu ikisi sitenin en değerli parçasıdır; ayrı
 # adresleri ve llms.txt'te ayrı bölümleri vardır.
+# İnceleme iki sayfadır: inceleme.md incelemenin ÖZÜDÜR ve okuyucunun giriş
+# sayfası inceleme.html'i besler; bütün delil aygıtını (46 alıntı, 38 ayet,
+# 19 bulgu, itiraz cevapları, tam kaynakça) taşıyan kapsamlı metin ayrı
+# dosyadadır ve inceleme-kapsamli.html'i besler. Akademik kimlik — DOI,
+# Scholar etiketleri, arşiv künyeleri — kapsamlı sayfanındır: Zenodo
+# kaydıyla birebir örtüşen metin odur.
 REVIEW_MD = ROOT / "docs" / "inceleme.md"
+REVIEW_FULL_MD = ROOT / "docs" / "inceleme-kapsamli.md"
 # Kaynak dosyanın adı depoda REVIEW-EN.md kalır; sitede sunulan ad
 # review.md'dir — sayfa review.html, PDF review.pdf, ham metin review.md.
 REVIEW_EN_MD = ROOT / "docs" / "REVIEW-EN.md"
@@ -87,6 +94,8 @@ REVIEW_EN_DESC = (
     "with a verbatim, page-cited quotation."
 )
 REVIEW_TITLE = (META.get("review") or {}).get("title") or "1931 incelemesi"
+# Özet sayfasının başlığı; kapsamlı metnin başlığından "özeti" ekiyle ayrılır.
+REVIEW_OZ_TITLE = (META.get("review") or {}).get("title_oz") or f"{REVIEW_TITLE} — özet"
 REVIEW_AUTHORS = (META.get("review") or {}).get("authors") or ["Anonim"]
 # Atıf satırı ve PDF kapağı tek bir ad dizesi ister; Scholar ise her yazar için
 # ayrı bir citation_author etiketi bekler. İkisi de aynı listeden türer.
@@ -519,6 +528,11 @@ def build_home(all_rows: dict[str, list[dict]]) -> str:
         f'<li><a href="inceleme.html">{esc(REVIEW_TITLE)}</a> — bu sayfalar üzerine, her iddiası '
         'sayfa künyeli alıntıyla belgelenmiş inceleme <span class="pill">CC0</span>'
         + (' · <a href="review.html">English version</a>' if REVIEW_EN_MD.exists() else "")
+        # Giriş sayfası (inceleme.html) özettir; delillerin tamamına ana
+        # sayfadan tek adımda ulaşılabilsin.
+        + ('. Bütün delil aygıtını — 46 alıntının, 38 ayetin ve 19 bulgunun '
+           'tamamını — veren <a href="inceleme-kapsamli.html">kapsamlı metin</a> '
+           'ayrı sayfadadır.' if REVIEW_FULL_MD.exists() else "")
         + '</li>'
     )
     body.append("</ul>")
@@ -768,6 +782,7 @@ if(p){el('q').value=p;run();}
 
 # İncelemenin yayın paketi; PDF'i site üzerinden de sunulur.
 REVIEW_PDF = ROOT / "inceleme" / "yayin" / "inceleme-tr.pdf"
+REVIEW_OZ_PDF = ROOT / "inceleme" / "yayin" / "inceleme-oz-tr.pdf"
 REVIEW_EN_PDF = ROOT / "inceleme" / "yayin" / "inceleme-en.pdf"
 
 
@@ -837,29 +852,40 @@ def katlanabilir(govde: str) -> str:
     return ic + betik
 
 
-def build_review_page() -> str:
-    """docs/inceleme.md — sitedeki okunabilir sürüm."""
-    url = f"{BASE_URL}/inceleme.html"
-    # Sayfa doğrudan incelemenin kendisiyle açılır: site menüsü, kapsam kutusu,
-    # atıf künyesi ve içindekiler bilerek yoktur — okuma sayfası metinle başlar.
-    # Makineye giden bilgi bundan etkilenmez: künye, DOI, PDF adresi ve
-    # İngilizce sürüm bağı sayfa başlığındaki (head) etiketlerde durur.
+def build_review_page(oz: bool) -> str:
+    """İnceleme sayfaları: inceleme.html (özet) ve inceleme-kapsamli.html.
+
+    inceleme.html incelemenin öz hâlidir ve okuyucunun giriş sayfasıdır;
+    kapsamlı sayfa bütün delil aygıtını taşır. Akademik kimlik — Scholar
+    etiketleri, DOI'nin JSON-LD kimliği, İngilizce hreflang eşi — kapsamlı
+    sayfadadır: Zenodo kaydıyla ve İngilizce çeviriyle birebir örtüşen metin
+    odur. Sayfa doğrudan incelemenin kendisiyle açılır: site menüsü, kapsam
+    kutusu, atıf künyesi ve içindekiler bilerek yoktur — okuma sayfası metinle
+    başlar. Makineye giden bilgi bundan etkilenmez: künye, DOI, PDF adresi ve
+    İngilizce sürüm bağı sayfa başlığındaki (head) etiketlerde durur."""
+    ad = "inceleme" if oz else "inceleme-kapsamli"
+    url = f"{BASE_URL}/{ad}.html"
+    md = REVIEW_MD if oz else REVIEW_FULL_MD
+    baslik = REVIEW_OZ_TITLE if oz else REVIEW_TITLE
+    pdf = REVIEW_OZ_PDF if oz else REVIEW_PDF
     body: list[str] = []
     toc: list[tuple[int, str, str]] = []
-    body.append(katlanabilir(md_to_html(REVIEW_MD.read_text(encoding="utf-8"), toc)))
+    body.append(katlanabilir(md_to_html(md.read_text(encoding="utf-8"), toc)))
     # Sayfanın başındaki kutu kaldırıldığı için PDF, İngilizce sürüm ve bulgular
     # gövdede hiçbir yerden bağlantı almıyordu: dosyalar sitemap ve
     # citation_pdf_url dışında görünmez kalıyor, bağlantı izleyerek gezen
     # tarayıcılar (GPTBot, CCBot…) onlara hiç uğramıyordu. Metnin bittiği yerde
     # tek satır, sayfanın başını kalabalıklaştırmadan bunu karşılar.
     alt = []
-    if REVIEW_PDF.exists():
-        alt.append('<a href="inceleme.pdf">PDF</a>')
+    if pdf.exists():
+        alt.append(f'<a href="{ad}.pdf">PDF</a>')
+    alt.append('<a href="inceleme-kapsamli.html">Kapsamlı metin</a>' if oz
+               else '<a href="inceleme.html">İncelemenin özeti</a>')
     if REVIEW_EN_MD.exists():
         alt.append('<a href="review.html">English version</a>')
     if REVIEW_EMAIL:
         alt.append(f'Yazışma: <a href="mailto:{esc(REVIEW_EMAIL)}">{esc(REVIEW_EMAIL)}</a>')
-    alt.append('<a href="inceleme.md">ham Markdown</a>')
+    alt.append(f'<a href="{ad}.md">ham Markdown</a>')
     if REVIEW_DOI:
         alt.append(f'DOI: <a href="https://doi.org/{esc(REVIEW_DOI)}">{esc(REVIEW_DOI)}</a>')
     alt.append(hf_ogesi())
@@ -873,8 +899,8 @@ def build_review_page() -> str:
         "@type": "ScholarlyArticle",
         "@id": url,
         "url": url,
-        "name": REVIEW_TITLE,
-        "headline": REVIEW_TITLE,
+        "name": baslik,
+        "headline": baslik,
         "description": REVIEW_DESC,
         "inLanguage": "tr",
         "license": RIGHTS["derived_dataset_license_uri"],
@@ -885,18 +911,26 @@ def build_review_page() -> str:
         ],
         "encodingFormat": "text/html",
     }
-    if REVIEW_DOI:
+    if oz:
+        # Özet ayrı bir çalışma değildir: kimliği kapsamlı metne bağlanır ve
+        # DOI özet sayfasının JSON-LD'sine yazılmaz — aynı DOI iki farklı
+        # başlıkla dolaşmasın.
+        jsonld["isBasedOn"] = {"@type": "ScholarlyArticle",
+                               "url": f"{BASE_URL}/inceleme-kapsamli.html",
+                               "name": REVIEW_TITLE}
+    elif REVIEW_DOI:
         jsonld["identifier"] = f"https://doi.org/{REVIEW_DOI}"
         jsonld["sameAs"] = f"https://doi.org/{REVIEW_DOI}"
     return shell(
-        REVIEW_TITLE,
+        baslik,
         "".join(body),
         REVIEW_DESC,
         jsonld,
         url,
-        alternate=("en", f"{BASE_URL}/review.html") if REVIEW_EN_MD.exists() else None,
-        head_extra=scholar_meta(
-            REVIEW_TITLE, "tr", "inceleme.pdf" if REVIEW_PDF.exists() else "", url),
+        alternate=None if oz else (
+            ("en", f"{BASE_URL}/review.html") if REVIEW_EN_MD.exists() else None),
+        head_extra="" if oz else scholar_meta(
+            REVIEW_TITLE, "tr", f"{ad}.pdf" if pdf.exists() else "", url),
     )
 
 
@@ -908,7 +942,8 @@ def build_review_annex_page() -> str:
     url = f"{BASE_URL}/inceleme-ekler.html"
     toc: list[tuple[int, str, str]] = []
     body = [katlanabilir(md_to_html(REVIEW_ANNEX_MD.read_text(encoding="utf-8"), toc))]
-    alt = ['<a href="inceleme.html">İncelemenin ana metni</a>']
+    # Ekler kapsamlı metnin aygıtıdır; "ana metin" bağı da oraya gider.
+    alt = ['<a href="inceleme-kapsamli.html">İncelemenin ana metni</a>']
     if REVIEW_ANNEX_EN_MD.exists():
         alt.append('<a href="review-appendices.html">English version</a>')
     alt.append('<a href="inceleme-ekler.md">ham Markdown</a>')
@@ -931,7 +966,7 @@ def build_review_annex_page() -> str:
         "inLanguage": "tr",
         "license": RIGHTS["derived_dataset_license_uri"],
         "isAccessibleForFree": True,
-        "isPartOf": {"@type": "ScholarlyArticle", "url": f"{BASE_URL}/inceleme.html",
+        "isPartOf": {"@type": "ScholarlyArticle", "url": f"{BASE_URL}/inceleme-kapsamli.html",
                      "name": REVIEW_TITLE},
         "encodingFormat": "text/html",
     }
@@ -1004,7 +1039,8 @@ def build_review_en_page() -> str:
     alt = []
     if REVIEW_EN_PDF.exists():
         alt.append('<a href="review.pdf">PDF</a>')
-    alt.append('<a href="inceleme.html">Türkçe aslı</a>')
+    # Çeviri kapsamlı metnin çevirisidir; "Türkçe aslı" da odur.
+    alt.append('<a href="inceleme-kapsamli.html">Türkçe aslı</a>')
     if REVIEW_EMAIL:
         alt.append(f'Correspondence: <a href="mailto:{esc(REVIEW_EMAIL)}">{esc(REVIEW_EMAIL)}</a>')
     alt.append('<a href="review.md">raw Markdown</a>')
@@ -1027,7 +1063,7 @@ def build_review_en_page() -> str:
         "inLanguage": "en",
         "license": RIGHTS["derived_dataset_license_uri"],
         "isAccessibleForFree": True,
-        "workTranslation": {"@type": "ScholarlyArticle", "url": f"{BASE_URL}/inceleme.html", "inLanguage": "tr"},
+        "workTranslation": {"@type": "ScholarlyArticle", "url": f"{BASE_URL}/inceleme-kapsamli.html", "inLanguage": "tr"},
     }
     if REVIEW_DOI:
         jsonld["identifier"] = f"https://doi.org/{REVIEW_DOI}"
@@ -1040,7 +1076,7 @@ def build_review_en_page() -> str:
         head_extra=scholar_meta(
             REVIEW_EN_TITLE, "en", "review.pdf" if REVIEW_EN_PDF.exists() else "", url),
         lang="en",
-        alternate=("tr", f"{BASE_URL}/inceleme.html"),
+        alternate=("tr", f"{BASE_URL}/inceleme-kapsamli.html"),
     )
 
 
@@ -1102,7 +1138,10 @@ def build_corrected_index(all_rows: dict[str, list[dict]]) -> str:
     body.append(
         f'<p><a href="inceleme.html">{esc(REVIEW_TITLE)}</a> — yukarıdaki iki bölümün tamamı '
         "üzerine (Tarih I s. 1-24, Tarih II s. 79-184), her iddiası sayfa künyeli alıntıyla "
-        "belgelenmiş karşılaştırmalı inceleme.</p>"
+        "belgelenmiş karşılaştırmalı inceleme."
+        + (' Delillerin tamamı <a href="inceleme-kapsamli.html">kapsamlı metindedir</a>.'
+           if REVIEW_FULL_MD.exists() else "")
+        + "</p>"
     )
     body.append(
         "<footer>Ölçüt: basılı sayfada ne yazıyorsa odur. 1931 imlası korunmuş, "
@@ -1202,7 +1241,15 @@ def build_llms_txt(all_rows: dict[str, list[dict]]) -> str:
         L.append("")
         L.append("## İnceleme")
         L.append("")
-        L.append(f"- [{REVIEW_TITLE}]({BASE_URL}/inceleme.html): {REVIEW_DESC}")
+        L.append(f"- [{REVIEW_OZ_TITLE}]({BASE_URL}/inceleme.html): {REVIEW_DESC} "
+                 "Bu sayfa incelemenin özüdür; delillerin tamamı aşağıdaki kapsamlı metindedir.")
+        if REVIEW_FULL_MD.exists():
+            L.append(
+                f"- [{REVIEW_TITLE} — kapsamlı metin]({BASE_URL}/inceleme-kapsamli.html): "
+                "aynı incelemenin bütün delil aygıtını taşıyan hâli — 46 alıntının, 38 ayetin "
+                "ve 19 bulgunun tamamı, yöntem kurallarının gerekçeleri, itirazlara cevaplar "
+                f"ve tam kaynakça. Atıf ve DOI bu metne aittir. Ham Markdown: {BASE_URL}/inceleme-kapsamli.md"
+            )
         if REVIEW_DOI:
             L.append(
                 f"- İnceleme ayrı bir çalışma olarak yayımlanmıştır ve kendi DOI'si vardır: "
@@ -1220,11 +1267,13 @@ def build_llms_txt(all_rows: dict[str, list[dict]]) -> str:
                      "the same four appendices in English; quotations, dictionary entries "
                      "and the 1931 preface stay in Turkish, each with an English "
                      f"translation beneath. Raw: {BASE_URL}/review-appendices.md")
-        L.append(f"- [Aynı incelemenin ham Markdown'ı]({BASE_URL}/inceleme.md)")
+        L.append(f"- [Özetin ham Markdown'ı]({BASE_URL}/inceleme.md)")
         # PDF'ler sayfadan bağlantı almıyor; burada sayılmazsa yalnız sitemap ve
         # citation_pdf_url üzerinden bulunabiliyorlar.
+        if REVIEW_OZ_PDF.exists():
+            L.append(f"- [Özetin PDF'i]({BASE_URL}/inceleme.pdf)")
         if REVIEW_PDF.exists():
-            L.append(f"- [Aynı incelemenin PDF'i]({BASE_URL}/inceleme.pdf): "
+            L.append(f"- [Kapsamlı metnin PDF'i]({BASE_URL}/inceleme-kapsamli.pdf): "
                      "akademik dizinlerin ayrıştırdığı biçim")
         if REVIEW_EN_PDF.exists():
             L.append(f"- [English PDF]({BASE_URL}/review.pdf)")
@@ -1335,18 +1384,20 @@ def build_llms_full(all_rows: dict[str, list[dict]]) -> str:
             L.append("")
 
     # İnceleme de buraya girer: bu dosyayı tek başına çeken bir modelin, metnin
-    # yanında metne dayalı incelemeyi de görmesi istenir.
-    if REVIEW_MD.exists():
+    # yanında metne dayalı incelemeyi de görmesi istenir. Özet değil kapsamlı
+    # metin girer: tek dosyayı çeken model, delillerin tamamını görmelidir.
+    if REVIEW_FULL_MD.exists():
         L.append("---")
         L.append("")
         L.append(f"# EK — {REVIEW_TITLE}")
         L.append("")
         L.append(
             "Aşağıdaki inceleme yukarıdaki metnin bir parçası değildir; 1931 metni üzerine "
-            f"yapılmış, {RIGHTS['derived_dataset_license']} ile yayımlanmış ayrı bir çalışmadır."
+            f"yapılmış, {RIGHTS['derived_dataset_license']} ile yayımlanmış ayrı bir çalışmadır. "
+            f"Buradaki kapsamlı metnin öz hâli {BASE_URL}/inceleme.html adresindedir."
         )
         L.append("")
-        L.append(REVIEW_MD.read_text(encoding="utf-8").strip())
+        L.append(REVIEW_FULL_MD.read_text(encoding="utf-8").strip())
         L.append("")
     return "\n".join(L) + "\n"
 
@@ -1471,15 +1522,24 @@ def main() -> None:
     ]
 
     if REVIEW_MD.exists():
-        write_text(WEB_DIR / "inceleme.html", build_review_page())
+        write_text(WEB_DIR / "inceleme.html", build_review_page(oz=True))
         shutil.copy2(REVIEW_MD, WEB_DIR / "inceleme.md")
+        if REVIEW_OZ_PDF.exists():
+            shutil.copy2(REVIEW_OZ_PDF, WEB_DIR / "inceleme.pdf")
+        urls.append((f"{BASE_URL}/inceleme.html", "1.0"))
+        if REVIEW_OZ_PDF.exists():
+            urls.append((f"{BASE_URL}/inceleme.pdf", "0.9"))
+
+    if REVIEW_FULL_MD.exists():
+        write_text(WEB_DIR / "inceleme-kapsamli.html", build_review_page(oz=False))
+        shutil.copy2(REVIEW_FULL_MD, WEB_DIR / "inceleme-kapsamli.md")
         # PDF site üzerinden de sunulur: Google Scholar aynı sunucudan
         # erişilebilen bir PDF görmezse sayfayı makale saymaz.
         if REVIEW_PDF.exists():
-            shutil.copy2(REVIEW_PDF, WEB_DIR / "inceleme.pdf")
-        urls.append((f"{BASE_URL}/inceleme.html", "1.0"))
+            shutil.copy2(REVIEW_PDF, WEB_DIR / "inceleme-kapsamli.pdf")
+        urls.append((f"{BASE_URL}/inceleme-kapsamli.html", "1.0"))
         if REVIEW_PDF.exists():
-            urls.append((f"{BASE_URL}/inceleme.pdf", "0.9"))
+            urls.append((f"{BASE_URL}/inceleme-kapsamli.pdf", "0.9"))
 
     if REVIEW_ANNEX_MD.exists():
         write_text(WEB_DIR / "inceleme-ekler.html", build_review_annex_page())

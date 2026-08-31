@@ -27,7 +27,10 @@ Elle düzeltilen iki bölüm üzerine metne bağlı bir inceleme:
 [docs/inceleme.md](docs/inceleme.md) — resmî tarih kitaplarındaki din, vahiy ve
 nübüvvet anlatısının Kur'an ile karşılaştırması; her iddia sayfa künyeli
 alıntıyla belgelenmiş ve alıntılar kaynak sayfaya karşı makine ile
-denetlenmiştir. Ayet dosyaları, terim dosyaları, ön söz metinleri ve hükümlerin
+denetlenmiştir. Bu dosya incelemenin özüdür; 46 alıntının, 38 ayetin ve 19
+bulgunun tamamını veren kapsamlı metin
+[docs/inceleme-kapsamli.md](docs/inceleme-kapsamli.md) dosyasındadır ve atıf o
+metnedir. Ayet dosyaları, terim dosyaları, ön söz metinleri ve hükümlerin
 dayanak tipi ayrı bir belgededir: [docs/inceleme-ekler.md](docs/inceleme-ekler.md).
 İnceleme ve ekleri İngilizce de vardır:
 [docs/REVIEW-EN.md](docs/REVIEW-EN.md) ·

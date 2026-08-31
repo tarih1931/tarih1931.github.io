@@ -273,7 +273,7 @@ def inceleme_bulgulari(tip: str = "", eksen: str = "", sayfa: int = 0, limit: in
     total = len(rows)
     return json.dumps(
         {
-            "kaynak": "docs/inceleme.md — CC0 1.0",
+            "kaynak": "docs/inceleme-kapsamli.md — CC0 1.0",
             "uyari": "İnceleme yorumlu bir çalışmadır; güç dereceleri ve 'limit' "
             "kayıtları onun kendi sınırlarıdır.",
             "eslesme": total,

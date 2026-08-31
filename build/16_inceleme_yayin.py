@@ -12,13 +12,19 @@ başlığı, kendi özeti (TR + EN), kendi yazarı ve kendi DOI'siyle.
 
 Pakette ne var:
 
-  inceleme-tr.md    asıl belge (kanonik biçim)
+  inceleme-tr.md    asıl belge (kanonik biçim) — kapsamlı metin
   inceleme-en.md    İngilizce sürüm
+  inceleme-oz-tr.md incelemenin öz hâli; sitenin giriş sayfasını besler
   inceleme-ekler-tr.md / -en.md   ekler (Ek A/B/C/D), iki dilde
   bulgular.jsonl    alıntılar (doğrulama damgalı) ve bulgular (dayanakları kayıtlı)
   inceleme-tr.pdf   Google Scholar PDF ayrıştırır; .md'yi ayrıştırmaz
+  inceleme-oz-tr.pdf
   inceleme-en.pdf
   zenodo.json       kaydın künyesi — Zenodo formuna girilecek değerler
+
+Kaydın kimliği kapsamlı metnindir: DOI, Scholar etiketleri ve İngilizce çeviri
+ona karşılık gelir. Özet aynı kaydın içinde ayrı bir dosya olarak durur — ayrı
+bir çalışma değil, aynı çalışmanın kısa hâlidir.
 
 PDF, .md'nin yerine geçmez; aynı belgenin ikinci biçimidir ve yalnız
 PDF ayrıştıran dizinler için vardır.
@@ -53,8 +59,12 @@ KORPUS_DOI = COLL.get("doi")
 REVIEW = META.get("review") or {}
 BASLIK_TR = REVIEW.get("title") or "1931 incelemesi"
 BASLIK_EN = REVIEW.get("title_en") or "1931 review"
+BASLIK_OZ = REVIEW.get("title_oz") or f"{BASLIK_TR} — özet"
 
-TR_MD = ROOT / "docs" / "inceleme.md"
+# Kanonik belge kapsamlı metindir; docs/inceleme.md onun özetidir ve sitenin
+# giriş sayfasını besler.
+TR_MD = ROOT / "docs" / "inceleme-kapsamli.md"
+OZ_MD = ROOT / "docs" / "inceleme.md"
 EN_MD = ROOT / "docs" / "REVIEW-EN.md"
 # Ekler ayrı bir belgedir; kayda ayrı dosya olarak girer (aynı DOI, aynı sürüm).
 EK_MD = ROOT / "docs" / "inceleme-ekler.md"
@@ -120,7 +130,7 @@ hr {margin: 8pt 0;}
 """
 
 
-def kapak(baslik: str, ozet: str, en: bool) -> str:
+def kapak(baslik: str, ozet: str, en: bool, sayfa: str = "") -> str:
     e = lambda tr, ing: ing if en else tr  # noqa: E731
     return (
         f"<h1>{baslik}</h1>"
@@ -130,7 +140,7 @@ def kapak(baslik: str, ozet: str, en: bool) -> str:
         f'{e("Kaynak metin ve veri kümesi", "Source text and dataset")}: '
         f"https://doi.org/{KORPUS_DOI}<br>"
         f'{e("Çevrimiçi sürüm", "Online version")}: {BASE_URL}/'
-        f'{e("inceleme.html", "review.html")}<br>'
+        f'{sayfa or e("inceleme-kapsamli.html", "review.html")}<br>'
         f'{e("Makine-okunabilir iddialar", "Machine-readable claims")}: {BASE_URL}/inceleme.jsonl<br>'
         f'{e("Lisans", "License")}: {RIGHTS["derived_dataset_license"]}'
         f"</p><hr>"
@@ -168,12 +178,13 @@ def pdf_govdesi(md: str, etiket: str) -> str:
     return yeni.lstrip("\n")
 
 
-def pdf_yaz(md_yolu: Path, hedef: Path, baslik: str, ozet: str, en: bool) -> None:
+def pdf_yaz(md_yolu: Path, hedef: Path, baslik: str, ozet: str, en: bool,
+            sayfa: str = "") -> None:
     import pymupdf
 
     ham = pdf_govdesi(md_yolu.read_text(encoding="utf-8"),
                       "Abstract" if en else "Özet")
-    govde = kapak(baslik, ozet, en) + md_to_html(ham)
+    govde = kapak(baslik, ozet, en, sayfa) + md_to_html(ham)
     story = pymupdf.Story(
         html=f"<body>{govde}</body>",
         archive=pymupdf.Archive(r"C:\Windows\Fonts"),
@@ -275,8 +286,11 @@ def zenodo_kunyesi() -> dict:
             # görünür. Bu yüzden künyede de ozet_html kullanılır.
             f"<p><strong>Özet:</strong> {ozet_html(HAM_TR)}</p>"
             f"<p><strong>Abstract (English):</strong> {ozet_html(HAM_EN)}</p>"
-            f'<p>Çevrimiçi sürüm: <a href="{BASE_URL}/inceleme.html">{BASE_URL}/inceleme.html</a> '
+            f'<p>Çevrimiçi sürüm: <a href="{BASE_URL}/inceleme-kapsamli.html">'
+            f'{BASE_URL}/inceleme-kapsamli.html</a> '
             f'(İngilizcesi: <a href="{BASE_URL}/review.html">/review.html</a>)</p>'
+            f'<p>Aynı incelemenin öz hâli: <a href="{BASE_URL}/inceleme.html">'
+            f'{BASE_URL}/inceleme.html</a></p>'
             f'<p>Ekler (Ek A/B/C/D): <a href="{BASE_URL}/inceleme-ekler.html">/inceleme-ekler.html</a> '
             f'(English: <a href="{BASE_URL}/review-appendices.html">/review-appendices.html</a>)</p>'
         ),
@@ -296,7 +310,8 @@ def zenodo_kunyesi() -> dict:
         ],
         "related_identifiers": [
             {"identifier": KORPUS_DOI, "relation": "isSupplementTo", "scheme": "doi"},
-            {"identifier": f"{BASE_URL}/inceleme.html", "relation": "isIdenticalTo", "scheme": "url"},
+            {"identifier": f"{BASE_URL}/inceleme-kapsamli.html", "relation": "isIdenticalTo",
+             "scheme": "url"},
             *([{"identifier": REVIEW["internet_archive"], "relation": "isIdenticalTo",
                 "scheme": "url"}] if REVIEW.get("internet_archive") else []),
         ],
@@ -316,6 +331,8 @@ def main() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
 
     md_kopyala(tr_md, OUT / "inceleme-tr.md")
+    if OZ_MD.exists():
+        md_kopyala(OZ_MD, OUT / "inceleme-oz-tr.md")
     if EK_MD.exists():
         md_kopyala(EK_MD, OUT / "inceleme-ekler-tr.md")
     if en_md.exists():
@@ -326,6 +343,9 @@ def main() -> None:
         shutil.copy2(bulgular, OUT / "bulgular.jsonl")
 
     pdf_yaz(tr_md, OUT / "inceleme-tr.pdf", BASLIK_TR, ozet_html(HAM_TR), en=False)
+    if OZ_MD.exists():
+        pdf_yaz(OZ_MD, OUT / "inceleme-oz-tr.pdf", BASLIK_OZ,
+                ozet_html(ozet_ham(OZ_MD, "Özet")), en=False, sayfa="inceleme.html")
     if EK_MD.exists():
         pdf_yaz(EK_MD, OUT / "inceleme-ekler-tr.pdf", f"{BASLIK_TR} — Ekler",
                 ozet_html(ozet_ham(EK_MD, "Özet")), en=False)
