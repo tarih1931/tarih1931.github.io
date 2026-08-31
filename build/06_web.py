@@ -94,8 +94,9 @@ REVIEW_EN_DESC = (
     "with a verbatim, page-cited quotation."
 )
 REVIEW_TITLE = (META.get("review") or {}).get("title") or "1931 incelemesi"
-# Özet sayfasının başlığı; kapsamlı metnin başlığından "özeti" ekiyle ayrılır.
-REVIEW_OZ_TITLE = (META.get("review") or {}).get("title_oz") or f"{REVIEW_TITLE} — özet"
+# Özet sayfasının başlığı. İki sayfa aynı çalışmadır ve künyede tek başlık durur;
+# title_oz yalnız özete ayrı bir başlık verilmek istenirse yazılır.
+REVIEW_OZ_TITLE = (META.get("review") or {}).get("title_oz") or REVIEW_TITLE
 REVIEW_AUTHORS = (META.get("review") or {}).get("authors") or ["Anonim"]
 # Atıf satırı ve PDF kapağı tek bir ad dizesi ister; Scholar ise her yazar için
 # ayrı bir citation_author etiketi bekler. İkisi de aynı listeden türer.

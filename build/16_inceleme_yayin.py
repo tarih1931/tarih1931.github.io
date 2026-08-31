@@ -59,7 +59,7 @@ KORPUS_DOI = COLL.get("doi")
 REVIEW = META.get("review") or {}
 BASLIK_TR = REVIEW.get("title") or "1931 incelemesi"
 BASLIK_EN = REVIEW.get("title_en") or "1931 review"
-BASLIK_OZ = REVIEW.get("title_oz") or f"{BASLIK_TR} — özet"
+BASLIK_OZ = REVIEW.get("title_oz") or BASLIK_TR
 
 # Kanonik belge kapsamlı metindir; docs/inceleme.md onun özetidir ve sitenin
 # giriş sayfasını besler.
