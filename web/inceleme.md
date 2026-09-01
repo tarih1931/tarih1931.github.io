@@ -4,21 +4,7 @@
 
 **Özet:** [*Tarih I*](https://kutuphane.ttk.gov.tr/resource?itemId=267298&dkymId=6415) ve
 [*Tarih II*](https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416) (1931),
-Maarif Vekâleti emriyle basılan ve liselerde on bir yıl okutulan resmî ders
-kitaplarıdır; geçmişi anlatmakla kalmaz, dinin ve vahyin kaynağı hakkında da hüküm
-verirler. İnceleme, kitapların din bahsini taşıyan iki bölümünü — *Tarih I*'in "Beşer
-Tarihine Giriş" ve *Tarih II*'nin "İslâm Tarihi" bölümlerini — bütünüyle okumuş; din,
-vahiy, nübüvvet, yaratılış, cin ve melek, Kâbe ve ahkâm hakkında hüküm bildiren **46**
-sayfa künyeli alıntıyı **38** ayetle karşılaştırarak **19** bulguya varmıştır.
-Bulguların çekirdeği, kitabın kendi kayıt düzenidir: **vahyin ilâhî kaynağı hiçbir
-yerde kitabın kendi sesiyle tasdik edilmez, hep "İslâm an'anesinde (…) kabul olunur"
-gibi bir nakil kaydına havale edilir; beşerî izah ise kitabın kendi sesiyle ve çoğu
-yerde kayıtsız verilir.** Buna göre kitaplarda Allah'tan gelen dinin yerine insan
-kökenli din anlayışı, vahyin yerine beşerî tefekkür, peygamberlik yerine din
-kuruculuğu ve yaratılışın yerine tabiat merkezli açıklama konmaktadır. İncelemenin
-temel iddiası, bu resmî anlatı ile Kur'an arasındaki ayrılığın ayrıntıda değil
-**itikadî temelde** bulunduğudur. Bütün alıntılar künyelerindeki sayfada makine ile
-doğrulanmıştır.
+Maarif Vekâleti emriyle basılan ve liselerde on bir yıl okutulan resmî ders kitaplarıdır; geçmişi anlatmakla kalmaz, dinin ve vahyin kaynağı hakkında da hüküm verirler. İnceleme, kitapların din bahsini taşıyan iki bölümünü — *Tarih I*'in "Beşer Tarihine Giriş" ve *Tarih II*'nin "İslâm Tarihi" bölümlerini — bütünüyle okumuş; din, vahiy, nübüvvet, yaratılış, cin ve melek, Kâbe ve ahkâm hakkında hüküm bildiren öğretileri Kur'an öğretileriyle karşılaştırmıştır. Kitaplarda **vahyin ilâhî kaynağı** hiçbir yerde kitabın kendi sesiyle tasdik edilmez, hep "İslâm an'anesinde (…) kabul olunur" gibi bir nakil kaydına havale edilir. Beşerî izah ise kitabın kendi sesiyle ve çoğu yerde kayıtsız verilir. Buna göre kitaplarda **Allah'tan gelen dinin yerine insan kökenli din anlayışı, vahyin yerine beşerî tefekkür, peygamberlik yerine din kuruculuğu ve yaratılışın yerine tabiat merkezli açıklama** konmaktadır. İncelemenin temel iddiası, bu resmî anlatı ile Kur'an arasındaki ayrılığın ayrıntıda değil **itikadî temelde** bulunduğudur. Bütün alıntılar künyelerindeki sayfada makine ile doğrulanmıştır.
 
 ---
 
@@ -308,18 +294,7 @@ ilâhî kaynağı reddedilmektedir.
 
 ## 5. Sonuç
 
-Bu inceleme, *Tarih I* ve *Tarih II* ciltlerinin din ve İslam hakkındaki ifadelerini
-Kur'an'ın ortaya koyduğu inanç esaslarıyla karşılaştırmıştır. Beş eksende 46 alıntı,
-dayandığı 38 ayet karşısında değerlendirilerek 19 bulguya varılmıştır. **Bulgular
-dağınık ifadelere değil tek bir çerçeveye işaret eder:
-kitaplar dini insanların kurduğu bir müessese, ulûhiyeti insan zekâsının bulduğu bir
-mefhum, vahyi Peygamber'in tefekkürünün mahsulü, gaybı da beşerî bir yakıştırma
-sayar.** Bu çerçeve ile Kur'an'ın bildirdiği esaslar arasındaki ayrılık ayrıntıda
-değil esastadır; Peygamber'in ahlâkına yöneltilen övgü de onu gidermez, zira övgü
-bütünüyle beşerî kategorilerde kalır. Söz konusu çerçeve, bir müellifin şahsî görüşü
-olarak değil, **devletin resmî öğretisi** olarak — bakanlık emriyle basılan, devletçe
-okutulması kabul edilen ve on bir yıl liselerde kalan bir serinin 1931 basımında —
-okutulmuştur.
+Bu inceleme, *Tarih I* ve *Tarih II* ciltlerinin din ve İslam hakkındaki ifadelerini Kur'an'ın ortaya koyduğu inanç esaslarıyla karşılaştırmıştır. Kitaptaki öğreti beş eksende incelenmiş ve Kur'an öğretileri ile yan yana konularak değerlendirilmiş ve belirli bulgulara varılmıştır. Bulgular, dağınık ifadelere değil tek bir çerçeveye işaret eder: **kitaplar dini insanların kurduğu bir müessese, ulûhiyeti insan zekâsının bulduğu bir mefhum, vahyi Peygamber'in tefekkürünün mahsulü, gaybı da beşerî bir yakıştırma** sayar. Bu çerçeve ile Kur'an'ın bildirdiği esaslar arasındaki ayrılık ayrıntıda değil esastadır. Peygamber'in ahlâkına yöneltilen övgü de bu ayrılığı gidermez. Zira övgü bütünüyle beşerî kategorilerde kalır. Söz konusu çerçeve, bir müellifin şahsî görüşü olarak değil, **devletin resmî öğretisi** olarak bakanlık emriyle kitaplara aktarılmış ve devletçe okutulması kabul edilerek on bir yıl boyunca liselerde okutulmuştur.
 
 ---
 
