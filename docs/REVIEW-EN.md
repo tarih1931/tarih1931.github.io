@@ -66,8 +66,8 @@ the frame the books set for themselves at the outset.
 The pages headed "Those who worked on the preparation of the book" (Kitabın
 hazırlanmasında çalışanlar) (*Tarih I*, pp. VII–VIII; *Tarih II*, pp. VII–VIII) list
 the same thirteen people in both volumes; only the titles differ slightly (Appendix
-C). The head of the drafting committee, in his capacity as president of the society,
-is M. Tevfik Bey, **Secretary-General of the Presidency**; nine members are
+C). The committee is headed, in the capacity of president of the society, by the
+**Secretary-General of the Presidency**; nine members are
 **deputies** (Samih Rifat, Akçuraoğlu Yusuf, Reşit Galip, Hasan Cemil, İsmail Hakkı,
 Reşit Saffet, Sadri Maksudi, Şemseddin and Yusuf Ziya Beyler), four of whom are also
 named as professors of law or of history (Akçuraoğlu Yusuf: Professor of Political

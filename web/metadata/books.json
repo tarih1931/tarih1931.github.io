@@ -114,6 +114,8 @@
   "review": {
     "title": "Resmî tarih kitaplarında din, vahiy ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırması",
     "title_en": "Religion, revelation and prophethood in the official history textbooks: a text-based comparison of Tarih I and Tarih II (1931) with the Qur'an",
+    "title_oz": "Resmî tarih kitaplarında din, vahiy ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırması (özet)",
+    "$comment_title_oz": "Özet sayfasının başlığı. İki belge aynı çalışmadır; künyede, DOI kaydında ve Scholar etiketlerinde eksiz 'title' durur. Bu anahtar yalnız özetin sayfa başlığını (head) ve PDF kapağını, belgenin kendi H1'iyle aynı hâle getirir: '(özet)'. Kapsamlı metnin H1'i '(kapsamlı)' taşır ama künye başlığı eksizdir, çünkü DOI'ye bağlı kanonik başlık odur.",
     "$comment_title": "İncelemenin başlığı BURADA tanımlanır; site, yayın paketi ve künye üreticileri buradan okur. Daha önce üç dosyada ayrı ayrı yazılıydı ve ikisi ayrışmıştı (site 'öğretisi', künye 'ders kitapları' diyordu).",
     "authors": [
       "Prof. Dr. Muhammed Fatih Talu"

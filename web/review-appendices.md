@@ -380,7 +380,7 @@ The titles are given in the wording of the 1931 printing, with an English render
 
 | Name | Title in *Tarih I* | Difference in *Tarih II* |
 |---|---|---|
-| M. Tevfik Bey | Riyaseticümhur Umumî Kâtibi ve Türk Tarihi Tetkik Cemiyeti Reisi [Secretary General of the Presidency of the Republic and President of the Turkish Historical Research Society] | — |
+| Heyet reisi [head of the committee] | Riyaseticümhur Umumî Kâtibi ve Türk Tarihi Tetkik Cemiyeti Reisi [Secretary General of the Presidency of the Republic and President of the Turkish Historical Research Society] | — |
 | Samih Rifat Bey | Çanakkale Meb'usu ve T. T. T. C. Reis Vekili [Deputy for Çanakkale and Vice-President of the Society] | — |
 | Akçuraoğlu Yusuf Bey | İstanbul Meb'usu, Ankara Hukuk Mektebi Siyasî Tarih Profesörü ve T. T. T. C. Reis Vekili [Deputy for Istanbul, Professor of Political History at the Ankara School of Law and Vice-President of the Society] | — |
 | Reşit Galip Bey | Aydın Meb'usu ve T. T. T. C. Umumî Kâtibi [Deputy for Aydın and Secretary General of the Society] | "Dr. Reşit Galip Bey" |

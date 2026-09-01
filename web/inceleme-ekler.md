@@ -364,7 +364,7 @@ Bu ek, incelemenin birinci bölümünün dayandığı ön söz ve heyet sayfalar
 
 | Ad | *Tarih I*'deki unvan | *Tarih II*'de fark |
 |---|---|---|
-| M. Tevfik Bey | Riyaseticümhur Umumî Kâtibi ve Türk Tarihi Tetkik Cemiyeti Reisi | — |
+| Heyet reisi | Riyaseticümhur Umumî Kâtibi ve Türk Tarihi Tetkik Cemiyeti Reisi | — |
 | Samih Rifat Bey | Çanakkale Meb'usu ve T. T. T. C. Reis Vekili | — |
 | Akçuraoğlu Yusuf Bey | İstanbul Meb'usu, Ankara Hukuk Mektebi Siyasî Tarih Profesörü ve T. T. T. C. Reis Vekili | — |
 | Reşit Galip Bey | Aydın Meb'usu ve T. T. T. C. Umumî Kâtibi | "Dr. Reşit Galip Bey" |

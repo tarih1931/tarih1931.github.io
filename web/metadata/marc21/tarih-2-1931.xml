@@ -2,7 +2,7 @@
 <collection xmlns="http://www.loc.gov/MARC21/slim">
   <record>
     <leader>00000nam a2200000 i 4500</leader>
-    <controlfield tag="008">260822s1931    tu a     b    000 0 tur d</controlfield>
+    <controlfield tag="008">260901s1931    tu a     b    000 0 tur d</controlfield>
     <datafield tag="040" ind1=" " ind2=" ">
       <subfield code="a">TR-AnTTK</subfield>
       <subfield code="b">tur</subfield>

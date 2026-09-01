@@ -23820,13 +23820,13 @@ fyZys'S&ís'j.
 
 Aşağıdaki inceleme yukarıdaki metnin bir parçası değildir; 1931 metni üzerine yapılmış, CC0-1.0 ile yayımlanmış ayrı bir çalışmadır. Buradaki kapsamlı metnin öz hâli https://tarih1931.github.io/inceleme.html adresindedir.
 
-# Resmî tarih kitaplarında din, vahiy ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırması
+# Resmî tarih kitaplarında din, vahiy ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırması (kapsamlı)
 
 **Prof. Dr. Muhammed Fatih Talu**
 
 **Özet:** [*Tarih I*](https://kutuphane.ttk.gov.tr/resource?itemId=267298&dkymId=6415) ve [*Tarih II*](https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416) (1931), Maarif Vekâleti emriyle basılan ve liselerde on bir yıl okutulan resmî ders kitaplarıdır; geçmişi anlatmakla kalmaz, dinin ve vahyin kaynağı hakkında da hüküm verirler. Bu inceleme, kitapların din bahsini taşıyan iki bölümünü — *Tarih I*'in “Beşer Tarihine Giriş” ve *Tarih II*'nin “İslâm Tarihi” bölümlerini — bütünüyle okuyup din, vahiy, nübüvvet, yaratılış, cin ve melek, Kâbe ve ahkâm hakkında hüküm bildiren cümleleri çıkarmış; **46** sayfa künyeli alıntıyı **38** ayetle karşılaştırarak **19** bulguya varmıştır. Bulguların çekirdeği, kitabın kendi kayıt düzenidir: **vahyin ilâhî kaynağı hiçbir yerde kitabın kendi sesiyle tasdik edilmez, hep “İslâm an'anesinde (…) kabul olunur” gibi bir nakil kaydına havale edilir; beşerî izah ise kitabın kendi sesiyle ve çoğu yerde kayıtsız verilir.** Buna göre kitaplarda Allah'tan gelen dinin yerine insan kökenli din anlayışı, vahyin yerine beşerî tefekkür, peygamberlik yerine din kuruculuğu ve yaratılışın yerine tabiat merkezli açıklama konmaktadır. İncelemenin temel iddiası, bu resmî anlatı ile Kur'an arasındaki ayrılığın ayrıntıda değil **itikadî temelde** bulunduğudur. Her alıntı künyesindeki sayfada makine ile doğrulanmış, ayetler tek bir mealden alınmış, tefsirde ihtilaflı ayetler bulgu dayanağı yapılmamıştır.
 
-*Bu, incelemenin kapsamlı metnidir; öz hâli [incelemenin ana sayfasındadır](https://tarih1931.github.io/inceleme.html).*
+*Bu, incelemenin kapsamlı metnidir; özet hâli için [tıklayınız](https://tarih1931.github.io/inceleme.html).*
 
 ---
 
@@ -23852,7 +23852,7 @@ Her iki cildin başında, imlâ farkları dışında aynı olan bir *Mukaddime* 
 
 ### 1.3 Heyetin terkibi
 
-"Kitabın hazırlanmasında çalışanlar" sayfaları (*Tarih I*, s. VII–VIII; *Tarih II*, s. VII–VIII) her iki ciltte aynı on üç kişiyi sayar; yalnız unvanlarda küçük farklar vardır (Ek C). Heyetin reisi, cemiyetin reisi sıfatıyla **Riyaseticümhur Umumî Kâtibi** M. Tevfik Bey'dir; dokuz üye **mebus**tur (Samih Rifat, Akçuraoğlu Yusuf, Reşit Galip, Hasan Cemil, İsmail Hakkı, Reşit Saffet, Sadri Maksudi, Şemseddin, Yusuf Ziya Beyler) ve bunlardan dördü aynı zamanda hukuk veya tarih profesörü olarak anılır (Akçuraoğlu Yusuf: Ankara Hukuk Mektebi Siyasî Tarih Profesörü; Sadri Maksudi: Ankara Hukuk Mektebi profesörlerinden; Şemseddin: İstanbul Darülfünunu Türk Tarihi sabık profesörü; Yusuf Ziya: İstanbul Darülfünunu Hukuk Tarihi sabık profesörü); iki üye **miralay** (Baki Bey, Şemsi Bey), bir üye Musiki Muallim Mektebi tarih ve medenî bilgiler **muallimi**dir (Afet Hanımefendi). Kitap hiçbir bölümü hiçbir üyeye nispet etmez; metin heyetin ortak imzasıyla çıkar.
+"Kitabın hazırlanmasında çalışanlar" sayfaları (*Tarih I*, s. VII–VIII; *Tarih II*, s. VII–VIII) her iki ciltte aynı on üç kişiyi sayar; yalnız unvanlarda küçük farklar vardır (Ek C). Heyetin reisliğinde, cemiyetin reisi sıfatıyla **Riyaseticümhur Umumî Kâtibi** bulunur; dokuz üye **mebus**tur (Samih Rifat, Akçuraoğlu Yusuf, Reşit Galip, Hasan Cemil, İsmail Hakkı, Reşit Saffet, Sadri Maksudi, Şemseddin, Yusuf Ziya Beyler) ve bunlardan dördü aynı zamanda hukuk veya tarih profesörü olarak anılır (Akçuraoğlu Yusuf: Ankara Hukuk Mektebi Siyasî Tarih Profesörü; Sadri Maksudi: Ankara Hukuk Mektebi profesörlerinden; Şemseddin: İstanbul Darülfünunu Türk Tarihi sabık profesörü; Yusuf Ziya: İstanbul Darülfünunu Hukuk Tarihi sabık profesörü); iki üye **miralay** (Baki Bey, Şemsi Bey), bir üye Musiki Muallim Mektebi tarih ve medenî bilgiler **muallimi**dir (Afet Hanımefendi). Kitap hiçbir bölümü hiçbir üyeye nispet etmez; metin heyetin ortak imzasıyla çıkar.
 
 ---
 
@@ -24758,7 +24758,5 @@ taramaları kaynakçada **[1]** ve **[2]**'dedir.
 
 ---
 
-*Bu inceleme, kaynak metnin kendisiyle birlikte
-[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) ile kamuya
-bırakılmıştır.*
+*Bu çalışma [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) ile kamuya bırakılmıştır.*
 

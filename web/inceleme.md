@@ -1,4 +1,4 @@
-# Resmî tarih kitaplarında din, vahiy ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırması
+# Resmî tarih kitaplarında din, vahiy ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırması (özet)
 
 **Prof. Dr. Muhammed Fatih Talu**
 
@@ -6,28 +6,39 @@
 [*Tarih II*](https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416) (1931),
 Maarif Vekâleti emriyle basılan ve liselerde on bir yıl okutulan resmî ders kitaplarıdır; geçmişi anlatmakla kalmaz, dinin ve vahyin kaynağı hakkında da hüküm verirler. İnceleme, kitapların din bahsini taşıyan iki bölümünü — *Tarih I*'in "Beşer Tarihine Giriş" ve *Tarih II*'nin "İslâm Tarihi" bölümlerini — bütünüyle okumuş; din, vahiy, nübüvvet, yaratılış, cin ve melek, Kâbe ve ahkâm hakkında hüküm bildiren öğretileri Kur'an öğretileriyle karşılaştırmıştır. Kitaplarda **vahyin ilâhî kaynağı** hiçbir yerde kitabın kendi sesiyle tasdik edilmez, hep "İslâm an'anesinde (…) kabul olunur" gibi bir nakil kaydına havale edilir. Beşerî izah ise kitabın kendi sesiyle ve çoğu yerde kayıtsız verilir. Buna göre kitaplarda **Allah'tan gelen dinin yerine insan kökenli din anlayışı, vahyin yerine beşerî tefekkür, peygamberlik yerine din kuruculuğu ve yaratılışın yerine tabiat merkezli açıklama** konmaktadır. İncelemenin temel iddiası, bu resmî anlatı ile Kur'an arasındaki ayrılığın ayrıntıda değil **itikadî temelde** bulunduğudur. Bütün alıntılar künyelerindeki sayfada makine ile doğrulanmıştır.
 
+*Bu, incelemenin öz metnidir; kapsamlı hâli için [tıklayınız](https://tarih1931.github.io/inceleme-kapsamli.html).*
+
 ---
 
 ## 1. Kaynağın resmî statüsü
 
-Kitaplar bir müellifin şahsî görüşü değildir: Türk Tarihi Tetkik Cemiyeti'nin telifi
-olup **Maarif Vekâleti** adına **Devlet Matbaası**nda basılmıştır. 1931'deki birinci
-basım emri *Tarih I* için **30 000**, *Tarih II* için **25 000** nüshadır; 1932'de
-I. ve II. cildin **tadil ve tashihi** kurul kararına bağlanmış, kitaplar 1933'te
-ikinci, 1941'de üçüncü kez basılmış, seri 1942 kurul kararlarıyla lise ve ortaokul
-tarih kitabı olarak sürmüştür. Bütün tarih, sayı ve künyeler kaynaklarıyla birlikte
-[kapsamlı metindedir](https://tarih1931.github.io/inceleme-kapsamli.html#s-1-kaynagin-resmi-statusu).
+Kitaplar bir müellifin şahsî görüşü değildir; taşıdıkları **devletin resmî
+öğretisi**dir. Bir metnin resmî niteliği onu kimin kaleme aldığından değil,
+bastıran ve okutan makamın işlemlerinden doğar; buradaki işlemlerin hepsi
+devletindir. Telif Türk Tarihi Tetkik Cemiyeti'nindir; baskı **Maarif Vekâleti**
+adına **Devlet Matbaası**nda yapılmıştır. 1931'deki birinci basım emri *Tarih I*
+için **30 000**, *Tarih II* için **25 000** nüshadır; 1932'de I. ve II. cildin
+**tadil ve tashihi** kurul kararına bağlanmış, kitaplar 1933'te ikinci, 1941'de
+üçüncü kez basılmış, seri 1942 kurul kararlarıyla lise ve ortaokul tarih kitabı
+olarak sürmüştür.
 
-Her iki cildin başındaki ortak *Mukaddime* (Ön söz) kitabın statüsünü kendi ağzından
-söyler: heyet, cemiyetçe bir kitap hazırlamağa "memur" edilmiş bir kuruldur; eseri
-"mekteplerde okutulmasını kabul eden" Maarif Vekâletine hediye etmiştir; "Noksanlar,
-ilerde, yeni basılışlarda tamamlanacaktır" diyerek düzeltme kapısını açık bırakmıştır
-— devlet bu kapıdan geçmiş, 1932 tadilini karara bağlayıp iki basım daha yapmıştır.
-Ön söz, din karşısındaki tavrı da girişte ilan eder: "Türk ve İslam müverrihler"in
-İslamlıktan önceki devirleri unutturmayı "din gayreti vecibesi" bildiğini yazar
-(s. V). Heyetin reisi, cemiyet reisi sıfatıyla **Riyaseticümhur Umumî Kâtibi**
-M. Tevfik Bey'dir; dokuz üye mebus, iki üye miralay, bir üye muallimdir. Kitap hiçbir
-bölümü hiçbir üyeye nispet etmez; metin heyetin ortak imzasıyla çıkar.
+Her iki cildin başındaki ortak *Mukaddime* (Ön söz) bunu kitabın kendi ağzından
+doğrular: heyet, cemiyetçe bir kitap hazırlamağa "memur" edilmiş bir kuruldur;
+eseri "mekteplerde okutulmasını kabul eden" Maarif Vekâletine hediye etmiştir;
+"Noksanlar, ilerde, yeni basılışlarda tamamlanacaktır" diyerek düzeltme kapısını
+açık bırakmıştır — devlet bu kapıdan geçmiştir. Ön söz, din karşısındaki tavrı da
+ilan eder: "Türk ve İslam müverrihler"in — müverrih, tarihçi demektir —
+İslamlıktan önceki binlerce yılı unutturmayı "din gayreti vecibesi" bildiğini
+yazar (s. V). Kitap böylece daha ilk sayfasında din gayretini, tarihin doğru
+yazılmasının önündeki engel sayar; din bahsindeki tavır bölümlerde sonradan
+belirmez, girişte kitabın kendi koyduğu çerçevedir.
+
+Heyet de devletin içinden kuruludur: reisliğinde, cemiyet reisi sıfatıyla
+**Riyaseticümhur Umumî Kâtibi** bulunur; dokuz üye **mebus**, iki üye miralay,
+bir üye muallimdir. Kitap hiçbir bölümü hiçbir üyeye nispet etmez; metin heyetin
+ortak imzasıyla çıkar. Bu sebeple üyelerin şahsî kanaatleri incelemenin konusu
+değildir; incelenen, devletin bastırdığı, onayladığı ve on bir yıl boyunca lise
+sıralarında okuttuğu metnin lafzıdır.
 
 ---
 
@@ -331,4 +342,4 @@ bulmaktadır (künyeleri kapsamlı metnin kaynakçasındadır).
 
 ---
 
-*Bu özet, incelemenin [kapsamlı metni](https://tarih1931.github.io/inceleme-kapsamli.html) ve kaynak metnin kendisiyle birlikte [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) ile kamuya bırakılmıştır. Bu çalışma akademik bir makale değildir; tarihî kaynaklara dayalı bir inceleme ve değerlendirme çalışmasıdır.*
+*Bu çalışma [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) ile kamuya bırakılmıştır.*
