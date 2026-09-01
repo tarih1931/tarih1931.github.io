@@ -54,10 +54,10 @@ API = "https://zenodo.org/api"
 PAKET = ROOT / "inceleme" / "yayin"
 # Ekler kaydın parçasıdır: ayrı bir belgedir ama aynı DOI ve aynı sürüm altındadır.
 YUKLENECEK = [
-    "inceleme-tr.md", "inceleme-en.md",
+    "inceleme-tr.md", "inceleme-oz-tr.md", "inceleme-en.md",
     "inceleme-ekler-tr.md", "inceleme-ekler-en.md",
     "bulgular.jsonl",
-    "inceleme-tr.pdf", "inceleme-en.pdf",
+    "inceleme-tr.pdf", "inceleme-oz-tr.pdf", "inceleme-en.pdf",
     "inceleme-ekler-tr.pdf", "inceleme-ekler-en.pdf",
 ]
 
@@ -247,7 +247,14 @@ def main() -> None:
         print(f"    taslak oluşturuldu: {dep['id']}")
 
     bucket = dep["links"]["bucket"]
+    # Taslakta aynı ad ve boyutta duran dosya yeniden gönderilmez. Zenodo zaman
+    # zaman 504 veriyor ve yükleme yarıda kalıyor; --taslak ile devam edildiğinde
+    # kalanı yüklemek yeter, tamamını yeniden göndermek gerekmez.
+    duran = {f["filename"]: f.get("filesize") for f in dep.get("files", [])}
     for yol in yuklenecek:
+        if duran.get(yol.name) == yol.stat().st_size:
+            print(f"      duruyor   {yol.name:24} {olcu(yol)}")
+            continue
         dosya_yukle(bucket, yol)
         print(f"      yüklendi  {yol.name:24} {olcu(yol)}")
 
