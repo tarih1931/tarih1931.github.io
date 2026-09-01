@@ -1,4 +1,4 @@
-# Resmî tarih kitaplarında din, vahiy ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırması (özet)
+# Resmî tarih kitaplarında din, vahiy ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırması (öz)
 
 **Prof. Dr. Muhammed Fatih Talu**
 

@@ -854,7 +854,7 @@ def katlanabilir(govde: str) -> str:
 
 
 def build_review_page(oz: bool) -> str:
-    """İnceleme sayfaları: inceleme.html (özet) ve inceleme-kapsamli.html.
+    """İnceleme sayfaları: inceleme.html (öz) ve inceleme-kapsamli.html.
 
     inceleme.html incelemenin öz hâlidir ve okuyucunun giriş sayfasıdır;
     kapsamlı sayfa bütün delil aygıtını taşır. Akademik kimlik — Scholar
@@ -884,7 +884,7 @@ def build_review_page(oz: bool) -> str:
     if pdf.exists():
         ust.append(f'<a href="{ad}.pdf">PDF</a>')
     ust.append('<a href="inceleme-kapsamli.html">Kapsamlı metin</a>' if oz
-               else '<a href="inceleme.html">İncelemenin özeti</a>')
+               else '<a href="inceleme.html">İnceleme (öz)</a>')
     if REVIEW_EN_MD.exists():
         ust.append('<a href="review.html">English version</a>')
     if REVIEW_EMAIL:

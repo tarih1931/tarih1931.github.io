@@ -4,7 +4,7 @@
 
 **Özet:** [*Tarih I*](https://kutuphane.ttk.gov.tr/resource?itemId=267298&dkymId=6415) ve [*Tarih II*](https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416) (1931), Maarif Vekâleti emriyle basılan ve liselerde on bir yıl okutulan resmî ders kitaplarıdır; geçmişi anlatmakla kalmaz, dinin ve vahyin kaynağı hakkında da hüküm verirler. Bu inceleme, kitapların din bahsini taşıyan iki bölümünü — *Tarih I*'in “Beşer Tarihine Giriş” ve *Tarih II*'nin “İslâm Tarihi” bölümlerini — bütünüyle okuyup din, vahiy, nübüvvet, yaratılış, cin ve melek, Kâbe ve ahkâm hakkında hüküm bildiren cümleleri çıkarmış; **46** sayfa künyeli alıntıyı **38** ayetle karşılaştırarak **19** bulguya varmıştır. Bulguların çekirdeği, kitabın kendi kayıt düzenidir: **vahyin ilâhî kaynağı hiçbir yerde kitabın kendi sesiyle tasdik edilmez, hep “İslâm an'anesinde (…) kabul olunur” gibi bir nakil kaydına havale edilir; beşerî izah ise kitabın kendi sesiyle ve çoğu yerde kayıtsız verilir.** Buna göre kitaplarda Allah'tan gelen dinin yerine insan kökenli din anlayışı, vahyin yerine beşerî tefekkür, peygamberlik yerine din kuruculuğu ve yaratılışın yerine tabiat merkezli açıklama konmaktadır. İncelemenin temel iddiası, bu resmî anlatı ile Kur'an arasındaki ayrılığın ayrıntıda değil **itikadî temelde** bulunduğudur. Her alıntı künyesindeki sayfada makine ile doğrulanmış, ayetler tek bir mealden alınmış, tefsirde ihtilaflı ayetler bulgu dayanağı yapılmamıştır.
 
-*Bu, incelemenin kapsamlı metnidir; özet hâli için [tıklayınız](https://tarih1931.github.io/inceleme.html).*
+*Bu, incelemenin kapsamlı metnidir; öz hâli için [tıklayınız](https://tarih1931.github.io/inceleme.html).*
 
 ---
 
