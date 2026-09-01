@@ -117,7 +117,7 @@ Kur'an'da ise din bir tekâmülün neticesi değil, Allah'ın bütün peygamberl
 > "Onlar gaybe inanırlar, namazı dosdoğru kılarlar, kendilerine rızık olarak
 > verdiğimizden de Allah yolunda harcarlar." — **Bakara 3**
 
-İki menşe anlatısı uzlaşmaz; ulûhiyeti beşerî bir yapıntı sayan izah, İslâm itikadı
+İki menşe anlatısının uzlaşmadığı sarih bir şekilde görülür. Ulûhiyeti beşerî bir yapıntı sayan izah, İslâm itikadı
 bakımından **ulûhiyetin reddidir**.
 
 ### 3.2 Yaratılış ve insanın menşei
@@ -240,7 +240,7 @@ sayılı esaslarındandır (Bakara 285). "Öğrenme" modeli de adıyla reddedili
 > biliyoruz. İma ettikleri kimsenin dili yabancıdır. Bu Kur’an ise gayet açık bir
 > Arapça’dır." — **Nahl 102-103**
 
-İki menşe anlatısı uzlaşmaz.
+İki menşe anlatısının uzlaşmadığı sarih bir şekilde görülür. 
 
 ### 3.5 Nass, ahkâm ve kutsal mekân
 
