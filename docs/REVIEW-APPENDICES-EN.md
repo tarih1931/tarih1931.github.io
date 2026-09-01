@@ -119,7 +119,7 @@ This appendix gives three things for each of the thirty-eight verses cited in th
 - **Kur'an Yolu Tefsiri.** "You did not know": recalling that the verb *darā* expresses coming to know a truth, this is understood to mean that before revelation the Prophet did not know the content of the Book or the truth of faith; this does not mean that he was not a believer. How God is to be worshipped can be known only through revelation. There is no occasion of revelation and no note on abrogation.
 - **TDV İslâm Ansiklopedisi.** [VAHİY](https://islamansiklopedisi.org.tr/vahiy) ("revelation"); [RUH](https://islamansiklopedisi.org.tr/ruh) ("the spirit")
 
-### A.18 — Verse-18 · Al-Muddaththir 74/23-29
+### A.18 — Verse-18 · Al-Muddaththir 74/18-29
 
 - **Place in the findings.** Finding-10: the description "the word of a human being" (*qawl al-bashar*) is named in the Qur'an, rejected, and its consequence stated — Saqar follows immediately upon the characterisation (74/26-29).
 - **Kur'an Yolu Tefsiri.** Occasion of revelation: the polytheists asked al-Walīd b. al-Mughīra how they should oppose the Prophet and the Qur'an; al-Walīd said, and spread the claim, that the Prophet was a magician and the Qur'an a piece of magic handed down from the magicians of old. The deniers counted the Qur'an "the word of a human being". There is no note on abrogation, and the question of inimitability is not taken up directly. Verses 26-29 state what the characterisation incurs: Saqar is one of the names of Hell, and the commentary describes it as sparing nothing and leaving nothing, and scorching the skin.

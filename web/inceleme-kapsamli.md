@@ -462,10 +462,12 @@ Her bir eksen altında, öncelikle ilgili alıntı ve ayetlere yer verilmekte, a
 > söylenen ayetler ise muhteviyat itibarile daha ciddî olmakla beraber edebiyat
 > noktai nazarından Mekke devri ayetlerinden dundur." — **Tarih II, s. 92**
 
-> **[Ayet-18]** "Sonra arkasını döndü ve büyüklük taslayıp şöyle dedi: “Bu,
-> ancak nakledilegelen bir sihirdir.” “Bu, ancak insan sözüdür.” Ben onu
-> “Sekar”a (cehenneme) sokacağım. Sekar’ın ne olduğunu sen ne bileceksin? Geride
-> bir şey koymaz, bırakmaz. Derileri kavurur." — **Müddessir 23-29**
+> **[Ayet-18]** "Çünkü o, düşündü taşındı, ölçtü biçti. Kahrolası nasıl da ölçtü
+> biçti! Yine kahrolası, nasıl ölçtü biçti! Sonra (Kur’an hakkında) derin derin
+> düşündü. Sonra yüzünü ekşitti, kaşlarını çattı. Sonra arkasını döndü ve büyüklük
+> taslayıp şöyle dedi: “Bu, ancak nakledilegelen bir sihirdir.” “Bu, ancak insan
+> sözüdür.” Ben onu “Sekar”a (cehenneme) sokacağım. Sekar’ın ne olduğunu sen ne
+> bileceksin? Geride bir şey koymaz, bırakmaz. Derileri kavurur." — **Müddessir 18-29**
 
 > **[Ayet-19]** "O, bir şairin sözü değildir. Ne de az inanıyorsunuz! Bir
 > kâhinin sözü de değildir. Ne de az düşünüyorsunuz! O, âlemlerin Rabbi

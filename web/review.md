@@ -736,10 +736,12 @@ The review does not do the following:
 > content, are inferior from the literary point of view to the verses of the Meccan
 > period.]
 
-> **[Verse-18]** "Then he turned away and grew arrogant, and said: “This is nothing but
-> magic handed down.” “This is nothing but the word of a human being.” I will cast him
-> into Saqar. And what will make you know what Saqar is? It spares nothing and leaves
-> nothing. It scorches the skin." — **Al-Muddaththir 23-29**
+> **[Verse-18]** "For he thought and he plotted. May he be destroyed, how he plotted! Again, may
+> he be destroyed, how he plotted! Then he looked. Then he frowned and scowled. Then
+> he turned away and grew arrogant, and said: “This is nothing but magic handed
+> down.” “This is nothing but the word of a human being.” I will cast him into Saqar.
+> And what will make you know what Saqar is? It spares nothing and leaves nothing.
+> It scorches the skin." — **Al-Muddaththir 18-29**
 
 > **[Verse-19]** "It is not the word of a poet. How little you believe! Nor is it the
 > word of a soothsayer. How little you reflect! It is sent down from the Lord of the

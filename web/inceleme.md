@@ -99,7 +99,7 @@ verilir:
 > devam eden, insan zekâsıdır.
 > — **[Tarih I](https://tarih1931.github.io/tarih-1-1931/s0024.html), s. 24**
 
-Kural, din bahsinden önce ve bölümün ilk sayfasında, gaybın tamamını kapsayacak
+Kitapta kural, din bahsinden önce ve bölümün ilk sayfasında, gaybın tamamını kapsayacak
 biçimde konmuştur:
 
 > (…) insanların bütün bilgileri ve inanışları, insanın zekâsı eseridir. (…) tabiatin
@@ -107,9 +107,7 @@ biçimde konmuştur:
 > uydurma şeylerden başka bir şey olmıyacağı meydana çıkar.
 > — **[Tarih I](https://tarih1931.github.io/tarih-1-1931/s0002.html), s. 2**
 
-Kur'an'da ise din bir tekâmülün neticesi değil, Allah'ın bütün peygamberlere emrettiği
-ve "din kıldığı" tek esastır; gayba iman da müminlerin ilk vasfıdır — iman edilecekler
-sayıldığında anılan Allah, ahiret, melekler, kitap ve peygamberlerin hepsi, kitabın
+Kur'an'da ise din bir tekâmülün neticesi değil, Allah'ın bütün peygamberlere emrettiği esastır. Gayba (Allah, ahiret, melekler) iman da müminlerin ilk vasfıdır. Bunlar kitabın
 "uydurma" sınıfına koyduğu tabiat üstü mefhumlardır:
 
 > "“Dini dosdoğru tutun ve onda ayrılığa düşmeyin!” diye Nûh’a emrettiğini, sana
@@ -125,7 +123,7 @@ bakımından **ulûhiyetin reddidir**.
 ### 3.2 Yaratılış ve insanın menşei
 
 Kitap hayatın başlangıcı hakkında bilginin sınırını teslim eder ("kat'î surette
-bilmiyoruz", "muhtemeldir"), fakat paragrafı normatif bir hükümle kapatır — bilinmediği
+bilmiyoruz", "muhtemeldir"), fakat paragrafı normatif bir hükümle kapatır. Bilinmediği
 kabul edilen bir mesele, tabiat dışı âmil baştan dışarıda bırakılarak karara bağlanır:
 
 > Her halde, hayatın, herhangi bir tabiat harici amilin müdahalesi olmaksızın dünya
@@ -137,20 +135,19 @@ kabul edilen bir mesele, tabiat dışı âmil baştan dışarıda bırakılarak 
 > — **[Tarih I](https://tarih1931.github.io/tarih-1-1931/s0002.html), s. 2**
 
 İnsan da "sularda kaynaşıp çırpınan bir mevcuttan" gelen hayat zincirinin son
-halkasına yerleştirilir (s. 4–5); din kitaplarındaki yaratılış anlatısı bir sayfa
-önce "hikâye" sayılmıştır (s. 3). Ayrılık madde ve mekanizma üzerinde değildir —
-Kur'an'da da hayat sudan başlar (Enbiyâ 30), yaratılış kademeli anlatılır (Mü'minûn
-12-14) — **fâil** üzerindedir:
+halkasına yerleştirilir (s. 4–5). Din kitaplarındaki yaratılış anlatısı bir sayfa
+önce "hikâye" sayılmıştır (s. 3). Kur'an'a göre de hayat sudan başlar (Enbiyâ 30), yaratılış kademeli anlatılır (Mü'minûn
+12-14). Ayrılık madde ve mekanizma üzerinde değildir, **fâil** üzerindedir:
 
 > "Sizi biz yarattık. Hâlâ tasdik etmeyecek misiniz? Attığınız o meniye ne dersiniz?!
 > Onu siz mi yaratıyorsunuz, yoksa yaratan biz miyiz?" — **Vâkıa 57-59**
 
-Kitap kanunların sahibi olarak tabiatı gösterir; Kur'an kademeli yaratışın her
+Kitap kanunların sahibi olarak tabiatı gösterir. Kur'an kademeli yaratışın her
 kademesini Allah'a nisbet eder.
 
 ### 3.3 Vahiy, nübüvvet ve Kur'an'ın kaynağı
 
-Kitap, Kur'an'ı tarif ederken onu doğrudan Muhammed'in koyduğu esaslara bağlar; vahyin
+Kitap, Kur'an'ı tarif ederken onu doğrudan Muhammed'in koyduğu esaslara bağlar. Vahyin
 ilâhî kaynağını ise kendi sesiyle hiçbir yerde tasdik etmez, bir nakil kaydına havale
 eder:
 
@@ -168,25 +165,25 @@ Ayetlerin nereden geldiğini ise kayıtsız ve kendi sesiyle söyler:
 
 Bu iki cümle yan yana konduğunda kitabın Kur'an hakkındaki hükmü tamamlanır ve başka
 bir okumaya yer bırakmaz: **Kur'an, Muhammed'in koyduğu esasların toplandığı ve uzun
-bir tefekkürün mahsulü olan bir kitaptır — yani beşer sözüdür.** Kitabın ilâhî kaynağa
+bir tefekkürün mahsulü olan bir kitaptır, yani insan sözüdür.** Kitabın ilâhî kaynağa
 dair söylediği tek cümle ise kendisinin katılmadığı bir nakildir: "İslâm an'anesinde
 (…) kabul olunur".
 
-Kur'an bu nitelemeyi adıyla anar: onu kelimesi kelimesine zikreder, söyleyenini
+Kur'an bu nitelemeyi (insan sözü) adıyla anar. Onu kelimesi kelimesine zikreder, söyleyenini
 tarif eder ve karşılığını bildirir:
 
-> "Sonra arkasını döndü ve büyüklük taslayıp şöyle dedi: “Bu, ancak nakledilegelen bir
-> sihirdir.” “Bu, ancak insan sözüdür.” Ben onu “Sekar”a (cehenneme) sokacağım.
-> Sekar’ın ne olduğunu sen ne bileceksin? Geride bir şey koymaz, bırakmaz. Derileri
-> kavurur." — **Müddessir 23-29**
+> "Çünkü o, düşündü taşındı, ölçtü biçti. Kahrolası nasıl da ölçtü
+> biçti! Yine kahrolası, nasıl ölçtü biçti! Sonra (Kur’an hakkında) derin derin
+> düşündü. Sonra yüzünü ekşitti, kaşlarını çattı. Sonra arkasını döndü ve büyüklük
+> taslayıp şöyle dedi: “Bu, ancak nakledilegelen bir sihirdir.” “Bu, ancak insan
+> sözüdür.” Ben onu “Sekar”a (cehenneme) sokacağım. Sekar’ın ne olduğunu sen ne
+> bileceksin? Geride bir şey koymaz, bırakmaz. Derileri kavurur." — **Müddessir 18-29**
 
 Ayet üç şeyi arka arkaya koyar: nitelemeyi ("Bu, ancak insan sözüdür"), o nitelemeyi
 yapanı ve karşılığını. Karşılık Sekar'dır; ateş "geride bir şey koymaz, bırakmaz" ve
 "derileri kavurur" diye vasfedilir. **Kur'an, kendi kaynağını beşere veren sözü
 tartışılabilir bir tarih görüşü olarak değil, en ağır azabın bağlandığı bir söz olarak
-kaydeder.** Kitabın s. 90-91'de kurduğu hüküm ile ayetin zikrettiği söz aynı sözdür;
-aradaki fark, kitabın onu hürmetle ve iyi niyetle söylemesidir — ayetin reddettiği ise
-niyet değil, sözün kaynağını beşere vermektir.
+kaydeder.**
 
 Kur'an'ın kendi kaynağı hakkındaki beyanı da bunun tam karşısındadır:
 
@@ -206,8 +203,8 @@ yıllarca tefekkürden sonra "doğmuş"tur, din "kendinin bulduğu" bir dindir.
 > olduğuna inandığı yeni bir dine davete başladı.
 > — **[Tarih II](https://tarih1931.github.io/tarih-2-1931/s0089.html), s. 89**
 
-Peygamber böylece mübelliğ değil müessis sayılır: kitap onu "cihanşümul bir dinin
-müessisi" diye anar; "her şeyi bir melekten alan ve aynen muhitine tebliğ eden" bir
+Peygamber böylece **mübelliğ** değil **müessis** sayılır. Kitap onu "cihanşümul bir dinin
+müessisi" diye anar. "Her şeyi bir melekten alan ve aynen muhitine tebliğ eden" bir
 peygamber tasavvurunu ise "put derekesine indirmek" hatası ilan eder (s. 91, 93). Aynı
 kalıp Hz. Musa'ya da uygulanır:
 
@@ -215,7 +212,7 @@ kalıp Hz. Musa'ya da uygulanır:
 > olarak **kendi dininin esaslarını koymuştur**.
 > — **[Tarih II](https://tarih1931.github.io/tarih-2-1931/s0080.html), s. 80**
 
-Kur'an şair ve kâhin sözü ihtimalini de adıyla reddeder (Hâkka 41-43); "yıllarca
+Kur'an şair ve kâhin sözü ihtimalini de adıyla reddeder (Hâkka 41-43). "Yıllarca
 tefekkür" iddiasına karşılık vahiyden önce aralarında geçen "bir ömür" hatırlatılır
 (Yûnus 16). Musa dinini kuran değil, seçilen ve kendisine vahyedilendir (Tâhâ 13-14);
 Peygamber **müessis** değil **mübelliğdir** (Mâide 67) ve tebliğ emri, kitabın s. 93'te
@@ -362,7 +359,4 @@ bulmaktadır (künyeleri kapsamlı metnin kaynakçasındadır).
 
 ---
 
-*Bu özet, incelemenin
-[kapsamlı metni](https://tarih1931.github.io/inceleme-kapsamli.html) ve kaynak metnin
-kendisiyle birlikte [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) ile
-kamuya bırakılmıştır.*
+*Bu özet, incelemenin [kapsamlı metni](https://tarih1931.github.io/inceleme-kapsamli.html) ve kaynak metnin kendisiyle birlikte [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) ile kamuya bırakılmıştır. Bu çalışma akademik bir makale değildir; tarihî kaynaklara dayalı bir inceleme ve değerlendirme çalışmasıdır.*
