@@ -252,11 +252,14 @@ kendi sesiyle "masal" ilan eder:
 > (…) Bunların hepsi, **bittabi, soradan uydurulmuş masallardır**.
 > — **[Tarih II](https://tarih1931.github.io/tarih-2-1931/s0085.html), s. 85**
 
-Kâbe'nin kutsiyeti üç beşerî âmile bağlanır: mahallî mabedin Mekke ahalisince "millî
-mabet derecesine" yükseltilmesi, hacı celbi için toplanan 360 put ve muharebeleri
-önleyen kaidelere verilen "dinî şekiller" — Kâbe, Kureyş için "iktisadî ve ticarî
-menfaatler teminine yarıyan bir vasıta" olarak anlatılır (s. 85-86). Ahkâmın
-ebedîliği de kaldırılır:
+Kur'an'da ise Kâbe'nin temellerini yükselten İbrahim ile İsmail, ona bu vasıfları
+veren Allah'tır (Bakara 125; Mâide 97). Kat'î nassla sabit bir haberi masal saymak, doğrudan nass çatışmasıdır.
+
+> "Hani İbrahim, İsmail ile birlikte evin (Kâbe’nin) temellerini yükseltiyor, “Ey
+> Rabbimiz! Bizden kabul buyur! Şüphesiz sen hakkıyla işitensin, hakkıyla bilensin”
+> diyorlardı." — **Bakara 127**
+
+Bununla birlikte, Kitapta, Kâbe'nin kutsiyeti üç beşerî âmile bağlanır: mahallî mabedin Mekke ahalisince "millî mabet derecesine" yükseltilmesi, hacı celbi için toplanan 360 put ve muharebeleri önleyen kaidelere verilen "dinî şekiller" — Kâbe, Kureyş için "iktisadî ve ticarî menfaatler teminine yarıyan bir vasıta" olarak anlatılır (s. 85-86). Ahkâmın ebedîliği de kaldırılır:
 
 > Hukukî hükümler zaman ve mekân içinde içtimaî heyetlerin uğradıkları değişikliklere
 > göre değişegeldiğinden on dört asır evelki zaman ve mekânın ihtiyacına göre lüzumlu
@@ -265,18 +268,12 @@ ebedîliği de kaldırılır:
 > mahkûmdurlar**.
 > — **[Tarih II](https://tarih1931.github.io/tarih-2-1931/s0092.html), s. 92**
 
-Kur'an'da ise Kâbe'nin temellerini yükselten İbrahim ile İsmail, ona bu vasıfları
-veren Allah'tır (Bakara 125; Mâide 97); Rabbin kelimesi tamdır ve hükmün değişmesi
-zamanın değil vahyin işidir:
-
-> "Hani İbrahim, İsmail ile birlikte evin (Kâbe’nin) temellerini yükseltiyor, “Ey
-> Rabbimiz! Bizden kabul buyur! Şüphesiz sen hakkıyla işitensin, hakkıyla bilensin”
-> diyorlardı." — **Bakara 127**
+Kur'an'da ise Rabbin kelimesi tamdır ve hükmün değişmesi zamanın değil vahyin işidir:
 
 > "Rabbinin kelimesi (Kur’an) doğruluk ve adalet bakımından tamdır. Onun kelimelerini
 > değiştirebilecek yoktur. (…)" — **En'âm 115**
 
-Kat'î nassla sabit bir haberi masal saymak, doğrudan nass çatışmasıdır.
+İki öğreti taban tabana zıtlık barındırır.
 
 ---
 

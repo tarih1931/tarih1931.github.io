@@ -130,13 +130,24 @@ hr {margin: 8pt 0;}
 """
 
 
-def kapak(baslik: str, ozet: str, en: bool, sayfa: str = "") -> str:
+def kapak(baslik: str, ozet: str, en: bool, sayfa: str = "", kunye: bool = True) -> str:
+    """PDF kapağı: başlık, yazar, tarih, özet ve (isteğe bağlı) künye bloğu.
+
+    Künye bloğu — kaynak DOI'si, çevrimiçi adres, makine-okunabilir iddialar,
+    lisans — kaynak .md dosyasında yoktur; PDF'e burada eklenir. Kaydın kimliğini
+    taşıyan kapsamlı metin ile çevirisinde durur, özette durmaz: özet okunmak
+    için vardır ve künye satırları onu özetin hemen ardında kesiyordu."""
     e = lambda tr, ing: ing if en else tr  # noqa: E731
-    return (
+    bas = (
         f"<h1>{baslik}</h1>"
         f'<p class="kapak"><b>{YAZAR}</b><br>{TODAY}</p>'
         f'<p class="kapak"><b>{e("Özet", "Abstract")}.</b> {ozet}</p>'
-        f'<p class="kapak">'
+    )
+    if not kunye:
+        return bas + "<hr>"
+    return (
+        bas
+        + f'<p class="kapak">'
         f'{e("Kaynak metin ve veri kümesi", "Source text and dataset")}: '
         f"https://doi.org/{KORPUS_DOI}<br>"
         f'{e("Çevrimiçi sürüm", "Online version")}: {BASE_URL}/'
@@ -179,12 +190,12 @@ def pdf_govdesi(md: str, etiket: str) -> str:
 
 
 def pdf_yaz(md_yolu: Path, hedef: Path, baslik: str, ozet: str, en: bool,
-            sayfa: str = "") -> None:
+            sayfa: str = "", kunye: bool = True) -> None:
     import pymupdf
 
     ham = pdf_govdesi(md_yolu.read_text(encoding="utf-8"),
                       "Abstract" if en else "Özet")
-    govde = kapak(baslik, ozet, en, sayfa) + md_to_html(ham)
+    govde = kapak(baslik, ozet, en, sayfa, kunye) + md_to_html(ham)
     story = pymupdf.Story(
         html=f"<body>{govde}</body>",
         archive=pymupdf.Archive(r"C:\Windows\Fonts"),
@@ -345,7 +356,8 @@ def main() -> None:
     pdf_yaz(tr_md, OUT / "inceleme-tr.pdf", BASLIK_TR, ozet_html(HAM_TR), en=False)
     if OZ_MD.exists():
         pdf_yaz(OZ_MD, OUT / "inceleme-oz-tr.pdf", BASLIK_OZ,
-                ozet_html(ozet_ham(OZ_MD, "Özet")), en=False, sayfa="inceleme.html")
+                ozet_html(ozet_ham(OZ_MD, "Özet")), en=False, sayfa="inceleme.html",
+                kunye=False)
     if EK_MD.exists():
         pdf_yaz(EK_MD, OUT / "inceleme-ekler-tr.pdf", f"{BASLIK_TR} — Ekler",
                 ozet_html(ozet_ham(EK_MD, "Özet")), en=False)

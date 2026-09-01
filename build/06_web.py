@@ -877,23 +877,28 @@ def build_review_page(oz: bool) -> str:
     # citation_pdf_url dışında görünmez kalıyor, bağlantı izleyerek gezen
     # tarayıcılar (GPTBot, CCBot…) onlara hiç uğramıyordu. Metnin bittiği yerde
     # tek satır, sayfanın başını kalabalıklaştırmadan bunu karşılar.
-    alt = []
+    # Altbilgi iki satırdır: üstte okuyucunun metne ulaşacağı biçimler ve
+    # yazışma, altta künye ve kanallar. Tek satıra dizildiğinde on öge yan yana
+    # geliyor ve hangisinin ne olduğu seçilemiyordu.
+    ust = []
     if pdf.exists():
-        alt.append(f'<a href="{ad}.pdf">PDF</a>')
-    alt.append('<a href="inceleme-kapsamli.html">Kapsamlı metin</a>' if oz
+        ust.append(f'<a href="{ad}.pdf">PDF</a>')
+    ust.append('<a href="inceleme-kapsamli.html">Kapsamlı metin</a>' if oz
                else '<a href="inceleme.html">İncelemenin özeti</a>')
     if REVIEW_EN_MD.exists():
-        alt.append('<a href="review.html">English version</a>')
+        ust.append('<a href="review.html">English version</a>')
     if REVIEW_EMAIL:
-        alt.append(f'Yazışma: <a href="mailto:{esc(REVIEW_EMAIL)}">{esc(REVIEW_EMAIL)}</a>')
-    alt.append(f'<a href="{ad}.md">ham Markdown</a>')
+        ust.append(f'Yazışma: <a href="mailto:{esc(REVIEW_EMAIL)}">{esc(REVIEW_EMAIL)}</a>')
+    alt = []
     if REVIEW_DOI:
         alt.append(f'DOI: <a href="https://doi.org/{esc(REVIEW_DOI)}">{esc(REVIEW_DOI)}</a>')
     alt.append(hf_ogesi())
     alt.append(ia_ogesi())
     alt.append(sayac_ogesi(url))
     body.append(
-        f'<footer>{" · ".join(x for x in alt if x)}</footer>'
+        "<footer>"
+        + '<br>'.join(" · ".join(x for x in satir if x) for satir in (ust, alt))
+        + "</footer>"
     )
     jsonld = {
         "@context": "https://schema.org",
