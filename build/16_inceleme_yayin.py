@@ -186,7 +186,11 @@ def pdf_govdesi(md: str, etiket: str) -> str:
     md, yeni = yeni, re.sub(rf"\A\s*\*\*{etiket}:\*\*.*?(?=\n\n)", "", yeni, count=1, flags=re.S)
     if yeni == md:
         raise SystemExit(f"    PDF: beklenen '**{etiket}:**' paragrafı bulunamadı")
-    return yeni.lstrip("\n")
+    # Kapak bloğu kendi ayracıyla biter. Belgeler özetin ardından ayraçla
+    # devam ettiği için gövdenin ilk ögesi de bir ayraçtı ve PDF'te özetin
+    # hemen altında iki çizgi alt alta çıkıyordu; baştaki ayraç düşürülür.
+    govde = yeni.lstrip(chr(10))
+    return re.sub("^-{3,}[ 	]*" + chr(10), "", govde, count=1).lstrip(chr(10))
 
 
 def pdf_yaz(md_yolu: Path, hedef: Path, baslik: str, ozet: str, en: bool,
