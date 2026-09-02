@@ -40,6 +40,7 @@ yayımlarsınız.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import sys
@@ -247,12 +248,15 @@ def main() -> None:
         print(f"    taslak oluşturuldu: {dep['id']}")
 
     bucket = dep["links"]["bucket"]
-    # Taslakta aynı ad ve boyutta duran dosya yeniden gönderilmez. Zenodo zaman
-    # zaman 504 veriyor ve yükleme yarıda kalıyor; --taslak ile devam edildiğinde
-    # kalanı yüklemek yeter, tamamını yeniden göndermek gerekmez.
-    duran = {f["filename"]: f.get("filesize") for f in dep.get("files", [])}
+    # Taslakta aynı içerikle duran dosya yeniden gönderilmez. Zenodo zaman zaman
+    # 504 veriyor ve yükleme yarıda kalıyor; --taslak ile devam edildiğinde
+    # kalanı yüklemek yeter. Ölçüt boyut DEĞİL md5'tir: yeni sürüm taslağı önceki
+    # sürümün dosyalarını devralıyor ve PDF'ler yalnız kapak tarihinde ayrıldığında
+    # boyut aynı kalabiliyor — boyuta bakan bir denetim eski nüshayı yayımlatırdı.
+    duran = {f["filename"]: (f.get("checksum") or "").replace("md5:", "")
+             for f in dep.get("files", [])}
     for yol in yuklenecek:
-        if duran.get(yol.name) == yol.stat().st_size:
+        if duran.get(yol.name) == hashlib.md5(yol.read_bytes()).hexdigest():
             print(f"      duruyor   {yol.name:24} {olcu(yol)}")
             continue
         dosya_yukle(bucket, yol)
