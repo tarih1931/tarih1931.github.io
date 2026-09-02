@@ -1,4 +1,4 @@
-# Resmî tarih kitaplarında din, vahiy ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırması (öz)
+# Resmî tarih kitaplarında din, vahiy ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırması
 
 **Prof. Dr. Muhammed Fatih Talu**
 
@@ -6,7 +6,7 @@
 [*Tarih II*](https://kutuphane.ttk.gov.tr/resource?itemId=267295&dkymId=6416) (1931),
 Maarif Vekâleti emriyle basılan ve liselerde on bir yıl okutulan resmî ders kitaplarıdır; geçmişi anlatmakla kalmaz, dinin ve vahyin kaynağı hakkında da hüküm verirler. İnceleme, kitapların din bahsini taşıyan iki bölümünü — *Tarih I*'in "Beşer Tarihine Giriş" ve *Tarih II*'nin "İslâm Tarihi" bölümlerini — bütünüyle okumuş; din, vahiy, nübüvvet, yaratılış, cin ve melek, Kâbe ve ahkâm hakkında hüküm bildiren öğretileri Kur'an öğretileriyle karşılaştırmıştır. Kitaplarda **vahyin ilâhî kaynağı** hiçbir yerde kitabın kendi sesiyle tasdik edilmez, hep "İslâm an'anesinde (…) kabul olunur" gibi bir nakil kaydına havale edilir. Beşerî izah ise kitabın kendi sesiyle ve çoğu yerde kayıtsız verilir. Buna göre kitaplarda **Allah'tan gelen dinin yerine insan kökenli din anlayışı, vahyin yerine beşerî tefekkür, peygamberlik yerine din kuruculuğu ve yaratılışın yerine tabiat merkezli açıklama** konmaktadır. İncelemenin temel iddiası, bu resmî anlatı ile Kur'an arasındaki ayrılığın ayrıntıda değil **itikadî temelde** bulunduğudur. Bütün alıntılar künyelerindeki sayfada makine ile doğrulanmıştır.
 
-*Bu, incelemenin öz metnidir; kapsamlı hâli için [tıklayınız](https://tarih1931.github.io/inceleme-kapsamli.html).*
+*Bu, incelemenin öz metnidir; kapsamlı metin için [tıklayınız](https://tarih1931.github.io/inceleme-kapsamli.html).*
 
 ---
 

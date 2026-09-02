@@ -172,7 +172,7 @@ def card() -> str:
         "İncelemenin okunabilir metni sitede durur; aşağıdaki config'ler onun",
         "makine-okunabilir parçalarıdır.",
         "",
-        f"- Türkçe, öz hâli: {BASE_URL}/inceleme.html",
+        f"- Türkçe, öz metin: {BASE_URL}/inceleme.html",
         f"- Türkçe, kapsamlı metin (delillerin tamamı, atıf bu metnedir): "
         f"{BASE_URL}/inceleme-kapsamli.html",
     ]

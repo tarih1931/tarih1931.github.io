@@ -187,7 +187,7 @@ def inceleme_kunyesi() -> dict:
             "<p>"
             f'DOI: <a href="https://doi.org/{inc.get("doi", "")}">https://doi.org/{inc.get("doi", "")}</a><br>'
             f'Çevrimiçi sürüm: <a href="{BASE_URL}/inceleme-kapsamli.html">{BASE_URL}/inceleme-kapsamli.html</a> &middot; <a href="{BASE_URL}/review.html">English</a><br>'
-            f'Aynı incelemenin öz hâli: <a href="{BASE_URL}/inceleme.html">{BASE_URL}/inceleme.html</a><br>'
+            f'Aynı incelemenin öz metni: <a href="{BASE_URL}/inceleme.html">{BASE_URL}/inceleme.html</a><br>'
             f'Ekler (Ek A/B/C/D): <a href="{BASE_URL}/inceleme-ekler.html">{BASE_URL}/inceleme-ekler.html</a> &middot; <a href="{BASE_URL}/review-appendices.html">English</a></p>'
             "<p>İncelemenin dayandığı düzeltilmiş metin ve korpus: "
             f'<a href="https://doi.org/{COLL.get("doi", "")}">https://doi.org/{COLL.get("doi", "")}</a><br>'

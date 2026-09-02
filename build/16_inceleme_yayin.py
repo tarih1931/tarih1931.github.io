@@ -14,7 +14,7 @@ Pakette ne var:
 
   inceleme-tr.md    asıl belge (kanonik biçim) — kapsamlı metin
   inceleme-en.md    İngilizce sürüm
-  inceleme-oz-tr.md incelemenin öz hâli; sitenin giriş sayfasını besler
+  inceleme-oz-tr.md incelemenin öz metni; sitenin giriş sayfasını besler
   inceleme-ekler-tr.md / -en.md   ekler (Ek A/B/C/D), iki dilde
   bulgular.jsonl    alıntılar (doğrulama damgalı) ve bulgular (dayanakları kayıtlı)
   inceleme-tr.pdf   Google Scholar PDF ayrıştırır; .md'yi ayrıştırmaz
@@ -126,11 +126,13 @@ code {font-size: 9.5pt;}
 .r-ayet {color: #177a3f;}
 .r-bulgu {color: #b3231e;}
 .kapak {font-size: 10pt; margin-top: 10pt;}
+.tur {font-size: 8.5pt; color: #7a4a2b; font-weight: bold; margin: 0 0 2pt 0;}
 hr {margin: 8pt 0;}
 """
 
 
-def kapak(baslik: str, ozet: str, en: bool, sayfa: str = "", kunye: bool = True) -> str:
+def kapak(baslik: str, ozet: str, en: bool, sayfa: str = "", kunye: bool = True,
+          tur: str = "") -> str:
     """PDF kapağı: başlık, yazar, tarih, özet ve (isteğe bağlı) künye bloğu.
 
     Künye bloğu — kaynak DOI'si, çevrimiçi adres, makine-okunabilir iddialar,
@@ -139,7 +141,8 @@ def kapak(baslik: str, ozet: str, en: bool, sayfa: str = "", kunye: bool = True)
     için vardır ve künye satırları onu özetin hemen ardında kesiyordu."""
     e = lambda tr, ing: ing if en else tr  # noqa: E731
     bas = (
-        f"<h1>{baslik}</h1>"
+        (f'<p class="tur">{tur}</p>' if tur else "")
+        + f"<h1>{baslik}</h1>"
         f'<p class="kapak"><b>{YAZAR}</b><br>{TODAY}</p>'
         f'<p class="kapak"><b>{e("Özet", "Abstract")}.</b> {ozet}</p>'
     )
@@ -194,12 +197,12 @@ def pdf_govdesi(md: str, etiket: str) -> str:
 
 
 def pdf_yaz(md_yolu: Path, hedef: Path, baslik: str, ozet: str, en: bool,
-            sayfa: str = "", kunye: bool = True) -> None:
+            sayfa: str = "", kunye: bool = True, tur: str = "") -> None:
     import pymupdf
 
     ham = pdf_govdesi(md_yolu.read_text(encoding="utf-8"),
                       "Abstract" if en else "Özet")
-    govde = kapak(baslik, ozet, en, sayfa, kunye) + md_to_html(ham)
+    govde = kapak(baslik, ozet, en, sayfa, kunye, tur) + md_to_html(ham)
     story = pymupdf.Story(
         html=f"<body>{govde}</body>",
         archive=pymupdf.Archive(r"C:\Windows\Fonts"),
@@ -304,7 +307,7 @@ def zenodo_kunyesi() -> dict:
             f'<p>Çevrimiçi sürüm: <a href="{BASE_URL}/inceleme-kapsamli.html">'
             f'{BASE_URL}/inceleme-kapsamli.html</a> '
             f'(İngilizcesi: <a href="{BASE_URL}/review.html">/review.html</a>)</p>'
-            f'<p>Aynı incelemenin öz hâli: <a href="{BASE_URL}/inceleme.html">'
+            f'<p>Aynı incelemenin öz metni: <a href="{BASE_URL}/inceleme.html">'
             f'{BASE_URL}/inceleme.html</a></p>'
             f'<p>Ekler (Ek A/B/C/D): <a href="{BASE_URL}/inceleme-ekler.html">/inceleme-ekler.html</a> '
             f'(English: <a href="{BASE_URL}/review-appendices.html">/review-appendices.html</a>)</p>'
@@ -357,11 +360,12 @@ def main() -> None:
     if bulgular.exists():
         shutil.copy2(bulgular, OUT / "bulgular.jsonl")
 
-    pdf_yaz(tr_md, OUT / "inceleme-tr.pdf", BASLIK_TR, ozet_html(HAM_TR), en=False)
+    pdf_yaz(tr_md, OUT / "inceleme-tr.pdf", BASLIK_TR, ozet_html(HAM_TR), en=False,
+            tur="Kapsamlı metin")
     if OZ_MD.exists():
         pdf_yaz(OZ_MD, OUT / "inceleme-oz-tr.pdf", BASLIK_OZ,
                 ozet_html(ozet_ham(OZ_MD, "Özet")), en=False, sayfa="inceleme.html",
-                kunye=False)
+                kunye=False, tur="Öz metin")
     if EK_MD.exists():
         pdf_yaz(EK_MD, OUT / "inceleme-ekler-tr.pdf", f"{BASLIK_TR} — Ekler",
                 ozet_html(ozet_ham(EK_MD, "Özet")), en=False)

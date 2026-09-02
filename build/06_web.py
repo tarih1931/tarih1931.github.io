@@ -171,6 +171,9 @@ a{color:var(--acc)}
 h1{font-size:1.6rem;line-height:1.3;margin:.2rem 0 .5rem}
 h2{font-size:1.15rem;margin:2rem 0 .6rem;color:var(--acc)}
 .meta{color:var(--mut);font-size:.86rem;line-height:1.55}
+/* Belge türü etiketi: başlığın üstünde, iki metni ilk bakışta ayırır. */
+.tur{color:var(--acc);font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;
+ font-weight:600;margin:0 0 .1rem}
 .cite{background:var(--card);border:1px solid var(--bd);border-left:3px solid var(--acc);
  padding:.65rem .85rem;margin:1.1rem 0;font-size:.85rem;color:var(--mut);border-radius:3px}
 .cite b{color:var(--fg)}
@@ -854,9 +857,9 @@ def katlanabilir(govde: str) -> str:
 
 
 def build_review_page(oz: bool) -> str:
-    """İnceleme sayfaları: inceleme.html (öz) ve inceleme-kapsamli.html.
+    """İnceleme sayfaları: inceleme.html (öz metin) ve inceleme-kapsamli.html.
 
-    inceleme.html incelemenin öz hâlidir ve okuyucunun giriş sayfasıdır;
+    inceleme.html incelemenin öz metnidir ve okuyucunun giriş sayfasıdır;
     kapsamlı sayfa bütün delil aygıtını taşır. Akademik kimlik — Scholar
     etiketleri, DOI'nin JSON-LD kimliği, İngilizce hreflang eşi — kapsamlı
     sayfadadır: Zenodo kaydıyla ve İngilizce çeviriyle birebir örtüşen metin
@@ -871,6 +874,8 @@ def build_review_page(oz: bool) -> str:
     pdf = REVIEW_OZ_PDF if oz else REVIEW_PDF
     body: list[str] = []
     toc: list[tuple[int, str, str]] = []
+    # İki belgenin başlığı aynı; hangisi olduğunu başlığın üstündeki etiket söyler.
+    body.append(f'<p class="tur">{"Öz metin" if oz else "Kapsamlı metin"}</p>')
     body.append(katlanabilir(md_to_html(md.read_text(encoding="utf-8"), toc)))
     # Sayfanın başındaki kutu kaldırıldığı için PDF, İngilizce sürüm ve bulgular
     # gövdede hiçbir yerden bağlantı almıyordu: dosyalar sitemap ve
@@ -884,7 +889,7 @@ def build_review_page(oz: bool) -> str:
     if pdf.exists():
         ust.append(f'<a href="{ad}.pdf">PDF</a>')
     ust.append('<a href="inceleme-kapsamli.html">Kapsamlı metin</a>' if oz
-               else '<a href="inceleme.html">İnceleme (öz)</a>')
+               else '<a href="inceleme.html">Öz metin</a>')
     if REVIEW_EN_MD.exists():
         ust.append('<a href="review.html">English version</a>')
     if REVIEW_EMAIL:
@@ -949,7 +954,7 @@ def build_review_annex_page() -> str:
     toc: list[tuple[int, str, str]] = []
     body = [katlanabilir(md_to_html(REVIEW_ANNEX_MD.read_text(encoding="utf-8"), toc))]
     # Ekler kapsamlı metnin aygıtıdır; "ana metin" bağı da oraya gider.
-    alt = ['<a href="inceleme-kapsamli.html">İncelemenin ana metni</a>']
+    alt = ['<a href="inceleme-kapsamli.html">Kapsamlı metin</a>']
     if REVIEW_ANNEX_EN_MD.exists():
         alt.append('<a href="review-appendices.html">English version</a>')
     alt.append('<a href="inceleme-ekler.md">ham Markdown</a>')
@@ -1400,7 +1405,7 @@ def build_llms_full(all_rows: dict[str, list[dict]]) -> str:
         L.append(
             "Aşağıdaki inceleme yukarıdaki metnin bir parçası değildir; 1931 metni üzerine "
             f"yapılmış, {RIGHTS['derived_dataset_license']} ile yayımlanmış ayrı bir çalışmadır. "
-            f"Buradaki kapsamlı metnin öz hâli {BASE_URL}/inceleme.html adresindedir."
+            f"Buradaki kapsamlı metnin öz metni {BASE_URL}/inceleme.html adresindedir."
         )
         L.append("")
         L.append(REVIEW_FULL_MD.read_text(encoding="utf-8").strip())

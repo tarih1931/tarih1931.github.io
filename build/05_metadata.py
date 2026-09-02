@@ -530,7 +530,7 @@ def zenodo_json() -> dict:
             "işaretlidir.</p>"
             "<p><strong>İnceleme.</strong> Yükleme, bu bölümler üzerine yapılmış bir "
             "karşılaştırmalı incelemeyi içerir (<code>docs/inceleme-kapsamli.md</code>, "
-            "öz hâli <code>docs/inceleme.md</code>): "
+            "öz metin <code>docs/inceleme.md</code>): "
             "1931 resmî tarih öğretisi ile İslam itikadının eksen eksen karşılaştırması. Her "
             "iddia sayfa künyeli birebir alıntıyla belgelenmiş, güç derecesiyle işaretlenmiş; "
             "metnin desteklemediği çıkarımlar ayrı bir bölümde açıkça listelenmiştir. "
