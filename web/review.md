@@ -1,4 +1,4 @@
-# Religion, revelation and prophethood in the official history textbooks: a text-based comparison of Tarih I and Tarih II (1931) with the Qur'an
+# A Comparison of the Narratives in Turkey's 1931–1941 High School History Textbooks with the Qur'an
 
 **Prof. Dr. Muhammed Fatih Talu**
 

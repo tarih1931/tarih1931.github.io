@@ -1,4 +1,4 @@
-# Religion, revelation and prophethood in the official history textbooks — Appendices
+# A Comparison of the Narratives in Turkey's 1931–1941 High School History Textbooks with the Qur'an — Appendices
 
 **Prof. Dr. Muhammed Fatih Talu**
 

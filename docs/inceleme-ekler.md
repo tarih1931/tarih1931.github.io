@@ -1,4 +1,4 @@
-# Resmî tarih kitaplarında din, vahiy ve nübüvvet — Ekler
+# 1931–1941 Dönemi Lise Tarih Ders Kitaplarındaki Anlatıların Kur'an ile Karşılaştırılması — Ekler
 
 **Prof. Dr. Muhammed Fatih Talu**
 

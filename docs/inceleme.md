@@ -1,4 +1,4 @@
-# Resmî tarih kitaplarında din, vahiy ve nübüvvet: Tarih I ve Tarih II'nin (1931) Kur'an ile metne bağlı karşılaştırması
+# 1931–1941 Dönemi Lise Tarih Ders Kitaplarındaki Anlatıların Kur'an ile Karşılaştırılması
 
 **Prof. Dr. Muhammed Fatih Talu**
 
