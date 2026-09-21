@@ -253,8 +253,13 @@ def main() -> None:
     # kalanı yüklemek yeter. Ölçüt boyut DEĞİL md5'tir: yeni sürüm taslağı önceki
     # sürümün dosyalarını devralıyor ve PDF'ler yalnız kapak tarihinde ayrıldığında
     # boyut aynı kalabiliyor — boyuta bakan bir denetim eski nüshayı yayımlatırdı.
+    # Harita taslağın CANLI hâlinden kurulur, elimizdeki anlık görüntüden değil:
+    # yeni sürüm yolunda devralınan dosyalar hemen yukarıda siliniyor ve eski
+    # görüntüye bakan bir denetim, içeriği değişmeyen bir dosyayı "duruyor" sayıp
+    # atlıyordu. bulgular.jsonl bu yüzden bir taslakta hiç yüklenmeden kalmıştı.
+    guncel = istek(f"/deposit/depositions/{dep['id']}")
     duran = {f["filename"]: (f.get("checksum") or "").replace("md5:", "")
-             for f in dep.get("files", [])}
+             for f in guncel.get("files", [])}
     for yol in yuklenecek:
         if duran.get(yol.name) == hashlib.md5(yol.read_bytes()).hexdigest():
             print(f"      duruyor   {yol.name:24} {olcu(yol)}")
