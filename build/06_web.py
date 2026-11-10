@@ -1571,6 +1571,16 @@ def main() -> None:
         if REVIEW_EN_PDF.exists():
             urls.append((f"{BASE_URL}/review.pdf", "0.9"))
 
+    # Kart serisi: incelemenin eksen karşılaştırmalarından 16 görsel kart,
+    # kitap gibi sayfa çevrilerek okunur. Sayfa ve dosyaları kartlar/ altında
+    # hazır durur (üretimi: kartlar/OKU.md); web/ her üretimde sıfırdan
+    # kurulduğu için buradan kopyalanır.
+    kartlar = ROOT / "kartlar"
+    if (kartlar / "kartlar.html").exists():
+        shutil.copy2(kartlar / "kartlar.html", WEB_DIR / "kartlar.html")
+        shutil.copytree(kartlar / "dosyalar", WEB_DIR / "kartlar", dirs_exist_ok=True)
+        urls.append((f"{BASE_URL}/kartlar.html", "0.9"))
+
     # Doğrulanmış alt korpus, tek dosyada indirilebilir olmalı: yalnız elle
     # düzeltilmiş metni isteyen bir model 954 sayfayı taramak zorunda kalmasın.
     dz = WEB_DIR / "duzeltilmis"
