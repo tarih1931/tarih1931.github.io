@@ -75,6 +75,9 @@ REVIEW_FULL_MD = ROOT / "docs" / "inceleme-kapsamli.md"
 # Kaynak dosyanın adı depoda REVIEW-EN.md kalır; sitede sunulan ad
 # review.md'dir — sayfa review.html, PDF review.pdf, ham metin review.md.
 REVIEW_EN_MD = ROOT / "docs" / "REVIEW-EN.md"
+# İncelemenin kart serisi (kartlar.html): eksen karşılaştırmalarının 16 görsel
+# kartı, hazır sayfa ve dosyalarıyla bu klasörde durur; bkz. kartlar/OKU.md.
+KARTLAR_DIR = ROOT / "kartlar"
 # İncelemenin ekleri (Ek A/B/C) ayrı bir belgedir: ana metni okunur tutar,
 # dayanakları isteyen okuyucu bağlantıdan ulaşır.
 REVIEW_ANNEX_MD = ROOT / "docs" / "inceleme-ekler.md"
@@ -539,6 +542,14 @@ def build_home(all_rows: dict[str, list[dict]]) -> str:
            'ayrı sayfadadır.' if REVIEW_FULL_MD.exists() else "")
         + '</li>'
     )
+    # Kart serisi, incelemeyi okumaya vakit ayırmayan okuyucunun girişidir:
+    # ana sayfadan tek adımda ulaşılabilsin.
+    if (KARTLAR_DIR / "kartlar.html").exists():
+        body.append(
+            '<li><a href="kartlar.html">İncelemenin kart serisi</a> — eksen eksen '
+            'karşılaştırmaların özü 16 görsel kartta; sayfaları kitap gibi çevrilerek okunur '
+            '<span class="pill">PDF</span></li>'
+        )
     body.append("</ul>")
     body.append("<h2>Kaynak</h2>")
     body.append(
@@ -875,7 +886,14 @@ def build_review_page(oz: bool) -> str:
     body: list[str] = []
     toc: list[tuple[int, str, str]] = []
     # İki belgenin başlığı aynı; hangisi olduğunu başlığın üstündeki etiket söyler.
-    body.append(f'<p class="tur">{"Öz metin" if oz else "Kapsamlı metin"}</p>')
+    # Öz metnin etiketi kart serisine de bağlanır: sayfa metinle başlar, bağlantı
+    # ayrı bir kutu açmadan etiket satırında durur.
+    kartlar = oz and (KARTLAR_DIR / "kartlar.html").exists()
+    body.append(
+        f'<p class="tur">{"Öz metin" if oz else "Kapsamlı metin"}'
+        + (' · <a href="kartlar.html">16 kartta özet</a>' if kartlar else "")
+        + "</p>"
+    )
     body.append(katlanabilir(md_to_html(md.read_text(encoding="utf-8"), toc)))
     # Sayfanın başındaki kutu kaldırıldığı için PDF, İngilizce sürüm ve bulgular
     # gövdede hiçbir yerden bağlantı almıyordu: dosyalar sitemap ve
@@ -890,6 +908,8 @@ def build_review_page(oz: bool) -> str:
         ust.append(f'<a href="{ad}.pdf">PDF</a>')
     ust.append('<a href="inceleme-kapsamli.html">Kapsamlı metin</a>' if oz
                else '<a href="inceleme.html">Öz metin</a>')
+    if kartlar:
+        ust.append('<a href="kartlar.html">Kartlar</a>')
     if REVIEW_EN_MD.exists():
         ust.append('<a href="review.html">English version</a>')
     if REVIEW_EMAIL:
@@ -1575,10 +1595,9 @@ def main() -> None:
     # kitap gibi sayfa çevrilerek okunur. Sayfa ve dosyaları kartlar/ altında
     # hazır durur (üretimi: kartlar/OKU.md); web/ her üretimde sıfırdan
     # kurulduğu için buradan kopyalanır.
-    kartlar = ROOT / "kartlar"
-    if (kartlar / "kartlar.html").exists():
-        shutil.copy2(kartlar / "kartlar.html", WEB_DIR / "kartlar.html")
-        shutil.copytree(kartlar / "dosyalar", WEB_DIR / "kartlar", dirs_exist_ok=True)
+    if (KARTLAR_DIR / "kartlar.html").exists():
+        shutil.copy2(KARTLAR_DIR / "kartlar.html", WEB_DIR / "kartlar.html")
+        shutil.copytree(KARTLAR_DIR / "dosyalar", WEB_DIR / "kartlar", dirs_exist_ok=True)
         urls.append((f"{BASE_URL}/kartlar.html", "0.9"))
 
     # Doğrulanmış alt korpus, tek dosyada indirilebilir olmalı: yalnız elle
